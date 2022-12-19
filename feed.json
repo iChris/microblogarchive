@@ -7,10 +7,82 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2022/12/19/a-fun-little.html",
+				
+				"content_html": "<p>A fun little project for the holiday break perhaps: <a href=\"https://www.zachleat.com/web/tweetback/\">Archive your tweets with Tweetback</a>.</p>\n<p>Zack Leatherman with the nerdy fun, turning it up to 11(ty) again.</p>\n",
+				"content_text": "A fun little project for the holiday break perhaps: [Archive your tweets with Tweetback](https://www.zachleat.com/web/tweetback/).\n\nZack Leatherman with the nerdy fun, turning it up to 11(ty) again.\n",
+				"date_published": "2022-12-19T10:20:17-06:00",
+				"url": "https://microblog.chrisenns.com/2022/12/19/a-fun-little.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2022/12/18/imho-its-always.html",
+				
+				"content_html": "<p>IMHO it’s always a more interesting final game if one team gets a goal early. Except as I’m typing this, Argentina scored their second goal. #WorldCup2022 ⚽️</p>\n",
+				"content_text": "IMHO it’s always a more interesting final game if one team gets a goal early. Except as I’m typing this, Argentina scored their second goal. #WorldCup2022 ⚽️\n",
+				"date_published": "2022-12-18T09:37:44-06:00",
+				"url": "https://microblog.chrisenns.com/2022/12/18/imho-its-always.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2022/12/17/ai-manga-me.html",
+				
+				"content_html": "<p>AI Manga me.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "AI Manga me. \n\n<img src=\"uploads/2022/d2ee3bef20.jpg\" width=\"337\" height=\"600\" alt=\"An AI generated portrait of me on the bottom, with the photo it was based on above. \">\n",
+				"date_published": "2022-12-17T15:00:00-06:00",
+				"url": "https://microblog.chrisenns.com/2022/12/17/ai-manga-me.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2022/12/16/noelle.html",
+				"title": "Noelle, 2019 - ★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/3/8/6/5/4/3/386543-noelle-0-600-0-900-crop.jpg?v=e2897ea1d6\"/></p> <p>Watched on Friday December 16, 2022.</p>\n",
+				"date_published": "2022-12-16T18:36:06-06:00",
+				"url": "https://microblog.chrisenns.com/2022/12/16/noelle.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2022/12/16/breaking-my-attempt.html",
+				
+				"content_html": "<p>Breaking my attempt to avoid trailers for movies I already know I want to see and watched the Barbie trailer. Glad to see it really doesn&rsquo;t ruin anything and is just a fun send up.</p>\n",
+				"content_text": "Breaking my attempt to avoid trailers for movies I already know I want to see and watched the Barbie trailer. Glad to see it really doesn't ruin anything and is just a fun send up.\n",
+				"date_published": "2022-12-16T12:58:19-06:00",
+				"url": "https://microblog.chrisenns.com/2022/12/16/breaking-my-attempt.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2022/12/15/im-a-sucker.html",
+				
+				"content_html": "<p>I&rsquo;m a sucker for year in review from apps - especially if they aren&rsquo;t music based: <a href=\"https://chrisenns.com/2022/12/Raycast-Wrapped-2022/\">Raycast Wrapped 2022</a>.</p>\n",
+				"content_text": "I'm a sucker for year in review from apps - especially if they aren't music based: [Raycast Wrapped 2022](https://chrisenns.com/2022/12/Raycast-Wrapped-2022/).\n",
+				"date_published": "2022-12-15T16:02:59-06:00",
+				"url": "https://microblog.chrisenns.com/2022/12/15/im-a-sucker.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2022/12/15/in-preparation-for.html",
+				
+				"content_html": "<p>In preparation for Sunday&rsquo;s World Cup ⚽ final, <a href=\"https://www.youtube.com/watch?v=tfIc6i0II_s\">check out the highlights of France vs Argentina from 2018</a>. No spoilers ;) but it finished 4-3 so there&rsquo;s plenty of goal scoring in the highlights.</p>\n",
+				"content_text": "In preparation for Sunday's World Cup ⚽ final, [check out the highlights of France vs Argentina from 2018](https://www.youtube.com/watch?v=tfIc6i0II_s). No spoilers ;) but it finished 4-3 so there's plenty of goal scoring in the highlights.\n",
+				"date_published": "2022-12-15T09:45:11-06:00",
+				"url": "https://microblog.chrisenns.com/2022/12/15/in-preparation-for.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2022/12/15/my-watch-has.html",
+				
+				"content_html": "<p>My Watch has noticed a change in my activity levels from last month when I was in Mazatlan and 25C to now being home in -20C. Weird. 😆 🥶</p>\n",
+				"content_text": "My Watch has noticed a change in my activity levels from last month when I was in Mazatlan and 25C to now being home in -20C. Weird. 😆 🥶 \n",
+				"date_published": "2022-12-15T08:10:43-06:00",
+				"url": "https://microblog.chrisenns.com/2022/12/15/my-watch-has.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2022/12/14/i-knew-hockey.html",
+				
+				"content_html": "<p>I knew hockey was popular around here, but until we put a kid in minor hockey, I had no idea how many indoor rinks there are in Saskatoon. 3 months in and we&rsquo;re practicing at yet another &ldquo;new&rdquo; to me rink tonight.</p>\n",
+				"content_text": "I knew hockey was popular around here, but until we put a kid in minor hockey, I had no idea how many indoor rinks there are in Saskatoon. 3 months in and we're practicing at yet another \"new\" to me rink tonight.\n",
+				"date_published": "2022-12-14T15:28:55-06:00",
+				"url": "https://microblog.chrisenns.com/2022/12/14/i-knew-hockey.html"
+			},
+			{
 				"id": "http://ichris.micro.blog/2022/12/13/since-updating-to.html",
 				
 				"content_html": "<p>Since updating to macOS Ventura, I&rsquo;ve noticed that macOS must keep pinging periodically for an iPhone nearby that it can use with the Continuity camera feature because I keep getting this dialogue box in Logic Pro. Easy enough to disable, just interesting.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Since updating to macOS Ventura, I've noticed that macOS must keep pinging periodically for an iPhone nearby that it can use with the Continuity camera feature because I keep getting this dialogue box in Logic Pro. Easy enough to disable, just interesting.\n\n<img src=\"uploads/2022/feee58378d.png\" width=\"600\" height=\"548\" alt=\"Logic Pro dialogue box asking if I want to use an audio device “Lemon Microphone” as an input. (Lemon is the name of my iPhone)\">\n",
+				"content_text": "Since updating to macOS Ventura, I've noticed that macOS must keep pinging periodically for an iPhone nearby that it can use with the Continuity camera feature because I keep getting this dialogue box in Logic Pro. Easy enough to disable, just interesting.\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/feee58378d.png\" width=\"600\" height=\"548\" alt=\"Logic Pro dialogue box asking if I want to use an audio device “Lemon Microphone” as an input. (Lemon is the name of my iPhone)\">\n",
 				"date_published": "2022-12-13T13:10:36-06:00",
 				"url": "https://microblog.chrisenns.com/2022/12/13/since-updating-to.html"
 			},
@@ -26,7 +98,7 @@
 				"id": "http://ichris.micro.blog/2022/12/12/figuring-out-some.html",
 				
 				"content_html": "<p>Figuring out some new recording gear. 😜 🥅</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Figuring out some new recording gear. 😜 🥅 \n\n<img src=\"uploads/2022/1b1ea8ae29.jpg\" width=\"450\" height=\"600\" alt=\"A hockey rink’s scoreboard computer. Designed and built in the late 90’s perhaps?\">\n",
+				"content_text": "Figuring out some new recording gear. 😜 🥅 \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/1b1ea8ae29.jpg\" width=\"450\" height=\"600\" alt=\"A hockey rink’s scoreboard computer. Designed and built in the late 90’s perhaps?\">\n",
 				"date_published": "2022-12-12T21:21:50-06:00",
 				"url": "https://microblog.chrisenns.com/2022/12/12/figuring-out-some.html"
 			},
@@ -42,7 +114,7 @@
 				"id": "http://ichris.micro.blog/2022/12/12/if-you-want.html",
 				
 				"content_html": "<p>If you want to make it seem like you shovelled a lot more snow than you did, just take a pic for a very low angle so the perspective is all wonky. 💪🏽 😪 😆</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "If you want to make it seem like you shovelled a lot more snow than you did, just take a pic for a very low angle so the perspective is all wonky. 💪🏽 😪 😆 \n\n<img src=\"uploads/2022/58042fba41.jpg\" width=\"600\" height=\"393\" alt=\"An inch of snow on the ground taken from a very low angle so as to make it look much bigger than it is. \">\n",
+				"content_text": "If you want to make it seem like you shovelled a lot more snow than you did, just take a pic for a very low angle so the perspective is all wonky. 💪🏽 😪 😆 \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/58042fba41.jpg\" width=\"600\" height=\"393\" alt=\"An inch of snow on the ground taken from a very low angle so as to make it look much bigger than it is. \">\n",
 				"date_published": "2022-12-12T13:32:40-06:00",
 				"url": "https://microblog.chrisenns.com/2022/12/12/if-you-want.html"
 			},
