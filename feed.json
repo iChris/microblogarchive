@@ -7,6 +7,102 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2023/01/05/i-fired-up.html",
+				
+				"content_html": "<p>I fired up Twitter to figure out how I wanted to remove past tweets and archive my account, only to be connected via a recommendation to a potential client. As much as I want to 💩on the bird place, it has given me connections to most of my current and past #podcast clients.</p>\n",
+				"content_text": "I fired up Twitter to figure out how I wanted to remove past tweets and archive my account, only to be connected via a recommendation to a potential client. As much as I want to 💩on the bird place, it has given me connections to most of my current and past #podcast clients.\n",
+				"date_published": "2023-01-05T12:53:17-06:00",
+				"url": "https://microblog.chrisenns.com/2023/01/05/i-fired-up.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/01/04/harry-potter-and.html",
+				"title": "Harry Potter and the Deathly Hallows: Part 2, 2011 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/4/5/8/0/44580-harry-potter-and-the-deathly-hallows-part-2-0-600-0-900-crop.jpg?v=66f3769773\"/></p> <p>Watched on Wednesday January 4, 2023.</p>\n",
+				"date_published": "2023-01-04T23:08:19-06:00",
+				"url": "https://microblog.chrisenns.com/2023/01/04/harry-potter-and.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/01/04/happy-old-fashioned.html",
+				
+				"content_html": "<p>Happy old fashioned happy hour to those celebrating. AMA while I edit this podcast. <a href=\"https://ngl.link/lemonpodcasting\">ngl.link/lemonpodc&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Happy old fashioned happy hour to those celebrating. AMA while I edit this podcast. [ngl.link/lemonpodc...](https://ngl.link/lemonpodcasting)\n\n<img src=\"uploads/2023/a3c06010f1.jpg\" width=\"450\" height=\"600\" alt=\"BeReal of me having an old fashioned drink with a computer monitor showing Logic Pro tracks from a podcast. \">\n",
+				"date_published": "2023-01-04T17:09:47-06:00",
+				"url": "https://microblog.chrisenns.com/2023/01/04/happy-old-fashioned.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/01/04/finished-reading-us.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781501160813\">Us Against You</a> by Fredrik Backman 📚</p>\n",
+				"content_text": "Finished reading: [Us Against You](https://micro.blog/books/9781501160813) by Fredrik Backman 📚\n",
+				"date_published": "2023-01-04T04:34:12-06:00",
+				"url": "https://microblog.chrisenns.com/2023/01/04/finished-reading-us.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/01/02/a-new-tradition.html",
+				
+				"content_html": "<p>A new tradition I&rsquo;m starting this year: doing my 🍋 business' accounting catch up for the previous year while watching the World Junior Hockey Championships. #WorldJuniors2023</p>\n",
+				"content_text": "A new tradition I'm starting this year: doing my 🍋 business' accounting catch up for the previous year while watching the World Junior Hockey Championships. #WorldJuniors2023\n",
+				"date_published": "2023-01-02T19:18:56-06:00",
+				"url": "https://microblog.chrisenns.com/2023/01/02/a-new-tradition.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/01/02/im-motivating-myself.html",
+				
+				"content_html": "<p>I&rsquo;m motivating myself to get back into work brain (slowly) by tackling month end invoicing (Hello Jan 2nd!) while simultaneously <a href=\"https://www.rtings.com/tv/reviews/best/by-size/65-inch\">shopping for a new TV I don&rsquo;t need but want</a>.</p>\n",
+				"content_text": "I'm motivating myself to get back into work brain (slowly) by tackling month end invoicing (Hello Jan 2nd!) while simultaneously [shopping for a new TV I don't need but want](https://www.rtings.com/tv/reviews/best/by-size/65-inch). \n",
+				"date_published": "2023-01-02T12:31:22-06:00",
+				"url": "https://microblog.chrisenns.com/2023/01/02/im-motivating-myself.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/01/02/us-against-you.html",
+				
+				"content_html": "<p><a href=\"https://micro.blog/books/9781501160813\">Us Against You</a> by Fredrik Backman is deceptively intense. I’m half way through and there’s a ticking bomb just beneath the top level story waiting to go off. (It’s the follow up to the fantastic “Beartown”.📚</p>\n",
+				"content_text": "[Us Against You](https://micro.blog/books/9781501160813) by Fredrik Backman is deceptively intense. I’m half way through and there’s a ticking bomb just beneath the top level story waiting to go off. (It’s the follow up to the fantastic “Beartown”.📚\n",
+				"date_published": "2023-01-02T10:33:21-06:00",
+				"url": "https://microblog.chrisenns.com/2023/01/02/us-against-you.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/01/02/glass-onion-a.html",
+				"title": "Glass Onion: A Knives Out Mystery, 2022 - ★★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/8/6/7/2/3/586723-glass-onion-a-knives-out-mystery-0-600-0-900-crop.jpg?v=ce7ed2a83f\"/></p> <p>Watched on Sunday January 1, 2023.</p>\n",
+				"date_published": "2023-01-02T00:23:15-06:00",
+				"url": "https://microblog.chrisenns.com/2023/01/02/glass-onion-a.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/01/02/puss-in-boots.html",
+				"title": "Puss in Boots: The Last Wish, 2022 - ★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/2/4/2/2/8/5/242285-puss-in-boots-the-last-wish-0-600-0-900-crop.jpg?v=808b7e7fc0\"/></p> <p>Watched on Saturday December 31, 2022.</p>\n",
+				"date_published": "2023-01-02T00:22:55-06:00",
+				"url": "https://microblog.chrisenns.com/2023/01/02/puss-in-boots.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/01/01/today-in-why.html",
+				
+				"content_html": "<p>Today in “Why is my #FinalCutPro playback so terrible?” - a reminder to choose “Proxy Preferred” in your viewer if you’ve gone to the trouble of rendering proxy media.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Today in “Why is my #FinalCutPro playback so terrible?” - a reminder to choose “Proxy Preferred” in your viewer if you’ve gone to the trouble of rendering proxy media. \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2023/2ee2fbcf2f.png\" width=\"600\" height=\"580\" alt=\"Final Cut Pro screenshot showing that by clicking on the “View” menu in the preview window and then selecting “Proxy Preferred” you can improve playback performance.\">\n",
+				"date_published": "2023-01-01T14:20:43-06:00",
+				"url": "https://microblog.chrisenns.com/2023/01/01/today-in-why.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/01/01/almost-every-time.html",
+				
+				"content_html": "<p>Almost every time I start a new project in #FinalCutPro, I have to reference <a href=\"https://larryjordan.com/articles/media-in-fcp-x/\">this Larry Jordan article</a> on Optimize vs. Proxy Media. Something about the way they&rsquo;re named doesn&rsquo;t make sense in my brain.</p>\n",
+				"content_text": "Almost every time I start a new project in #FinalCutPro, I have to reference [this Larry Jordan article](https://larryjordan.com/articles/media-in-fcp-x/) on Optimize vs. Proxy Media. Something about the way they're named doesn't make sense in my brain. \n",
+				"date_published": "2023-01-01T10:20:50-06:00",
+				"url": "https://microblog.chrisenns.com/2023/01/01/almost-every-time.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/01/01/empathy-for.html",
+				
+				"content_html": "<p>Empathy for 2023.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Empathy for 2023. \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2023/dbe188a24f.jpg\" width=\"600\" height=\"467\" alt=\"It's hard to care about people.&10;Exhausting, in fact, because empathy is a complicated thing.&10;It requires us to accept that everyone else's lives are also going on the whole time.&10;We have no pause button for when everything gets too much for us to deal with, but then neither does anyone else.\">\n",
+				"date_published": "2023-01-01T00:49:49-06:00",
+				"url": "https://microblog.chrisenns.com/2023/01/01/empathy-for.html"
+			},
+			{
 				"id": "http://ichris.micro.blog/2022/12/31/new-years-eve.html",
 				
 				"content_html": "<p>New Year’s Eve plans in emoji form:</p>\n<p>🛷☕️ 🐠 📹 🛍️ 🍕🎉🙏🏻 🍿🙀 ⏰💃🏽🕺</p>\n",
