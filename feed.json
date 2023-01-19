@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2023/01/14/strange-world.html",
+				"title": "Strange World, 2022 - ★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/7/8/9/0/8/2/789082-strange-world-0-600-0-900-crop.jpg?v=1d4883475d\"/></p> <p>Watched on Saturday January 14, 2023.</p>\n",
+				"date_published": "2023-01-14T19:40:30-06:00",
+				"url": "https://microblog.chrisenns.com/2023/01/14/strange-world.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/01/11/i-dig-tools.html",
+				
+				"content_html": "<p>I dig tools like Descript for editing - but I feel like I&rsquo;ve stared at audio this way for long enough that I can almost see the words as I&rsquo;m editing. I&rsquo;d still love a way to have a text searchable archive of shows, which is where Descript is super handy.\n#podcasteditor</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I dig tools like Descript for editing - but I feel like I've stared at audio this way for long enough that I can almost see the words as I'm editing. I'd still love a way to have a text searchable archive of shows, which is where Descript is super handy.\n#podcasteditor\n\n<img src=\"uploads/2023/bbc43e38f6.png\" width=\"600\" height=\"435\" alt=\"Screenshot of Logic Pro audio wav forms from a recording.\">\n",
+				"date_published": "2023-01-11T13:27:31-06:00",
+				"url": "https://microblog.chrisenns.com/2023/01/11/i-dig-tools.html"
+			},
+			{
 				"id": "http://ichris.micro.blog/2023/01/10/this-is-so.html",
 				
 				"content_html": "<p>This is so dumb. But still laughing. <a href=\"https://music.apple.com/ca/album/winters-back/1618528352?i=1618528477\">Winter’s Back</a> - parody of Sexyback.</p>\n",
