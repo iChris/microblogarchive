@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2023/02/15/make-updating-software.html",
+				
+				"content_html": "<p>✏️ <a href=\"https://chrisenns.com/2023/02/make-updating-fun/\">Make Updating Software Fun Again</a></p>\n",
+				"content_text": "✏️ [Make Updating Software Fun Again](https://chrisenns.com/2023/02/make-updating-fun/)\n",
+				"date_published": "2023-02-15T13:56:39-06:00",
+				"url": "https://microblog.chrisenns.com/2023/02/15/make-updating-software.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/02/04/black-panther-wakanda.html",
+				"title": "Black Panther: Wakanda Forever, 2022 - ★★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/3/5/4/6/0/435460-black-panther-wakanda-forever-0-600-0-900-crop.jpg?v=27db1e3d45\"/></p> <p>Watched on Saturday February 4, 2023.</p>\n",
+				"date_published": "2023-02-04T21:39:35-06:00",
+				"url": "https://microblog.chrisenns.com/2023/02/04/black-panther-wakanda.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/02/02/the-family-mac.html",
+				
+				"content_html": "<p>The family Mac mini has been bit by <a href=\"https://www.macrumors.com/2023/02/02/macos-background-items-added-notification-bug/\">this bug where macOS perpetually tells you about Background Items Added</a>, and I thought maybe it was a Rogue Amoeba thing since I had just installed Audio Hijack.</p>\n<p>Very annoying, but hopefully fixed soon?</p>\n",
+				"content_text": "The family Mac mini has been bit by [this bug where macOS perpetually tells you about Background Items Added](https://www.macrumors.com/2023/02/02/macos-background-items-added-notification-bug/), and I thought maybe it was a Rogue Amoeba thing since I had just installed Audio Hijack.\n\nVery annoying, but hopefully fixed soon?\n",
+				"date_published": "2023-02-02T11:34:28-06:00",
+				"url": "https://microblog.chrisenns.com/2023/02/02/the-family-mac.html"
+			},
+			{
 				"id": "http://ichris.micro.blog/2023/02/02/dockhunt-is-the.html",
 				
 				"content_html": "<p><a href=\"https://www.dockhunt.com/users/iChris\">Dockhunt</a> is the kind of web + Mac nerdy stuff I love - sharing the tooling or metadata on your day in front of your computer.</p>\n",
