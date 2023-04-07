@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2023/04/06/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780553499087\">The Julian Chapter: A Wonder Story</a> by R. J. Palacio 📚</p>\n",
+				"content_text": "Finished reading: [The Julian Chapter: A Wonder Story](https://micro.blog/books/9780553499087) by R. J. Palacio 📚\n",
+				"date_published": "2023-04-06T20:28:02-06:00",
+				"url": "https://microblog.chrisenns.com/2023/04/06/finished-reading-the.html"
+			},
+			{
 				"id": "http://ichris.micro.blog/2023/04/01/jojo-rabbit.html",
 				"title": "Jojo Rabbit, 2019 - ★★★★½",
 				"content_html": "<!-- raw HTML omitted -->\n",
@@ -282,7 +290,7 @@
 				"id": "http://ichris.micro.blog/2023/01/11/i-dig-tools.html",
 				
 				"content_html": "<p>I dig tools like Descript for editing - but I feel like I&rsquo;ve stared at audio this way for long enough that I can almost see the words as I&rsquo;m editing. I&rsquo;d still love a way to have a text searchable archive of shows, which is where Descript is super handy.\n#podcasteditor</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I dig tools like Descript for editing - but I feel like I've stared at audio this way for long enough that I can almost see the words as I'm editing. I'd still love a way to have a text searchable archive of shows, which is where Descript is super handy.\n#podcasteditor\n\n<img src=\"uploads/2023/bbc43e38f6.png\" width=\"600\" height=\"435\" alt=\"Screenshot of Logic Pro audio wav forms from a recording.\">\n",
+				"content_text": "I dig tools like Descript for editing - but I feel like I've stared at audio this way for long enough that I can almost see the words as I'm editing. I'd still love a way to have a text searchable archive of shows, which is where Descript is super handy.\n#podcasteditor\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2023/bbc43e38f6.png\" width=\"600\" height=\"435\" alt=\"Screenshot of Logic Pro audio wav forms from a recording.\">\n",
 				"date_published": "2023-01-11T13:27:31-06:00",
 				"url": "https://microblog.chrisenns.com/2023/01/11/i-dig-tools.html"
 			},
@@ -298,7 +306,7 @@
 				"id": "http://ichris.micro.blog/2023/01/09/im-awful-at.html",
 				
 				"content_html": "<p>I&rsquo;m awful at goal setting in longer term situations. I know my business is at a plateau, and it&rsquo;s fine, but beyond some sort of capitalist &ldquo;get more money so I can work less?&rdquo; thought, I&rsquo;m overwhelmed at the thought of small changes to grow. Maybe I&rsquo;ll learn by osmosis. :)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I'm awful at goal setting in longer term situations. I know my business is at a plateau, and it's fine, but beyond some sort of capitalist \"get more money so I can work less?\" thought, I'm overwhelmed at the thought of small changes to grow. Maybe I'll learn by osmosis. :)\n\n<img src=\"uploads/2023/b86ddce1d2.png\" width=\"600\" height=\"442\" alt=\"Screenshot of VS Code episode document for a client’s podcast that reads: number: 561&10;title: 2023 Goals × Learning and Doing&10;date: &10;url: &10;&10;In this episode of Syntax, Wes and Scott talk\">\n",
+				"content_text": "I'm awful at goal setting in longer term situations. I know my business is at a plateau, and it's fine, but beyond some sort of capitalist \"get more money so I can work less?\" thought, I'm overwhelmed at the thought of small changes to grow. Maybe I'll learn by osmosis. :)\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2023/b86ddce1d2.png\" width=\"600\" height=\"442\" alt=\"Screenshot of VS Code episode document for a client’s podcast that reads: number: 561&10;title: 2023 Goals × Learning and Doing&10;date: &10;url: &10;&10;In this episode of Syntax, Wes and Scott talk\">\n",
 				"date_published": "2023-01-09T16:16:40-06:00",
 				"url": "https://microblog.chrisenns.com/2023/01/09/im-awful-at.html"
 			},
@@ -362,7 +370,7 @@
 				"id": "http://ichris.micro.blog/2023/01/04/happy-old-fashioned.html",
 				
 				"content_html": "<p>Happy old fashioned happy hour to those celebrating. AMA while I edit this podcast. <a href=\"https://ngl.link/lemonpodcasting\">ngl.link/lemonpodc&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Happy old fashioned happy hour to those celebrating. AMA while I edit this podcast. [ngl.link/lemonpodc...](https://ngl.link/lemonpodcasting)\n\n<img src=\"uploads/2023/a3c06010f1.jpg\" width=\"450\" height=\"600\" alt=\"BeReal of me having an old fashioned drink with a computer monitor showing Logic Pro tracks from a podcast. \">\n",
+				"content_text": "Happy old fashioned happy hour to those celebrating. AMA while I edit this podcast. [ngl.link/lemonpodc...](https://ngl.link/lemonpodcasting)\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2023/a3c06010f1.jpg\" width=\"450\" height=\"600\" alt=\"BeReal of me having an old fashioned drink with a computer monitor showing Logic Pro tracks from a podcast. \">\n",
 				"date_published": "2023-01-04T17:09:47-06:00",
 				"url": "https://microblog.chrisenns.com/2023/01/04/happy-old-fashioned.html"
 			},
@@ -418,7 +426,7 @@
 				"id": "http://ichris.micro.blog/2023/01/01/today-in-why.html",
 				
 				"content_html": "<p>Today in “Why is my #FinalCutPro playback so terrible?” - a reminder to choose “Proxy Preferred” in your viewer if you’ve gone to the trouble of rendering proxy media.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Today in “Why is my #FinalCutPro playback so terrible?” - a reminder to choose “Proxy Preferred” in your viewer if you’ve gone to the trouble of rendering proxy media. \n\n<img src=\"uploads/2023/2ee2fbcf2f.png\" width=\"600\" height=\"580\" alt=\"Final Cut Pro screenshot showing that by clicking on the “View” menu in the preview window and then selecting “Proxy Preferred” you can improve playback performance.\">\n",
+				"content_text": "Today in “Why is my #FinalCutPro playback so terrible?” - a reminder to choose “Proxy Preferred” in your viewer if you’ve gone to the trouble of rendering proxy media. \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2023/2ee2fbcf2f.png\" width=\"600\" height=\"580\" alt=\"Final Cut Pro screenshot showing that by clicking on the “View” menu in the preview window and then selecting “Proxy Preferred” you can improve playback performance.\">\n",
 				"date_published": "2023-01-01T14:20:43-06:00",
 				"url": "https://microblog.chrisenns.com/2023/01/01/today-in-why.html"
 			},
@@ -434,7 +442,7 @@
 				"id": "http://ichris.micro.blog/2023/01/01/empathy-for.html",
 				
 				"content_html": "<p>Empathy for 2023.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Empathy for 2023. \n\n<img src=\"uploads/2023/dbe188a24f.jpg\" width=\"600\" height=\"467\" alt=\"It's hard to care about people.&10;Exhausting, in fact, because empathy is a complicated thing.&10;It requires us to accept that everyone else's lives are also going on the whole time.&10;We have no pause button for when everything gets too much for us to deal with, but then neither does anyone else.\">\n",
+				"content_text": "Empathy for 2023. \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2023/dbe188a24f.jpg\" width=\"600\" height=\"467\" alt=\"It's hard to care about people.&10;Exhausting, in fact, because empathy is a complicated thing.&10;It requires us to accept that everyone else's lives are also going on the whole time.&10;We have no pause button for when everything gets too much for us to deal with, but then neither does anyone else.\">\n",
 				"date_published": "2023-01-01T00:49:49-06:00",
 				"url": "https://microblog.chrisenns.com/2023/01/01/empathy-for.html"
 			},
@@ -482,7 +490,7 @@
 				"id": "http://ichris.micro.blog/2022/12/26/happy-old-fashioned.html",
 				
 				"content_html": "<p>Happy Old Fashioned to all who celebrate.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Happy Old Fashioned to all who celebrate. \n\n<img src=\"uploads/2022/199843f474.jpg\" width=\"600\" height=\"600\" alt=\"Top down view of a glass with ice and a alcoholic beverage in it. \">\n",
+				"content_text": "Happy Old Fashioned to all who celebrate. \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/199843f474.jpg\" width=\"600\" height=\"600\" alt=\"Top down view of a glass with ice and a alcoholic beverage in it. \">\n",
 				"date_published": "2022-12-26T22:16:51-06:00",
 				"url": "https://microblog.chrisenns.com/2022/12/26/happy-old-fashioned.html"
 			},
@@ -514,7 +522,7 @@
 				"id": "http://ichris.micro.blog/2022/12/25/merry-christmas.html",
 				
 				"content_html": "<p>Merry Christmas. 📱</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Merry Christmas. 📱 \n\n<img src=\"uploads/2022/a83ed05e14.jpg\" width=\"600\" height=\"450\" alt=\"Photo of a Finder screen on macOS that reads “iPhone DFU mode” \">\n",
+				"content_text": "Merry Christmas. 📱 \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/a83ed05e14.jpg\" width=\"600\" height=\"450\" alt=\"Photo of a Finder screen on macOS that reads “iPhone DFU mode” \">\n",
 				"date_published": "2022-12-25T08:44:12-06:00",
 				"url": "https://microblog.chrisenns.com/2022/12/25/merry-christmas.html"
 			},
@@ -538,7 +546,7 @@
 				"id": "http://ichris.micro.blog/2022/12/23/who-has-a.html",
 				
 				"content_html": "<p>Who has a brand new iPhone 7+ in 2022? Are they still for sale?? No I don’t want to trade the thing I’m selling. I want to sell it. To get $. To pay for Xmas. 😭</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Who has a brand new iPhone 7+ in 2022? Are they still for sale?? No I don’t want to trade the thing I’m selling. I want to sell it. To get $. To pay for Xmas. 😭 \n\n<img src=\"uploads/2022/a4cd85d43f.jpg\" width=\"422\" height=\"600\" alt=\"Marketplace convo asking “would you trade it for a new iPhone 7 256GB?”\">\n",
+				"content_text": "Who has a brand new iPhone 7+ in 2022? Are they still for sale?? No I don’t want to trade the thing I’m selling. I want to sell it. To get $. To pay for Xmas. 😭 \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/a4cd85d43f.jpg\" width=\"422\" height=\"600\" alt=\"Marketplace convo asking “would you trade it for a new iPhone 7 256GB?”\">\n",
 				"date_published": "2022-12-23T12:07:13-06:00",
 				"url": "https://microblog.chrisenns.com/2022/12/23/who-has-a.html"
 			},
@@ -570,7 +578,7 @@
 				"id": "http://ichris.micro.blog/2022/12/22/i-love-selling.html",
 				
 				"content_html": "<p>I love selling things on Facebook marketplace. 🤦‍♂️</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I love selling things on Facebook marketplace. 🤦‍♂️ \n\n<img src=\"uploads/2022/a4803ff7e9.jpg\" width=\"591\" height=\"600\" alt=\"A conversation between me and a potential buyer where the buyer asks if it’s still available, then asks if “I’d take $160”, then quickly says “sorry I meant $150”, and then repeats again saying “would you take $150”. \">\n",
+				"content_text": "I love selling things on Facebook marketplace. 🤦‍♂️ \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/a4803ff7e9.jpg\" width=\"591\" height=\"600\" alt=\"A conversation between me and a potential buyer where the buyer asks if it’s still available, then asks if “I’d take $160”, then quickly says “sorry I meant $150”, and then repeats again saying “would you take $150”. \">\n",
 				"date_published": "2022-12-22T08:53:35-06:00",
 				"url": "https://microblog.chrisenns.com/2022/12/22/i-love-selling.html"
 			},
@@ -602,7 +610,7 @@
 				"id": "http://ichris.micro.blog/2022/12/19/theres-always-a.html",
 				
 				"content_html": "<p>There’s always a beautiful day a week out in winter. I’ll believe that +1 when I see it.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "There’s always a beautiful day a week out in winter. I’ll believe that +1 when I see it. \n\n<img src=\"uploads/2022/b2863b7627.jpg\" width=\"277\" height=\"600\" alt=\"Saskatoon weather in the -18 to -24C range until week from now it says +1. \">\n",
+				"content_text": "There’s always a beautiful day a week out in winter. I’ll believe that +1 when I see it. \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/b2863b7627.jpg\" width=\"277\" height=\"600\" alt=\"Saskatoon weather in the -18 to -24C range until week from now it says +1. \">\n",
 				"date_published": "2022-12-19T23:14:40-06:00",
 				"url": "https://microblog.chrisenns.com/2022/12/19/theres-always-a.html"
 			},
@@ -626,7 +634,7 @@
 				"id": "http://ichris.micro.blog/2022/12/19/a-quick-reminder.html",
 				
 				"content_html": "<p>A quick reminder to myself: No, I could not survive with a 512GB hard drive no matter how much I&rsquo;d like to save $$ on a <a href=\"https://www.apple.com/ca/shop/product/FJMV3LL/A/refurbished-mac-studio-apple-m1-max-chip-with-10%E2%80%91core-cpu-and-24%E2%80%91core-gpu\">refurb Mac Studio</a>.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A quick reminder to myself: No, I could not survive with a 512GB hard drive no matter how much I'd like to save $$ on a [refurb Mac Studio](https://www.apple.com/ca/shop/product/FJMV3LL/A/refurbished-mac-studio-apple-m1-max-chip-with-10%E2%80%91core-cpu-and-24%E2%80%91core-gpu).\n\n<img src=\"uploads/2022/c8dbec1142.png\" width=\"600\" height=\"377\" alt=\"A screenshot from DaisyDisk showing the Application Support folder on my current MacBook Pro hard drive being 195GB in size.\">\n",
+				"content_text": "A quick reminder to myself: No, I could not survive with a 512GB hard drive no matter how much I'd like to save $$ on a [refurb Mac Studio](https://www.apple.com/ca/shop/product/FJMV3LL/A/refurbished-mac-studio-apple-m1-max-chip-with-10%E2%80%91core-cpu-and-24%E2%80%91core-gpu).\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/c8dbec1142.png\" width=\"600\" height=\"377\" alt=\"A screenshot from DaisyDisk showing the Application Support folder on my current MacBook Pro hard drive being 195GB in size.\">\n",
 				"date_published": "2022-12-19T11:05:15-06:00",
 				"url": "https://microblog.chrisenns.com/2022/12/19/a-quick-reminder.html"
 			},
@@ -634,7 +642,7 @@
 				"id": "http://ichris.micro.blog/2022/12/19/changing-hearts-and.html",
 				
 				"content_html": "<p>Changing hearts and lives over here on my random YouTube page. 😆🤲🏻</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Changing hearts and lives over here on my random YouTube page. 😆🤲🏻 \n\n<img src=\"uploads/2022/0b90a8b357.jpg\" width=\"600\" height=\"174\" alt=\"Screenshot of a YouTube comment reading: JESUS WEPT! This is 100% an amazing correction! I think I was reading the scale as the gain or just assuming the slide would work like most things with an increase in sensitivity by sliding right... Wow...\">\n",
+				"content_text": "Changing hearts and lives over here on my random YouTube page. 😆🤲🏻 \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/0b90a8b357.jpg\" width=\"600\" height=\"174\" alt=\"Screenshot of a YouTube comment reading: JESUS WEPT! This is 100% an amazing correction! I think I was reading the scale as the gain or just assuming the slide would work like most things with an increase in sensitivity by sliding right... Wow...\">\n",
 				"date_published": "2022-12-19T10:31:17-06:00",
 				"url": "https://microblog.chrisenns.com/2022/12/19/changing-hearts-and.html"
 			},
@@ -658,7 +666,7 @@
 				"id": "http://ichris.micro.blog/2022/12/17/ai-manga-me.html",
 				
 				"content_html": "<p>AI Manga me.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "AI Manga me. \n\n<img src=\"uploads/2022/d2ee3bef20.jpg\" width=\"337\" height=\"600\" alt=\"An AI generated portrait of me on the bottom, with the photo it was based on above. \">\n",
+				"content_text": "AI Manga me. \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/d2ee3bef20.jpg\" width=\"337\" height=\"600\" alt=\"An AI generated portrait of me on the bottom, with the photo it was based on above. \">\n",
 				"date_published": "2022-12-17T15:00:00-06:00",
 				"url": "https://microblog.chrisenns.com/2022/12/17/ai-manga-me.html"
 			},
@@ -714,7 +722,7 @@
 				"id": "http://ichris.micro.blog/2022/12/13/since-updating-to.html",
 				
 				"content_html": "<p>Since updating to macOS Ventura, I&rsquo;ve noticed that macOS must keep pinging periodically for an iPhone nearby that it can use with the Continuity camera feature because I keep getting this dialogue box in Logic Pro. Easy enough to disable, just interesting.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Since updating to macOS Ventura, I've noticed that macOS must keep pinging periodically for an iPhone nearby that it can use with the Continuity camera feature because I keep getting this dialogue box in Logic Pro. Easy enough to disable, just interesting.\n\n<img src=\"uploads/2022/feee58378d.png\" width=\"600\" height=\"548\" alt=\"Logic Pro dialogue box asking if I want to use an audio device “Lemon Microphone” as an input. (Lemon is the name of my iPhone)\">\n",
+				"content_text": "Since updating to macOS Ventura, I've noticed that macOS must keep pinging periodically for an iPhone nearby that it can use with the Continuity camera feature because I keep getting this dialogue box in Logic Pro. Easy enough to disable, just interesting.\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/feee58378d.png\" width=\"600\" height=\"548\" alt=\"Logic Pro dialogue box asking if I want to use an audio device “Lemon Microphone” as an input. (Lemon is the name of my iPhone)\">\n",
 				"date_published": "2022-12-13T13:10:36-06:00",
 				"url": "https://microblog.chrisenns.com/2022/12/13/since-updating-to.html"
 			},
@@ -730,7 +738,7 @@
 				"id": "http://ichris.micro.blog/2022/12/12/figuring-out-some.html",
 				
 				"content_html": "<p>Figuring out some new recording gear. 😜 🥅</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Figuring out some new recording gear. 😜 🥅 \n\n<img src=\"uploads/2022/1b1ea8ae29.jpg\" width=\"450\" height=\"600\" alt=\"A hockey rink’s scoreboard computer. Designed and built in the late 90’s perhaps?\">\n",
+				"content_text": "Figuring out some new recording gear. 😜 🥅 \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/1b1ea8ae29.jpg\" width=\"450\" height=\"600\" alt=\"A hockey rink’s scoreboard computer. Designed and built in the late 90’s perhaps?\">\n",
 				"date_published": "2022-12-12T21:21:50-06:00",
 				"url": "https://microblog.chrisenns.com/2022/12/12/figuring-out-some.html"
 			},
@@ -746,7 +754,7 @@
 				"id": "http://ichris.micro.blog/2022/12/12/if-you-want.html",
 				
 				"content_html": "<p>If you want to make it seem like you shovelled a lot more snow than you did, just take a pic for a very low angle so the perspective is all wonky. 💪🏽 😪 😆</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "If you want to make it seem like you shovelled a lot more snow than you did, just take a pic for a very low angle so the perspective is all wonky. 💪🏽 😪 😆 \n\n<img src=\"uploads/2022/58042fba41.jpg\" width=\"600\" height=\"393\" alt=\"An inch of snow on the ground taken from a very low angle so as to make it look much bigger than it is. \">\n",
+				"content_text": "If you want to make it seem like you shovelled a lot more snow than you did, just take a pic for a very low angle so the perspective is all wonky. 💪🏽 😪 😆 \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/58042fba41.jpg\" width=\"600\" height=\"393\" alt=\"An inch of snow on the ground taken from a very low angle so as to make it look much bigger than it is. \">\n",
 				"date_published": "2022-12-12T13:32:40-06:00",
 				"url": "https://microblog.chrisenns.com/2022/12/12/if-you-want.html"
 			},
@@ -754,7 +762,7 @@
 				"id": "http://ichris.micro.blog/2022/12/11/the-name-of.html",
 				
 				"content_html": "<p>The name of my new podcast.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The name of my new podcast.\n\n<img src=\"uploads/2022/9a0431a7db.jpg\" width=\"600\" height=\"463\" alt=\"A burrito with a “no tomato” sticker on it. \">\n",
+				"content_text": "The name of my new podcast.\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/9a0431a7db.jpg\" width=\"600\" height=\"463\" alt=\"A burrito with a “no tomato” sticker on it. \">\n",
 				"date_published": "2022-12-11T13:36:04-06:00",
 				"url": "https://microblog.chrisenns.com/2022/12/11/the-name-of.html"
 			},
@@ -770,7 +778,7 @@
 				"id": "http://ichris.micro.blog/2022/12/10/currently-practicing-how.html",
 				
 				"content_html": "<p>Currently practicing how to get comfortable in hockey rink seats while my kid practices. 🏒</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Currently practicing how to get comfortable in hockey rink seats while my kid practices. 🏒 \n\n<img src=\"uploads/2022/1f8ecbb60f.jpg\" width=\"450\" height=\"600\" alt=\"My feet up on the seat in front of me in a hockey rink. \"><img src=\"uploads/2022/b4adf18ea7.jpg\" width=\"600\" height=\"450\" alt=\"A kid’s hockey team practicing on the ice in an otherwise empty rink. \">\n",
+				"content_text": "Currently practicing how to get comfortable in hockey rink seats while my kid practices. 🏒 \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/1f8ecbb60f.jpg\" width=\"450\" height=\"600\" alt=\"My feet up on the seat in front of me in a hockey rink. \"><img src=\"https://cdn.uploads.micro.blog/1068/2022/b4adf18ea7.jpg\" width=\"600\" height=\"450\" alt=\"A kid’s hockey team practicing on the ice in an otherwise empty rink. \">\n",
 				"date_published": "2022-12-10T17:05:43-06:00",
 				"url": "https://microblog.chrisenns.com/2022/12/10/currently-practicing-how.html"
 			},
@@ -794,7 +802,7 @@
 				"id": "http://ichris.micro.blog/2022/12/09/well-guess-its.html",
 				
 				"content_html": "<p>Well guess it’s time to upgrade to Ventura so I can check this thing out. I’d ordered it so long ago, I completely forgot about it. 😆</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Well guess it’s time to upgrade to Ventura so I can check this thing out. I’d ordered it so long ago, I completely forgot about it. 😆 \n\n<img src=\"uploads/2022/edc0459097.jpg\" width=\"450\" height=\"600\" alt=\"Belkin iPhone mount with MagSafe for Mac Notebooks box. \">\n",
+				"content_text": "Well guess it’s time to upgrade to Ventura so I can check this thing out. I’d ordered it so long ago, I completely forgot about it. 😆 \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/edc0459097.jpg\" width=\"450\" height=\"600\" alt=\"Belkin iPhone mount with MagSafe for Mac Notebooks box. \">\n",
 				"date_published": "2022-12-09T12:56:09-06:00",
 				"url": "https://microblog.chrisenns.com/2022/12/09/well-guess-its.html"
 			},
@@ -810,7 +818,7 @@
 				"id": "http://ichris.micro.blog/2022/12/08/catching-up-on.html",
 				
 				"content_html": "<p>Catching up on Andor.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Catching up on Andor. \n\n<img src=\"uploads/2022/e4867bfda3.jpg\" width=\"600\" height=\"353\" alt=\"Scene from Andor Season 1, Episode 8\">\n",
+				"content_text": "Catching up on Andor. \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/e4867bfda3.jpg\" width=\"600\" height=\"353\" alt=\"Scene from Andor Season 1, Episode 8\">\n",
 				"date_published": "2022-12-08T22:21:56-06:00",
 				"url": "https://microblog.chrisenns.com/2022/12/08/catching-up-on.html"
 			},
@@ -834,7 +842,7 @@
 				"id": "http://ichris.micro.blog/2022/12/06/feels-like-c.html",
 				
 				"content_html": "<p>“Feels like -42C” 🥶 (-43F)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "“Feels like -42C” 🥶 (-43F) \n\n<img src=\"uploads/2022/afc4fb3085.jpg\" width=\"545\" height=\"600\" alt=\"Weather screenshot reading -42C\">\n",
+				"content_text": "“Feels like -42C” 🥶 (-43F) \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/afc4fb3085.jpg\" width=\"545\" height=\"600\" alt=\"Weather screenshot reading -42C\">\n",
 				"date_published": "2022-12-06T18:33:31-06:00",
 				"url": "https://microblog.chrisenns.com/2022/12/06/feels-like-c.html"
 			},
@@ -842,7 +850,7 @@
 				"id": "http://ichris.micro.blog/2022/12/06/when-descript-gets.html",
 				
 				"content_html": "<p>When Descript gets it wrong, but it feels so right.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "When Descript gets it wrong, but it feels so right.\n\n<img src=\"uploads/2022/58c86c134a.png\" width=\"600\" height=\"88\" alt=\"Descript transcript reading “It should be no surprise to you that Jake Query has a crazy amount of usage.” (jQuery is what it should be)\">\n",
+				"content_text": "When Descript gets it wrong, but it feels so right.\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/58c86c134a.png\" width=\"600\" height=\"88\" alt=\"Descript transcript reading “It should be no surprise to you that Jake Query has a crazy amount of usage.” (jQuery is what it should be)\">\n",
 				"date_published": "2022-12-06T15:53:30-06:00",
 				"url": "https://microblog.chrisenns.com/2022/12/06/when-descript-gets.html"
 			},
@@ -866,7 +874,7 @@
 				"id": "http://ichris.micro.blog/2022/12/04/noggin-time.html",
 				
 				"content_html": "<p>‘Noggin time.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "‘Noggin time. \n\n<img src=\"uploads/2022/fc67d23513.jpg\" width=\"450\" height=\"600\" alt=\"A 2L cartoon of eggnog. \">\n",
+				"content_text": "‘Noggin time. \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/fc67d23513.jpg\" width=\"450\" height=\"600\" alt=\"A 2L cartoon of eggnog. \">\n",
 				"date_published": "2022-12-04T14:09:42-06:00",
 				"url": "https://microblog.chrisenns.com/2022/12/04/noggin-time.html"
 			},
@@ -1026,7 +1034,7 @@
 				"id": "http://ichris.micro.blog/2022/11/09/when-one-of.html",
 				
 				"content_html": "<p>When one of your client&rsquo;s says your name is &ldquo;Lemon Podcasting&rdquo; on their fairly large podcast, it&rsquo;s maybe worth it to go grab the domain name just in case someone looks it up. 😂</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "When one of your client's says your name is \"Lemon Podcasting\" on their fairly large podcast, it's maybe worth it to go grab the domain name just in case someone looks it up. 😂 \n\n<img src=\"uploads/2022/c3b4a25c06.png\" width=\"600\" height=\"289\" alt=\"Screenshot of a Hover domain setting for LemonPodcasting.com forwarding to LemonProductions.ca.\">\n",
+				"content_text": "When one of your client's says your name is \"Lemon Podcasting\" on their fairly large podcast, it's maybe worth it to go grab the domain name just in case someone looks it up. 😂 \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/c3b4a25c06.png\" width=\"600\" height=\"289\" alt=\"Screenshot of a Hover domain setting for LemonPodcasting.com forwarding to LemonProductions.ca.\">\n",
 				"date_published": "2022-11-09T13:32:38-06:00",
 				"url": "https://microblog.chrisenns.com/2022/11/09/when-one-of.html"
 			},
@@ -1098,7 +1106,7 @@
 				"id": "http://ichris.micro.blog/2022/11/05/should-my-garage.html",
 				
 				"content_html": "<p>Should my garage door spring thingy (technical term) look like that? Or is that the reason our garage door is opening so slowly these days?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Should my garage door spring thingy (technical term) look like that? Or is that the reason our garage door is opening so slowly these days?\n\n<img src=\"uploads/2022/7d6ac4df1a.jpg\" width=\"600\" height=\"450\" alt=\"View of a garage door spring with it separated into two parts sort of?\">\n",
+				"content_text": "Should my garage door spring thingy (technical term) look like that? Or is that the reason our garage door is opening so slowly these days?\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/7d6ac4df1a.jpg\" width=\"600\" height=\"450\" alt=\"View of a garage door spring with it separated into two parts sort of?\">\n",
 				"date_published": "2022-11-05T15:59:39-06:00",
 				"url": "https://microblog.chrisenns.com/2022/11/05/should-my-garage.html"
 			},
@@ -1146,7 +1154,7 @@
 				"id": "http://ichris.micro.blog/2022/11/04/apple-appreciation-gif.html",
 				
 				"content_html": "<p>Apple appreciation GIF: How smooth the animation is in Logic Pro when zooming in and out of a track. It feels extra buttery when using a Magic Trackpad of some sort.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Apple appreciation GIF: How smooth the animation is in Logic Pro when zooming in and out of a track. It feels extra buttery when using a Magic Trackpad of some sort.\n\n<img src=\"uploads/2022/e4b1167d20.gif\" width=\"600\" height=\"196\" alt=\"\">\n",
+				"content_text": "Apple appreciation GIF: How smooth the animation is in Logic Pro when zooming in and out of a track. It feels extra buttery when using a Magic Trackpad of some sort.\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/e4b1167d20.gif\" width=\"600\" height=\"196\" alt=\"\">\n",
 				"date_published": "2022-11-04T15:17:17-06:00",
 				"url": "https://microblog.chrisenns.com/2022/11/04/apple-appreciation-gif.html"
 			},
@@ -1154,7 +1162,7 @@
 				"id": "http://ichris.micro.blog/2022/11/04/well-axeyard-if.html",
 				
 				"content_html": "<p>Well &ldquo;Axeyard&rdquo; - if that is indeed your real name - I didn&rsquo;t need your comment. Have the day you deserve.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Well \"Axeyard\" - if that is indeed your real name - I didn't need your comment. Have the day you deserve.\n\n<img src=\"uploads/2022/06053bd0a4.png\" width=\"600\" height=\"311\" alt=\"Screenshot of YouTube comment from a user named “Axeyard” stating “Don't need the talking head.” on my tutorial video for how to record Skype calls with Audio Hijack.\">\n",
+				"content_text": "Well \"Axeyard\" - if that is indeed your real name - I didn't need your comment. Have the day you deserve.\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/06053bd0a4.png\" width=\"600\" height=\"311\" alt=\"Screenshot of YouTube comment from a user named “Axeyard” stating “Don't need the talking head.” on my tutorial video for how to record Skype calls with Audio Hijack.\">\n",
 				"date_published": "2022-11-04T07:30:25-06:00",
 				"url": "https://microblog.chrisenns.com/2022/11/04/well-axeyard-if.html"
 			},
@@ -1162,7 +1170,7 @@
 				"id": "http://ichris.micro.blog/2022/11/03/heads-up-to.html",
 				
 				"content_html": "<p>Heads up to anyone using my <a href=\"https://codepen.io/iChris/full/ZmeVwN/\">Logic Pro marker to Markdown TimeJump converter Pen</a> - the latest version of Logic Pro v10.7.5 released this week breaks it by adding extra characters at the beginning of every line. 😡</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Heads up to anyone using my [Logic Pro marker to Markdown TimeJump converter Pen](https://codepen.io/iChris/full/ZmeVwN/) - the latest version of Logic Pro v10.7.5 released this week breaks it by adding extra characters at the beginning of every line. 😡 \n\n<img src=\"uploads/2022/177b11a2b6.png\" width=\"600\" height=\"414\" alt=\"Screenshot of the CodePen pen linked that demonstrates how the extra characters break the converter.\">\n",
+				"content_text": "Heads up to anyone using my [Logic Pro marker to Markdown TimeJump converter Pen](https://codepen.io/iChris/full/ZmeVwN/) - the latest version of Logic Pro v10.7.5 released this week breaks it by adding extra characters at the beginning of every line. 😡 \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/177b11a2b6.png\" width=\"600\" height=\"414\" alt=\"Screenshot of the CodePen pen linked that demonstrates how the extra characters break the converter.\">\n",
 				"date_published": "2022-11-03T15:01:15-06:00",
 				"url": "https://microblog.chrisenns.com/2022/11/03/heads-up-to.html"
 			},
@@ -1219,7 +1227,7 @@
 				"id": "http://ichris.micro.blog/2022/11/01/i-hate-how.html",
 				
 				"content_html": "<p>I hate how searching for things, like the origins of the phrase &ldquo;if anyone is not hungry for justice, it may be because they are too full of privilege&rdquo;, yields Amazon pop up items like this. Woof.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I hate how searching for things, like the origins of the phrase \"if anyone is not hungry for justice, it may be because they are too full of privilege\", yields Amazon pop up items like this. Woof. \n\n<img src=\"uploads/2022/a3aab017f2.png\" width=\"600\" height=\"209\" alt=\"Search result showing an Amazon link with the title “When we’re not hungry for justice it’s usually because Tank Top” because the search result at Amazon gets cut off and replaced with the product name.\">\n",
+				"content_text": "I hate how searching for things, like the origins of the phrase \"if anyone is not hungry for justice, it may be because they are too full of privilege\", yields Amazon pop up items like this. Woof. \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/a3aab017f2.png\" width=\"600\" height=\"209\" alt=\"Search result showing an Amazon link with the title “When we’re not hungry for justice it’s usually because Tank Top” because the search result at Amazon gets cut off and replaced with the product name.\">\n",
 				"date_published": "2022-11-01T09:48:49-06:00",
 				"url": "https://microblog.chrisenns.com/2022/11/01/i-hate-how.html"
 			},
@@ -1227,7 +1235,7 @@
 				"id": "http://ichris.micro.blog/2022/10/31/maybe-for-halloween.html",
 				
 				"content_html": "<p>Maybe for Halloween I’ll go as the podcaster who upgraded to Ventura too quickly?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Maybe for Halloween I’ll go as the podcaster who upgraded to Ventura too quickly? \n\n<img src=\"uploads/2022/0157159a8a.jpg\" width=\"450\" height=\"600\" alt=\"Me with a mic and headphones on while contemplating pressing upgrade on the macOS update system preference. \">\n",
+				"content_text": "Maybe for Halloween I’ll go as the podcaster who upgraded to Ventura too quickly? \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/0157159a8a.jpg\" width=\"450\" height=\"600\" alt=\"Me with a mic and headphones on while contemplating pressing upgrade on the macOS update system preference. \">\n",
 				"date_published": "2022-10-31T18:50:04-06:00",
 				"url": "https://microblog.chrisenns.com/2022/10/31/maybe-for-halloween.html"
 			},
@@ -1283,7 +1291,7 @@
 				"id": "http://ichris.micro.blog/2022/10/29/105729.html",
 				
 				"content_html": "<p>Hockey morning in Canada. 🏒</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Hockey morning in Canada. 🏒 \n\n<img src=\"uploads/2022/c64df4c12c.jpg\" width=\"600\" height=\"378\" alt=\"Photo of kids at a hockey practice in a hockey rink. &10;&10;\">\n",
+				"content_text": "Hockey morning in Canada. 🏒 \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/c64df4c12c.jpg\" width=\"600\" height=\"378\" alt=\"Photo of kids at a hockey practice in a hockey rink. &10;&10;\">\n",
 				"date_published": "2022-10-29T10:57:29-06:00",
 				"url": "https://microblog.chrisenns.com/2022/10/29/105729.html"
 			},
@@ -1323,7 +1331,7 @@
 				"id": "http://ichris.micro.blog/2022/10/28/lots-of-great.html",
 				
 				"content_html": "<p>Lots of great brain nuggets in Monday&rsquo;s episode of ShopTalk Show with <a href=\"https://micro.blog/samkap\">@samkap</a> - but this section right here is particularly great. You&rsquo;ll have to listen to find out! And you&rsquo;ll have to <a href=\"https://abookapart.com/products/inclusive-design-communities\">buy the book to find out more about Inclusive Design Communities</a>.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Lots of great brain nuggets in Monday's episode of ShopTalk Show with [@samkap](https://micro.blog/samkap) - but this section right here is particularly great. You'll have to listen to find out! And you'll have to [buy the book to find out more about Inclusive Design Communities](https://abookapart.com/products/inclusive-design-communities).\n\n<img src=\"uploads/2022/b672bb0735.png\" width=\"580\" height=\"600\" alt=\"Screenshot of Logic Pro project showing 3 tracks of audio edited.\">\n",
+				"content_text": "Lots of great brain nuggets in Monday's episode of ShopTalk Show with [@samkap](https://micro.blog/samkap) - but this section right here is particularly great. You'll have to listen to find out! And you'll have to [buy the book to find out more about Inclusive Design Communities](https://abookapart.com/products/inclusive-design-communities).\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/b672bb0735.png\" width=\"580\" height=\"600\" alt=\"Screenshot of Logic Pro project showing 3 tracks of audio edited.\">\n",
 				"date_published": "2022-10-28T11:46:34-06:00",
 				"url": "https://microblog.chrisenns.com/2022/10/28/lots-of-great.html"
 			},
@@ -1331,7 +1339,7 @@
 				"id": "http://ichris.micro.blog/2022/10/28/instagram-so-thirsty.html",
 				
 				"content_html": "<p>Instagram so thirsty for engagement and jealous of those 44 billion Musk bucks.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Instagram so thirsty for engagement and jealous of those 44 billion Musk bucks. \n\n<img src=\"uploads/2022/741cc17e69.jpg\" width=\"600\" height=\"470\" alt=\"\">\n",
+				"content_text": "Instagram so thirsty for engagement and jealous of those 44 billion Musk bucks. \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/741cc17e69.jpg\" width=\"600\" height=\"470\" alt=\"\">\n",
 				"date_published": "2022-10-28T08:01:18-06:00",
 				"url": "https://microblog.chrisenns.com/2022/10/28/instagram-so-thirsty.html"
 			},
@@ -1347,7 +1355,7 @@
 				"id": "http://ichris.micro.blog/2022/10/27/this-is-definitely.html",
 				
 				"content_html": "<p>This is definitely an ice cof. Tastes like it’s missing the d, f, f, and e.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This is definitely an ice cof. Tastes like it’s missing the d, f, f, and e.\n\n<img src=\"uploads/2022/88e70d0e47.jpg\" width=\"450\" height=\"600\" alt=\"An iced coffee drink with the number 2175 on the side and “ice cof” as the description on the label. \">\n",
+				"content_text": "This is definitely an ice cof. Tastes like it’s missing the d, f, f, and e.\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/88e70d0e47.jpg\" width=\"450\" height=\"600\" alt=\"An iced coffee drink with the number 2175 on the side and “ice cof” as the description on the label. \">\n",
 				"date_published": "2022-10-27T15:03:15-06:00",
 				"url": "https://microblog.chrisenns.com/2022/10/27/this-is-definitely.html"
 			},
@@ -1387,7 +1395,7 @@
 				"id": "http://ichris.micro.blog/2022/10/26/theres-a-great.html",
 				
 				"content_html": "<p>There&rsquo;s a great <a href=\"https://vm.tiktok.com/ZMFBaAek1/\">country style cover of Tayler Swift&rsquo;s Anti-Hero from an artist on TikTok</a> that, if I want to pre-save it on Apple Music, I have to allow some FFM app access to my listening activity and media library? How broken is this all?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "There's a great [country style cover of Tayler Swift's Anti-Hero from an artist on TikTok](https://vm.tiktok.com/ZMFBaAek1/) that, if I want to pre-save it on Apple Music, I have to allow some FFM app access to my listening activity and media library? How broken is this all?\n\n<img src=\"uploads/2022/087c64e7db.png\" width=\"397\" height=\"600\" alt=\"A screenshot of a dialogue pop up that shows FFM.to requesting access to my Apple Music media library and listening activity.\">\n",
+				"content_text": "There's a great [country style cover of Tayler Swift's Anti-Hero from an artist on TikTok](https://vm.tiktok.com/ZMFBaAek1/) that, if I want to pre-save it on Apple Music, I have to allow some FFM app access to my listening activity and media library? How broken is this all?\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/087c64e7db.png\" width=\"397\" height=\"600\" alt=\"A screenshot of a dialogue pop up that shows FFM.to requesting access to my Apple Music media library and listening activity.\">\n",
 				"date_published": "2022-10-26T11:44:53-06:00",
 				"url": "https://microblog.chrisenns.com/2022/10/26/theres-a-great.html"
 			},
@@ -1403,7 +1411,7 @@
 				"id": "http://ichris.micro.blog/2022/10/26/macrumors-writers-how.html",
 				
 				"content_html": "<p>MacRumors writers: &ldquo;How do we illustrate that a <a href=\"https://www.macrumors.com/2022/10/26/16-inch-ipad-next-year-report/\">rumored 16&rdquo; iPad is bigger than the current 12.9&quot; iPad Pro?</a>&quot;</p>\n<p>MacRumors graphic department: &ldquo;On it!&rdquo;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "MacRumors writers: \"How do we illustrate that a [rumored 16\" iPad is bigger than the current 12.9\" iPad Pro?](https://www.macrumors.com/2022/10/26/16-inch-ipad-next-year-report/)\"\n\nMacRumors graphic department: \"On it!\"\n\n<img src=\"uploads/2022/946f2eed8f.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "MacRumors writers: \"How do we illustrate that a [rumored 16\" iPad is bigger than the current 12.9\" iPad Pro?](https://www.macrumors.com/2022/10/26/16-inch-ipad-next-year-report/)\"\n\nMacRumors graphic department: \"On it!\"\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/946f2eed8f.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2022-10-26T10:09:36-06:00",
 				"url": "https://microblog.chrisenns.com/2022/10/26/macrumors-writers-how.html"
 			},
@@ -1411,7 +1419,7 @@
 				"id": "http://ichris.micro.blog/2022/10/25/this-is-a.html",
 				
 				"content_html": "<p>This is a friend’s new puppy here to cleanse the timeline.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This is a friend’s new puppy here to cleanse the timeline.\n\n<img src=\"uploads/2022/1b3392335f.jpg\" width=\"600\" height=\"453\" alt=\"\">\n",
+				"content_text": "This is a friend’s new puppy here to cleanse the timeline.\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/1b3392335f.jpg\" width=\"600\" height=\"453\" alt=\"\">\n",
 				"date_published": "2022-10-25T23:33:34-06:00",
 				"url": "https://microblog.chrisenns.com/2022/10/25/this-is-a.html"
 			},
@@ -1443,7 +1451,7 @@
 				"id": "http://ichris.micro.blog/2022/10/24/idea-for-a.html",
 				
 				"content_html": "<p>Idea for a new add-on service I could offer clients: check your breathing rhythm to make sure you&rsquo;re getting enough oxygen. (This is @stolinski&rsquo;s pattern. Seems healthy enough to my non-doctor eyes. 💯/ 💯)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Idea for a new add-on service I could offer clients: check your breathing rhythm to make sure you're getting enough oxygen. (This is @stolinski's pattern. Seems healthy enough to my non-doctor eyes. 💯/ 💯)\n\n<img src=\"uploads/2022/50527104c9.png\" width=\"600\" height=\"286\" alt=\"A close up of a waveform from a podcast recording showing little bumps in the audio where a breath likely happened.\">\n",
+				"content_text": "Idea for a new add-on service I could offer clients: check your breathing rhythm to make sure you're getting enough oxygen. (This is @stolinski's pattern. Seems healthy enough to my non-doctor eyes. 💯/ 💯)\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/50527104c9.png\" width=\"600\" height=\"286\" alt=\"A close up of a waveform from a podcast recording showing little bumps in the audio where a breath likely happened.\">\n",
 				"date_published": "2022-10-24T11:19:27-06:00",
 				"url": "https://microblog.chrisenns.com/2022/10/24/idea-for-a.html"
 			},
@@ -1459,7 +1467,7 @@
 				"id": "http://ichris.micro.blog/2022/10/24/075142.html",
 				
 				"content_html": "<p>❄️</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "❄️ \n\n<img src=\"uploads/2022/840aec4f3a.jpg\" width=\"600\" height=\"450\" alt=\"Deck with table and 2 chairs all with a covering of an inch or two of snow. \">\n",
+				"content_text": "❄️ \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/840aec4f3a.jpg\" width=\"600\" height=\"450\" alt=\"Deck with table and 2 chairs all with a covering of an inch or two of snow. \">\n",
 				"date_published": "2022-10-24T07:51:42-06:00",
 				"url": "https://microblog.chrisenns.com/2022/10/24/075142.html"
 			},
@@ -1483,7 +1491,7 @@
 				"id": "http://ichris.micro.blog/2022/10/22/still-mowing-the.html",
 				
 				"content_html": "<p>Still mowing the lawn and nearing the end of October. Not bad. ☀️</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Still mowing the lawn and nearing the end of October. Not bad. ☀️ \n\n<img src=\"uploads/2022/d87a8239b7.jpg\" width=\"450\" height=\"600\" alt=\"Photo of my lawn mower and cut grass. \">\n",
+				"content_text": "Still mowing the lawn and nearing the end of October. Not bad. ☀️ \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/d87a8239b7.jpg\" width=\"450\" height=\"600\" alt=\"Photo of my lawn mower and cut grass. \">\n",
 				"date_published": "2022-10-22T16:19:13-06:00",
 				"url": "https://microblog.chrisenns.com/2022/10/22/still-mowing-the.html"
 			},
@@ -1499,7 +1507,7 @@
 				"id": "http://ichris.micro.blog/2022/10/21/i-woke-up.html",
 				
 				"content_html": "<p>I woke up to 26 tabs of the same thing. I think my @elgato Stream Deck is trying to phone home?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I woke up to 26 tabs of the same thing. I think my @elgato Stream Deck is trying to phone home? \n\n<img src=\"uploads/2022/c61660383a.png\" width=\"600\" height=\"330\" alt=\"Screenshot of 26 Safari tabs all with a Google logo and the current tab showing a dialogue box asking me to choose an account to continue to Elgato Stream Deck and a couple of my google accounts listed below.\">\n",
+				"content_text": "I woke up to 26 tabs of the same thing. I think my @elgato Stream Deck is trying to phone home? \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/c61660383a.png\" width=\"600\" height=\"330\" alt=\"Screenshot of 26 Safari tabs all with a Google logo and the current tab showing a dialogue box asking me to choose an account to continue to Elgato Stream Deck and a couple of my google accounts listed below.\">\n",
 				"date_published": "2022-10-21T09:48:46-06:00",
 				"url": "https://microblog.chrisenns.com/2022/10/21/i-woke-up.html"
 			},
@@ -1507,7 +1515,7 @@
 				"id": "http://ichris.micro.blog/2022/10/20/nice-update-to.html",
 				
 				"content_html": "<p>Nice update to <a href=\"https://reincubate.com/camo/\">Camo</a> enabling Wi-Fi connections to your iOS device that you&rsquo;re using as a webcam or Zoom camera. Super easy to add a new device as a camera anywhere your network can reach.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Nice update to [Camo](https://reincubate.com/camo/) enabling Wi-Fi connections to your iOS device that you're using as a webcam or Zoom camera. Super easy to add a new device as a camera anywhere your network can reach.\n\n<img src=\"uploads/2022/afae1b5a66.png\" width=\"600\" height=\"531\" alt=\"We're excited to be launching Camo 1.9 today, which brings support for wireless&10;connections to devices running both iOS and Android! Find out more about the release.&10;If you run into any problems, please reach out to us at support@reincubate.com. We'd love&10;to help and hear from you.&10;Feature: Connect your iOS or Android device to your computer via Wi-Fi. No more&10;wires!&10;Feature: Camo is now localised in Arabic, our first RTL language.&10;Feature: Full support for macOS Ventura.&10;Fix: We've fixed a bug which meant the Studio Display microphone wouldn't appear in&10;the Mic dropdown in Camo Studio.\">\n",
+				"content_text": "Nice update to [Camo](https://reincubate.com/camo/) enabling Wi-Fi connections to your iOS device that you're using as a webcam or Zoom camera. Super easy to add a new device as a camera anywhere your network can reach.\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/afae1b5a66.png\" width=\"600\" height=\"531\" alt=\"We're excited to be launching Camo 1.9 today, which brings support for wireless&10;connections to devices running both iOS and Android! Find out more about the release.&10;If you run into any problems, please reach out to us at support@reincubate.com. We'd love&10;to help and hear from you.&10;Feature: Connect your iOS or Android device to your computer via Wi-Fi. No more&10;wires!&10;Feature: Camo is now localised in Arabic, our first RTL language.&10;Feature: Full support for macOS Ventura.&10;Fix: We've fixed a bug which meant the Studio Display microphone wouldn't appear in&10;the Mic dropdown in Camo Studio.\">\n",
 				"date_published": "2022-10-20T13:35:12-06:00",
 				"url": "https://microblog.chrisenns.com/2022/10/20/nice-update-to.html"
 			},
@@ -1515,7 +1523,7 @@
 				"id": "http://ichris.micro.blog/2022/10/20/well-surely-that.html",
 				
 				"content_html": "<p>Well surely that sign wasn’t directed at me?!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Well surely that sign wasn’t directed at me?! \n\n<img src=\"uploads/2022/0a773cb31f.jpg\" width=\"600\" height=\"450\" alt=\"A sign reading “don’t eat me” in front of a piece of cake in a package on a kitchen counter. \">\n",
+				"content_text": "Well surely that sign wasn’t directed at me?! \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/0a773cb31f.jpg\" width=\"600\" height=\"450\" alt=\"A sign reading “don’t eat me” in front of a piece of cake in a package on a kitchen counter. \">\n",
 				"date_published": "2022-10-20T08:51:02-06:00",
 				"url": "https://microblog.chrisenns.com/2022/10/20/well-surely-that.html",
 				"tags": ["Life"]
@@ -1532,7 +1540,7 @@
 				"id": "http://ichris.micro.blog/2022/10/19/i-always-know.html",
 				
 				"content_html": "<p>I always know it&rsquo;s going to be a great recording to edit when this is the accompanying screenshot from a client. 😱 😂</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I always know it's going to be a great recording to edit when this is the accompanying screenshot from a client. 😱 😂  \n\n<img src=\"uploads/2022/81fa141b97.png\" width=\"600\" height=\"447\" alt=\"Screenshot from macOS system preferences saying “Preferences Error - Could not load Sound preference pan.”\">\n",
+				"content_text": "I always know it's going to be a great recording to edit when this is the accompanying screenshot from a client. 😱 😂  \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/81fa141b97.png\" width=\"600\" height=\"447\" alt=\"Screenshot from macOS system preferences saying “Preferences Error - Could not load Sound preference pan.”\">\n",
 				"date_published": "2022-10-19T11:20:10-06:00",
 				"url": "https://microblog.chrisenns.com/2022/10/19/i-always-know.html"
 			},
@@ -1540,7 +1548,7 @@
 				"id": "http://ichris.micro.blog/2022/10/18/you-technically-cant.html",
 				
 				"content_html": "<p>You technically can&rsquo;t really see your dog run away for days in Saskatchewan, but there&rsquo;s some justification for it as an unofficial tagline for our province.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "You technically can't really see your dog run away for days in Saskatchewan, but there's some justification for it as an unofficial tagline for our province.\n\n<img src=\"uploads/2022/ec5ca1a8df.jpg\" width=\"600\" height=\"438\" alt=\"A harvested field, and blue skies with a few clouds.\"><img src=\"uploads/2022/496de0389e.jpg\" width=\"600\" height=\"466\" alt=\"A fence post in the foreground with barbed wire fencing, with a harvested field in the background, and blue skies with a few clouds.\">\n",
+				"content_text": "You technically can't really see your dog run away for days in Saskatchewan, but there's some justification for it as an unofficial tagline for our province.\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/ec5ca1a8df.jpg\" width=\"600\" height=\"438\" alt=\"A harvested field, and blue skies with a few clouds.\"><img src=\"https://cdn.uploads.micro.blog/1068/2022/496de0389e.jpg\" width=\"600\" height=\"466\" alt=\"A fence post in the foreground with barbed wire fencing, with a harvested field in the background, and blue skies with a few clouds.\">\n",
 				"date_published": "2022-10-18T16:14:32-06:00",
 				"url": "https://microblog.chrisenns.com/2022/10/18/you-technically-cant.html"
 			},
@@ -1612,7 +1620,7 @@
 				"id": "http://ichris.micro.blog/2022/10/15/i-think-my.html",
 				
 				"content_html": "<p>I think my glasses, which I’ve glued three or four times already, might not be long for this world.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I think my glasses, which I’ve glued three or four times already, might not be long for this world. \n\n<img src=\"uploads/2022/c298b147d3.jpg\" width=\"518\" height=\"600\" alt=\"\">\n",
+				"content_text": "I think my glasses, which I’ve glued three or four times already, might not be long for this world. \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/c298b147d3.jpg\" width=\"518\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-10-15T10:43:33-06:00",
 				"url": "https://microblog.chrisenns.com/2022/10/15/i-think-my.html"
 			},
@@ -1620,7 +1628,7 @@
 				"id": "http://ichris.micro.blog/2022/10/14/dark-light-themed.html",
 				
 				"content_html": "<p>Dark / light themed websites are so 2022. Get with the times and offer multiple themes like Domino&rsquo;s delivery tracker.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Dark / light themed websites are so 2022. Get with the times and offer multiple themes like Domino's delivery tracker. \n\n<img src=\"uploads/2022/5c9d35c391.png\" width=\"600\" height=\"190\" alt=\"\">\n",
+				"content_text": "Dark / light themed websites are so 2022. Get with the times and offer multiple themes like Domino's delivery tracker. \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/5c9d35c391.png\" width=\"600\" height=\"190\" alt=\"\">\n",
 				"date_published": "2022-10-14T17:03:22-06:00",
 				"url": "https://microblog.chrisenns.com/2022/10/14/dark-light-themed.html"
 			},
@@ -1628,7 +1636,7 @@
 				"id": "http://ichris.micro.blog/2022/10/13/posting-a-pic.html",
 				
 				"content_html": "<p>Posting a pic for Micro.blog’s A Day in the Life 2022. Needing a shower, shave, and a haircut but at least I have coffee and headphones?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Posting a pic for Micro.blog’s A Day in the Life 2022. Needing a shower, shave, and a haircut but at least I have coffee and headphones?\n\n<img src=\"uploads/2022/3b14da9d11.jpg\" width=\"450\" height=\"600\" alt=\"Chris holding a coffee mug and smiling at the camera.\">\n",
+				"content_text": "Posting a pic for Micro.blog’s A Day in the Life 2022. Needing a shower, shave, and a haircut but at least I have coffee and headphones?\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/3b14da9d11.jpg\" width=\"450\" height=\"600\" alt=\"Chris holding a coffee mug and smiling at the camera.\">\n",
 				"date_published": "2022-10-13T11:22:11-06:00",
 				"url": "https://microblog.chrisenns.com/2022/10/13/posting-a-pic.html"
 			},
@@ -1676,7 +1684,7 @@
 				"id": "http://ichris.micro.blog/2022/10/11/been-seeing-a.html",
 				
 				"content_html": "<p>Been seeing a lot of these kinds of spiders this fall in our house. Siri Photo ID thinks Wolf Spider or Nursery Spider. 🤷‍♂️</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Been seeing a lot of these kinds of spiders this fall in our house. Siri Photo ID thinks Wolf Spider or Nursery Spider. 🤷‍♂️ \n\n<img src=\"uploads/2022/a894eae6b7.jpg\" width=\"490\" height=\"600\" alt=\"\"><img src=\"uploads/2022/3d2ce07b57.jpg\" width=\"325\" height=\"600\" alt=\"\">\n",
+				"content_text": "Been seeing a lot of these kinds of spiders this fall in our house. Siri Photo ID thinks Wolf Spider or Nursery Spider. 🤷‍♂️ \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/a894eae6b7.jpg\" width=\"490\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/1068/2022/3d2ce07b57.jpg\" width=\"325\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-10-11T21:34:21-06:00",
 				"url": "https://microblog.chrisenns.com/2022/10/11/been-seeing-a.html"
 			},
@@ -1724,7 +1732,7 @@
 				"id": "http://ichris.micro.blog/2022/10/06/breaking-my-macos.html",
 				"title": "Breaking My macOS Rule of Not Replacing Default Mac Apps with Raycast and Warp",
 				"content_html": "<p>I think it might have been <a href=\"https://twitter.com/siracusa\">John Siracusa</a> who I first heard articulate this out loud on a podcast: Don&rsquo;t replace macOS built in functionality if you can&rsquo;t easily replicate that when you go to use a different Mac computer without that app or plugin built in.</p>\n<p>Some of the common examples at the time were apps like <a href=\"https://www.alfredapp.com\">Alfred</a>, <a href=\"https://www.cocoatech.io\">Path Finder</a>, or <a href=\"https://textexpander.com\">TextExpander</a> - apps that added features or functionality that I would feel lost without when I went to troubleshoot a friend or family member&rsquo;s Mac.</p>\n<p>Gradually I&rsquo;ve been more and more ok with using apps even though they change the fundamental macOS experience - TextExpander being the main one I&rsquo;ve grown so accustomed to having over the years.</p>\n<p>Recently I decided to change the default shortcut - ⌘-Spacebar - for Spotlight that made me realize I had replaced core functionality in macOS with a 3rd party app: <a href=\"https://www.raycast.com\">Raycast</a>. And I also took a deeper nerd dive and have started using <a href=\"https://www.warp.dev\">Warp</a> in place of the default Terminal app for the few times I dip into command line world.</p>\n<h2 id=\"why-warp\">Why Warp?</h2>\n<p>I&rsquo;ll skip talking much about Warp because it&rsquo;s way out of my depth in terms of benefits or reasons why a proper developer should use it - but for a newbie like me, the main reason I like it is because it makes the Terminal and command line world much more user friendly to dig into. The secondary reason is that a lot of my <a href=\"https://www.lemonproductions.ca/portfolio/\">clients</a> won&rsquo;t stop talking about it. :)</p>\n<h2 id=\"why-raycast\">Why Raycast?</h2>\n<p>With Raycast however, it&rsquo;s because of how similar it feels to using Spotlight that I&rsquo;ve decided to make the switch. It&rsquo;s fast (or faster) than Spotlight is at finding an app I need to run, or a document I&rsquo;ve been working on. And I can slowly build up muscle memory with all the <a href=\"https://www.raycast.com/store\">extensions</a> available for Raycast.</p>\n<p>Here&rsquo;s a few extensions I&rsquo;ve been using:</p>\n<ul>\n<li>The main extension I started using is for <a href=\"https://toggl.com\">Toggl</a> - <a href=\"https://www.raycast.com/franzwilhelm/toggl-track\">Toggl Track</a>, a time tracking app I use to track my work. With a couple quick keyboard shortcuts, I can start a timer for a podcast or video I&rsquo;m editing, and don&rsquo;t have to think about it again.</li>\n<li>The <a href=\"https://www.raycast.com/tonka3000/twitter\">Twitter extension</a> is also handy for quickly seeing tweets I&rsquo;ve recently sent, or finding a user or tweet that I need to reference for a client&rsquo;s episode notes.</li>\n<li><a href=\"https://www.raycast.com/FezVrasta/emoji\">Emoji Search</a> is a handy way to find an emoji when I don&rsquo;t have my MacBook Pro Touch Bar within reach.</li>\n<li><a href=\"https://www.raycast.com/HenriChabrand/notion\">Notion</a> is an easy way to search or start a new page inside Notion.</li>\n<li>Raycast&rsquo;s own confetti extension is handy for quickly celebrating a win all by myself. 🎉🎊</li>\n<li><a href=\"https://www.raycast.com/tumtum/apple-notes\">Apple Notes</a> search is super handy for quickly finding the note with our van&rsquo;s license plate or the size of that basement window.</li>\n<li><a href=\"https://www.raycast.com/laurynas/savvycal\">Savvycal</a> allows me to quickly grab a meeting link to send to a client.</li>\n</ul>\n<p>Raycast could also replace TextExpander with their <a href=\"https://manual.raycast.com/snippets\">Snippets</a> feature. I&rsquo;ve just started using them for new shortcuts I need, but I can see myself gradually replacing TextExpander with this if it works as well for all my other snippets as it has so far.</p>\n<p>There is also <a href=\"https://manual.raycast.com/window-management\">Window Management</a> built into Raycast that could potentially replace <a href=\"https://rectangleapp.com/pro\">Rectangle Pro</a> as my current app of choice for moving windows around automagically with shortcuts.</p>\n<p>In addition to all the features of the app, Raycast also has some great <a href=\"https://www.raycast.com/wallpapers\">wallpapers</a> for your Mac or iOS device of choice.</p>\n<p>I know I&rsquo;m barely scratching the surface of what Raycast - and especially Warp - can do to make my podcast editing business life easier on my Mac, but it&rsquo;s fun to feel a little more like a power user again after not messing around with it too much in recent years.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I think it might have been [John Siracusa](https://twitter.com/siracusa) who I first heard articulate this out loud on a podcast: Don't replace macOS built in functionality if you can't easily replicate that when you go to use a different Mac computer without that app or plugin built in.\n\nSome of the common examples at the time were apps like [Alfred](https://www.alfredapp.com), [Path Finder](https://www.cocoatech.io), or [TextExpander](https://textexpander.com) - apps that added features or functionality that I would feel lost without when I went to troubleshoot a friend or family member's Mac.\n\nGradually I've been more and more ok with using apps even though they change the fundamental macOS experience - TextExpander being the main one I've grown so accustomed to having over the years.\n\nRecently I decided to change the default shortcut - ⌘-Spacebar - for Spotlight that made me realize I had replaced core functionality in macOS with a 3rd party app: [Raycast](https://www.raycast.com). And I also took a deeper nerd dive and have started using [Warp](https://www.warp.dev) in place of the default Terminal app for the few times I dip into command line world.\n\n## Why Warp?\n\nI'll skip talking much about Warp because it's way out of my depth in terms of benefits or reasons why a proper developer should use it - but for a newbie like me, the main reason I like it is because it makes the Terminal and command line world much more user friendly to dig into. The secondary reason is that a lot of my [clients](https://www.lemonproductions.ca/portfolio/) won't stop talking about it. :)\n\n## Why Raycast?\n\nWith Raycast however, it's because of how similar it feels to using Spotlight that I've decided to make the switch. It's fast (or faster) than Spotlight is at finding an app I need to run, or a document I've been working on. And I can slowly build up muscle memory with all the [extensions](https://www.raycast.com/store) available for Raycast.\n\nHere's a few extensions I've been using:\n\n- The main extension I started using is for [Toggl](https://toggl.com) - [Toggl Track](https://www.raycast.com/franzwilhelm/toggl-track), a time tracking app I use to track my work. With a couple quick keyboard shortcuts, I can start a timer for a podcast or video I'm editing, and don't have to think about it again. \n- The [Twitter extension](https://www.raycast.com/tonka3000/twitter) is also handy for quickly seeing tweets I've recently sent, or finding a user or tweet that I need to reference for a client's episode notes.\n- [Emoji Search](https://www.raycast.com/FezVrasta/emoji) is a handy way to find an emoji when I don't have my MacBook Pro Touch Bar within reach.\n- [Notion](https://www.raycast.com/HenriChabrand/notion) is an easy way to search or start a new page inside Notion.\n- Raycast's own confetti extension is handy for quickly celebrating a win all by myself. 🎉🎊\n- [Apple Notes](https://www.raycast.com/tumtum/apple-notes) search is super handy for quickly finding the note with our van's license plate or the size of that basement window.\n- [Savvycal](https://www.raycast.com/laurynas/savvycal) allows me to quickly grab a meeting link to send to a client.\n\nRaycast could also replace TextExpander with their [Snippets](https://manual.raycast.com/snippets) feature. I've just started using them for new shortcuts I need, but I can see myself gradually replacing TextExpander with this if it works as well for all my other snippets as it has so far.\n\nThere is also [Window Management](https://manual.raycast.com/window-management) built into Raycast that could potentially replace [Rectangle Pro](https://rectangleapp.com/pro) as my current app of choice for moving windows around automagically with shortcuts.\n\nIn addition to all the features of the app, Raycast also has some great [wallpapers](https://www.raycast.com/wallpapers) for your Mac or iOS device of choice.\n\nI know I'm barely scratching the surface of what Raycast - and especially Warp - can do to make my podcast editing business life easier on my Mac, but it's fun to feel a little more like a power user again after not messing around with it too much in recent years.\n\n<img src=\"uploads/2022/cd77b57c5a.jpg\" width=\"600\" height=\"391\" alt=\"Screenshot of Raycast with a few options in the list for tracking time, launching Logic Pro, Remote Desktop, emoji search.\">\n",
+				"content_text": "I think it might have been [John Siracusa](https://twitter.com/siracusa) who I first heard articulate this out loud on a podcast: Don't replace macOS built in functionality if you can't easily replicate that when you go to use a different Mac computer without that app or plugin built in.\n\nSome of the common examples at the time were apps like [Alfred](https://www.alfredapp.com), [Path Finder](https://www.cocoatech.io), or [TextExpander](https://textexpander.com) - apps that added features or functionality that I would feel lost without when I went to troubleshoot a friend or family member's Mac.\n\nGradually I've been more and more ok with using apps even though they change the fundamental macOS experience - TextExpander being the main one I've grown so accustomed to having over the years.\n\nRecently I decided to change the default shortcut - ⌘-Spacebar - for Spotlight that made me realize I had replaced core functionality in macOS with a 3rd party app: [Raycast](https://www.raycast.com). And I also took a deeper nerd dive and have started using [Warp](https://www.warp.dev) in place of the default Terminal app for the few times I dip into command line world.\n\n## Why Warp?\n\nI'll skip talking much about Warp because it's way out of my depth in terms of benefits or reasons why a proper developer should use it - but for a newbie like me, the main reason I like it is because it makes the Terminal and command line world much more user friendly to dig into. The secondary reason is that a lot of my [clients](https://www.lemonproductions.ca/portfolio/) won't stop talking about it. :)\n\n## Why Raycast?\n\nWith Raycast however, it's because of how similar it feels to using Spotlight that I've decided to make the switch. It's fast (or faster) than Spotlight is at finding an app I need to run, or a document I've been working on. And I can slowly build up muscle memory with all the [extensions](https://www.raycast.com/store) available for Raycast.\n\nHere's a few extensions I've been using:\n\n- The main extension I started using is for [Toggl](https://toggl.com) - [Toggl Track](https://www.raycast.com/franzwilhelm/toggl-track), a time tracking app I use to track my work. With a couple quick keyboard shortcuts, I can start a timer for a podcast or video I'm editing, and don't have to think about it again. \n- The [Twitter extension](https://www.raycast.com/tonka3000/twitter) is also handy for quickly seeing tweets I've recently sent, or finding a user or tweet that I need to reference for a client's episode notes.\n- [Emoji Search](https://www.raycast.com/FezVrasta/emoji) is a handy way to find an emoji when I don't have my MacBook Pro Touch Bar within reach.\n- [Notion](https://www.raycast.com/HenriChabrand/notion) is an easy way to search or start a new page inside Notion.\n- Raycast's own confetti extension is handy for quickly celebrating a win all by myself. 🎉🎊\n- [Apple Notes](https://www.raycast.com/tumtum/apple-notes) search is super handy for quickly finding the note with our van's license plate or the size of that basement window.\n- [Savvycal](https://www.raycast.com/laurynas/savvycal) allows me to quickly grab a meeting link to send to a client.\n\nRaycast could also replace TextExpander with their [Snippets](https://manual.raycast.com/snippets) feature. I've just started using them for new shortcuts I need, but I can see myself gradually replacing TextExpander with this if it works as well for all my other snippets as it has so far.\n\nThere is also [Window Management](https://manual.raycast.com/window-management) built into Raycast that could potentially replace [Rectangle Pro](https://rectangleapp.com/pro) as my current app of choice for moving windows around automagically with shortcuts.\n\nIn addition to all the features of the app, Raycast also has some great [wallpapers](https://www.raycast.com/wallpapers) for your Mac or iOS device of choice.\n\nI know I'm barely scratching the surface of what Raycast - and especially Warp - can do to make my podcast editing business life easier on my Mac, but it's fun to feel a little more like a power user again after not messing around with it too much in recent years.\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/cd77b57c5a.jpg\" width=\"600\" height=\"391\" alt=\"Screenshot of Raycast with a few options in the list for tracking time, launching Logic Pro, Remote Desktop, emoji search.\">\n",
 				"date_published": "2022-10-06T12:13:08-06:00",
 				"url": "https://microblog.chrisenns.com/2022/10/06/breaking-my-macos.html"
 			},
@@ -1772,7 +1780,7 @@
 				"id": "http://ichris.micro.blog/2022/10/03/what-is-that.html",
 				
 				"content_html": "<p>What is that little icon thing and why can&rsquo;t I make it go away?!?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "What is that little icon thing and why can't I make it go away?!? \n\n<img src=\"uploads/2022/a3cfb25727.png\" width=\"342\" height=\"210\" alt=\"A little dot appears in my dock between two apps and I can’t make it disappear. \">\n",
+				"content_text": "What is that little icon thing and why can't I make it go away?!? \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/a3cfb25727.png\" width=\"342\" height=\"210\" alt=\"A little dot appears in my dock between two apps and I can’t make it disappear. \">\n",
 				"date_published": "2022-10-03T10:24:29-06:00",
 				"url": "https://microblog.chrisenns.com/2022/10/03/what-is-that.html"
 			},
@@ -1812,7 +1820,7 @@
 				"id": "http://ichris.micro.blog/2022/09/30/what-would-jesus.html",
 				
 				"content_html": "<p>“What would Jesus do in a steampunk style” #midjourney adventures.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "“What would Jesus do in a steampunk style” #midjourney adventures. \n\n<img src=\"uploads/2022/acf6f5a55d.jpg\" width=\"512\" height=\"512\" alt=\"\"><img src=\"uploads/2022/fa3b4b6ca9.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "“What would Jesus do in a steampunk style” #midjourney adventures. \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/acf6f5a55d.jpg\" width=\"512\" height=\"512\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/1068/2022/fa3b4b6ca9.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-09-30T20:41:56-06:00",
 				"url": "https://microblog.chrisenns.com/2022/09/30/what-would-jesus.html"
 			},
@@ -1820,7 +1828,7 @@
 				"id": "http://ichris.micro.blog/2022/09/29/today-in-midjourney.html",
 				
 				"content_html": "<p>Today in Midjourney experiments: &ldquo;Tim Cook and Bono announcing a new iPhone in steampunk style.&rdquo;</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Today in Midjourney experiments: \"Tim Cook and Bono announcing a new iPhone in steampunk style.\" \n\n<img src=\"uploads/2022/fed339eaf7.png\" width=\"512\" height=\"512\" alt=\"\"><img src=\"uploads/2022/ee9cb8ecfe.png\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Today in Midjourney experiments: \"Tim Cook and Bono announcing a new iPhone in steampunk style.\" \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/fed339eaf7.png\" width=\"512\" height=\"512\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/1068/2022/ee9cb8ecfe.png\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-09-29T14:30:38-06:00",
 				"url": "https://microblog.chrisenns.com/2022/09/29/today-in-midjourney.html"
 			},
@@ -1828,7 +1836,7 @@
 				"id": "http://ichris.micro.blog/2022/09/29/oooh-definitely-looking.html",
 				
 				"content_html": "<p>Oooh definitely looking forward to editing today&rsquo;s <a href=\"https://www.learnwithjason.dev\">Learn with Jason</a> episode.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Oooh definitely looking forward to editing today's [Learn with Jason](https://www.learnwithjason.dev) episode. \n\n<img src=\"uploads/2022/110ed99c38.png\" width=\"600\" height=\"459\" alt=\"Screenshot of a Twitch stream that has a photo of a guitar and the headline “Guitars & HTML” above it.\">\n",
+				"content_text": "Oooh definitely looking forward to editing today's [Learn with Jason](https://www.learnwithjason.dev) episode. \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/110ed99c38.png\" width=\"600\" height=\"459\" alt=\"Screenshot of a Twitch stream that has a photo of a guitar and the headline “Guitars & HTML” above it.\">\n",
 				"date_published": "2022-09-29T11:53:08-06:00",
 				"url": "https://microblog.chrisenns.com/2022/09/29/oooh-definitely-looking.html"
 			},
@@ -1876,7 +1884,7 @@
 				"id": "http://ichris.micro.blog/2022/09/22/my-intel-mbp.html",
 				
 				"content_html": "<p>My 2019 16&quot; Intel MBP is back on this crap again. Restarting randomly. Blergh.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My 2019 16\" Intel MBP is back on this crap again. Restarting randomly. Blergh. \n\n<img src=\"uploads/2022/a9815858a0.png\" width=\"600\" height=\"259\" alt=\"\" />\n",
+				"content_text": "My 2019 16\" Intel MBP is back on this crap again. Restarting randomly. Blergh. \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/a9815858a0.png\" width=\"600\" height=\"259\" alt=\"\" />\n",
 				"date_published": "2022-09-22T15:10:03-06:00",
 				"url": "https://microblog.chrisenns.com/2022/09/22/my-intel-mbp.html"
 			},
@@ -1884,7 +1892,7 @@
 				"id": "http://ichris.micro.blog/2022/09/22/its-day-three.html",
 				
 				"content_html": "<p>It’s day three and still no sign of the lid for the coffee grinder container that my daughter “put away somewhere”. We’ve had to use plastic wrap - like animals! - just to grind our coffee.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "It’s day three and still no sign of the lid for the coffee grinder container that my daughter “put away somewhere”. We’ve had to use plastic wrap - like animals! - just to grind our coffee. \n\n<img src=\"uploads/2022/93a4d72247.jpg\" width=\"535\" height=\"600\" alt=\"\" />\n",
+				"content_text": "It’s day three and still no sign of the lid for the coffee grinder container that my daughter “put away somewhere”. We’ve had to use plastic wrap - like animals! - just to grind our coffee. \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/93a4d72247.jpg\" width=\"535\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-09-22T11:21:14-06:00",
 				"url": "https://microblog.chrisenns.com/2022/09/22/its-day-three.html"
 			},
@@ -1948,7 +1956,7 @@
 				"id": "http://ichris.micro.blog/2022/09/20/now.html",
 				
 				"content_html": "<p>Now.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Now. \n\n<img src=\"uploads/2022/c3e1f544bc.jpg\" width=\"472\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Now. \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/c3e1f544bc.jpg\" width=\"472\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-09-20T12:24:50-06:00",
 				"url": "https://microblog.chrisenns.com/2022/09/20/now.html"
 			},
@@ -1996,7 +2004,7 @@
 				"id": "http://ichris.micro.blog/2022/09/16/sometimes-riverside-accidentally.html",
 				
 				"content_html": "<p>Sometimes Riverside accidentally captures my mood perfectly. 🫠</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Sometimes Riverside accidentally captures my mood perfectly. 🫠\n\n<img src=\"uploads/2022/2e9e88b646.png\" width=\"408\" height=\"408\" alt=\"Webcam view of me with headphones on and looking annoyed even though I was having a great conversation with a client.\" />\n",
+				"content_text": "Sometimes Riverside accidentally captures my mood perfectly. 🫠\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/2e9e88b646.png\" width=\"408\" height=\"408\" alt=\"Webcam view of me with headphones on and looking annoyed even though I was having a great conversation with a client.\" />\n",
 				"date_published": "2022-09-16T12:01:24-06:00",
 				"url": "https://microblog.chrisenns.com/2022/09/16/sometimes-riverside-accidentally.html"
 			},
@@ -2012,7 +2020,7 @@
 				"id": "http://ichris.micro.blog/2022/09/14/reason-why-i.html",
 				
 				"content_html": "<p>Reason #203 why I love the internet: A <a href=\"https://youtu.be/fOQh1llpaQo\">tutorial video</a> I published over 3 years ago was helpful to someone today. I didn&rsquo;t make ad revenue, sell a course, sign anyone up to an email list - just showed how I do something so someone else could learn how to do something.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Reason #203 why I love the internet: A [tutorial video](https://youtu.be/fOQh1llpaQo) I published over 3 years ago was helpful to someone today. I didn't make ad revenue, sell a course, sign anyone up to an email list - just showed how I do something so someone else could learn how to do something. \n\n<img src=\"uploads/2022/00572a803c.png\" width=\"600\" height=\"153\" alt=\"Screenshot of YouTube video titled “How To Add Chapter Markers to Podcasts In Logic Pro X with Forecast” with 1,336 views from January 24, 2019.\" /><img src=\"uploads/2022/e479ef9a2d.png\" width=\"600\" height=\"329\" alt=\"Screenshot of a comment on youtube from someone named Nathan Maingard from 1 hour ago saying “So useful, thank you”\" />\n",
+				"content_text": "Reason #203 why I love the internet: A [tutorial video](https://youtu.be/fOQh1llpaQo) I published over 3 years ago was helpful to someone today. I didn't make ad revenue, sell a course, sign anyone up to an email list - just showed how I do something so someone else could learn how to do something. \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/00572a803c.png\" width=\"600\" height=\"153\" alt=\"Screenshot of YouTube video titled “How To Add Chapter Markers to Podcasts In Logic Pro X with Forecast” with 1,336 views from January 24, 2019.\" /><img src=\"https://cdn.uploads.micro.blog/1068/2022/e479ef9a2d.png\" width=\"600\" height=\"329\" alt=\"Screenshot of a comment on youtube from someone named Nathan Maingard from 1 hour ago saying “So useful, thank you”\" />\n",
 				"date_published": "2022-09-14T09:02:42-06:00",
 				"url": "https://microblog.chrisenns.com/2022/09/14/reason-why-i.html"
 			},
@@ -2174,7 +2182,7 @@
 				"id": "http://ichris.micro.blog/2022/08/30/todays-to-do.html",
 				
 				"content_html": "<p>Today&rsquo;s to do list. 🎧</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Today's to do list. 🎧 \n\n<img src=\"uploads/2022/c8b24c4754.png\" width=\"428\" height=\"518\" alt=\"Screenshot of a bunch of 15 WAV files in a queue to be processed, with metadata for each like mono, 16-bit, 44.1 and a couple 48k, and various time lengths.\" />\n",
+				"content_text": "Today's to do list. 🎧 \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/c8b24c4754.png\" width=\"428\" height=\"518\" alt=\"Screenshot of a bunch of 15 WAV files in a queue to be processed, with metadata for each like mono, 16-bit, 44.1 and a couple 48k, and various time lengths.\" />\n",
 				"date_published": "2022-08-30T10:27:59-06:00",
 				"url": "https://microblog.chrisenns.com/2022/08/30/todays-to-do.html"
 			},
@@ -2198,7 +2206,7 @@
 				"id": "http://ichris.micro.blog/2022/08/26/its-all-quiet.html",
 				
 				"content_html": "<p>It’s all quiet across the lake tonight except for the boat blasting something about “slappa dat ass”, and the group arguing about Moe handing out money to distract from what’s really going on. #momentofzen</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "It’s all quiet across the lake tonight except for the boat blasting something about “slappa dat ass”, and the group arguing about Moe handing out money to distract from what’s really going on. #momentofzen \n\n<img src=\"uploads/2022/93d54330cc.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "It’s all quiet across the lake tonight except for the boat blasting something about “slappa dat ass”, and the group arguing about Moe handing out money to distract from what’s really going on. #momentofzen \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/93d54330cc.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-08-26T22:55:26-06:00",
 				"url": "https://microblog.chrisenns.com/2022/08/26/its-all-quiet.html"
 			},
@@ -2366,7 +2374,7 @@
 				"id": "http://ichris.micro.blog/2022/08/13/today-i-organized.html",
 				
 				"content_html": "<p>Today I organized the wood.\nTonight I’m organizing the ibuprofen.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Today I organized the wood. \nTonight I’m organizing the ibuprofen.\n\n<img src=\"uploads/2022/1028bcb4e0.jpg\" width=\"600\" height=\"339\" alt=\"a ohoto of a bunch of wood chopped for firewood agaiinst a fence. \" />\n",
+				"content_text": "Today I organized the wood. \nTonight I’m organizing the ibuprofen.\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/1028bcb4e0.jpg\" width=\"600\" height=\"339\" alt=\"a ohoto of a bunch of wood chopped for firewood agaiinst a fence. \" />\n",
 				"date_published": "2022-08-13T21:52:13-06:00",
 				"url": "https://microblog.chrisenns.com/2022/08/13/today-i-organized.html"
 			},
@@ -2374,7 +2382,7 @@
 				"id": "http://ichris.micro.blog/2022/08/13/meanwhile-on-tiktok.html",
 				
 				"content_html": "<p>Meanwhile on tiktok. #ketchupacondimemt?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Meanwhile on tiktok. #ketchupacondimemt? \n\n<img src=\"uploads/2022/34e27d0d85.png\" width=\"277\" height=\"600\" alt=\"advert on tiktok asking how likely i am to buy Heinz condiments the next time you bbq?\" />\n",
+				"content_text": "Meanwhile on tiktok. #ketchupacondimemt? \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/34e27d0d85.png\" width=\"277\" height=\"600\" alt=\"advert on tiktok asking how likely i am to buy Heinz condiments the next time you bbq?\" />\n",
 				"date_published": "2022-08-13T20:08:53-06:00",
 				"url": "https://microblog.chrisenns.com/2022/08/13/meanwhile-on-tiktok.html"
 			},
@@ -2390,7 +2398,7 @@
 				"id": "http://ichris.micro.blog/2022/08/13/its-hot-out.html",
 				
 				"content_html": "<p>It’s hot out (30C / 86F) which is a great time to trim the beard outside.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "It’s hot out (30C / 86F) which is a great time to trim the beard outside. \n\n<img src=\"uploads/2022/8590be15f2.jpg\" width=\"599\" height=\"600\" alt=\"Selfie of me using a electric razor to trim my beard. \" />\n",
+				"content_text": "It’s hot out (30C / 86F) which is a great time to trim the beard outside. \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/8590be15f2.jpg\" width=\"599\" height=\"600\" alt=\"Selfie of me using a electric razor to trim my beard. \" />\n",
 				"date_published": "2022-08-13T12:27:30-06:00",
 				"url": "https://microblog.chrisenns.com/2022/08/13/its-hot-out.html"
 			},
@@ -2414,7 +2422,7 @@
 				"id": "http://ichris.micro.blog/2022/08/12/each-week-when.html",
 				
 				"content_html": "<p>Each week when working in Final Cut Pro I inch closer and closer to that &ldquo;continue&rdquo; button on a Mac Studio, but then something happens like &ldquo;a kid needs braces&rdquo; or &ldquo;credit card bill arrived&rdquo; and I stop myself. #moneymoneymoney</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Each week when working in Final Cut Pro I inch closer and closer to that \"continue\" button on a Mac Studio, but then something happens like \"a kid needs braces\" or \"credit card bill arrived\" and I stop myself. #moneymoneymoney\n\n<img src=\"uploads/2022/a7fe1d80db.png\" width=\"600\" height=\"444\" alt=\"A Apple store config page for the Mac Studio with an M1 Max, 10 core CPU, 32 core GPU, 64GB RAM, 1TB SSD for $3,499CAD + tax.\" />\n",
+				"content_text": "Each week when working in Final Cut Pro I inch closer and closer to that \"continue\" button on a Mac Studio, but then something happens like \"a kid needs braces\" or \"credit card bill arrived\" and I stop myself. #moneymoneymoney\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/a7fe1d80db.png\" width=\"600\" height=\"444\" alt=\"A Apple store config page for the Mac Studio with an M1 Max, 10 core CPU, 32 core GPU, 64GB RAM, 1TB SSD for $3,499CAD + tax.\" />\n",
 				"date_published": "2022-08-12T09:48:11-06:00",
 				"url": "https://microblog.chrisenns.com/2022/08/12/each-week-when.html"
 			},
@@ -2430,7 +2438,7 @@
 				"id": "http://ichris.micro.blog/2022/08/11/somehow-this-full.html",
 				
 				"content_html": "<p>Somehow this full set of the Harry Potter audiobooks made it past the crack legal team at Apple Podcasts. 😂 🧙‍♂️</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Somehow this full set of the Harry Potter audiobooks made it past the crack legal team at Apple Podcasts. 😂 🧙‍♂️ \n\n<img src=\"uploads/2022/1654a682c0.png\" width=\"600\" height=\"279\" alt=\"Screenshot from Apple Podcasts reads “Parry Hotter Audiobooks” \" />\n",
+				"content_text": "Somehow this full set of the Harry Potter audiobooks made it past the crack legal team at Apple Podcasts. 😂 🧙‍♂️ \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/1654a682c0.png\" width=\"600\" height=\"279\" alt=\"Screenshot from Apple Podcasts reads “Parry Hotter Audiobooks” \" />\n",
 				"date_published": "2022-08-11T16:26:01-06:00",
 				"url": "https://microblog.chrisenns.com/2022/08/11/somehow-this-full.html"
 			},
@@ -2446,7 +2454,7 @@
 				"id": "http://ichris.micro.blog/2022/08/10/yet-another-reason.html",
 				
 				"content_html": "<p>Yet another reason I ❤️ @TransistorFM for podcast hosting - they now support importing ID3v2 chapter markers to episodes.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Yet another reason I ❤️ @TransistorFM for podcast hosting - they now support importing ID3v2 chapter markers to episodes. \n\n<img src=\"uploads/2022/8a7c495d01.png\" width=\"600\" height=\"209\" alt=\"Screesnhot from Transistor podcast host admin page with a checkbox that reads: Automatically add ID3v2 chapters to show notes.\" />\n",
+				"content_text": "Yet another reason I ❤️ @TransistorFM for podcast hosting - they now support importing ID3v2 chapter markers to episodes. \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/8a7c495d01.png\" width=\"600\" height=\"209\" alt=\"Screesnhot from Transistor podcast host admin page with a checkbox that reads: Automatically add ID3v2 chapters to show notes.\" />\n",
 				"date_published": "2022-08-10T13:15:40-06:00",
 				"url": "https://microblog.chrisenns.com/2022/08/10/yet-another-reason.html"
 			},
@@ -2462,7 +2470,7 @@
 				"id": "http://ichris.micro.blog/2022/08/10/waiting-for-a.html",
 				
 				"content_html": "<p>Waiting for a coffee order. ☕️ 👣</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Waiting for a coffee order. ☕️ 👣 \n\n<img src=\"uploads/2022/9586d7a9f3.jpg\" width=\"450\" height=\"600\" alt=\"floor of a coffee shop + my feet\" />\n",
+				"content_text": "Waiting for a coffee order. ☕️ 👣 \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/9586d7a9f3.jpg\" width=\"450\" height=\"600\" alt=\"floor of a coffee shop + my feet\" />\n",
 				"date_published": "2022-08-10T10:34:05-06:00",
 				"url": "https://microblog.chrisenns.com/2022/08/10/waiting-for-a.html"
 			},
@@ -2671,7 +2679,7 @@
 				"id": "http://ichris.micro.blog/2022/07/26/i-really-enjoy.html",
 				
 				"content_html": "<p>I really enjoy putting something topical in the Notion page header image location, but this is by far my favorite one that makes me smile every time I load the page.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I really enjoy putting something topical in the Notion page header image location, but this is by far my favorite one that makes me smile every time I load the page. \n\n<img src=\"uploads/2022/5cab4b94e7.png\" width=\"600\" height=\"340\" alt=\"A Notion page labelled “Quotes” has a screengrab from Hamilton of Lin Manuel Miranda looking down in the screenshot with someone in front of the tv holding up a phone making it look like Miranda is looking out of the video on to someone’s phone.\" />\n",
+				"content_text": "I really enjoy putting something topical in the Notion page header image location, but this is by far my favorite one that makes me smile every time I load the page. \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/5cab4b94e7.png\" width=\"600\" height=\"340\" alt=\"A Notion page labelled “Quotes” has a screengrab from Hamilton of Lin Manuel Miranda looking down in the screenshot with someone in front of the tv holding up a phone making it look like Miranda is looking out of the video on to someone’s phone.\" />\n",
 				"date_published": "2022-07-26T09:59:30-06:00",
 				"url": "https://microblog.chrisenns.com/2022/07/26/i-really-enjoy.html"
 			},
@@ -2679,7 +2687,7 @@
 				"id": "http://ichris.micro.blog/2022/07/26/im-sure-duckdns.html",
 				
 				"content_html": "<p>I&rsquo;m sure DuckDNS is a perfectly safe and normal Government of Canada domain they use for totally legit purposes.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I'm sure DuckDNS is a perfectly safe and normal Government of Canada domain they use for totally legit purposes.\n\n<img src=\"uploads/2022/c44b2c4721.png\" width=\"600\" height=\"361\" alt=\"Messages screenshot from a text that reads: The Government of Canada has verrified&10;your eligibility for the CRSB benefit.&10;Visit: https://cagency-sccc.duckdns.org\" />\n",
+				"content_text": "I'm sure DuckDNS is a perfectly safe and normal Government of Canada domain they use for totally legit purposes.\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/c44b2c4721.png\" width=\"600\" height=\"361\" alt=\"Messages screenshot from a text that reads: The Government of Canada has verrified&10;your eligibility for the CRSB benefit.&10;Visit: https://cagency-sccc.duckdns.org\" />\n",
 				"date_published": "2022-07-26T09:53:37-06:00",
 				"url": "https://microblog.chrisenns.com/2022/07/26/im-sure-duckdns.html"
 			},
@@ -2695,7 +2703,7 @@
 				"id": "http://ichris.micro.blog/2022/07/24/harry-potter-munchkin.html",
 				
 				"content_html": "<p>Harry Potter Munchkin morning.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Harry Potter Munchkin morning. \n\n<img src=\"uploads/2022/16990533fb.jpg\" width=\"600\" height=\"600\" alt=\"photo of cards from Munchkin version of Harry Potter\" />\n",
+				"content_text": "Harry Potter Munchkin morning. \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/16990533fb.jpg\" width=\"600\" height=\"600\" alt=\"photo of cards from Munchkin version of Harry Potter\" />\n",
 				"date_published": "2022-07-24T10:51:32-06:00",
 				"url": "https://microblog.chrisenns.com/2022/07/24/harry-potter-munchkin.html"
 			},
@@ -2776,7 +2784,7 @@
 				"id": "http://ichris.micro.blog/2022/07/18/this-tiktok-is.html",
 				
 				"content_html": "<p><a href=\"https://vm.tiktok.com/ZMNHyVEEv/?k=1\">This tiktok is listing</a> some of the things tiktok (and other apps no doubt) track about users and mentions “keystroke patterns or rhythms” as a way to track people across apps. Is that for real? On iOS and Android?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[This tiktok is listing](https://vm.tiktok.com/ZMNHyVEEv/?k=1) some of the things tiktok (and other apps no doubt) track about users and mentions “keystroke patterns or rhythms” as a way to track people across apps. Is that for real? On iOS and Android?\n\n<img src=\"uploads/2022/9d2aee2913.png\" width=\"412\" height=\"600\" alt=\"\" />\n",
+				"content_text": "[This tiktok is listing](https://vm.tiktok.com/ZMNHyVEEv/?k=1) some of the things tiktok (and other apps no doubt) track about users and mentions “keystroke patterns or rhythms” as a way to track people across apps. Is that for real? On iOS and Android?\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/9d2aee2913.png\" width=\"412\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-07-18T15:28:29-06:00",
 				"url": "https://microblog.chrisenns.com/2022/07/18/this-tiktok-is.html"
 			},
@@ -2808,7 +2816,7 @@
 				"id": "http://ichris.micro.blog/2022/07/17/always-feels-good.html",
 				
 				"content_html": "<p>Always feels good when you close a fitness ring while reaching for some chips. #applewatch</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Always feels good when you close a fitness ring while reaching for some chips. #applewatch \n\n<img src=\"uploads/2022/ac5639ebd3.jpg\" width=\"600\" height=\"600\" alt=\"A picture of my Apple Watch telling me I had a perfect move week closing all my move rings this week with a plate of chips in the background. \" />\n",
+				"content_text": "Always feels good when you close a fitness ring while reaching for some chips. #applewatch \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/ac5639ebd3.jpg\" width=\"600\" height=\"600\" alt=\"A picture of my Apple Watch telling me I had a perfect move week closing all my move rings this week with a plate of chips in the background. \" />\n",
 				"date_published": "2022-07-17T19:38:36-06:00",
 				"url": "https://microblog.chrisenns.com/2022/07/17/always-feels-good.html"
 			},
@@ -2899,7 +2907,7 @@
 				"id": "http://ichris.micro.blog/2022/07/14/my-trusty-netlify.html",
 				
 				"content_html": "<p>My trusty @Netlify mug that has served me well for years of almost daily use has got a crack in it. 😢 It&rsquo;s just enough that I can feel it pull apart when I pick it up.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "My trusty @Netlify mug that has served me well for years of almost daily use has got a crack in it. 😢 It's just enough that I can feel it pull apart when I pick it up.\n\n<img src=\"uploads/2022/639990700f.jpg\" width=\"450\" height=\"600\" alt=\"Closeup of Netlify mug’s handle with an arrow pointing to the crack where the handle meets the mug.\" /><img src=\"uploads/2022/cd0af3d3dd.jpg\" width=\"600\" height=\"450\" alt=\"White coffee mug with “i heart Netlify” on the side.\" />\n",
+				"content_text": "My trusty @Netlify mug that has served me well for years of almost daily use has got a crack in it. 😢 It's just enough that I can feel it pull apart when I pick it up.\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/639990700f.jpg\" width=\"450\" height=\"600\" alt=\"Closeup of Netlify mug’s handle with an arrow pointing to the crack where the handle meets the mug.\" /><img src=\"https://cdn.uploads.micro.blog/1068/2022/cd0af3d3dd.jpg\" width=\"600\" height=\"450\" alt=\"White coffee mug with “i heart Netlify” on the side.\" />\n",
 				"date_published": "2022-07-14T10:14:56-06:00",
 				"url": "https://microblog.chrisenns.com/2022/07/14/my-trusty-netlify.html"
 			},
@@ -2907,7 +2915,7 @@
 				"id": "http://ichris.micro.blog/2022/07/13/if-i-showed.html",
 				
 				"content_html": "<p>If I showed up at your house with this, would you (a) drink it or (b) throw it back in my face?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "If I showed up at your house with this, would you (a) drink it or (b) throw it back in my face? \n\n<img src=\"uploads/2022/fc7eedb7c0.jpg\" width=\"600\" height=\"600\" alt=\"PEANUT BUTTER & Strawberry Jelly LATTE\" />\n",
+				"content_text": "If I showed up at your house with this, would you (a) drink it or (b) throw it back in my face? \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/fc7eedb7c0.jpg\" width=\"600\" height=\"600\" alt=\"PEANUT BUTTER & Strawberry Jelly LATTE\" />\n",
 				"date_published": "2022-07-13T16:28:27-06:00",
 				"url": "https://microblog.chrisenns.com/2022/07/13/if-i-showed.html"
 			},
@@ -2915,7 +2923,7 @@
 				"id": "http://ichris.micro.blog/2022/07/13/ios-beta-is.html",
 				
 				"content_html": "<p>iOS 16 beta is great so far EXCEPT for the fact that they changed the position of where &ldquo;paste&rdquo; is when you copy/paste text. Or am I remembering it wrong already?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "iOS 16 beta is great so far EXCEPT for the fact that they changed the position of where \"paste\" is when you copy/paste text. Or am I remembering it wrong already? \n\n<img src=\"uploads/2022/a6f3cfc814.jpg\" width=\"600\" height=\"499\" alt=\"Screenshot of the paste pop up dialogue in iOS 16 public beta with Paste Select and Select All as the options, in that order from left to right.\" />\n",
+				"content_text": "iOS 16 beta is great so far EXCEPT for the fact that they changed the position of where \"paste\" is when you copy/paste text. Or am I remembering it wrong already? \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/a6f3cfc814.jpg\" width=\"600\" height=\"499\" alt=\"Screenshot of the paste pop up dialogue in iOS 16 public beta with Paste Select and Select All as the options, in that order from left to right.\" />\n",
 				"date_published": "2022-07-13T12:25:22-06:00",
 				"url": "https://microblog.chrisenns.com/2022/07/13/ios-beta-is.html"
 			},
@@ -2931,7 +2939,7 @@
 				"id": "http://ichris.micro.blog/2022/07/12/everything-is-made.html",
 				"title": "Everything is made up and the points don’t matter.",
 				"content_html": "<p>Just a reminder that social media posts and stories don’t represent the entirety of a person you follow on social media. It’s a glimpse into part of their day, an emotion they felt for a fleeting second, filtered and edited, or something they did months ago that they’re presenting as current. Or it might be completely made up. Rarely can you know why they posted it. And your guess is very likely wrong. Unless you’re in conversation with them semi-regularly, you don’t really know them or what they think about a specific issue, event, or thing.</p>\n<p>Speaking personally, I’m always open to conversations about what I have posted as long as you remember I don’t take things very seriously on social media - except for the things I do. 😆</p>\n<p>I’ve been on twitter since 2006 and playing on the internet since way before that. It’s where everything is made up and the points don’t matter. Something you think is so important today, you won’t even remember 2 years from now. And in 5 years it will be wiped off the internet after the corporations have bought and sold our content into oblivion.</p>\n<p>So have fun!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Just a reminder that social media posts and stories don’t represent the entirety of a person you follow on social media. It’s a glimpse into part of their day, an emotion they felt for a fleeting second, filtered and edited, or something they did months ago that they’re presenting as current. Or it might be completely made up. Rarely can you know why they posted it. And your guess is very likely wrong. Unless you’re in conversation with them semi-regularly, you don’t really know them or what they think about a specific issue, event, or thing.\n\nSpeaking personally, I’m always open to conversations about what I have posted as long as you remember I don’t take things very seriously on social media - except for the things I do. 😆 \n\nI’ve been on twitter since 2006 and playing on the internet since way before that. It’s where everything is made up and the points don’t matter. Something you think is so important today, you won’t even remember 2 years from now. And in 5 years it will be wiped off the internet after the corporations have bought and sold our content into oblivion. \n\nSo have fun!\n\n<img src=\"uploads/2022/20e03f6142.jpg\" width=\"599\" height=\"600\" alt=\"picture of a farmer's field in the Saskatchewan prairies\" />\n",
+				"content_text": "Just a reminder that social media posts and stories don’t represent the entirety of a person you follow on social media. It’s a glimpse into part of their day, an emotion they felt for a fleeting second, filtered and edited, or something they did months ago that they’re presenting as current. Or it might be completely made up. Rarely can you know why they posted it. And your guess is very likely wrong. Unless you’re in conversation with them semi-regularly, you don’t really know them or what they think about a specific issue, event, or thing.\n\nSpeaking personally, I’m always open to conversations about what I have posted as long as you remember I don’t take things very seriously on social media - except for the things I do. 😆 \n\nI’ve been on twitter since 2006 and playing on the internet since way before that. It’s where everything is made up and the points don’t matter. Something you think is so important today, you won’t even remember 2 years from now. And in 5 years it will be wiped off the internet after the corporations have bought and sold our content into oblivion. \n\nSo have fun!\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/20e03f6142.jpg\" width=\"599\" height=\"600\" alt=\"picture of a farmer's field in the Saskatchewan prairies\" />\n",
 				"date_published": "2022-07-12T20:12:01-06:00",
 				"url": "https://microblog.chrisenns.com/2022/07/12/everything-is-made.html"
 			},
@@ -2956,7 +2964,7 @@
 				"id": "http://ichris.micro.blog/2022/07/12/my-plan-of.html",
 				
 				"content_html": "<p>My plan of hiding my wife&rsquo;s laptop power cord worked perfectly. ☕️😋</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "My plan of hiding my wife's laptop power cord worked perfectly. ☕️😋 \n\n<img src=\"uploads/2022/4fdd88048c.png\" width=\"600\" height=\"273\" alt=\"Messages screenshot with “Forgot my power cord at home. Incoming treat!” \" /><img src=\"uploads/2022/abcceb5bd3.jpg\" width=\"450\" height=\"600\" alt=\"Starbucks iced coffee drink with a sticker on it for *Chris*.\" />\n",
+				"content_text": "My plan of hiding my wife's laptop power cord worked perfectly. ☕️😋 \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/4fdd88048c.png\" width=\"600\" height=\"273\" alt=\"Messages screenshot with “Forgot my power cord at home. Incoming treat!” \" /><img src=\"https://cdn.uploads.micro.blog/1068/2022/abcceb5bd3.jpg\" width=\"450\" height=\"600\" alt=\"Starbucks iced coffee drink with a sticker on it for *Chris*.\" />\n",
 				"date_published": "2022-07-12T13:01:01-06:00",
 				"url": "https://microblog.chrisenns.com/2022/07/12/my-plan-of.html"
 			},
@@ -2972,7 +2980,7 @@
 				"id": "http://ichris.micro.blog/2022/07/11/ios-s-ability.html",
 				
 				"content_html": "<p>iOS 16’s ability to press and copy a person or thing from a photo is pretty magical. Even my new profile pic works pretty well. 😆</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "iOS 16’s ability to press and copy a person or thing from a photo is pretty magical. Even my new profile pic works pretty well. 😆 \n\n<img src=\"uploads/2022/383eb0eabf.png\" width=\"600\" height=\"422\" alt=\"a picture of a dog cut out from the background \" /><img src=\"uploads/2022/ac8388a91b.png\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "iOS 16’s ability to press and copy a person or thing from a photo is pretty magical. Even my new profile pic works pretty well. 😆 \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/383eb0eabf.png\" width=\"600\" height=\"422\" alt=\"a picture of a dog cut out from the background \" /><img src=\"https://cdn.uploads.micro.blog/1068/2022/ac8388a91b.png\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-07-11T22:12:17-06:00",
 				"url": "https://microblog.chrisenns.com/2022/07/11/ios-s-ability.html"
 			},
@@ -3020,7 +3028,7 @@
 				"id": "http://ichris.micro.blog/2022/07/09/how-cute-is.html",
 				
 				"content_html": "<p>How cute is this mini cast iron skillet?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "How cute is this mini cast iron skillet? \n\n<img src=\"uploads/2022/ce8b6bbe71.jpg\" width=\"600\" height=\"600\" alt=\"a child holding a skillet pan smallee than her hand \" />\n",
+				"content_text": "How cute is this mini cast iron skillet? \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/ce8b6bbe71.jpg\" width=\"600\" height=\"600\" alt=\"a child holding a skillet pan smallee than her hand \" />\n",
 				"date_published": "2022-07-09T18:27:23-06:00",
 				"url": "https://microblog.chrisenns.com/2022/07/09/how-cute-is.html"
 			},
@@ -3036,7 +3044,7 @@
 				"id": "http://ichris.micro.blog/2022/07/09/hairdid-booked-for.html",
 				
 				"content_html": "<p>Hairdid booked for Monday. For now we spike it to let my head breath in the summer heat. 😆</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Hairdid booked for Monday. For now we spike it to let my head breath in the summer heat. 😆 \n\n<img src=\"uploads/2022/3309dca54a.jpg\" width=\"600\" height=\"600\" alt=\"selfie of Chris with hair spiked out and sunglasses on. \" />\n",
+				"content_text": "Hairdid booked for Monday. For now we spike it to let my head breath in the summer heat. 😆 \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/3309dca54a.jpg\" width=\"600\" height=\"600\" alt=\"selfie of Chris with hair spiked out and sunglasses on. \" />\n",
 				"date_published": "2022-07-09T12:14:46-06:00",
 				"url": "https://microblog.chrisenns.com/2022/07/09/hairdid-booked-for.html"
 			},
@@ -3060,7 +3068,7 @@
 				"id": "http://ichris.micro.blog/2022/07/08/happy-still-have.html",
 				
 				"content_html": "<p>Happy “still have internet access but might have a tornado” hour is here. And one way or another, I’m going to see Thor: Love and Thunder tonight.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Happy “still have internet access but might have a tornado” hour is here. And one way or another, I’m going to see Thor: Love and Thunder tonight. \n\n<img src=\"uploads/2022/afea236bd9.jpg\" width=\"600\" height=\"600\" alt=\"Selfie picture of Chris with a drink in hand. \" />\n",
+				"content_text": "Happy “still have internet access but might have a tornado” hour is here. And one way or another, I’m going to see Thor: Love and Thunder tonight. \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/afea236bd9.jpg\" width=\"600\" height=\"600\" alt=\"Selfie picture of Chris with a drink in hand. \" />\n",
 				"date_published": "2022-07-08T16:39:08-06:00",
 				"url": "https://microblog.chrisenns.com/2022/07/08/happy-still-have.html"
 			},
@@ -3101,7 +3109,7 @@
 				"id": "http://ichris.micro.blog/2022/07/08/lossless-audio-or.html",
 				"title": "Lossless Audio or Video Editing",
 				"content_html": "<p>I&rsquo;ve long been a fan of <a href=\"https://www.rogueamoeba.com\">Rogue Amoeba</a>&rsquo;s <a href=\"https://www.rogueamoeba.com/fission/\">Fission</a> software for lossless audio editing. I use it if I forget to cut off the end of a podcast&rsquo;s MP3 file, or cut out a piece of audio that I can make a clean cut of without worrying about the rest of the edit. Or to <a href=\"https://www.youtube.com/watch?v=_0DFcaNYOH0\">split large audio files into smaller ones</a>.</p>\n<p>When Fission saves it back to an MP3, it does it in a lossless way. (Rogue Amoeba has a <a href=\"https://www.rogueamoeba.com/support/knowledgebase/?showArticle=FissionLosslessEditing\">support doc explaining how they do it if you&rsquo;re curious</a>.</p>\n<p>Thanks to a client - <a href=\"https://blog.codepen.io/radio/\">Stephen Shaw over at CodePen Radio</a>, I learned about <a href=\"https://github.com/mifi/lossless-cut\">Lossless Cut</a>, an open source app for that:</p>\n<blockquote>\n<p>&hellip;aims to be the ultimate cross platform FFmpeg GUI for extremely fast and lossless operations on video, audio, subtitle and other related media files.</p>\n</blockquote>\n<p>To try it out, I pulled up a video of a recent <a href=\"https://www.learnwithjason.dev\">Learn with Jason</a> episode I had edited and added chapter markers to for YouTube. With a click of a button I could export all the chapter segments into individual video files which would make for really easy social media clips, or a library of videos on a specific topic that could be smashed together into a compilation video.</p>\n<!-- raw HTML omitted -->\n<p>And it took less than 5 minutes to export all of them out of the original video. Slick!</p>\n<!-- raw HTML omitted -->\n<p>Lossless Cut is free to use if you <a href=\"https://github.com/mifi/lossless-cut/releases/\">download it from the GitHub repo</a> - look for the one labelled &lsquo;LosslessCut-mac-x64.dmg&rsquo; - or you can <a href=\"https://apps.apple.com/app/id1505323402\">buy it from the Mac App Store</a> as well.</p>\n<p>The <a href=\"https://github.com/mifi/lossless-cut#difference-between-app-stores-and-github-download\">differences between the GitHub download vs Mac App Store</a> shouldn&rsquo;t be a big deal for most people, and may actually be the more stable version of the app if you&rsquo;re using it for critical work related editing.</p>\n<blockquote>\n<p>They have exactly the same in-app features, except for a few platform limitations. Apple doesn&rsquo;t allow opening VOB files with App Store apps. Apple App Store apps need to prompt for output directory. LosslessCut version in the App Stores is a few versions behind the GitHub version, because I want to be sure that the new versions work perfectly before releasing in the App Stores. GitHub version can contain new, untested features and may contain some bugs.</p>\n</blockquote>\n",
-				"content_text": "I've long been a fan of [Rogue Amoeba](https://www.rogueamoeba.com)'s [Fission](https://www.rogueamoeba.com/fission/) software for lossless audio editing. I use it if I forget to cut off the end of a podcast's MP3 file, or cut out a piece of audio that I can make a clean cut of without worrying about the rest of the edit. Or to [split large audio files into smaller ones](https://www.youtube.com/watch?v=_0DFcaNYOH0).\n\nWhen Fission saves it back to an MP3, it does it in a lossless way. (Rogue Amoeba has a [support doc explaining how they do it if you're curious](https://www.rogueamoeba.com/support/knowledgebase/?showArticle=FissionLosslessEditing).\n\nThanks to a client - [Stephen Shaw over at CodePen Radio](https://blog.codepen.io/radio/), I learned about [Lossless Cut](https://github.com/mifi/lossless-cut), an open source app for that:\n\n> ...aims to be the ultimate cross platform FFmpeg GUI for extremely fast and lossless operations on video, audio, subtitle and other related media files.\n\nTo try it out, I pulled up a video of a recent [Learn with Jason](https://www.learnwithjason.dev) episode I had edited and added chapter markers to for YouTube. With a click of a button I could export all the chapter segments into individual video files which would make for really easy social media clips, or a library of videos on a specific topic that could be smashed together into a compilation video. \n\n<img src=\"uploads/2022/065ed88132.jpg\" alt=\"Screenshot of a video edit of a recent Learn with Jason video\" />\n\nAnd it took less than 5 minutes to export all of them out of the original video. Slick!\n\n<img src=\"uploads/2022/b3b9932c05.jpg\" alt=\"macOS Finder screenshot showing 14 chapters listed as individual video files from the previous Learn with Jason video.\" />\n\nLossless Cut is free to use if you [download it from the GitHub repo](https://github.com/mifi/lossless-cut/releases/) - look for the one labelled 'LosslessCut-mac-x64.dmg' - or you can [buy it from the Mac App Store](https://apps.apple.com/app/id1505323402) as well.\n\nThe [differences between the GitHub download vs Mac App Store](https://github.com/mifi/lossless-cut#difference-between-app-stores-and-github-download) shouldn't be a big deal for most people, and may actually be the more stable version of the app if you're using it for critical work related editing.\n\n> They have exactly the same in-app features, except for a few platform limitations. Apple doesn't allow opening VOB files with App Store apps. Apple App Store apps need to prompt for output directory. LosslessCut version in the App Stores is a few versions behind the GitHub version, because I want to be sure that the new versions work perfectly before releasing in the App Stores. GitHub version can contain new, untested features and may contain some bugs.\n",
+				"content_text": "I've long been a fan of [Rogue Amoeba](https://www.rogueamoeba.com)'s [Fission](https://www.rogueamoeba.com/fission/) software for lossless audio editing. I use it if I forget to cut off the end of a podcast's MP3 file, or cut out a piece of audio that I can make a clean cut of without worrying about the rest of the edit. Or to [split large audio files into smaller ones](https://www.youtube.com/watch?v=_0DFcaNYOH0).\n\nWhen Fission saves it back to an MP3, it does it in a lossless way. (Rogue Amoeba has a [support doc explaining how they do it if you're curious](https://www.rogueamoeba.com/support/knowledgebase/?showArticle=FissionLosslessEditing).\n\nThanks to a client - [Stephen Shaw over at CodePen Radio](https://blog.codepen.io/radio/), I learned about [Lossless Cut](https://github.com/mifi/lossless-cut), an open source app for that:\n\n> ...aims to be the ultimate cross platform FFmpeg GUI for extremely fast and lossless operations on video, audio, subtitle and other related media files.\n\nTo try it out, I pulled up a video of a recent [Learn with Jason](https://www.learnwithjason.dev) episode I had edited and added chapter markers to for YouTube. With a click of a button I could export all the chapter segments into individual video files which would make for really easy social media clips, or a library of videos on a specific topic that could be smashed together into a compilation video. \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/065ed88132.jpg\" alt=\"Screenshot of a video edit of a recent Learn with Jason video\" />\n\nAnd it took less than 5 minutes to export all of them out of the original video. Slick!\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/b3b9932c05.jpg\" alt=\"macOS Finder screenshot showing 14 chapters listed as individual video files from the previous Learn with Jason video.\" />\n\nLossless Cut is free to use if you [download it from the GitHub repo](https://github.com/mifi/lossless-cut/releases/) - look for the one labelled 'LosslessCut-mac-x64.dmg' - or you can [buy it from the Mac App Store](https://apps.apple.com/app/id1505323402) as well.\n\nThe [differences between the GitHub download vs Mac App Store](https://github.com/mifi/lossless-cut#difference-between-app-stores-and-github-download) shouldn't be a big deal for most people, and may actually be the more stable version of the app if you're using it for critical work related editing.\n\n> They have exactly the same in-app features, except for a few platform limitations. Apple doesn't allow opening VOB files with App Store apps. Apple App Store apps need to prompt for output directory. LosslessCut version in the App Stores is a few versions behind the GitHub version, because I want to be sure that the new versions work perfectly before releasing in the App Stores. GitHub version can contain new, untested features and may contain some bugs.\n",
 				"date_published": "2022-07-08T11:20:29-06:00",
 				"url": "https://microblog.chrisenns.com/2022/07/08/lossless-audio-or.html",
 				"tags": ["Software"]
@@ -3230,7 +3238,7 @@
 				"id": "http://ichris.micro.blog/2022/06/28/think-less-blog.html",
 				"title": "Think Less, Blog More",
 				"content_html": "<p>I, <a href=\"https://rachsmith.com/fuck-it/\">and others</a>, have been motivated to blog more simply because of Chris Coyier&rsquo;s recent uptick of posts on <a href=\"https://chriscoyier.net/\">his own blog</a>.</p>\n<p>I appreciate his <a href=\"https://chriscoyier.net/2022/06/27/there-is-no-bar/\">recent post</a> reminding everyone that there is no bar you have to attain before you hit publish:</p>\n<blockquote>\n<p>I’d like to write better individual blog posts, but something has always compelled me to punt out a thought early rather than wait until I have some perfect way to present it. And for the record, I don’t mind reading your posts like that either.</p>\n</blockquote>\n<p>This is a big part of my motivation to move my blog off my nerdy <a href=\"https://www.11ty.dev\">Eleventy</a> set up and set everything up with my <a href=\"https://micro.blog\">Micro.blog</a> account. Between the web interface, <a href=\"https://help.micro.blog/t/micro-blog-for-mac/45\">macOS app</a>, and <a href=\"https://apps.apple.com/us/app/micro-blog/id1253201335\">iOS app</a> - it makes it so much easier for me to fire off a quick tweet style post or something longer like this without having to worry about anything needing to be updated first, or breaking something while trying to simply publish a quick thought.</p>\n<p><a href=\"https://micro.blog/manton\">@manton</a> at Micro.blog has been super helpful trying to sort out my issues moving my blogging archive from <a href=\"https://chrisenns.com\">ChrisEnns.com</a> into Micro.blog - and once I get that sorted I&rsquo;ll move this blog off my subdomain to my main site.</p>\n<p>For the record I still am really excited about the Jamstack style of publishing websites. I&rsquo;m just not nerdy enough to be able to maintain a site like that AND have time to publish anything.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I, [and others](https://rachsmith.com/fuck-it/), have been motivated to blog more simply because of Chris Coyier's recent uptick of posts on [his own blog](https://chriscoyier.net/).\n\nI appreciate his [recent post](https://chriscoyier.net/2022/06/27/there-is-no-bar/) reminding everyone that there is no bar you have to attain before you hit publish:\n\n> I’d like to write better individual blog posts, but something has always compelled me to punt out a thought early rather than wait until I have some perfect way to present it. And for the record, I don’t mind reading your posts like that either.\n\nThis is a big part of my motivation to move my blog off my nerdy [Eleventy](https://www.11ty.dev) set up and set everything up with my [Micro.blog](https://micro.blog) account. Between the web interface, [macOS app](https://help.micro.blog/t/micro-blog-for-mac/45), and [iOS app](https://apps.apple.com/us/app/micro-blog/id1253201335) - it makes it so much easier for me to fire off a quick tweet style post or something longer like this without having to worry about anything needing to be updated first, or breaking something while trying to simply publish a quick thought.\n\n[@manton](https://micro.blog/manton) at Micro.blog has been super helpful trying to sort out my issues moving my blogging archive from [ChrisEnns.com](https://chrisenns.com) into Micro.blog - and once I get that sorted I'll move this blog off my subdomain to my main site.\n\nFor the record I still am really excited about the Jamstack style of publishing websites. I'm just not nerdy enough to be able to maintain a site like that AND have time to publish anything. \n\n\n\n<img src=\"uploads/2022/f26cf4bb98.jpg\" width=\"444\" height=\"600\" alt=\"A photo of a tent trailer hitch being supported by cement blocks and patio stones in an unstable manner to represent my current blogging platform.\" />\n",
+				"content_text": "I, [and others](https://rachsmith.com/fuck-it/), have been motivated to blog more simply because of Chris Coyier's recent uptick of posts on [his own blog](https://chriscoyier.net/).\n\nI appreciate his [recent post](https://chriscoyier.net/2022/06/27/there-is-no-bar/) reminding everyone that there is no bar you have to attain before you hit publish:\n\n> I’d like to write better individual blog posts, but something has always compelled me to punt out a thought early rather than wait until I have some perfect way to present it. And for the record, I don’t mind reading your posts like that either.\n\nThis is a big part of my motivation to move my blog off my nerdy [Eleventy](https://www.11ty.dev) set up and set everything up with my [Micro.blog](https://micro.blog) account. Between the web interface, [macOS app](https://help.micro.blog/t/micro-blog-for-mac/45), and [iOS app](https://apps.apple.com/us/app/micro-blog/id1253201335) - it makes it so much easier for me to fire off a quick tweet style post or something longer like this without having to worry about anything needing to be updated first, or breaking something while trying to simply publish a quick thought.\n\n[@manton](https://micro.blog/manton) at Micro.blog has been super helpful trying to sort out my issues moving my blogging archive from [ChrisEnns.com](https://chrisenns.com) into Micro.blog - and once I get that sorted I'll move this blog off my subdomain to my main site.\n\nFor the record I still am really excited about the Jamstack style of publishing websites. I'm just not nerdy enough to be able to maintain a site like that AND have time to publish anything. \n\n\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/f26cf4bb98.jpg\" width=\"444\" height=\"600\" alt=\"A photo of a tent trailer hitch being supported by cement blocks and patio stones in an unstable manner to represent my current blogging platform.\" />\n",
 				"date_published": "2022-06-28T09:25:02-06:00",
 				"url": "https://microblog.chrisenns.com/2022/06/28/think-less-blog.html"
 			},
@@ -3496,7 +3504,7 @@
 				"id": "http://Ichris.micro.blog/2022/04/01/httpswaxyorgintheshadowofthestarwarskid.html",
 				
 				"content_html": "<blockquote>\n<p><a href=\"https://waxy.org/2022/03/in-the-shadow-of-the-star-wars-kid/\">waxy.org/2022/03/i&hellip;</a></p>\n</blockquote>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n> [waxy.org/2022/03/i...](https://waxy.org/2022/03/in-the-shadow-of-the-star-wars-kid/)\n\n\n\n<img src=\"uploads/2022/7b344e9ae9.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "\n\n> [waxy.org/2022/03/i...](https://waxy.org/2022/03/in-the-shadow-of-the-star-wars-kid/)\n\n\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/7b344e9ae9.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-01T23:41:20-06:00",
 				"url": "https://microblog.chrisenns.com/2022/04/01/httpswaxyorgintheshadowofthestarwarskid.html"
 			},
@@ -3616,7 +3624,7 @@
 				"id": "http://Ichris.micro.blog/2022/03/17/woof-thats-a.html",
 				
 				"content_html": "<p>Woof. <a href=\"https://www.theverge.com/22981744/apple-studio-display-5k-monitor-webcam-speakers-review\">That&rsquo;s a bad headline for a $1,599USD monitor</a>.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Woof. [That's a bad headline for a $1,599USD monitor](https://www.theverge.com/22981744/apple-studio-display-5k-monitor-webcam-speakers-review). \n\n<img src=\"uploads/2022/81653e32db.jpg\" width=\"600\" height=\"227\" alt=\"APPLE STUDIO DISPLAY REVIEW: NOTHING TO SEE HERE&10;A 5K iMac’s panel, six speakers, three mics, and one terrible camera\" />\n",
+				"content_text": "Woof. [That's a bad headline for a $1,599USD monitor](https://www.theverge.com/22981744/apple-studio-display-5k-monitor-webcam-speakers-review). \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/81653e32db.jpg\" width=\"600\" height=\"227\" alt=\"APPLE STUDIO DISPLAY REVIEW: NOTHING TO SEE HERE&10;A 5K iMac’s panel, six speakers, three mics, and one terrible camera\" />\n",
 				"date_published": "2022-03-17T08:43:13-06:00",
 				"url": "https://microblog.chrisenns.com/2022/03/17/woof-thats-a.html"
 			},
@@ -3624,7 +3632,7 @@
 				"id": "http://Ichris.micro.blog/2022/03/11/monument-valley-is.html",
 				
 				"content_html": "<p>Monument Valley 2 is now on Apple Arcade. Such a beautiful puzzler.\n#monumentvalley2\n<a href=\"https://bit.ly/mv2-game\">bit.ly/mv2-game</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Monument Valley 2 is now on Apple Arcade. Such a beautiful puzzler. \n #monumentvalley2\n[bit.ly/mv2-game](https://bit.ly/mv2-game)\n\n<img src=\"uploads/2022/93c6b11077.jpg\" width=\"277\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Monument Valley 2 is now on Apple Arcade. Such a beautiful puzzler. \n #monumentvalley2\n[bit.ly/mv2-game](https://bit.ly/mv2-game)\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/93c6b11077.jpg\" width=\"277\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-11T23:07:42-06:00",
 				"url": "https://microblog.chrisenns.com/2022/03/11/monument-valley-is.html"
 			},
@@ -3696,7 +3704,7 @@
 				"id": "http://Ichris.micro.blog/2022/02/23/its-always-a.html",
 				
 				"content_html": "<p>It’s always a good game of Skip-Bo when my daughter shuffles. 😆</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "It’s always a good game of Skip-Bo when my daughter shuffles. 😆 \n\n<img src=\"uploads/2022/8382a3c0cb.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "It’s always a good game of Skip-Bo when my daughter shuffles. 😆 \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/8382a3c0cb.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-02-23T07:53:40-06:00",
 				"url": "https://microblog.chrisenns.com/2022/02/23/its-always-a.html"
 			},
@@ -3704,7 +3712,7 @@
 				"id": "http://Ichris.micro.blog/2022/02/22/new-music-has.html",
 				
 				"content_html": "<p>New music has arrived from @gangofyouths you say?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "New music has arrived from @gangofyouths you say? \n\n<img src=\"uploads/2022/2f7f71cd53.png\" width=\"600\" height=\"311\" alt=\"\" />\n",
+				"content_text": "New music has arrived from @gangofyouths you say? \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/2f7f71cd53.png\" width=\"600\" height=\"311\" alt=\"\" />\n",
 				"date_published": "2022-02-22T11:35:05-06:00",
 				"url": "https://microblog.chrisenns.com/2022/02/22/new-music-has.html"
 			},
@@ -3784,7 +3792,7 @@
 				"id": "http://Ichris.micro.blog/2022/02/08/got-a-good.html",
 				
 				"content_html": "<p>Got a good one on this year’s “blind date with a book” from the library. 📚</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Got a good one on this year’s “blind date with a book” from the library. 📚 \n\n<img src=\"uploads/2022/1ffcdc5b49.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/64d76ff740.jpg\" width=\"435\" height=\"600\" alt=\"photo of Attack Surface by Cory Doctorow.\" />\n",
+				"content_text": "Got a good one on this year’s “blind date with a book” from the library. 📚 \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/1ffcdc5b49.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/1068/2022/64d76ff740.jpg\" width=\"435\" height=\"600\" alt=\"photo of Attack Surface by Cory Doctorow.\" />\n",
 				"date_published": "2022-02-08T19:01:44-06:00",
 				"url": "https://microblog.chrisenns.com/2022/02/08/got-a-good.html"
 			},
@@ -3808,7 +3816,7 @@
 				"id": "http://Ichris.micro.blog/2022/01/25/this-whole-c.html",
 				
 				"content_html": "<p>This whole -40C in the morning with a high of 0 later which actually turns out to be 11pm is the worst.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This whole -40C in the morning with a high of 0 later which actually turns out to be 11pm is the worst. \n\n<img src=\"uploads/2022/f81635f349.jpg\" width=\"600\" height=\"600\" alt=\"weather forecast app showing saskatoon will be 0 tonight but is -40C now. \" />\n",
+				"content_text": "This whole -40C in the morning with a high of 0 later which actually turns out to be 11pm is the worst. \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/f81635f349.jpg\" width=\"600\" height=\"600\" alt=\"weather forecast app showing saskatoon will be 0 tonight but is -40C now. \" />\n",
 				"date_published": "2022-01-25T08:07:58-06:00",
 				"url": "https://microblog.chrisenns.com/2022/01/25/this-whole-c.html"
 			},
@@ -3904,7 +3912,7 @@
 				"id": "http://Ichris.micro.blog/2022/01/05/make-tvs-tvs.html",
 				
 				"content_html": "<p>“<a href=\"https://mgs.blog/5145421b153a\">Make TVs TVs Again</a>”  Amen.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "“[Make TVs TVs Again](https://mgs.blog/5145421b153a)”  Amen. \n\n<img src=\"uploads/2022/4af6621176.jpg\" width=\"600\" height=\"600\" alt=\"&quot;I don’t want any of this shit on my television set. Do you know what I want? I want the biggest screen I can get. At the best reasonable resolution. With the smallest footprint possible. That’s it. That’s the job. A giant fucking display. Content is king. It deserves the best throne possible. A beautiful, massive, simple one.&quot;\" />\n",
+				"content_text": "“[Make TVs TVs Again](https://mgs.blog/5145421b153a)”  Amen. \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/4af6621176.jpg\" width=\"600\" height=\"600\" alt=\"&quot;I don’t want any of this shit on my television set. Do you know what I want? I want the biggest screen I can get. At the best reasonable resolution. With the smallest footprint possible. That’s it. That’s the job. A giant fucking display. Content is king. It deserves the best throne possible. A beautiful, massive, simple one.&quot;\" />\n",
 				"date_published": "2022-01-05T21:21:16-06:00",
 				"url": "https://microblog.chrisenns.com/2022/01/05/make-tvs-tvs.html"
 			},
@@ -3912,7 +3920,7 @@
 				"id": "http://Ichris.micro.blog/2022/01/05/i-know-its.html",
 				
 				"content_html": "<p>I know it’s a cliche to complain about how big video games are and how long it takes just to be able to play them… but over 100GB of data just to drive a car around? Really? 😆</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I know it’s a cliche to complain about how big video games are and how long it takes just to be able to play them… but over 100GB of data just to drive a car around? Really? 😆 \n\n<img src=\"uploads/2022/1872dc51df.jpg\" width=\"600\" height=\"450\" alt=\"screenshot of xbox installing Forza Horizons 5 with 110GB of downloads to go. \" />\n",
+				"content_text": "I know it’s a cliche to complain about how big video games are and how long it takes just to be able to play them… but over 100GB of data just to drive a car around? Really? 😆 \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/1872dc51df.jpg\" width=\"600\" height=\"450\" alt=\"screenshot of xbox installing Forza Horizons 5 with 110GB of downloads to go. \" />\n",
 				"date_published": "2022-01-05T16:31:40-06:00",
 				"url": "https://microblog.chrisenns.com/2022/01/05/i-know-its.html"
 			},
@@ -3920,7 +3928,7 @@
 				"id": "http://Ichris.micro.blog/2022/01/05/new-year-same.html",
 				
 				"content_html": "<p>New year, same MacBook Pro randomly not able to do anything until I reboot it issue. 😪</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "New year, same MacBook Pro randomly not able to do anything until I reboot it issue. 😪 \n\n<img src=\"uploads/2022/33f5e33a59.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "New year, same MacBook Pro randomly not able to do anything until I reboot it issue. 😪 \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/33f5e33a59.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-05T08:35:03-06:00",
 				"url": "https://microblog.chrisenns.com/2022/01/05/new-year-same.html"
 			},
@@ -3936,7 +3944,7 @@
 				"id": "http://Ichris.micro.blog/2022/01/03/ooh-fun-new.html",
 				
 				"content_html": "<p>Ooh fun new feature coming to Descript for video podcasters.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Ooh fun new feature coming to Descript for video podcasters. \n\n<img src=\"uploads/2022/27f6a03048.jpg\" width=\"600\" height=\"135\" alt=\"Automatically assign multicam is listed as in Early Access for Descript.\" />\n",
+				"content_text": "Ooh fun new feature coming to Descript for video podcasters. \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2022/27f6a03048.jpg\" width=\"600\" height=\"135\" alt=\"Automatically assign multicam is listed as in Early Access for Descript.\" />\n",
 				"date_published": "2022-01-03T16:09:04-06:00",
 				"url": "https://microblog.chrisenns.com/2022/01/03/ooh-fun-new.html"
 			},
@@ -3960,7 +3968,7 @@
 				"id": "http://Ichris.micro.blog/2021/12/30/its-heartlake-city.html",
 				
 				"content_html": "<p>It’s Heartlake City Movie Theatre building time.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "It’s Heartlake City Movie Theatre building time. \n\n<img src=\"uploads/2021/f8c7037f5f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "It’s Heartlake City Movie Theatre building time. \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2021/f8c7037f5f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-12-30T09:35:33-06:00",
 				"url": "https://microblog.chrisenns.com/2021/12/30/its-heartlake-city.html"
 			},
@@ -3968,7 +3976,7 @@
 				"id": "http://Ichris.micro.blog/2021/12/26/what-is-it.html",
 				
 				"content_html": "<p>“What is it?” #drawful2</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "“What is it?” #drawful2 \n\n<img src=\"uploads/2021/fd8bd91a32.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "“What is it?” #drawful2 \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2021/fd8bd91a32.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-12-26T20:59:29-06:00",
 				"url": "https://microblog.chrisenns.com/2021/12/26/what-is-it.html"
 			},
@@ -3976,7 +3984,7 @@
 				"id": "http://Ichris.micro.blog/2021/12/25/my-collection-of.html",
 				
 				"content_html": "<p>My collection of Star Wars heads grew by one. Just in time for the new #BobaFett series I suppose.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My collection of Star Wars heads grew by one. Just in time for the new #BobaFett series I suppose. \n\n<img src=\"uploads/2021/6d69c90016.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "My collection of Star Wars heads grew by one. Just in time for the new #BobaFett series I suppose. \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2021/6d69c90016.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-12-25T21:06:47-06:00",
 				"url": "https://microblog.chrisenns.com/2021/12/25/my-collection-of.html"
 			},
@@ -4000,7 +4008,7 @@
 				"id": "http://Ichris.micro.blog/2021/12/22/apparently-its-bring.html",
 				
 				"content_html": "<p>Apparently it’s “bring your new LEGO set to your parent’s work” day today. 😆</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Apparently it’s “bring your new LEGO set to your parent’s work” day today. 😆 \n\n<img src=\"uploads/2021/28b525034a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Apparently it’s “bring your new LEGO set to your parent’s work” day today. 😆 \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2021/28b525034a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-12-22T09:40:10-06:00",
 				"url": "https://microblog.chrisenns.com/2021/12/22/apparently-its-bring.html"
 			},
@@ -4008,7 +4016,7 @@
 				"id": "http://Ichris.micro.blog/2021/12/21/possible-villainous-printing.html",
 				
 				"content_html": "<p>Possible Villainous printing issue? Forums seem to indicate it should be a “2” and not blank in the power symbol.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Possible Villainous printing issue? Forums seem to indicate it should be a “2” and not blank in the power symbol. \n\n<img src=\"uploads/2021/0cb6a3cb4e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Possible Villainous printing issue? Forums seem to indicate it should be a “2” and not blank in the power symbol. \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2021/0cb6a3cb4e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-12-21T19:41:19-06:00",
 				"url": "https://microblog.chrisenns.com/2021/12/21/possible-villainous-printing.html"
 			},
@@ -4016,7 +4024,7 @@
 				"id": "http://Ichris.micro.blog/2021/12/20/notion-nerds-is.html",
 				
 				"content_html": "<p>Notion nerds: Is there a way to search every table database in my Notion documents for a checkbox y/n? (i.e. show me every entry in every database that doesn&rsquo;t have a ✅ for invoiced.)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Notion nerds: Is there a way to search every table database in my Notion documents for a checkbox y/n? (i.e. show me every entry in every database that doesn't have a ✅ for invoiced.)\n\n<img src=\"uploads/2021/fe1287b0bf.jpg\" width=\"428\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Notion nerds: Is there a way to search every table database in my Notion documents for a checkbox y/n? (i.e. show me every entry in every database that doesn't have a ✅ for invoiced.)\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2021/fe1287b0bf.jpg\" width=\"428\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-12-20T17:54:39-06:00",
 				"url": "https://microblog.chrisenns.com/2021/12/20/notion-nerds-is.html"
 			},
@@ -4048,7 +4056,7 @@
 				"id": "http://Ichris.micro.blog/2021/12/19/frozen-sundays-are.html",
 				
 				"content_html": "<p>Frozen Sundays are for reading silly mystery novels like John Grisham&rsquo;s <a href=\"https://micro.blog/books/9780593157787\">Camino Winds</a>  📚</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Frozen Sundays are for reading silly mystery novels like John Grisham's [Camino Winds](https://micro.blog/books/9780593157787)  📚\n\n<img src=\"uploads/2021/a3093d3c37.jpg\" width=\"512\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Frozen Sundays are for reading silly mystery novels like John Grisham's [Camino Winds](https://micro.blog/books/9780593157787)  📚\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2021/a3093d3c37.jpg\" width=\"512\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-12-19T09:13:25-06:00",
 				"url": "https://microblog.chrisenns.com/2021/12/19/frozen-sundays-are.html"
 			},
@@ -4056,7 +4064,7 @@
 				"id": "http://Ichris.micro.blog/2021/12/18/171916.html",
 				
 				"content_html": "<p>😐</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "😐\n\n<img src=\"uploads/2021/b2b268722d.png\" width=\"505\" height=\"600\" alt=\"a hippopotamus looking at the camera \" />\n",
+				"content_text": "😐\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2021/b2b268722d.png\" width=\"505\" height=\"600\" alt=\"a hippopotamus looking at the camera \" />\n",
 				"date_published": "2021-12-18T17:19:16-06:00",
 				"url": "https://microblog.chrisenns.com/2021/12/18/171916.html"
 			},
@@ -4088,7 +4096,7 @@
 				"id": "http://Ichris.micro.blog/2021/12/15/well-im-glad.html",
 				
 				"content_html": "<p>Well I&rsquo;m glad things seem to be slowing down for the holidays. 😆</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Well I'm glad things seem to be slowing down for the holidays. 😆 \n\n<img src=\"uploads/2021/f051f8d6c6.jpg\" width=\"76\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Well I'm glad things seem to be slowing down for the holidays. 😆 \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2021/f051f8d6c6.jpg\" width=\"76\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-12-15T13:53:26-06:00",
 				"url": "https://microblog.chrisenns.com/2021/12/15/well-im-glad.html"
 			},
@@ -4096,7 +4104,7 @@
 				"id": "http://Ichris.micro.blog/2021/12/14/heads-up-that.html",
 				
 				"content_html": "<p>Heads up that the Logic Pro 10.7.2 update that came out last week seems to have some sort of plugin compatibility bug. Some projects are fine, others hang as soon as I hit play and require a force quit restart to work. #podcasters</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Heads up that the Logic Pro 10.7.2 update that came out last week seems to have some sort of plugin compatibility bug. Some projects are fine, others hang as soon as I hit play and require a force quit restart to work. #podcasters\n\n<img src=\"uploads/2021/451b779a8e.jpg\" width=\"600\" height=\"221\" alt=\"\" />\n",
+				"content_text": "Heads up that the Logic Pro 10.7.2 update that came out last week seems to have some sort of plugin compatibility bug. Some projects are fine, others hang as soon as I hit play and require a force quit restart to work. #podcasters\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2021/451b779a8e.jpg\" width=\"600\" height=\"221\" alt=\"\" />\n",
 				"date_published": "2021-12-14T10:37:33-06:00",
 				"url": "https://microblog.chrisenns.com/2021/12/14/heads-up-that.html"
 			},
@@ -4104,7 +4112,7 @@
 				"id": "http://Ichris.micro.blog/2021/12/13/discord-added-an.html",
 				
 				"content_html": "<p>Discord added an option to turn on a &ldquo;Preview video&rdquo; before the video is turned on for a call.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Discord added an option to turn on a \"Preview video\" before the video is turned on for a call. \n\n<img src=\"uploads/2021/2a21da4452.jpg\" width=\"600\" height=\"330\" alt=\"\" />\n",
+				"content_text": "Discord added an option to turn on a \"Preview video\" before the video is turned on for a call. \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2021/2a21da4452.jpg\" width=\"600\" height=\"330\" alt=\"\" />\n",
 				"date_published": "2021-12-13T11:30:29-06:00",
 				"url": "https://microblog.chrisenns.com/2021/12/13/discord-added-an.html"
 			},
@@ -4225,7 +4233,7 @@
 				"id": "http://Ichris.micro.blog/2021/06/09/mini-motorways-has.html",
 				
 				"content_html": "<p>Mini Motorways has been my favourite Apple Arcade game to pass the time lately.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Mini Motorways has been my favourite Apple Arcade game to pass the time lately. \n\n<img src=\"uploads/2021/89e54f71d2.png\" width=\"600\" height=\"277\" alt=\"\" />\n",
+				"content_text": "Mini Motorways has been my favourite Apple Arcade game to pass the time lately. \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2021/89e54f71d2.png\" width=\"600\" height=\"277\" alt=\"\" />\n",
 				"date_published": "2021-06-09T16:31:48-06:00",
 				"url": "https://microblog.chrisenns.com/2021/06/09/mini-motorways-has.html",
 				"tags": ["Apple"]
@@ -4242,7 +4250,7 @@
 				"id": "http://Ichris.micro.blog/2021/02/28/tap-tap-is.html",
 				
 				"content_html": "<p><em>tap</em> <em>tap</em> is this still on?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "*tap* *tap* is this still on?\n\n<img src=\"uploads/2021/0c249eccd7.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "*tap* *tap* is this still on?\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2021/0c249eccd7.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-02-28T08:01:39-06:00",
 				"url": "https://microblog.chrisenns.com/2021/02/28/tap-tap-is.html",
 				"tags": ["Microblog"]
