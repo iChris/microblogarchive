@@ -7,12 +7,69 @@
 	"items": [
 		
 			{
-				"id": "http://ichris.micro.blog/2023/05/05/guardians-of-the.html",
+				"id": "http://ichris.micro.blog/2023/05/09/a-reminder-that.html",
+				
+				"content_html": "<p>A reminder that <a href=\"https://www.apple.com/ca/shop/refurbished\">Apple&rsquo;s online store has a refurbished section</a> where you can save money on hardware that comes with a 1 year warranty and is like new.</p>\n",
+				"content_text": "A reminder that [Apple's online store has a refurbished section](https://www.apple.com/ca/shop/refurbished) where you can save money on hardware that comes with a 1 year warranty and is like new.\n",
+				"date_published": "2023-05-09T15:12:07-06:00",
+				"url": "https://microblog.chrisenns.com/2023/05/09/a-reminder-that.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/05/09/its-not-just.html",
+				
+				"content_html": "<p>It&rsquo;s not just you: <a href=\"https://www.macrumors.com/2023/05/09/weather-app-issues/\">Apple&rsquo;s Weather app isn&rsquo;t working again for some people</a>.</p>\n",
+				"content_text": "It's not just you: [Apple's Weather app isn't working again for some people](https://www.macrumors.com/2023/05/09/weather-app-issues/).\n",
+				"date_published": "2023-05-09T11:37:59-06:00",
+				"url": "https://microblog.chrisenns.com/2023/05/09/its-not-just.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/05/09/the-fact-that.html",
+				
+				"content_html": "<p>The fact that Apple is <a href=\"https://www.macstories.net/news/final-cut-pro-and-logic-pro-are-coming-to-the-ipad-on-may-23rd/\">releasing Final Cut Pro and Logic Pro for iPad</a> now bodes really well for the iPad as a platform. I can&rsquo;t imagine they&rsquo;d do the work to release those apps and not support it.</p>\n",
+				"content_text": "The fact that Apple is [releasing Final Cut Pro and Logic Pro for iPad](https://www.macstories.net/news/final-cut-pro-and-logic-pro-are-coming-to-the-ipad-on-may-23rd/) now bodes really well for the iPad as a platform. I can't imagine they'd do the work to release those apps and not support it. \n",
+				"date_published": "2023-05-09T09:59:50-06:00",
+				"url": "https://microblog.chrisenns.com/2023/05/09/the-fact-that.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/05/08/electricity-is-pretty.html",
+				
+				"content_html": "<p>Electricity is pretty cool until it gets too hot.</p>\n<p>Dryer randomly started smoking. Luckily we caught it in time before it got worse.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Electricity is pretty cool until it gets too hot. \n\nDryer randomly started smoking. Luckily we caught it in time before it got worse. \n\n<img src=\"uploads/2023/f779cd2680.jpg\" width=\"450\" height=\"600\" alt=\"Image of the top of a clothes dryer with the top removed showing blackened circuit board area.\">\n",
+				"date_published": "2023-05-08T21:25:49-06:00",
+				"url": "https://microblog.chrisenns.com/2023/05/08/electricity-is-pretty.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/05/06/god-forbid-the.html",
+				"title": "God Forbid: The Sex Scandal That Brought Down a Dynasty, 2022 - ★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/9/1/7/1/1/4/917114-god-forbid-the-sex-scandal-that-brought-down-a-dynasty-0-600-0-900-crop.jpg?v=bee0e37118\"/></p> <p>Watched on Saturday May 6, 2023.</p>\n",
+				"date_published": "2023-05-06T12:35:22-06:00",
+				"url": "https://microblog.chrisenns.com/2023/05/06/god-forbid-the.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/05/06/a-cool-thing.html",
+				
+				"content_html": "<p>A cool thing I discovered is that the audio repair tool I use has a bug where if the hard drive runs out of space, it just repairs part of the file without telling me anything was wrong. So guess who&rsquo;s spent hours &ldquo;fixing&rdquo; audio files when I should have been cleaning up hard drive space?</p>\n",
+				"content_text": "A cool thing I discovered is that the audio repair tool I use has a bug where if the hard drive runs out of space, it just repairs part of the file without telling me anything was wrong. So guess who's spent hours \"fixing\" audio files when I should have been cleaning up hard drive space? \n",
+				"date_published": "2023-05-06T09:12:00-06:00",
+				"url": "https://microblog.chrisenns.com/2023/05/06/a-cool-thing.html",
+				"tags": ["Podcasting"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/05/06/it-really-is.html",
+				
+				"content_html": "<p>It really is magical when I can speak into the Watch on my wrist and music will start playing on my van&rsquo;s speakers via bluetooth from my iPhone. But when it falls over, it really falls over. The album is in my top 10 played for the year, and I still can&rsquo;t find what I&rsquo;m looking for?</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "It really is magical when I can speak into the Watch on my wrist and music will start playing on my van's speakers via bluetooth from my iPhone. But when it falls over, it really falls over. The album is in my top 10 played for the year, and I still can't find what I'm looking for?\n\n<img src=\"uploads/2023/00abf946ed.jpg\" width=\"368\" height=\"448\" alt=\"Screenshot of an Apple Watch response to &quot;Play U2 songs of surrender album&quot; that says &quot;I couldn't find U2 songs of surrender in your Apple Music library.&quot;\">\n",
+				"date_published": "2023-05-06T09:05:18-06:00",
+				"url": "https://microblog.chrisenns.com/2023/05/06/it-really-is.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/05/05/152852.html",
 				"title": "Guardians of the Galaxy Vol. 3, 2023 - ★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/3/7/9/7/1/1/379711-guardians-of-the-galaxy-vol-3-0-600-0-900-crop.jpg?v=3253005ce0\"/></p> <p>Watched on Friday May 5, 2023.</p>\n",
-				"date_published": "2023-05-05T14:22:46-06:00",
-				"url": "https://microblog.chrisenns.com/2023/05/05/guardians-of-the.html"
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/3/7/9/7/1/1/379711-guardians-of-the-galaxy-vol-3-0-600-0-900-crop.jpg?v=3253005ce0\"/></p> <p>Amazing film to mark end of the trilogy, the end of the MCU road for much of the cast, and director James Gunn's move to DC. </p><p>I can't believe it's been almost 10 years since Guardians of the Galaxy Vol. 1 came out.</p>\n",
+				"date_published": "2023-05-05T15:28:52-06:00",
+				"url": "https://microblog.chrisenns.com/2023/05/05/152852.html"
 			},
 			{
 				"id": "http://ichris.micro.blog/2023/04/30/finished-reading-mistborn.html",
