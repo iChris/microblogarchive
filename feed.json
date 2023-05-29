@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2023/05/29/having-driven-around.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<extreme prairie boy voice>\nHaving driven around LA for a few days, I have  no idea how it all works. It’s just so big.\n</extreme prairie boy voice>\n",
+				"date_published": "2023-05-29T10:57:49-06:00",
+				"url": "https://microblog.chrisenns.com/2023/05/29/having-driven-around.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/05/21/who-are-people.html",
+				
+				"content_html": "<p>Who are people talking to on phones while wandering airports? I’ve never been phoned by someone who’s in an airport. Just a text saying “where are you? We’ve landed.”</p>\n",
+				"content_text": "Who are people talking to on phones while wandering airports? I’ve never been phoned by someone who’s in an airport. Just a text saying “where are you? We’ve landed.”\n",
+				"date_published": "2023-05-21T14:17:12-06:00",
+				"url": "https://microblog.chrisenns.com/2023/05/21/who-are-people.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/05/21/im-really-glad.html",
+				
+				"content_html": "<p>I&rsquo;m really glad they&rsquo;re <a href=\"https://www.u2songs.com/news/filming_surrender\">filming Bono&rsquo;s Stories of Surrender show</a> for release eventually - possibly AppleTV+.</p>\n",
+				"content_text": "I'm really glad they're [filming Bono's Stories of Surrender show](https://www.u2songs.com/news/filming_surrender) for release eventually - possibly AppleTV+.\n",
+				"date_published": "2023-05-21T08:05:35-06:00",
+				"url": "https://microblog.chrisenns.com/2023/05/21/im-really-glad.html"
+			},
+			{
 				"id": "http://ichris.micro.blog/2023/05/20/211031.html",
 				"title": "Star Wars: The Rise of Skywalker, 2019 - ★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
@@ -69,30 +93,6 @@
 				"content_text": "You really haven't felt the burn of online teens until you have a tiktok that gets pushed into the wrong part of town, and you see a whole bunch of their avatars check out your account and then nope away as quickly as possible. 😂\n\n👴 \"How do you do fellow kids?\"\n",
 				"date_published": "2023-05-17T16:25:40-06:00",
 				"url": "https://microblog.chrisenns.com/2023/05/17/you-really-havent.html"
-			},
-			{
-				"id": "http://ichris.micro.blog/2023/05/16/going-for-a.html",
-				
-				"content_html": "<p>Going for a walk. AMA</p>\n",
-				"content_text": "Going for a walk. AMA\n",
-				"date_published": "2023-05-16T14:59:01-06:00",
-				"url": "https://microblog.chrisenns.com/2023/05/16/going-for-a.html"
-			},
-			{
-				"id": "http://ichris.micro.blog/2023/05/16/havent-had-any.html",
-				
-				"content_html": "<p>Haven&rsquo;t had any doggie interruptions on client podcasts in a while, and then randomly the last 2 episodes I&rsquo;ve editing have featured some barking from furry friends.</p>\n<p>Not a complaint. A pup is way more pleasing to hear than a lawn mower this time of year.</p>\n",
-				"content_text": "Haven't had any doggie interruptions on client podcasts in a while, and then randomly the last 2 episodes I've editing have featured some barking from furry friends.\n\nNot a complaint. A pup is way more pleasing to hear than a lawn mower this time of year. \n",
-				"date_published": "2023-05-16T11:21:22-06:00",
-				"url": "https://microblog.chrisenns.com/2023/05/16/havent-had-any.html"
-			},
-			{
-				"id": "http://ichris.micro.blog/2023/05/16/cross-posting-this.html",
-				
-				"content_html": "<p>Cross posting this <a href=\"https://chriscoyier.net/2023/05/16/cross-posting/\">this post</a> about cross posting by fellow Chris who ran with my initial post about cross posting in Discord.</p>\n",
-				"content_text": "Cross posting this [this post](https://chriscoyier.net/2023/05/16/cross-posting/) about cross posting by fellow Chris who ran with my initial post about cross posting in Discord. \n",
-				"date_published": "2023-05-16T07:55:36-06:00",
-				"url": "https://microblog.chrisenns.com/2023/05/16/cross-posting-this.html"
 			},
 			{
 				"id": "http://ichris.micro.blog/2023/05/15/sometimes-when-im.html",
