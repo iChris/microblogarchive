@@ -7,6 +7,102 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2023/06/03/today-for-something.html",
+				
+				"content_html": "<p>Today for something different we’re going to mow the stupid lawn for our stupid mental health, ok? Not ruling out a walk later, but sitting in a stupid chair on the stupid deck might be a better option today. 🌞</p>\n",
+				"content_text": "Today for something different we’re going to mow the stupid lawn for our stupid mental health, ok? Not ruling out a walk later, but sitting in a stupid chair on the stupid deck might be a better option today. 🌞 \n",
+				"date_published": "2023-06-03T11:21:09-06:00",
+				"url": "https://microblog.chrisenns.com/2023/06/03/today-for-something.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/06/02/hey-lets-go.html",
+				
+				"content_html": "<p>Hey let&rsquo;s go for a stupid walk for somebody&rsquo;s (mine? yours?) stupid mental health ok?</p>\n",
+				"content_text": "Hey let's go for a stupid walk for somebody's (mine? yours?) stupid mental health ok?\n",
+				"date_published": "2023-06-02T14:31:16-06:00",
+				"url": "https://microblog.chrisenns.com/2023/06/02/hey-lets-go.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/06/02/detail-macos-and.html",
+				
+				"content_html": "<p><a href=\"https://www.macstories.net/reviews/detail-duo-and-detail-for-mac-a-modern-machine-learning-powered-approach-to-video/\">Detail (macOS and iOS)</a> looks like a fun new take on video recording and editing - built with M1 / M2 devices in mind.</p>\n",
+				"content_text": "[Detail (macOS and iOS)](https://www.macstories.net/reviews/detail-duo-and-detail-for-mac-a-modern-machine-learning-powered-approach-to-video/) looks like a fun new take on video recording and editing - built with M1 / M2 devices in mind.\n",
+				"date_published": "2023-06-02T13:21:51-06:00",
+				"url": "https://microblog.chrisenns.com/2023/06/02/detail-macos-and.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/06/02/ive-taken-enough.html",
+				
+				"content_html": "<p>I&rsquo;ve taken enough words into my earballs via editing podcasts about TypeScript that you&rsquo;d think I&rsquo;d understand what it is. But I still don&rsquo;t really get it. And I&rsquo;m fine with that tbh.</p>\n<p>I know HTML + CSS things, and I&rsquo;m a expert level FrontPage &lsquo;98 user - why move forward from perfection?</p>\n",
+				"content_text": "I've taken enough words into my earballs via editing podcasts about TypeScript that you'd think I'd understand what it is. But I still don't really get it. And I'm fine with that tbh.\n\nI know HTML + CSS things, and I'm a expert level FrontPage '98 user - why move forward from perfection?\n",
+				"date_published": "2023-06-02T11:13:31-06:00",
+				"url": "https://microblog.chrisenns.com/2023/06/02/ive-taken-enough.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/06/01/ted-lasso-finale.html",
+				
+				"content_html": "<p><a href=\"https://chrisenns.com/2023/06/Ted-Lasso/\">Ted Lasso finale - quick thoughts</a></p>\n",
+				"content_text": "[Ted Lasso finale - quick thoughts](https://chrisenns.com/2023/06/Ted-Lasso/)\n",
+				"date_published": "2023-06-01T16:06:12-06:00",
+				"url": "https://microblog.chrisenns.com/2023/06/01/ted-lasso-finale.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/06/01/its-stupid-walk.html",
+				
+				"content_html": "<p>It’s stupid walk time. Let’s go.</p>\n",
+				"content_text": "It’s stupid walk time. Let’s go. \n",
+				"date_published": "2023-06-01T14:47:13-06:00",
+				"url": "https://microblog.chrisenns.com/2023/06/01/its-stupid-walk.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/06/01/top-podcast-hosting.html",
+				
+				"content_html": "<p><a href=\"https://livewire.io/podcast-hosts-by-episode-share/\">Top podcast hosting companies by episode share</a> is interesting. I assume Spotify for Podcasters is so high because they folded in all the free formerly Anchor based podcasts?</p>\n",
+				"content_text": "[Top podcast hosting companies by episode share](https://livewire.io/podcast-hosts-by-episode-share/) is interesting. I assume Spotify for Podcasters is so high because they folded in all the free formerly Anchor based podcasts?\n",
+				"date_published": "2023-06-01T10:45:36-06:00",
+				"url": "https://microblog.chrisenns.com/2023/06/01/top-podcast-hosting.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/05/31/im-posting-about.html",
+				
+				"content_html": "<p>I&rsquo;m posting about going for a stupid walk for my stupid mental (and physical) health just to keep myself accountable, ok?</p>\n<p>AMA</p>\n",
+				"content_text": "I'm posting about going for a stupid walk for my stupid mental (and physical) health just to keep myself accountable, ok?\n\nAMA\n",
+				"date_published": "2023-05-31T14:17:49-06:00",
+				"url": "https://microblog.chrisenns.com/2023/05/31/im-posting-about.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/05/31/great-feedback-from.html",
+				
+				"content_html": "<p>Great feedback from a client: &ldquo;I think the shits are okay :)&rdquo;</p>\n",
+				"content_text": "Great feedback from a client: \"I think the shits are okay :)\"\n",
+				"date_published": "2023-05-31T11:06:14-06:00",
+				"url": "https://microblog.chrisenns.com/2023/05/31/great-feedback-from.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/05/30/dont-throw-repressed.html",
+				
+				"content_html": "<p>“Don’t throw repressed memory Emily.”\n“Ehhh she won’t remember this.”</p>\n<p>Bob’s Burger is so great.</p>\n",
+				"content_text": "“Don’t throw repressed memory Emily.”\n“Ehhh she won’t remember this.” \n\nBob’s Burger is so great. \n",
+				"date_published": "2023-05-30T19:21:43-06:00",
+				"url": "https://microblog.chrisenns.com/2023/05/30/dont-throw-repressed.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/05/30/do-you-have.html",
+				
+				"content_html": "<p>Do you have a M2 MacBook Air? Are you able to use it outside in regular sunlight while sitting in the shade?</p>\n",
+				"content_text": "Do you have a M2 MacBook Air? Are you able to use it outside in regular sunlight while sitting in the shade? \n",
+				"date_published": "2023-05-30T11:28:03-06:00",
+				"url": "https://microblog.chrisenns.com/2023/05/30/do-you-have.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/05/30/some-interesting-new.html",
+				
+				"content_html": "<p>Some interesting <a href=\"https://weblog.rogueamoeba.com/2023/05/30/audio-hijack-4-2-adds-three-powerful-new-blocks/\">new block updates to Audio Hijack</a> including a machine learning based speech denoise block.</p>\n",
+				"content_text": "Some interesting [new block updates to Audio Hijack](https://weblog.rogueamoeba.com/2023/05/30/audio-hijack-4-2-adds-three-powerful-new-blocks/) including a machine learning based speech denoise block.\n",
+				"date_published": "2023-05-30T09:17:59-06:00",
+				"url": "https://microblog.chrisenns.com/2023/05/30/some-interesting-new.html"
+			},
+			{
 				"id": "http://ichris.micro.blog/2023/05/29/having-driven-around.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
@@ -95,6 +191,30 @@
 				"url": "https://microblog.chrisenns.com/2023/05/17/you-really-havent.html"
 			},
 			{
+				"id": "http://ichris.micro.blog/2023/05/16/going-for-a.html",
+				
+				"content_html": "<p>Going for a walk. AMA</p>\n",
+				"content_text": "Going for a walk. AMA\n",
+				"date_published": "2023-05-16T14:59:01-06:00",
+				"url": "https://microblog.chrisenns.com/2023/05/16/going-for-a.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/05/16/havent-had-any.html",
+				
+				"content_html": "<p>Haven&rsquo;t had any doggie interruptions on client podcasts in a while, and then randomly the last 2 episodes I&rsquo;ve editing have featured some barking from furry friends.</p>\n<p>Not a complaint. A pup is way more pleasing to hear than a lawn mower this time of year.</p>\n",
+				"content_text": "Haven't had any doggie interruptions on client podcasts in a while, and then randomly the last 2 episodes I've editing have featured some barking from furry friends.\n\nNot a complaint. A pup is way more pleasing to hear than a lawn mower this time of year. \n",
+				"date_published": "2023-05-16T11:21:22-06:00",
+				"url": "https://microblog.chrisenns.com/2023/05/16/havent-had-any.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/05/16/cross-posting-this.html",
+				
+				"content_html": "<p>Cross posting this <a href=\"https://chriscoyier.net/2023/05/16/cross-posting/\">this post</a> about cross posting by fellow Chris who ran with my initial post about cross posting in Discord.</p>\n",
+				"content_text": "Cross posting this [this post](https://chriscoyier.net/2023/05/16/cross-posting/) about cross posting by fellow Chris who ran with my initial post about cross posting in Discord. \n",
+				"date_published": "2023-05-16T07:55:36-06:00",
+				"url": "https://microblog.chrisenns.com/2023/05/16/cross-posting-this.html"
+			},
+			{
 				"id": "http://ichris.micro.blog/2023/05/15/sometimes-when-im.html",
 				
 				"content_html": "<p>Sometimes when I&rsquo;m editing a client&rsquo;s episode where they&rsquo;re talking excitedly about AI replacing human jobs, I&rsquo;m often reminded of Dave Rupert&rsquo;s short story <a href=\"https://daverupert.com/2018/02/the-mammoth/\">The Mammoth</a>. I wonder how long until this is my reality?</p>\n<!-- raw HTML omitted -->\n",
@@ -138,7 +258,7 @@
 				"id": "http://ichris.micro.blog/2023/05/14/old-school-s.html",
 				
 				"content_html": "<p>“Old school 80’s style selfie.” she says.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "“Old school 80’s style selfie.” she says. \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2023/236670fca4.jpg\" width=\"450\" height=\"600\" alt=\"Picture of a sink with a spoon held so you can see a kid’s vague reflection in the spoon. \">\n",
+				"content_text": "“Old school 80’s style selfie.” she says. \n\n<img src=\"uploads/2023/236670fca4.jpg\" width=\"450\" height=\"600\" alt=\"Picture of a sink with a spoon held so you can see a kid’s vague reflection in the spoon. \">\n",
 				"date_published": "2023-05-14T16:01:26-06:00",
 				"url": "https://microblog.chrisenns.com/2023/05/14/old-school-s.html"
 			},
