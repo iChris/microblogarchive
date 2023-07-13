@@ -7,6 +7,78 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2023/07/13/im-sorry-to.html",
+				
+				"content_html": "<p>I’m sorry to <a href=\"https://www.netlify.com/blog/ceo-announcement-to-the-netlify-team/\">anyone at Netlify affected by the layoffs this week</a>. It sucks a lot - I know how much heart and soul has gone into making it a great app and service for the web.</p>\n",
+				"content_text": "I’m sorry to [anyone at Netlify affected by the layoffs this week](https://www.netlify.com/blog/ceo-announcement-to-the-netlify-team/). It sucks a lot - I know how much heart and soul has gone into making it a great app and service for the web. \n",
+				"date_published": "2023-07-13T16:04:06-06:00",
+				"url": "https://microblog.chrisenns.com/2023/07/13/im-sorry-to.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/07/06/the-best-part.html",
+				
+				"content_html": "<p>The best part of The Amazing Race Canada is how Canadian everyone sounds. 😆 Somehow they sound even more stereotypical Canadian even though I live here.</p>\n",
+				"content_text": "The best part of The Amazing Race Canada is how Canadian everyone sounds. 😆 Somehow they sound even more stereotypical Canadian even though I live here. \n",
+				"date_published": "2023-07-06T21:03:38-06:00",
+				"url": "https://microblog.chrisenns.com/2023/07/06/the-best-part.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/07/06/if-weve-got.html",
+				
+				"content_html": "<p>If we&rsquo;ve got Paramount+ for a 7 day free trial, what do I need to binge before I cancel it?</p>\n",
+				"content_text": "If we've got Paramount+ for a 7 day free trial, what do I need to binge before I cancel it?\n",
+				"date_published": "2023-07-06T17:06:49-06:00",
+				"url": "https://microblog.chrisenns.com/2023/07/06/if-weve-got.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/07/06/its-stupid-walk.html",
+				
+				"content_html": "<p>It’s stupid walk for my 🧠 time. Been lazy this week now that kids are home from school and Tuesdays are Saturdays and supper is breakfast my 🧠 is extra confused. Let’s go. 🚶‍♂️</p>\n",
+				"content_text": "It’s stupid walk for my 🧠 time. Been lazy this week now that kids are home from school and Tuesdays are Saturdays and supper is breakfast my 🧠 is extra confused. Let’s go. 🚶‍♂️ \n",
+				"date_published": "2023-07-06T14:47:12-06:00",
+				"url": "https://microblog.chrisenns.com/2023/07/06/its-stupid-walk.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/07/06/editing-a-clients.html",
+				
+				"content_html": "<p>Editing a client&rsquo;s podcast and the guest starts off by saying &ldquo;&hellip;and so I moved here from Dublin, Ireland&rdquo; - and I know I&rsquo;m going to enjoy listening to them no matter what the topic is.</p>\n",
+				"content_text": "Editing a client's podcast and the guest starts off by saying \"...and so I moved here from Dublin, Ireland\" - and I know I'm going to enjoy listening to them no matter what the topic is.\n",
+				"date_published": "2023-07-06T12:12:35-06:00",
+				"url": "https://microblog.chrisenns.com/2023/07/06/editing-a-clients.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/07/06/new-post-instagram.html",
+				
+				"content_html": "<p>New post: <a href=\"https://chrisenns.com/2023/07/ig-threads/\">Instagram Launches Threads - How Meta</a>. TLDR: just chill, it&rsquo;s only been a day. But also freak out because Facebook Meta is coming for your very soul. But chill, ok?</p>\n",
+				"content_text": "New post: [Instagram Launches Threads - How Meta](https://chrisenns.com/2023/07/ig-threads/). TLDR: just chill, it's only been a day. But also freak out because Facebook Meta is coming for your very soul. But chill, ok?\n",
+				"date_published": "2023-07-06T11:12:21-06:00",
+				"url": "https://microblog.chrisenns.com/2023/07/06/new-post-instagram.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/07/05/mission-impossible-fallout.html",
+				"title": "Mission: Impossible - Fallout, 2018 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/2/8/3/2/7/3/283273-mission-impossible-fallout-0-600-0-900-crop.jpg?v=04024ef596\"/></p> <p>Watched on Wednesday July 5, 2023.</p>\n",
+				"date_published": "2023-07-05T22:31:40-06:00",
+				"url": "https://microblog.chrisenns.com/2023/07/05/mission-impossible-fallout.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/07/05/threads-coming-out.html",
+				
+				"content_html": "<p>Threads coming out of the gate with <a href=\"https://www.threads.net/t/CuVYsBXJ0ey/?igshid=MzRlODBiNWFlZA==\">ugly URLs like Instagram</a></p>\n",
+				"content_text": "Threads coming out of the gate with [ugly URLs like Instagram](https://www.threads.net/t/CuVYsBXJ0ey/?igshid=MzRlODBiNWFlZA==) \n",
+				"date_published": "2023-07-05T17:30:58-06:00",
+				"url": "https://microblog.chrisenns.com/2023/07/05/threads-coming-out.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/07/05/chatgpt-wouldnt-be.html",
+				
+				"content_html": "<p>ChatGPT wouldn&rsquo;t be quite so appealing if google search results weren&rsquo;t such a mess of SEO clickbait and garbage websites.</p>\n",
+				"content_text": "ChatGPT wouldn't be quite so appealing if google search results weren't such a mess of SEO clickbait and garbage websites.\n",
+				"date_published": "2023-07-05T10:28:09-06:00",
+				"url": "https://microblog.chrisenns.com/2023/07/05/chatgpt-wouldnt-be.html"
+			},
+			{
 				"id": "http://ichris.micro.blog/2023/07/05/happy-th-anniversary.html",
 				
 				"content_html": "<p>Happy <a href=\"https://www.u2songs.com/discography/u2_zooropa_album_original_release\">30th anniversary to one of my fav albums of all time</a> - U2&rsquo;s Zooropa.</p>\n",
