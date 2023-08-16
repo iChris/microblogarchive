@@ -7,10 +7,82 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2023/08/16/oppenheimer.html",
+				"title": "Oppenheimer, 2023 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/7/8/4/3/2/8/784328-oppenheimer-0-600-0-900-crop.jpg?v=e3c6e7a32c\"/></p> <p>Watched on Tuesday August 15, 2023.</p>\n",
+				"date_published": "2023-08-16T09:30:58-06:00",
+				"url": "https://microblog.chrisenns.com/2023/08/16/oppenheimer.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/08/15/new-blog-post.html",
+				
+				"content_html": "<p>✏️ New blog post: <a href=\"https://chrisenns.com/2023/08/11ty-WordPress/\">Exporting Eleventy Blog Posts to WordPress Issues</a></p>\n",
+				"content_text": "✏️ New blog post: [Exporting Eleventy Blog Posts to WordPress Issues](https://chrisenns.com/2023/08/11ty-WordPress/)\n",
+				"date_published": "2023-08-15T14:40:53-06:00",
+				"url": "https://microblog.chrisenns.com/2023/08/15/new-blog-post.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/08/15/heres-the-official.html",
+				
+				"content_html": "<p><a href=\"https://squadcast.fm/blog/squadcast-joins-descript/\">Here&rsquo;s the official announcement from Squadcast</a> on being aquired by Descript. Getting both tools for the price of Descript is pretty great, and is a pretty clear shot at a recording tool like Riverside.fm, which I use, that&rsquo;s been adding transcription AI tools recently.</p>\n",
+				"content_text": "[Here's the official announcement from Squadcast](https://squadcast.fm/blog/squadcast-joins-descript/) on being aquired by Descript. Getting both tools for the price of Descript is pretty great, and is a pretty clear shot at a recording tool like Riverside.fm, which I use, that's been adding transcription AI tools recently.\n",
+				"date_published": "2023-08-15T13:28:28-06:00",
+				"url": "https://microblog.chrisenns.com/2023/08/15/heres-the-official.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/08/15/please-dont-say.html",
+				
+				"content_html": "<p>Please don&rsquo;t say &ldquo;I&rsquo;m so glad you&rsquo;re moving on&rdquo; to someone who&rsquo;s working through something, especially trauma. Getting a new job isn&rsquo;t &ldquo;moving on&rdquo; when you were fired by assholes in an asshole way at your old job.</p>\n<p>It&rsquo;s not about you.</p>\n",
+				"content_text": "Please don't say \"I'm so glad you're moving on\" to someone who's working through something, especially trauma. Getting a new job isn't \"moving on\" when you were fired by assholes in an asshole way at your old job.\n\nIt's not about you.\n",
+				"date_published": "2023-08-15T13:16:23-06:00",
+				"url": "https://microblog.chrisenns.com/2023/08/15/please-dont-say.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/08/15/i-cant-read.html",
+				
+				"content_html": "<p>I can&rsquo;t read the full article, but <a href=\"https://www.bloomberg.com/news/articles/2023-08-15/podcast-editor-descript-buys-recording-service-squadcast-in-latest-industry-deal#xj4y7vzkg\">Bloomberg has leaked that Descript is buying Squadcast</a>. Descript is a transcription / screencast / editing app, Squadcast is for recording and live streaming podcast conversations. Interesting acquisition.</p>\n",
+				"content_text": "I can't read the full article, but [Bloomberg has leaked that Descript is buying Squadcast](https://www.bloomberg.com/news/articles/2023-08-15/podcast-editor-descript-buys-recording-service-squadcast-in-latest-industry-deal#xj4y7vzkg). Descript is a transcription / screencast / editing app, Squadcast is for recording and live streaming podcast conversations. Interesting acquisition.\n",
+				"date_published": "2023-08-15T09:46:08-06:00",
+				"url": "https://microblog.chrisenns.com/2023/08/15/i-cant-read.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/08/13/two-interesting-moments.html",
+				
+				"content_html": "<p>Two interesting moments in <a href=\"https://vm.tiktok.com/ZM2wevKYn/\">this Matt Rife clip on his TikTok</a>: 1) His explanation of why he posts crowd work clips on social media and not his original jokes. 2) Revealing how many people are experiencing a comedy show for the first time. So many new potential fans / customers he’s bringing in.</p>\n",
+				"content_text": "Two interesting moments in [this Matt Rife clip on his TikTok](https://vm.tiktok.com/ZM2wevKYn/): 1) His explanation of why he posts crowd work clips on social media and not his original jokes. 2) Revealing how many people are experiencing a comedy show for the first time. So many new potential fans / customers he’s bringing in. \n",
+				"date_published": "2023-08-13T09:13:15-06:00",
+				"url": "https://microblog.chrisenns.com/2023/08/13/two-interesting-moments.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/08/13/i-didnt-realize.html",
+				
+				"content_html": "<p>I didn’t realize until watching way too many tiktoks that some Americans actually use the phrase “cussing” when they’re talking about swearing at each other. I just thought it was an old-timey phrase, like in Fantastic Mr. Fox. 🦊</p>\n",
+				"content_text": "I didn’t realize until watching way too many tiktoks that some Americans actually use the phrase “cussing” when they’re talking about swearing at each other. I just thought it was an old-timey phrase, like in Fantastic Mr. Fox. 🦊 \n",
+				"date_published": "2023-08-13T08:53:56-06:00",
+				"url": "https://microblog.chrisenns.com/2023/08/13/i-didnt-realize.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/08/11/i-feel-like.html",
+				
+				"content_html": "<p>I feel like <a href=\"https://chriscoyier.net/2023/08/11/finding-a-moment-in-a-podcast/\">this example Chris Coyier blogged about trying to find a moment in a podcast he&rsquo;d listened to</a> could be the more interesting angle for AI / transcription tools to go after: podcast power users who want to find stuff in things they&rsquo;ve listened to.</p>\n",
+				"content_text": "I feel like [this example Chris Coyier blogged about trying to find a moment in a podcast he'd listened to](https://chriscoyier.net/2023/08/11/finding-a-moment-in-a-podcast/) could be the more interesting angle for AI / transcription tools to go after: podcast power users who want to find stuff in things they've listened to.\n",
+				"date_published": "2023-08-11T13:16:13-06:00",
+				"url": "https://microblog.chrisenns.com/2023/08/11/i-feel-like.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/08/11/nerds-in-i.html",
+				
+				"content_html": "<p>Nerds in 2013: &ldquo;I buy so many domain names. It&rsquo;s crazy. I&rsquo;ve got like $200 in domain names right now I&rsquo;m not using!&rdquo;</p>\n<p>Nerds in 2023: &ldquo;I&rsquo;ve got $5,000 worth of video and audio gear in my closet because I live streamed twice.&rdquo;</p>\n",
+				"content_text": "Nerds in 2013: \"I buy so many domain names. It's crazy. I've got like $200 in domain names right now I'm not using!\"\n\nNerds in 2023: \"I've got $5,000 worth of video and audio gear in my closet because I live streamed twice.\"\n",
+				"date_published": "2023-08-11T12:26:36-06:00",
+				"url": "https://microblog.chrisenns.com/2023/08/11/nerds-in-i.html"
+			},
+			{
 				"id": "http://ichris.micro.blog/2023/08/11/its-a-silly.html",
 				
 				"content_html": "<p>It&rsquo;s a silly thing, but I find it funny that Descript—an app that transcribes spoken word to text—doesn&rsquo;t recognize it&rsquo;s own name when spoken.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "It's a silly thing, but I find it funny that Descript—an app that transcribes spoken word to text—doesn't recognize it's own name when spoken. \n\n<img src=\"uploads/2023/df7f1c1f3b.png\" width=\"426\" height=\"124\" alt=\"Screenshot from Descript of a transcript where it transcribed it’s own name as DSS script instead of Descript.\">\n",
+				"content_text": "It's a silly thing, but I find it funny that Descript—an app that transcribes spoken word to text—doesn't recognize it's own name when spoken. \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2023/df7f1c1f3b.png\" width=\"426\" height=\"124\" alt=\"Screenshot from Descript of a transcript where it transcribed it’s own name as DSS script instead of Descript.\">\n",
 				"date_published": "2023-08-11T10:13:38-06:00",
 				"url": "https://microblog.chrisenns.com/2023/08/11/its-a-silly.html"
 			},
@@ -34,7 +106,7 @@
 				"id": "http://ichris.micro.blog/2023/08/10/show-me-your.html",
 				
 				"content_html": "<p>Show me your mug time! It’s a rainy morning over here, but 3/4 members of U2 are ready to rock. (Larry’s pouting in t he corner at the moment.)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Show me your mug time! It’s a rainy morning over here, but 3/4 members of U2 are ready to rock. (Larry’s pouting in t he corner at the moment.)\n\n<img src=\"uploads/2023/d9c3d7be69.jpg\" width=\"600\" height=\"450\" alt=\"A yellow coffee mug in the foreground, with Funkopop u2 characters in the background. \">\n",
+				"content_text": "Show me your mug time! It’s a rainy morning over here, but 3/4 members of U2 are ready to rock. (Larry’s pouting in t he corner at the moment.)\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2023/d9c3d7be69.jpg\" width=\"600\" height=\"450\" alt=\"A yellow coffee mug in the foreground, with Funkopop u2 characters in the background. \">\n",
 				"date_published": "2023-08-10T09:42:52-06:00",
 				"url": "https://microblog.chrisenns.com/2023/08/10/show-me-your.html"
 			},
