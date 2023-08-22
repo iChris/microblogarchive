@@ -7,6 +7,62 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2023/08/22/my-neighbor-totoro.html",
+				"title": "My Neighbor Totoro, 1988 - ★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/7/7/5/6/47756-my-neighbor-totoro-0-600-0-900-crop.jpg?v=749abe71ad\"/></p> <p>Watched on Monday August 21, 2023.</p>\n",
+				"date_published": "2023-08-22T00:02:39-06:00",
+				"url": "https://microblog.chrisenns.com/2023/08/22/my-neighbor-totoro.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/08/19/birthdays-are-for.html",
+				
+				"content_html": "<p>Birthdays are for drinking coffee and watch your kids yell at the lag in Rocket League.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Birthdays are for drinking coffee and watch your kids yell at the lag in Rocket League. \n\n<img src=\"uploads/2023/4775714084.jpg\" width=\"450\" height=\"600\" alt=\"Photo of me sitting on a couch with feet up and a tv with Rocket League being played on an Xbox. \">\n",
+				"date_published": "2023-08-19T10:59:46-06:00",
+				"url": "https://microblog.chrisenns.com/2023/08/19/birthdays-are-for.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/08/19/holy-this-is.html",
+				
+				"content_html": "<p>Holy 💩 this is crazy. <a href=\"https://daringfireball.net/linked/2023/08/18/number-go-up\">A new book coming soon talks about the scams behind crypto and the people being caught in them.</a> Going on my to read list. 📚</p>\n",
+				"content_text": "Holy 💩 this is crazy. [A new book coming soon talks about the scams behind crypto and the people being caught in them.](https://daringfireball.net/linked/2023/08/18/number-go-up) Going on my to read list. 📚 \n",
+				"date_published": "2023-08-19T09:58:33-06:00",
+				"url": "https://microblog.chrisenns.com/2023/08/19/holy-this-is.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/08/18/dune.html",
+				"title": "Dune, 2021 - ★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/nx/8b/vs/gc/cDbNAY0KM84cxXhmj8f0dLWza3t-0-600-0-900-crop.jpg?v=49eed12751\"/></p> <p>Watched on Friday August 18, 2023.</p>\n",
+				"date_published": "2023-08-18T22:42:50-06:00",
+				"url": "https://microblog.chrisenns.com/2023/08/18/dune.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/08/17/whats-your-fav.html",
+				
+				"content_html": "<p>What&rsquo;s your fav beside table / behind the couch <a href=\"https://www.amazon.ca/dp/B0C38KW43B\">plug like this</a>? (USB-A, USB-C, easy to fit behind a bed or couch.)</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "What's your fav beside table / behind the couch [plug like this](https://www.amazon.ca/dp/B0C38KW43B)? (USB-A, USB-C, easy to fit behind a bed or couch.)\n\n<img src=\"uploads/2023/78f8e055d4.png\" width=\"490\" height=\"600\" alt=\"Power bar extension cable with 2 USB A ports, 1 USB C, and 4 regular power plugs with a slim fitting wall adapter.\">\n",
+				"date_published": "2023-08-17T18:29:14-06:00",
+				"url": "https://microblog.chrisenns.com/2023/08/17/whats-your-fav.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/08/17/someone-on-tiktok.html",
+				
+				"content_html": "<p>Someone on tiktok told me I needed to &ldquo;grow some man nuts girly boy&rdquo; because I made a video about not wanting to come across a bear or mountain lion on a hike.</p>\n<p>Does anyone know the best way to grow man nuts? I don&rsquo;t think they grow in Saskatchewan all that well tbh.</p>\n",
+				"content_text": "Someone on tiktok told me I needed to \"grow some man nuts girly boy\" because I made a video about not wanting to come across a bear or mountain lion on a hike.\n\nDoes anyone know the best way to grow man nuts? I don't think they grow in Saskatchewan all that well tbh.\n",
+				"date_published": "2023-08-17T09:37:23-06:00",
+				"url": "https://microblog.chrisenns.com/2023/08/17/someone-on-tiktok.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/08/17/as-a-parent.html",
+				
+				"content_html": "<p>As a parent of 3 kids, I know when &ldquo;kids at camp&rdquo; is on the calendar that there&rsquo;s a 120% chance that one of the three gets some sort of illness.</p>\n<p>Last night: &ldquo;Why are we both getting phone calls from the same number?&rdquo;</p>\n<p>🤮</p>\n",
+				"content_text": "As a parent of 3 kids, I know when \"kids at camp\" is on the calendar that there's a 120% chance that one of the three gets some sort of illness.\n\nLast night: \"Why are we both getting phone calls from the same number?\"\n\n🤮\n",
+				"date_published": "2023-08-17T09:26:45-06:00",
+				"url": "https://microblog.chrisenns.com/2023/08/17/as-a-parent.html"
+			},
+			{
 				"id": "http://ichris.micro.blog/2023/08/16/oppenheimer.html",
 				"title": "Oppenheimer, 2023 - ★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
