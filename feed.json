@@ -7,6 +7,70 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2023/08/27/send-help-my.html",
+				
+				"content_html": "<p>Send help: my 10yo has started into makeup. I’m not panicking about her morality or her choices or anything like that—mainly how she has aged 6 years in the last month.</p>\n<p>(You don’t really need to send help. It’ll be fine. Unless you have some obvious “dad don’t do this” thoughts. 😆)</p>\n",
+				"content_text": "Send help: my 10yo has started into makeup. I’m not panicking about her morality or her choices or anything like that—mainly how she has aged 6 years in the last month. \n\n(You don’t really need to send help. It’ll be fine. Unless you have some obvious “dad don’t do this” thoughts. 😆)\n",
+				"date_published": "2023-08-27T10:02:48-06:00",
+				"url": "https://microblog.chrisenns.com/2023/08/27/send-help-my.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/08/26/benefits-of-catching.html",
+				
+				"content_html": "<p>Benefits of catching up on work (self employed work anyway) on a Saturday: it might take longer because of distractions and lazy brain, but it somehow feels like you&rsquo;re getting a cheat code on the week?</p>\n",
+				"content_text": "Benefits of catching up on work (self employed work anyway) on a Saturday: it might take longer because of distractions and lazy brain, but it somehow feels like you're getting a cheat code on the week?\n",
+				"date_published": "2023-08-26T16:37:42-06:00",
+				"url": "https://microblog.chrisenns.com/2023/08/26/benefits-of-catching.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/08/26/i-hope-to.html",
+				
+				"content_html": "<p>I hope to someday have the confidence (without the ignorance) of the man who stood on his $60,000 boat filling it with gas and proclaimed with his full chest that “we should all keep voting Trudeau if we want gas prices to keep going up”as if a singular person is responsible.</p>\n",
+				"content_text": "I hope to someday have the confidence (without the ignorance) of the man who stood on his $60,000 boat filling it with gas and proclaimed with his full chest that “we should all keep voting Trudeau if we want gas prices to keep going up”as if a singular person is responsible.\n",
+				"date_published": "2023-08-26T09:25:03-06:00",
+				"url": "https://microblog.chrisenns.com/2023/08/26/i-hope-to.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/08/25/sweet-threads-man.html",
+				
+				"content_html": "<p>Sweet Threads man.</p>\n<p>I’m iChrisV2 over there if you’re also trying to thread.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Sweet Threads man. \n\nI’m iChrisV2 over there if you’re also trying to thread.\n\n<img src=\"uploads/2023/39ea06e1b0.jpg\" width=\"450\" height=\"600\" alt=\"Me wearing a shirt that has the Twitter bird logo with a 2006 - 2023, and a halo over the bird.\">\n",
+				"date_published": "2023-08-25T22:35:30-06:00",
+				"url": "https://microblog.chrisenns.com/2023/08/25/sweet-threads-man.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/08/25/ill-just-quickly.html",
+				
+				"content_html": "<p>&ldquo;I&rsquo;ll just quickly blog something.&rdquo;</p>\n<p>Very quickly remembers I left my blog&rsquo;s build system broken when I went on vacation a week ago. D&rsquo;oh!</p>\n",
+				"content_text": "\"I'll just quickly blog something.\"\n\nVery quickly remembers I left my blog's build system broken when I went on vacation a week ago. D'oh!\n",
+				"date_published": "2023-08-25T20:35:02-06:00",
+				"url": "https://microblog.chrisenns.com/2023/08/25/ill-just-quickly.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/08/25/thing-that-i.html",
+				
+				"content_html": "<p>Thing that I get irrational upset about: Nearly everyone in my extended family screenshots things when they want to share information rather than just sharing the link.</p>\n",
+				"content_text": "Thing that I get irrational upset about: Nearly everyone in my extended family screenshots things when they want to share information rather than just sharing the link. \n",
+				"date_published": "2023-08-25T13:48:02-06:00",
+				"url": "https://microblog.chrisenns.com/2023/08/25/thing-that-i.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/08/25/currently-reading-snow.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9783442236862\">Snow Crash</a> by Neal Stephenson 📚</p>\n",
+				"content_text": "Currently reading: [Snow Crash](https://micro.blog/books/9783442236862) by Neal Stephenson 📚\n",
+				"date_published": "2023-08-25T00:09:34-06:00",
+				"url": "https://microblog.chrisenns.com/2023/08/25/currently-reading-snow.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/08/24/finished-reading-project.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780593135211\">Project Hail Mary</a> by Andy Weir 📚</p>\n",
+				"content_text": "Finished reading: [Project Hail Mary](https://micro.blog/books/9780593135211) by Andy Weir 📚 \n",
+				"date_published": "2023-08-24T14:29:24-06:00",
+				"url": "https://microblog.chrisenns.com/2023/08/24/finished-reading-project.html"
+			},
+			{
 				"id": "http://ichris.micro.blog/2023/08/22/my-neighbor-totoro.html",
 				"title": "My Neighbor Totoro, 1988 - ★★★½",
 				"content_html": "<!-- raw HTML omitted -->\n",
@@ -18,7 +82,7 @@
 				"id": "http://ichris.micro.blog/2023/08/19/birthdays-are-for.html",
 				
 				"content_html": "<p>Birthdays are for drinking coffee and watch your kids yell at the lag in Rocket League.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Birthdays are for drinking coffee and watch your kids yell at the lag in Rocket League. \n\n<img src=\"uploads/2023/4775714084.jpg\" width=\"450\" height=\"600\" alt=\"Photo of me sitting on a couch with feet up and a tv with Rocket League being played on an Xbox. \">\n",
+				"content_text": "Birthdays are for drinking coffee and watch your kids yell at the lag in Rocket League. \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2023/4775714084.jpg\" width=\"450\" height=\"600\" alt=\"Photo of me sitting on a couch with feet up and a tv with Rocket League being played on an Xbox. \">\n",
 				"date_published": "2023-08-19T10:59:46-06:00",
 				"url": "https://microblog.chrisenns.com/2023/08/19/birthdays-are-for.html"
 			},
@@ -42,7 +106,7 @@
 				"id": "http://ichris.micro.blog/2023/08/17/whats-your-fav.html",
 				
 				"content_html": "<p>What&rsquo;s your fav beside table / behind the couch <a href=\"https://www.amazon.ca/dp/B0C38KW43B\">plug like this</a>? (USB-A, USB-C, easy to fit behind a bed or couch.)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "What's your fav beside table / behind the couch [plug like this](https://www.amazon.ca/dp/B0C38KW43B)? (USB-A, USB-C, easy to fit behind a bed or couch.)\n\n<img src=\"uploads/2023/78f8e055d4.png\" width=\"490\" height=\"600\" alt=\"Power bar extension cable with 2 USB A ports, 1 USB C, and 4 regular power plugs with a slim fitting wall adapter.\">\n",
+				"content_text": "What's your fav beside table / behind the couch [plug like this](https://www.amazon.ca/dp/B0C38KW43B)? (USB-A, USB-C, easy to fit behind a bed or couch.)\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2023/78f8e055d4.png\" width=\"490\" height=\"600\" alt=\"Power bar extension cable with 2 USB A ports, 1 USB C, and 4 regular power plugs with a slim fitting wall adapter.\">\n",
 				"date_published": "2023-08-17T18:29:14-06:00",
 				"url": "https://microblog.chrisenns.com/2023/08/17/whats-your-fav.html"
 			},
