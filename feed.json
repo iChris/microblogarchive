@@ -7,6 +7,94 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2023/09/17/i-realized-why.html",
+				
+				"content_html": "<p>I realized why Friday seemed to go so smoothly and it&rsquo;s because I forgot about editing a podcast episode that&rsquo;s due first thing Monday morning. Luckily something triggered my brain to think about it.</p>\n<p>Costco queso dip to the rescue for some late night editing. 😋</p>\n",
+				"content_text": "I realized why Friday seemed to go so smoothly and it's because I forgot about editing a podcast episode that's due first thing Monday morning. Luckily something triggered my brain to think about it.\n\nCostco queso dip to the rescue for some late night editing. 😋\n",
+				"date_published": "2023-09-17T22:08:53-06:00",
+				"url": "https://microblog.chrisenns.com/2023/09/17/i-realized-why.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/09/15/i-love-maggie.html",
+				
+				"content_html": "<p>I love Maggie Appleton&rsquo;s <a href=\"https://maggieappleton.com/\">website</a>. Both the design and UI, as well as very smart words.</p>\n",
+				"content_text": "I love Maggie Appleton's [website](https://maggieappleton.com/). Both the design and UI, as well as very smart words.\n",
+				"date_published": "2023-09-15T10:40:54-06:00",
+				"url": "https://microblog.chrisenns.com/2023/09/15/i-love-maggie.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/09/14/of-its-a.html",
+				
+				"content_html": "<p>22 of 1,909. It&rsquo;s a start. 😆</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "22 of 1,909. It's a start. 😆 \n\n<img src=\"uploads/2023/659d6dad2f.png\" width=\"346\" height=\"178\" alt=\"Finder file view showing 1,909 files.\"><img src=\"uploads/2023/e826c6b247.png\" width=\"382\" height=\"292\" alt=\"Screenshot of WordPress admin with 22 posts showing.\">\n",
+				"date_published": "2023-09-14T16:51:39-06:00",
+				"url": "https://microblog.chrisenns.com/2023/09/14/of-its-a.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/09/14/all-im-asking.html",
+				
+				"content_html": "<p>All I&rsquo;m asking for is if I do a Google search in Safari, my Mac Studio M2 Max powered computer from the future doesn&rsquo;t have to spin up my external hard drives to do that. Is that too much to ask?</p>\n<p>I guess I should&rsquo;ve gone for 64GB of RAM.</p>\n",
+				"content_text": "All I'm asking for is if I do a Google search in Safari, my Mac Studio M2 Max powered computer from the future doesn't have to spin up my external hard drives to do that. Is that too much to ask?\n\nI guess I should've gone for 64GB of RAM.\n",
+				"date_published": "2023-09-14T09:32:38-06:00",
+				"url": "https://microblog.chrisenns.com/2023/09/14/all-im-asking.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/09/13/i-see-substack.html",
+				
+				"content_html": "<p>I see Substack in the URL, I get an ick and wait for the pop up while I’m reading the words you wrote deciding if it’s worth hanging around.</p>\n<p>I see Buttondown in the URL, I’m likely subscribing because I know you care about your readers.</p>\n",
+				"content_text": "I see Substack in the URL, I get an ick and wait for the pop up while I’m reading the words you wrote deciding if it’s worth hanging around. \n\nI see Buttondown in the URL, I’m likely subscribing because I know you care about your readers.\n",
+				"date_published": "2023-09-13T18:06:26-06:00",
+				"url": "https://microblog.chrisenns.com/2023/09/13/i-see-substack.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/09/13/any-podcast-nerds.html",
+				
+				"content_html": "<p>Any podcast nerds know if a USB-C enabled iOS device (iPad? iPhone 15?) can just take a USB-C mic plugged in directly as a recording device? Because that would make your phone a pretty slick mobile recorder paired with something like a Shure MV7.</p>\n",
+				"content_text": "Any podcast nerds know if a USB-C enabled iOS device (iPad? iPhone 15?) can just take a USB-C mic plugged in directly as a recording device? Because that would make your phone a pretty slick mobile recorder paired with something like a Shure MV7.\n",
+				"date_published": "2023-09-13T15:25:57-06:00",
+				"url": "https://microblog.chrisenns.com/2023/09/13/any-podcast-nerds.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/09/13/any-friends-running.html",
+				
+				"content_html": "<p>Any friends running Audio Hijack, Loopback, Farrago, or other awesome Rogue Amoeba software - <a href=\"https://rogueamoeba.com/status/\">check their status page</a> for updates for macOS 14 (Sonoma) which is coming out next week I believe.</p>\n",
+				"content_text": "Any friends running Audio Hijack, Loopback, Farrago, or other awesome Rogue Amoeba software - [check their status page](https://rogueamoeba.com/status/) for updates for macOS 14 (Sonoma) which is coming out next week I believe.\n",
+				"date_published": "2023-09-13T12:38:57-06:00",
+				"url": "https://microblog.chrisenns.com/2023/09/13/any-friends-running.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/09/12/i-dont-know.html",
+				
+				"content_html": "<p>I don&rsquo;t know what they are because I only hear the words &ldquo;web components&rdquo; on podcasts I edit, but the newly launched <a href=\"https://luroapp.com\">Luro</a> &ldquo;&hellip;is a no-code solution to track component usage, adoption, and success across your entire product.&rdquo;</p>\n<p>Plus it looks great. 💯</p>\n",
+				"content_text": "I don't know what they are because I only hear the words \"web components\" on podcasts I edit, but the newly launched [Luro](https://luroapp.com) \"...is a no-code solution to track component usage, adoption, and success across your entire product.\"\n\nPlus it looks great. 💯\n",
+				"date_published": "2023-09-12T13:42:28-06:00",
+				"url": "https://microblog.chrisenns.com/2023/09/12/i-dont-know.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/09/12/just-one-time.html",
+				
+				"content_html": "<p>Just one time I want to hear: &ldquo;This is by far our <em>second best</em> iPhone lineup yet - second only to the iPhone lineup we had in 2019. That was such a great year.&rdquo;</p>\n",
+				"content_text": "Just one time I want to hear: \"This is by far our *second best* iPhone lineup yet - second only to the iPhone lineup we had in 2019. That was such a great year.\"\n",
+				"date_published": "2023-09-12T12:21:12-06:00",
+				"url": "https://microblog.chrisenns.com/2023/09/12/just-one-time.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/09/12/couldnt-sleep-this.html",
+				
+				"content_html": "<p>Couldn&rsquo;t sleep this morning so I did what you do when you can&rsquo;t sleep: <a href=\"https://annehelen.substack.com/p/culture-study-meets-bama-rushtok\">read Anne Helen Petersen&rsquo;s article on RushTok and Greek Life at the University of Alabama</a>.</p>\n",
+				"content_text": "Couldn't sleep this morning so I did what you do when you can't sleep: [read Anne Helen Petersen's article on RushTok and Greek Life at the University of Alabama](https://annehelen.substack.com/p/culture-study-meets-bama-rushtok).\n",
+				"date_published": "2023-09-12T10:13:04-06:00",
+				"url": "https://microblog.chrisenns.com/2023/09/12/couldnt-sleep-this.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/09/12/one-thing-im.html",
+				
+				"content_html": "<p>One thing I’m not loving in the iOS 17 beta is how if there’s anything AirPlay nearby, you don’t get to see the time anymore.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "One thing I’m not loving in the iOS 17 beta is how if there’s anything AirPlay nearby, you don’t get to see the time anymore. \n\n<img src=\"uploads/2023/eff8eb8f55.jpg\" width=\"600\" height=\"224\" alt=\"Screenshot of iOS 17 beta header on my iPhone showing the airplay symbol where the time usually is. \">\n",
+				"date_published": "2023-09-12T08:46:33-06:00",
+				"url": "https://microblog.chrisenns.com/2023/09/12/one-thing-im.html"
+			},
+			{
 				"id": "http://ichris.micro.blog/2023/09/11/when-youve-got.html",
 				
 				"content_html": "<p>When you&rsquo;ve got a million dollar budget, but nobody&rsquo;s able to make sure &ldquo;click this banner&rdquo; actually has a clickable URL. <em>whomp whomp</em></p>\n",
