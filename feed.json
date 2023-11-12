@@ -7,6 +7,54 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2023/11/11/hey-siri-dont.html",
+				
+				"content_html": "<p>Hey Siri don&rsquo;t ever let me order a foot long sub at Subway again. Those days have passed. Signed: Chris in a sub coma.</p>\n",
+				"content_text": "Hey Siri don't ever let me order a foot long sub at Subway again. Those days have passed. Signed: Chris in a sub coma.\n",
+				"date_published": "2023-11-11T22:14:14-06:00",
+				"url": "https://microblog.chrisenns.com/2023/11/11/hey-siri-dont.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/11/10/this-is-your.html",
+				
+				"content_html": "<p>This is your reminder of a weekly (at most) newsletter I send out that contains thoughts I would&rsquo;ve tweeted if Elon hadn&rsquo;t barfed all over Twitter.</p>\n<p>➡️ <a href=\"https://buttondown.email/lemonpodcasting\">Sign up here</a>.</p>\n",
+				"content_text": "This is your reminder of a weekly (at most) newsletter I send out that contains thoughts I would've tweeted if Elon hadn't barfed all over Twitter.  \n\n➡️ [Sign up here](https://buttondown.email/lemonpodcasting).\n",
+				"date_published": "2023-11-10T12:36:43-06:00",
+				"url": "https://microblog.chrisenns.com/2023/11/10/this-is-your.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/11/08/i-used-to.html",
+				
+				"content_html": "<p>I used to think that if Threads got popular, that would piss El0n off the most. But the more I think about it, if LinkedIn became the new place everyone went to that might be what would annoy El0n even more. The Bill Gates Microsoft owned social network for stuffy suits becomes the new Twitter.😆</p>\n",
+				"content_text": "I used to think that if Threads got popular, that would piss El0n off the most. But the more I think about it, if LinkedIn became the new place everyone went to that might be what would annoy El0n even more. The Bill Gates Microsoft owned social network for stuffy suits becomes the new Twitter.😆\n",
+				"date_published": "2023-11-08T10:21:11-06:00",
+				"url": "https://microblog.chrisenns.com/2023/11/08/i-used-to.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/11/07/shamelessly-borrowing-a.html",
+				
+				"content_html": "<p>Shamelessly borrowing a friend’s dog so I can get social media points for puppy pics.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Shamelessly borrowing a friend’s dog so I can get social media points for puppy pics. \n\n<img src=\"uploads/2023/93cd0e7536.jpg\" width=\"450\" height=\"600\" alt=\"A small dog licking my ear\"><img src=\"uploads/2023/18cf8c41c6.jpg\" width=\"450\" height=\"600\" alt=\"A small dog looks confused at the camera. \">\n",
+				"date_published": "2023-11-07T21:21:27-06:00",
+				"url": "https://microblog.chrisenns.com/2023/11/07/shamelessly-borrowing-a.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/11/07/stories-building-a.html",
+				
+				"content_html": "<p>🔗 <!-- raw HTML omitted -->Stories: Building a home for my shitty sci-fi | daverupert.com<!-- raw HTML omitted --></p>\n<blockquote>\n<p>Are they great? No, they are shitty. Can you read them? Yes, you can.</p>\n</blockquote>\n<p>Testing testing.</p>\n",
+				"content_text": "🔗 <a href=\"https://daverupert.com/2023/10/shitty-sci-fi/\" class=\"u-in-reply-to\">Stories: Building a home for my shitty sci-fi | daverupert.com</a>\r\n\r\n> Are they great? No, they are shitty. Can you read them? Yes, you can.\r\n\r\nTesting testing.\n",
+				"date_published": "2023-11-07T16:23:48-06:00",
+				"url": "https://microblog.chrisenns.com/2023/11/07/stories-building-a.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/11/06/instagram-is-tracking.html",
+				
+				"content_html": "<p>Instagram is tracking about 2.5 weeks behind TikTok based on when I see a video on TikTok vs when my extended family shares it from Instagram to the group chat.</p>\n",
+				"content_text": "Instagram is tracking about 2.5 weeks behind TikTok based on when I see a video on TikTok vs when my extended family shares it from Instagram to the group chat. \n",
+				"date_published": "2023-11-06T20:56:50-06:00",
+				"url": "https://microblog.chrisenns.com/2023/11/06/instagram-is-tracking.html"
+			},
+			{
 				"id": "http://ichris.micro.blog/2023/11/06/craig-mod-is.html",
 				
 				"content_html": "<p>Craig Mod is on one of his Tokyo walks this week. The &ldquo;rules&rdquo; for the walk and form to sign up for his pop-up newsletter are <a href=\"https://craigmod.com/ridgeline/173/\">available here</a>. I enjoy sipping my coffee and visiting Japan vicariously through his words and photos.</p>\n",
