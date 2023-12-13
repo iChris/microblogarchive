@@ -7,10 +7,98 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2023/12/13/its-all-kinds.html",
+				
+				"content_html": "<p>It&rsquo;s all kinds of messed up here. No snow. +5C in December. Feels like fall but it&rsquo;s less than 2 weeks until Xmas. I&rsquo;m caught up on work, but feel like I&rsquo;m forgetting 10 things.</p>\n<p>I probably need more eggnog.</p>\n",
+				"content_text": "It's all kinds of messed up here. No snow. +5C in December. Feels like fall but it's less than 2 weeks until Xmas. I'm caught up on work, but feel like I'm forgetting 10 things.\n\nI probably need more eggnog.\n",
+				"date_published": "2023-12-13T15:49:03-06:00",
+				"url": "https://microblog.chrisenns.com/2023/12/13/its-all-kinds.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/12/13/found-this-quote.html",
+				
+				"content_html": "<p>Found this quote said by my youngest a year ago that&rsquo;s still true today: “At least when you were a kid you didn’t have to deal with Elon Musk.” 😆</p>\n",
+				"content_text": "Found this quote said by my youngest a year ago that's still true today: “At least when you were a kid you didn’t have to deal with Elon Musk.” 😆\n",
+				"date_published": "2023-12-13T08:49:08-06:00",
+				"url": "https://microblog.chrisenns.com/2023/12/13/found-this-quote.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/12/12/the-year-twitter.html",
+				
+				"content_html": "<p><a href=\"https://www.theverge.com/c/23972308/twitter-x-death-tweets-history-elon-musk\">&ldquo;The Year Twitter Died&rdquo;</a> from The Verge is worth a visit for some bizarro web design vibes and storytelling.</p>\n",
+				"content_text": "[\"The Year Twitter Died\"](https://www.theverge.com/c/23972308/twitter-x-death-tweets-history-elon-musk) from The Verge is worth a visit for some bizarro web design vibes and storytelling.\n",
+				"date_published": "2023-12-12T09:40:23-06:00",
+				"url": "https://microblog.chrisenns.com/2023/12/12/the-year-twitter.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/12/11/the-key-to.html",
+				
+				"content_html": "<p>The key to being able to eat a lot of cheese over the holidays is to slice it really thin. The thinner the cheese, the less fatty it is. Thus you can eat more cheese. 🎯</p>\n",
+				"content_text": "The key to being able to eat a lot of cheese over the holidays is to slice it really thin. The thinner the cheese, the less fatty it is. Thus you can eat more cheese. 🎯 \n",
+				"date_published": "2023-12-11T17:08:02-06:00",
+				"url": "https://microblog.chrisenns.com/2023/12/11/the-key-to.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/12/11/i-really-have.html",
+				
+				"content_html": "<p>I really have no idea why The Marvels didn&rsquo;t do better in theatres. It was fun, light, and didn&rsquo;t drag everything out with mountains of superhero exposition babble. Iman Vellani as Ms. Marvel is a breath of uncynical enthusiastic fresh air.</p>\n<p>Plus the flerkens.</p>\n",
+				"content_text": "I really have no idea why The Marvels didn't do better in theatres. It was fun, light, and didn't drag everything out with mountains of superhero exposition babble. Iman Vellani as Ms. Marvel is a breath of uncynical enthusiastic fresh air.\n\nPlus the flerkens.\n",
+				"date_published": "2023-12-11T14:38:13-06:00",
+				"url": "https://microblog.chrisenns.com/2023/12/11/i-really-have.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/12/10/the-marvels-contains.html",
+				"title": "The Marvels, 2023 - ★★★½ (contains spoilers)",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/3/6/9/7/0/536970-the-marvels-0-600-0-900-crop.jpg?v=d084ca416c\"/></p> <p><em>This review may contain spoilers.</em></p> <p>I don’t know why this isn’t doing better? It’s a fun superhero movie in a 90 minute run time, with some heartfelt payoffs for the past and fun set ups of future characters.</p>\n",
+				"date_published": "2023-12-10T18:14:47-06:00",
+				"url": "https://microblog.chrisenns.com/2023/12/10/the-marvels-contains.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/12/09/im-convinced-they.html",
+				
+				"content_html": "<p>I’m convinced they could re-release Beatles Rock Band and make $$$ again with the same exact game. Every generation of gamers needs a Rock Band guitar in their kit.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I’m convinced they could re-release Beatles Rock Band and make $$$ again with the same exact game. Every generation of gamers needs a Rock Band guitar in their kit. \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2023/c30b1a5795.jpg\" width=\"600\" height=\"450\" alt=\"Screenshot of Fortnite’s Rock Band mode \">\n",
+				"date_published": "2023-12-09T22:38:44-06:00",
+				"url": "https://microblog.chrisenns.com/2023/12/09/im-convinced-they.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/12/09/leave-the-world.html",
+				"title": "Leave the World Behind, 2023 - ★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/6/4/8/8/6/9/648869-leave-the-world-behind-0-600-0-900-crop.jpg?v=927d0da068\"/></p> <p>Watched on Saturday December 9, 2023.</p>\n",
+				"date_published": "2023-12-09T21:50:23-06:00",
+				"url": "https://microblog.chrisenns.com/2023/12/09/leave-the-world.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/12/09/i-hope-tim.html",
+				
+				"content_html": "<p>I hope Tim Cook and Tim Epic Games Guy are happy that they had their big lawyer fight and so now I can&rsquo;t join my kids in playing LEGO Fortnite on my $3,500 Mac Studio.</p>\n",
+				"content_text": "I hope Tim Cook and Tim Epic Games Guy are happy that they had their big lawyer fight and so now I can't join my kids in playing LEGO Fortnite on my $3,500 Mac Studio.\n",
+				"date_published": "2023-12-09T11:44:45-06:00",
+				"url": "https://microblog.chrisenns.com/2023/12/09/i-hope-tim.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/12/08/national-lampoons-christmas.html",
+				"title": "National Lampoon\u0026#039;s Christmas Vacation, 1989 - ★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/8/6/3/8/48638-national-lampoon-s-christmas-vacation-0-600-0-900-crop.jpg?v=e91c94d094\"/></p> <p>Watched on Friday December 8, 2023.</p>\n",
+				"date_published": "2023-12-08T22:32:14-06:00",
+				"url": "https://microblog.chrisenns.com/2023/12/08/national-lampoons-christmas.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2023/12/08/a-quick-reminder.html",
+				
+				"content_html": "<p>🍋 A quick reminder of my weekly newsletter I send out. <a href=\"https://buttondown.email/lemonpodcasting/archive/25/\">Here&rsquo;s the most recent issue to read</a> and decide if it&rsquo;s worth signing up for.</p>\n",
+				"content_text": "🍋 A quick reminder of my weekly newsletter I send out. [Here's the most recent issue to read](https://buttondown.email/lemonpodcasting/archive/25/) and decide if it's worth signing up for. \n",
+				"date_published": "2023-12-08T15:51:20-06:00",
+				"url": "https://microblog.chrisenns.com/2023/12/08/a-quick-reminder.html"
+			},
+			{
 				"id": "http://ichris.micro.blog/2023/12/08/kids-can-be.html",
 				
 				"content_html": "<p>Kids can be annoying and frustrating and exhausting… yes. But sometimes they make delicious muffins you get to enjoy with your coffee. 🤤</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Kids can be annoying and frustrating and exhausting… yes. But sometimes they make delicious muffins you get to enjoy with your coffee. 🤤 \n\n<img src=\"uploads/2023/084ad02671.jpg\" width=\"505\" height=\"600\" alt=\"Top down view of muffins with butter, a knife, and a container of more muffins. \">\n",
+				"content_text": "Kids can be annoying and frustrating and exhausting… yes. But sometimes they make delicious muffins you get to enjoy with your coffee. 🤤 \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2023/084ad02671.jpg\" width=\"505\" height=\"600\" alt=\"Top down view of muffins with butter, a knife, and a container of more muffins. \">\n",
 				"date_published": "2023-12-08T10:56:51-06:00",
 				"url": "https://microblog.chrisenns.com/2023/12/08/kids-can-be.html"
 			},
