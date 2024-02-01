@@ -7,10 +7,82 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2024/02/01/arc-continues-to.html",
+				
+				"content_html": "<p>Arc continues to be my main web browser, but I have to say that when I <a href=\"https://www.macstories.net/news/the-browser-company-announces-act-ii-for-arc-the-browser-that-browses-for-you/\">read through the new AI based features they keep adding</a>, I&rsquo;m not seeing a huge use case for myself.</p>\n",
+				"content_text": "Arc continues to be my main web browser, but I have to say that when I [read through the new AI based features they keep adding](https://www.macstories.net/news/the-browser-company-announces-act-ii-for-arc-the-browser-that-browses-for-you/), I'm not seeing a huge use case for myself.\n",
+				"date_published": "2024-02-01T12:08:36-06:00",
+				"url": "https://microblog.chrisenns.com/2024/02/01/arc-continues-to.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/01/31/how-apples-new.html",
+				
+				"content_html": "<p><a href=\"https://www.macrumors.com/how-to/view-search-transcripts-podcasts-app/\">How Apple&rsquo;s new Podcast Transcript feature works</a> in the iOS 17.4 beta.</p>\n<p>It&rsquo;s been amazing to watch podcast transcriptions be an afterthought to being a standard feature that every app has to have now.</p>\n",
+				"content_text": "[How Apple's new Podcast Transcript feature works](https://www.macrumors.com/how-to/view-search-transcripts-podcasts-app/) in the iOS 17.4 beta.\n\nIt's been amazing to watch podcast transcriptions be an afterthought to being a standard feature that every app has to have now.\n",
+				"date_published": "2024-01-31T09:27:48-06:00",
+				"url": "https://microblog.chrisenns.com/2024/01/31/how-apples-new.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/01/31/a-reminder-that.html",
+				
+				"content_html": "<p>A reminder that a <a href=\"https://vm.tiktok.com/ZM6G4qMtP/\">bunch of music</a> is about to disappear from TikTok because corporations don’t like fun things and can’t agree on $$.</p>\n",
+				"content_text": "A reminder that a [bunch of music](https://vm.tiktok.com/ZM6G4qMtP/) is about to disappear from TikTok because corporations don’t like fun things and can’t agree on $$.\n",
+				"date_published": "2024-01-31T08:34:47-06:00",
+				"url": "https://microblog.chrisenns.com/2024/01/31/a-reminder-that.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/01/30/the-two-areas.html",
+				
+				"content_html": "<p>The two areas I miss most about working for someone else are: 1) Time off where someone covers your work for you, and 2) figuring out how much to charge a client for a service or product.</p>\n",
+				"content_text": "The two areas I miss most about working for someone else are: 1) Time off where someone covers your work for you, and 2) figuring out how much to charge a client for a service or product.\n",
+				"date_published": "2024-01-30T17:18:34-06:00",
+				"url": "https://microblog.chrisenns.com/2024/01/30/the-two-areas.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/01/30/i-wish-more.html",
+				
+				"content_html": "<p>I wish more companies would equip their employees who go out and appear on podcasts with good mics and a decent recording space in home or in office.</p>\n<p>It reflects on the company when someone is speaking on your behalf and they&rsquo;ve got a crap mic.</p>\n",
+				"content_text": "I wish more companies would equip their employees who go out and appear on podcasts with good mics and a decent recording space in home or in office.\n\nIt reflects on the company when someone is speaking on your behalf and they've got a crap mic.\n",
+				"date_published": "2024-01-30T13:29:16-06:00",
+				"url": "https://microblog.chrisenns.com/2024/01/30/i-wish-more.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/01/30/programming-note-ive.html",
+				
+				"content_html": "<p>Programming note: I&rsquo;ve decided to wait on releasing my Vision Pro review until 5 years from now when I can justify paying for it.</p>\n",
+				"content_text": "Programming note: I've decided to wait on releasing my Vision Pro review until 5 years from now when I can justify paying for it.\n",
+				"date_published": "2024-01-30T08:56:42-06:00",
+				"url": "https://microblog.chrisenns.com/2024/01/30/programming-note-ive.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/01/30/ooooh-i-was.html",
+				
+				"content_html": "<p>Ooooh I was going to work up a Drafts process to do this, but now <a href=\"https://www.manton.org/2024/01/29/manual-crossposting-to.html\">Micro.blog has a manual cross-posting to Threads tool</a> while we wait for Threads to have an actual API to post to.</p>\n",
+				"content_text": "Ooooh I was going to work up a Drafts process to do this, but now [Micro.blog has a manual cross-posting to Threads tool](https://www.manton.org/2024/01/29/manual-crossposting-to.html) while we wait for Threads to have an actual API to post to.\n",
+				"date_published": "2024-01-30T08:29:44-06:00",
+				"url": "https://microblog.chrisenns.com/2024/01/30/ooooh-i-was.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/01/29/my-first-client.html",
+				
+				"content_html": "<p>My first client hit 600 episodes this week and they spent it <a href=\"https://shoptalkshow.com/600/\">contemplating what the web will be like 12 years from now</a>. Congrats Chris &amp; Dave on 12 years + 600 episodes!</p>\n",
+				"content_text": "My first client hit 600 episodes this week and they spent it [contemplating what the web will be like 12 years from now](https://shoptalkshow.com/600/). Congrats Chris & Dave on 12 years + 600 episodes!\n",
+				"date_published": "2024-01-29T10:03:46-06:00",
+				"url": "https://microblog.chrisenns.com/2024/01/29/my-first-client.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/01/28/cloudflare-and-other.html",
+				
+				"content_html": "<p><a href=\"https://www.vice.com/en/article/y3w4g7/cloudflare-firing-tiktok-remote-layoffs-corporate-accountability\">Cloudflare</a> and other corporations deserve every bit of shaming for over hiring and then letting people go without admitting to their own mistakes.</p>\n",
+				"content_text": "[Cloudflare](https://www.vice.com/en/article/y3w4g7/cloudflare-firing-tiktok-remote-layoffs-corporate-accountability) and other corporations deserve every bit of shaming for over hiring and then letting people go without admitting to their own mistakes. \n",
+				"date_published": "2024-01-28T15:22:39-06:00",
+				"url": "https://microblog.chrisenns.com/2024/01/28/cloudflare-and-other.html"
+			},
+			{
 				"id": "http://ichris.micro.blog/2024/01/27/ive-been-fortunate.html",
 				
 				"content_html": "<p>I&rsquo;ve been fortunate enough to have had the opportunity to work with clients in women&rsquo;s health &amp; fertility podcast space over the years, and I&rsquo;m really thankful for the &ldquo;forced&rdquo; exposure to stories that my dumb man brain might not have heard or read otherwise.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I've been fortunate enough to have had the opportunity to work with clients in women's health & fertility podcast space over the years, and I'm really thankful for the \"forced\" exposure to stories that my dumb man brain might not have heard or read otherwise.\n\n<img src=\"uploads/2024/322e8cfc0a.png\" width=\"600\" height=\"448\" alt=\"So we go in there and we talk to him.  He said the qualifications were  three or more failed in vitros. And he goes, to be honest, ***, you weren't even on my mind for this. I was looking through my file looking for another woman, and I saw your folder, ***, and I remembered  three failed in Vitros.&10;&10;She qualifies and he looked down at ***  in the car seat. I still remember.  And he goes, you would get a free in vitro. I mean,  are you interested? And me and *** just looked at each other and we're like, oh my gosh. Like, are you kidding me?  \">\n",
+				"content_text": "I've been fortunate enough to have had the opportunity to work with clients in women's health & fertility podcast space over the years, and I'm really thankful for the \"forced\" exposure to stories that my dumb man brain might not have heard or read otherwise.\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2024/322e8cfc0a.png\" width=\"600\" height=\"448\" alt=\"So we go in there and we talk to him.  He said the qualifications were  three or more failed in vitros. And he goes, to be honest, ***, you weren't even on my mind for this. I was looking through my file looking for another woman, and I saw your folder, ***, and I remembered  three failed in Vitros.&10;&10;She qualifies and he looked down at ***  in the car seat. I still remember.  And he goes, you would get a free in vitro. I mean,  are you interested? And me and *** just looked at each other and we're like, oh my gosh. Like, are you kidding me?  \">\n",
 				"date_published": "2024-01-27T11:12:14-06:00",
 				"url": "https://microblog.chrisenns.com/2024/01/27/ive-been-fortunate.html"
 			},
