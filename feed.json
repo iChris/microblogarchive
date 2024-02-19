@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2024/02/18/the-two-monsters.html",
+				
+				"content_html": "<p>The two monsters inside of me:</p>\n<ul>\n<li>One that craves time alone to just do whatever I feel like.</li>\n<li>One that&rsquo;s angry with the world for leaving me alone and making me feel invisible.</li>\n</ul>\n",
+				"content_text": "The two monsters inside of me: \n- One that craves time alone to just do whatever I feel like.\n- One that's angry with the world for leaving me alone and making me feel invisible.\n",
+				"date_published": "2024-02-18T13:34:40-06:00",
+				"url": "https://microblog.chrisenns.com/2024/02/18/the-two-monsters.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/02/17/i-lay-down.html",
+				
+				"content_html": "<p>I lay down for a nap and suddenly I was in a JJ Abrams movie.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I lay down for a nap and suddenly I was in a JJ Abrams movie. \n\n<img src=\"uploads/2024/09b27fb047.jpg\" width=\"600\" height=\"450\" alt=\"Me laying sideways with a sun flare over my head\">\n",
+				"date_published": "2024-02-17T15:31:52-06:00",
+				"url": "https://microblog.chrisenns.com/2024/02/17/i-lay-down.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/02/16/but-ive-also.html",
+				
+				"content_html": "<p>…but I’ve also been exploring Ghost and <a href=\"https://a.wholelottanothing.org/notes-from-migrating/\">Matt’s post on his move to Ghost</a> comes at a perfect time.</p>\n",
+				"content_text": "…but I’ve also been exploring Ghost and [Matt’s post on his move to Ghost](https://a.wholelottanothing.org/notes-from-migrating/) comes at a perfect time. \n",
+				"date_published": "2024-02-16T23:19:37-06:00",
+				"url": "https://microblog.chrisenns.com/2024/02/16/but-ive-also.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/02/16/im-swinging-back.html",
+				
+				"content_html": "<p>I’m swinging back around to the idea that I should just have my blog and main site on Micro.blog. I overthink it until I do nothing so we’ll see where I’m at by Sunday. 😆</p>\n",
+				"content_text": "I’m swinging back around to the idea that I should just have my blog and main site on Micro.blog. I overthink it until I do nothing so we’ll see where I’m at by Sunday. 😆 \n",
+				"date_published": "2024-02-16T23:11:00-06:00",
+				"url": "https://microblog.chrisenns.com/2024/02/16/im-swinging-back.html"
+			},
+			{
 				"id": "http://ichris.micro.blog/2024/02/15/i-heard-a.html",
 				
 				"content_html": "<p>I heard a Kansas City tiktoker I follow say this about the shooting there, and it resonates as strongly with what&rsquo;s happening with the Sask Party&rsquo;s leadership here in Saskatchewan: &ldquo;I&rsquo;m so tired of living under the tyranny of our nation&rsquo;s dumbest people.&rdquo;</p>\n",
@@ -34,7 +66,7 @@
 				"id": "http://ichris.micro.blog/2024/02/13/with-this-comment.html",
 				
 				"content_html": "<p>With this comment on one of my tiktoks, I think I&rsquo;ve passed the Wilford Brimley line.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "With this comment on one of my tiktoks, I think I've passed the Wilford Brimley line.\n\n<img src=\"uploads/2024/e46e7dad76.jpg\" width=\"600\" height=\"188\" alt=\"A comment on tiktok reading “Julie this is the most adorable video I’ve ever seen” \">\n",
+				"content_text": "With this comment on one of my tiktoks, I think I've passed the Wilford Brimley line.\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2024/e46e7dad76.jpg\" width=\"600\" height=\"188\" alt=\"A comment on tiktok reading “Julie this is the most adorable video I’ve ever seen” \">\n",
 				"date_published": "2024-02-13T14:29:58-06:00",
 				"url": "https://microblog.chrisenns.com/2024/02/13/with-this-comment.html"
 			},
