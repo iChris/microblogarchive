@@ -7,6 +7,102 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2024/02/24/im-checking-out.html",
+				
+				"content_html": "<p>I&rsquo;m checking out a &ldquo;record a voicemail so I can respond to it on my podcast&rdquo; app—<a href=\"https://podline.fm/lemon\">send me your thoughts or AMA</a>.</p>\n",
+				"content_text": "I'm checking out a \"record a voicemail so I can respond to it on my podcast\" app—[send me your thoughts or AMA](https://podline.fm/lemon).\n",
+				"date_published": "2024-02-24T12:41:18-06:00",
+				"url": "https://microblog.chrisenns.com/2024/02/24/im-checking-out.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/02/23/the-ability-to.html",
+				
+				"content_html": "<p>The ability to unlock my computer automatically with the Apple Watch is a more important invention than the Vision Pro.</p>\n",
+				"content_text": "The ability to unlock my computer automatically with the Apple Watch is a more important invention than the Vision Pro.\n",
+				"date_published": "2024-02-23T15:36:14-06:00",
+				"url": "https://microblog.chrisenns.com/2024/02/23/the-ability-to.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/02/23/i-always-dreamed.html",
+				
+				"content_html": "<p>I always dreamed I&rsquo;d someday be the &ldquo;muse&rdquo; of a spam bot on TikTok trying to solicit funds from me.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I always dreamed I'd someday be the \"muse\" of a spam bot on TikTok trying to solicit funds from me.\n\n<img src=\"uploads/2024/563b16e949.png\" width=\"600\" height=\"366\" alt=\"A DM on Tiktok that reads “Hey👋🏻..I really like your face and If you don’t mind you could be my inspiring muse for an art project(the authenticity of human facial emotion and expressions) i’m working on for a client. You will totally get paid for it as well and as a bonus”\">\n",
+				"date_published": "2024-02-23T14:19:49-06:00",
+				"url": "https://microblog.chrisenns.com/2024/02/23/i-always-dreamed.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/02/23/costco-canada-heads.html",
+				
+				"content_html": "<p>Costco Canada heads up: a recall on eggs with potential salmonella issues. It feels like a huge waste for them to toss so many eggs (I assume?), but also not worth the health risk obviously.</p>\n",
+				"content_text": "Costco Canada heads up: a recall on eggs with potential salmonella issues. It feels like a huge waste for them to toss so many eggs (I assume?), but also not worth the health risk obviously.\n",
+				"date_published": "2024-02-23T12:25:25-06:00",
+				"url": "https://microblog.chrisenns.com/2024/02/23/costco-canada-heads.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/02/23/manton-on-blueskys.html",
+				
+				"content_html": "<p><a href=\"https://www.manton.org/2024/02/23/bluesky-opening-up.html\">Manton on Bluesky&rsquo;s federation</a> - I&rsquo;m just going to keep shouting that Micro.blog is the best way to own your stuff while still supporting all the things in a slow, intentional way until you listen to me.</p>\n",
+				"content_text": "[Manton on Bluesky's federation](https://www.manton.org/2024/02/23/bluesky-opening-up.html) - I'm just going to keep shouting that Micro.blog is the best way to own your stuff while still supporting all the things in a slow, intentional way until you listen to me.\n",
+				"date_published": "2024-02-23T09:49:49-06:00",
+				"url": "https://microblog.chrisenns.com/2024/02/23/manton-on-blueskys.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/02/22/im-nowhere-near.html",
+				
+				"content_html": "<p>I&rsquo;m nowhere near able to consider buying a Vision Pro, but if I did have one, I&rsquo;d be checking out Adam Lisagor&rsquo;s new app called <a href=\"https://apps.apple.com/us/app/television-by-sandwich/id6475739340\">Television</a>. Rather than just generic floating UI screen, using the past to help inform our future.</p>\n",
+				"content_text": "I'm nowhere near able to consider buying a Vision Pro, but if I did have one, I'd be checking out Adam Lisagor's new app called [Television](https://apps.apple.com/us/app/television-by-sandwich/id6475739340). Rather than just generic floating UI screen, using the past to help inform our future. \n",
+				"date_published": "2024-02-22T12:48:03-06:00",
+				"url": "https://microblog.chrisenns.com/2024/02/22/im-nowhere-near.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/02/22/its-so-annoying.html",
+				
+				"content_html": "<p>It&rsquo;s so annoying how if I focus on the task at hand it goes so much quicker, I can get more done, and have more time to relax later. Right now I&rsquo;m not focusing on the task and it&rsquo;s much more fun.</p>\n",
+				"content_text": "It's so annoying how if I focus on the task at hand it goes so much quicker, I can get more done, and have more time to relax later. Right now I'm not focusing on the task and it's much more fun.\n",
+				"date_published": "2024-02-22T10:26:25-06:00",
+				"url": "https://microblog.chrisenns.com/2024/02/22/its-so-annoying.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/02/21/i-love-the.html",
+				
+				"content_html": "<p>I love the <a href=\"https://www.manton.org/2024/02/21/simplified-pricing-in.html\">new simplified pricing flow</a> micro.blog. I agree with Manton: one of the best deals on the web.</p>\n",
+				"content_text": "I love the [new simplified pricing flow](https://www.manton.org/2024/02/21/simplified-pricing-in.html) micro.blog. I agree with Manton: one of the best deals on the web. \n",
+				"date_published": "2024-02-21T23:48:44-06:00",
+				"url": "https://microblog.chrisenns.com/2024/02/21/i-love-the.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/02/21/fesshole-on-mastodon.html",
+				
+				"content_html": "<p>Fesshole <a href=\"https://mastodon.social/@fesshole\">on Mastodon</a> (maybe elsewhere?) is a great follow for PostSecret fans of old.</p>\n",
+				"content_text": "Fesshole [on Mastodon](https://mastodon.social/@fesshole) (maybe elsewhere?) is a great follow for PostSecret fans of old.\n",
+				"date_published": "2024-02-21T15:47:11-06:00",
+				"url": "https://microblog.chrisenns.com/2024/02/21/fesshole-on-mastodon.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/02/20/i-dont-know.html",
+				
+				"content_html": "<p>I don&rsquo;t know how it should be done, but it feels like a community of people celebrating new things but never acknowledging the bodies that fell or were pushed off the bus on the way to that new thing is lacking something in the way of empathy or love.</p>\n",
+				"content_text": "I don't know how it should be done, but it feels like a community of people celebrating new things but never acknowledging the bodies that fell or were pushed off the bus on the way to that new thing is lacking something in the way of empathy or love.\n",
+				"date_published": "2024-02-20T16:24:07-06:00",
+				"url": "https://microblog.chrisenns.com/2024/02/20/i-dont-know.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/02/20/coyote-fox-or.html",
+				
+				"content_html": "<p>Coyote, fox, or dog?</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Coyote, fox, or dog?\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2024/e47853418e.jpg\" width=\"407\" height=\"600\" alt=\"A wild animal looking like a large fox, small coyote, or dog. \">\n",
+				"date_published": "2024-02-20T12:46:17-06:00",
+				"url": "https://microblog.chrisenns.com/2024/02/20/coyote-fox-or.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/02/20/hey-mr-linkedin.html",
+				
+				"content_html": "<p>Hey Mr. LinkedIn, If I write a post with AI, what&rsquo;s the point of me actually being here anymore? Sincerely: humans.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Hey Mr. LinkedIn, If I write a post with AI, what's the point of me actually being here anymore? Sincerely: humans.\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2024/9ecb5ca573.png\" width=\"600\" height=\"150\" alt=\"Linkedin posting box with a suggestion of “try writing with AI”\">\n",
+				"date_published": "2024-02-20T11:14:07-06:00",
+				"url": "https://microblog.chrisenns.com/2024/02/20/hey-mr-linkedin.html"
+			},
+			{
 				"id": "http://ichris.micro.blog/2024/02/18/the-two-monsters.html",
 				
 				"content_html": "<p>The two monsters inside of me:</p>\n<ul>\n<li>One that craves time alone to just do whatever I feel like.</li>\n<li>One that&rsquo;s angry with the world for leaving me alone and making me feel invisible.</li>\n</ul>\n",
@@ -18,7 +114,7 @@
 				"id": "http://ichris.micro.blog/2024/02/17/i-lay-down.html",
 				
 				"content_html": "<p>I lay down for a nap and suddenly I was in a JJ Abrams movie.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I lay down for a nap and suddenly I was in a JJ Abrams movie. \n\n<img src=\"uploads/2024/09b27fb047.jpg\" width=\"600\" height=\"450\" alt=\"Me laying sideways with a sun flare over my head\">\n",
+				"content_text": "I lay down for a nap and suddenly I was in a JJ Abrams movie. \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2024/09b27fb047.jpg\" width=\"600\" height=\"450\" alt=\"Me laying sideways with a sun flare over my head\">\n",
 				"date_published": "2024-02-17T15:31:52-06:00",
 				"url": "https://microblog.chrisenns.com/2024/02/17/i-lay-down.html"
 			},
