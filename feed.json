@@ -7,10 +7,74 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2024/03/28/what-year-is.html",
+				
+				"content_html": "<p>What year is it?</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "What year is it?\n\n<img src=\"uploads/2024/0d1372c43e.png\" width=\"600\" height=\"229\" alt=\"Facebook notification reading “Elvis and Pearl Jam have released new songs you can share”\">\n",
+				"date_published": "2024-03-28T10:55:45-06:00",
+				"url": "https://microblog.chrisenns.com/2024/03/28/what-year-is.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/03/28/i-love-using.html",
+				
+				"content_html": "<p>I love using a combo of Discord&rsquo;s Threads feature + Notion to manage episodes of podcasts I work on for clients. I just wish all my clients loved using Discord + Notion as much as I do. ☺️</p>\n<p>I&rsquo;m too much of a people pleaser to require it.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "I love using a combo of Discord's Threads feature + Notion to manage episodes of podcasts I work on for clients. I just wish all my clients loved using Discord + Notion as much as I do. ☺️\n\nI'm too much of a people pleaser to require it. \n\n<img src=\"uploads/2024/a3286ec5c3.png\" width=\"552\" height=\"394\" alt=\"Screenshot of Discord’s threads with two threads listed with specific dates.\"><img src=\"uploads/2024/1297567a3d.png\" width=\"600\" height=\"238\" alt=\"Screenshot of a Notion database view with columns for episode name, description, dates, and sponsor details.\">\n",
+				"date_published": "2024-03-28T08:30:02-06:00",
+				"url": "https://microblog.chrisenns.com/2024/03/28/i-love-using.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/03/28/i-generally-appreciate.html",
+				
+				"content_html": "<p>I generally appreciate the fact that I don’t who’s following my account here, much like my blog, but every so often it’d be nice to know who’s in my community on here.</p>\n<p>But not knowing also keeps me from overthinking about a follower count and vanity metrics, so… probably a good trade off.</p>\n",
+				"content_text": "I generally appreciate the fact that I don’t who’s following my account here, much like my blog, but every so often it’d be nice to know who’s in my community on here.\n\nBut not knowing also keeps me from overthinking about a follower count and vanity metrics, so… probably a good trade off. \n",
+				"date_published": "2024-03-28T07:33:52-06:00",
+				"url": "https://microblog.chrisenns.com/2024/03/28/i-generally-appreciate.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/03/27/dont-despair-if.html",
+				
+				"content_html": "<p>Don&rsquo;t despair if you&rsquo;ve wrapped your identity around a dude on a podcast.</p>\n<p>Whether it&rsquo;s a &ldquo;hit piece&rdquo; or not, I promise you there&rsquo;s a hundred more Huberman clones waiting in the wings to take your time, attention, and money away from your family and friends.</p>\n",
+				"content_text": "Don't despair if you've wrapped your identity around a dude on a podcast.\n\nWhether it's a \"hit piece\" or not, I promise you there's a hundred more Huberman clones waiting in the wings to take your time, attention, and money away from your family and friends.\n",
+				"date_published": "2024-03-27T10:17:48-06:00",
+				"url": "https://microblog.chrisenns.com/2024/03/27/dont-despair-if.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/03/27/i-feel-like.html",
+				
+				"content_html": "<p>I feel like that&rsquo;s a fair reason to stop reading a book tbh</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I feel like that's a fair reason to stop reading a book tbh\n\n<img src=\"uploads/2024/0918f0451c.png\" width=\"600\" height=\"145\" alt=\"DNF @ page 55 because ma'am seriously just described Mark Hamill as Luke Skywalker as having an &quot;average body&quot;.\">\n",
+				"date_published": "2024-03-27T09:33:13-06:00",
+				"url": "https://microblog.chrisenns.com/2024/03/27/i-feel-like.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/03/25/this-is-my.html",
+				
+				"content_html": "<p>This is my <a href=\"https://stackedup.brianmp.dev\">podcasting tech stack</a>:</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "This is my [podcasting tech stack](https://stackedup.brianmp.dev):\n\n<img src=\"uploads/2024/2e2947e4b3.png\" width=\"600\" height=\"544\" alt=\"Your stack:&10;Php&10;Objective-C&10;Deno&10;Cargo&10;Angular&10;Svelte&10;Tursodb&10;Ionic&10;Node&10;Go\">\n",
+				"date_published": "2024-03-25T15:47:15-06:00",
+				"url": "https://microblog.chrisenns.com/2024/03/25/this-is-my.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/03/23/when-you-unhook.html",
+				
+				"content_html": "<p>When you unhook the water line from the washing machine to flood the rink, it’s very important that everyone in the house knows not to start a load of laundry.</p>\n<p>Aka “why is there water dripping in the furnace room?”</p>\n",
+				"content_text": "When you unhook the water line from the washing machine to flood the rink, it’s very important that everyone in the house knows not to start a load of laundry. \n\nAka “why is there water dripping in the furnace room?”\n",
+				"date_published": "2024-03-23T21:35:24-06:00",
+				"url": "https://microblog.chrisenns.com/2024/03/23/when-you-unhook.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/03/23/last-hockey-tournament.html",
+				
+				"content_html": "<p>Last hockey tournament of the season.</p>\n<p>Last weekend of rink fries, cold butt, slightly awkward convos between games, and being mildly annoyed at people who take it all too seriously. My kid loves it so I love it.</p>\n<p>Just trying to take it all in. 😊</p>\n",
+				"content_text": "Last hockey tournament of the season. \n\nLast weekend of rink fries, cold butt, slightly awkward convos between games, and being mildly annoyed at people who take it all too seriously. My kid loves it so I love it. \n\nJust trying to take it all in. 😊 \n",
+				"date_published": "2024-03-23T11:59:22-06:00",
+				"url": "https://microblog.chrisenns.com/2024/03/23/last-hockey-tournament.html"
+			},
+			{
 				"id": "http://ichris.micro.blog/2024/03/22/im-both-sides.html",
 				
 				"content_html": "<p>I&rsquo;m both sides of this meme. Which is why I edit podcasts. 😆</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I'm both sides of this meme. Which is why I edit podcasts. 😆\n\n<img src=\"uploads/2024/f205ace21f.png\" width=\"600\" height=\"587\" alt=\"Meme showing two muscle men shaking hands, one side captioned “engineers who can’t code” and the other side is “designers who can’t design” and the handshake below is “WordPress”\">\n",
+				"content_text": "I'm both sides of this meme. Which is why I edit podcasts. 😆\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2024/f205ace21f.png\" width=\"600\" height=\"587\" alt=\"Meme showing two muscle men shaking hands, one side captioned “engineers who can’t code” and the other side is “designers who can’t design” and the handshake below is “WordPress”\">\n",
 				"date_published": "2024-03-22T07:47:44-06:00",
 				"url": "https://microblog.chrisenns.com/2024/03/22/im-both-sides.html"
 			},
