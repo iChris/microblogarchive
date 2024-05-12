@@ -7,6 +7,78 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2024/05/12/happy-mothers-day.html",
+				
+				"content_html": "<p>Happy Mother’s Day to all who celebrate.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Happy Mother’s Day to all who celebrate. \n\n<img src=\"uploads/2024/48efa0d5f6.jpg\" width=\"438\" height=\"600\" alt=\"Wait list screenshot for a Yelp restaurant \">\n",
+				"date_published": "2024-05-12T09:32:07-06:00",
+				"url": "https://microblog.chrisenns.com/2024/05/12/happy-mothers-day.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/05/10/sonos-can-say.html",
+				
+				"content_html": "<p>Sonos can say it was <a href=\"https://www.macrumors.com/2024/05/10/sonos-said-rolling-out-widely-criticized-app-redesign-took-courage/\">courageous to roll out an app update</a> all they want. All I know is that I was about to order one of their portable speakers, and convince my parents to update their speaker system with Sonos gear, and held off instead. Because of my courage? 😆</p>\n",
+				"content_text": "Sonos can say it was [courageous to roll out an app update](https://www.macrumors.com/2024/05/10/sonos-said-rolling-out-widely-criticized-app-redesign-took-courage/) all they want. All I know is that I was about to order one of their portable speakers, and convince my parents to update their speaker system with Sonos gear, and held off instead. Because of my courage? 😆\n",
+				"date_published": "2024-05-10T16:36:35-06:00",
+				"url": "https://microblog.chrisenns.com/2024/05/10/sonos-can-say.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/05/10/apple-not-including.html",
+				
+				"content_html": "<p>Apple <a href=\"https://9to5mac.com/2024/05/07/new-ipad-pro-ipad-air-apple-stickers/\">not including the stickers in the new iPad boxes</a> is more upsetting than that commercial.</p>\n",
+				"content_text": "Apple [not including the stickers in the new iPad boxes](https://9to5mac.com/2024/05/07/new-ipad-pro-ipad-air-apple-stickers/) is more upsetting than that commercial.\n",
+				"date_published": "2024-05-10T09:48:11-06:00",
+				"url": "https://microblog.chrisenns.com/2024/05/10/apple-not-including.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/05/10/i-just-want.html",
+				
+				"content_html": "<p>I just want to do a little podcast where we talk about neat things that we like and maybe get to rant a little every so often and have everyone on who wants to be kind and scheduling isn&rsquo;t hard and enough people listen that it&rsquo;s validating but not so many that it&rsquo;s mentally exhausting.</p>\n",
+				"content_text": "I just want to do a little podcast where we talk about neat things that we like and maybe get to rant a little every so often and have everyone on who wants to be kind and scheduling isn't hard and enough people listen that it's validating but not so many that it's mentally exhausting.\n",
+				"date_published": "2024-05-10T09:17:32-06:00",
+				"url": "https://microblog.chrisenns.com/2024/05/10/i-just-want.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/05/09/me-ok-cool.html",
+				
+				"content_html": "<p>Me: Ok cool. Income taxes paid and sorted. Summer plans planned. There&rsquo;s a few dollars left, maybe buy something fun?</p>\n<p>My house: <em>Starts shedding stucco.</em> The hell you will!</p>\n",
+				"content_text": "Me: Ok cool. Income taxes paid and sorted. Summer plans planned. There's a few dollars left, maybe buy something fun?\n\nMy house: *Starts shedding stucco.* The hell you will!\n",
+				"date_published": "2024-05-09T10:23:09-06:00",
+				"url": "https://microblog.chrisenns.com/2024/05/09/me-ok-cool.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/05/09/making-emptying-the.html",
+				
+				"content_html": "<p>Making emptying the dishwasher out more epic by playing <a href=\"https://music.apple.com/ca/playlist/best-of-star-wars/pl.cfa48bbf57144c799f2cb002ddff1f96\">this Best of Star Wars</a> playlist on Apple Music.</p>\n",
+				"content_text": "Making emptying the dishwasher out more epic by playing [this Best of Star Wars](https://music.apple.com/ca/playlist/best-of-star-wars/pl.cfa48bbf57144c799f2cb002ddff1f96) playlist on Apple Music. \n",
+				"date_published": "2024-05-09T07:16:57-06:00",
+				"url": "https://microblog.chrisenns.com/2024/05/09/making-emptying-the.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/05/08/libraries-are-the.html",
+				
+				"content_html": "<p>Libraries are the best. I just found out you can <a href=\"https://chrisenns.com/2024/05/borrow-passes-from-the-saskatoon-library/\">borrow day passes from the Saskatoon Library</a> for parks and other attractions in the city.</p>\n",
+				"content_text": "Libraries are the best. I just found out you can [borrow day passes from the Saskatoon Library](https://chrisenns.com/2024/05/borrow-passes-from-the-saskatoon-library/) for parks and other attractions in the city.\n",
+				"date_published": "2024-05-08T16:32:21-06:00",
+				"url": "https://microblog.chrisenns.com/2024/05/08/libraries-are-the.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/05/08/i-learned-a.html",
+				
+				"content_html": "<p>I learned a new phrase today &ldquo;information asymmetry&rdquo; - <a href=\"https://chrisenns.com/2024/05/phrase-of-the-day-information-asymmetry-edition/\">more on my blog</a></p>\n",
+				"content_text": "I learned a new phrase today \"information asymmetry\" - [more on my blog](https://chrisenns.com/2024/05/phrase-of-the-day-information-asymmetry-edition/)\n",
+				"date_published": "2024-05-08T16:00:06-06:00",
+				"url": "https://microblog.chrisenns.com/2024/05/08/i-learned-a.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/05/07/new-on-my.html",
+				
+				"content_html": "<p>New on my blog: <a href=\"https://chrisenns.com/2024/05/using-gemini-to-analyze-a-conversation/\">Using Gemini to Analyze a Conversation</a></p>\n",
+				"content_text": "New on my blog: [Using Gemini to Analyze a Conversation](https://chrisenns.com/2024/05/using-gemini-to-analyze-a-conversation/)\n",
+				"date_published": "2024-05-07T11:45:48-06:00",
+				"url": "https://microblog.chrisenns.com/2024/05/07/new-on-my.html"
+			},
+			{
 				"id": "http://ichris.micro.blog/2024/05/06/years-ago-eww.html",
 				
 				"content_html": "<p>5 years ago: Eww don&rsquo;t just record your TV and share that you boomer!</p>\n<p>Today: Here&rsquo;s 45 clips from the Tom Brady roast I recorded while moving around on my couch. You can hear my dog throwing up, and me laughing hysterically before all the punch lines. I have 3 million followers.</p>\n",
@@ -34,7 +106,7 @@
 				"id": "http://ichris.micro.blog/2024/05/05/jodi-enns-on.html",
 				
 				"content_html": "<p>Jodi Enns on leadership and accountability 🎯 <a href=\"https://www.jodienns.com/writing/the-single-most-important-trait-of-a-leader\">www.jodienns.com/writing/t&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Jodi Enns on leadership and accountability 🎯 [www.jodienns.com/writing/t...](https://www.jodienns.com/writing/the-single-most-important-trait-of-a-leader)\n\n<img src=\"uploads/2024/41216eea8e.jpg\" width=\"600\" height=\"476\" alt=\"Ideally, a healthy leader embraces feedback and uses it as an opportunity for introspection, rather than responding defensively. They examine their internal reactions with curiosity, acknowledging any insecurities that may prompt defensiveness, and view feedback as a chance to enhance self-awareness and behaviour.\">\n",
+				"content_text": "Jodi Enns on leadership and accountability 🎯 [www.jodienns.com/writing/t...](https://www.jodienns.com/writing/the-single-most-important-trait-of-a-leader)\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2024/41216eea8e.jpg\" width=\"600\" height=\"476\" alt=\"Ideally, a healthy leader embraces feedback and uses it as an opportunity for introspection, rather than responding defensively. They examine their internal reactions with curiosity, acknowledging any insecurities that may prompt defensiveness, and view feedback as a chance to enhance self-awareness and behaviour.\">\n",
 				"date_published": "2024-05-05T09:09:43-06:00",
 				"url": "https://microblog.chrisenns.com/2024/05/05/jodi-enns-on.html"
 			},
@@ -42,7 +114,7 @@
 				"id": "http://ichris.micro.blog/2024/05/04/saturday-job-board.html",
 				
 				"content_html": "<p>Saturday job board. We’re halfway there. 😆 🥱</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Saturday job board. We’re halfway there. 😆 🥱 \n\n<img src=\"uploads/2024/bac96bee7a.jpg\" width=\"507\" height=\"600\" alt=\"A hand written list with four columns and checkboxes in each row, half of which are checked. \">\n",
+				"content_text": "Saturday job board. We’re halfway there. 😆 🥱 \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2024/bac96bee7a.jpg\" width=\"507\" height=\"600\" alt=\"A hand written list with four columns and checkboxes in each row, half of which are checked. \">\n",
 				"date_published": "2024-05-04T12:17:28-06:00",
 				"url": "https://microblog.chrisenns.com/2024/05/04/saturday-job-board.html"
 			},
