@@ -7,6 +7,70 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2024/06/15/of-the-two.html",
+				
+				"content_html": "<p>Of the two &ldquo;For You&rdquo; algorithm bots, the one on Threads shows me more interesting posts than Twitter does. Twitter is mostly rage farming, Threads is interesting tech stuff I haven&rsquo;t seen with a sprinkling of exvangelical commentary. 🤷‍♂️</p>\n",
+				"content_text": "Of the two \"For You\" algorithm bots, the one on Threads shows me more interesting posts than Twitter does. Twitter is mostly rage farming, Threads is interesting tech stuff I haven't seen with a sprinkling of exvangelical commentary. 🤷‍♂️\n",
+				"date_published": "2024-06-15T12:17:40-06:00",
+				"url": "https://microblog.chrisenns.com/2024/06/15/of-the-two.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/06/11/finished-reading-im.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781982185824\">I&rsquo;m Glad My Mom Died</a> by Jennette McCurdy 📚</p>\n",
+				"content_text": "Finished reading: [I'm Glad My Mom Died](https://micro.blog/books/9781982185824) by Jennette McCurdy 📚\n",
+				"date_published": "2024-06-11T23:36:41-06:00",
+				"url": "https://microblog.chrisenns.com/2024/06/11/finished-reading-im.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/06/11/i-dont-care.html",
+				
+				"content_html": "<p>I don&rsquo;t care whether you dig Pomplamoose, but just know that what they&rsquo;re putting out <a href=\"https://www.tiktok.com/@pomplamoose\">on TikTok</a> (and elsewhere I&rsquo;m sure) is the template for what many fans of bands / musicians wish they could watch their fav band do.</p>\n",
+				"content_text": "I don't care whether you dig Pomplamoose, but just know that what they're putting out [on TikTok](https://www.tiktok.com/@pomplamoose) (and elsewhere I'm sure) is the template for what many fans of bands / musicians wish they could watch their fav band do.\n",
+				"date_published": "2024-06-11T10:07:59-06:00",
+				"url": "https://microblog.chrisenns.com/2024/06/11/i-dont-care.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/06/11/if-you-cant.html",
+				
+				"content_html": "<p>If you can&rsquo;t get your &ldquo;everything Apple announced at WWDC 2024&rdquo; video in under 23.2 seconds, I&rsquo;m not watching it.</p>\n",
+				"content_text": "If you can't get your \"everything Apple announced at WWDC 2024\" video in under 23.2 seconds, I'm not watching it.\n",
+				"date_published": "2024-06-11T09:32:24-06:00",
+				"url": "https://microblog.chrisenns.com/2024/06/11/if-you-cant.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/06/10/based-on-nothing.html",
+				
+				"content_html": "<p>Based on nothing more than the keynote video, I do feel like Apple Intelligence hits closer to the &ldquo;why can&rsquo;t AI make my day to day life easier instead of creating weird looking artwork?&rdquo; vibe than anything else I&rsquo;ve seen from other AI start ups.</p>\n<p>It still can&rsquo;t do the laundry though.</p>\n",
+				"content_text": "Based on nothing more than the keynote video, I do feel like Apple Intelligence hits closer to the \"why can't AI make my day to day life easier instead of creating weird looking artwork?\" vibe than anything else I've seen from other AI start ups. \n\nIt still can't do the laundry though.\n",
+				"date_published": "2024-06-10T12:15:00-06:00",
+				"url": "https://microblog.chrisenns.com/2024/06/10/based-on-nothing.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/06/10/nice-write-up.html",
+				
+				"content_html": "<p>Nice write up by <a href=\"https://micro.blog/ultranurd@mastodon.social\">@ultranurd@mastodon.social</a> on the recent <a href=\"https://blog.ultranurd.net/2024/06/08/wholesome-games/\">wholesome games announcements</a>.</p>\n",
+				"content_text": "Nice write up by [@ultranurd@mastodon.social](https://micro.blog/ultranurd@mastodon.social) on the recent [wholesome games announcements](https://blog.ultranurd.net/2024/06/08/wholesome-games/). \n",
+				"date_published": "2024-06-10T10:02:09-06:00",
+				"url": "https://microblog.chrisenns.com/2024/06/10/nice-write-up.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/06/10/me-i-think.html",
+				
+				"content_html": "<p>Me: i think I’ll check out the lyrics to this song and then go back to adding more songs to my queue.</p>\n<p>Apple Music: The hell you will. Good luck getting out of the lyrics view without skipping around the song and eventually rage quitting the app entirely.</p>\n",
+				"content_text": "Me: i think I’ll check out the lyrics to this song and then go back to adding more songs to my queue. \n\nApple Music: The hell you will. Good luck getting out of the lyrics view without skipping around the song and eventually rage quitting the app entirely.\n",
+				"date_published": "2024-06-10T09:16:42-06:00",
+				"url": "https://microblog.chrisenns.com/2024/06/10/me-i-think.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/06/09/being-able-to.html",
+				
+				"content_html": "<p>Being able to <a href=\"https://www.macrumors.com/2024/06/08/ios-18-face-id-app-locking-rumor/\">lock any app behind Face ID</a> is pretty slick actually. I love VoiceNotes, but have started to wonder about security of private thoughts being wide open to anyone (kids) on my phone.</p>\n",
+				"content_text": "Being able to [lock any app behind Face ID](https://www.macrumors.com/2024/06/08/ios-18-face-id-app-locking-rumor/) is pretty slick actually. I love VoiceNotes, but have started to wonder about security of private thoughts being wide open to anyone (kids) on my phone. \n",
+				"date_published": "2024-06-09T21:09:26-06:00",
+				"url": "https://microblog.chrisenns.com/2024/06/09/being-able-to.html"
+			},
+			{
 				"id": "http://ichris.micro.blog/2024/06/09/im-in-the.html",
 				
 				"content_html": "<p>“I&rsquo;m in the business of losing your interest\nAnd I turn a profit each time that we speak”</p>\n<p>Such a good lyric. Well done Noah Kahan.</p>\n",
