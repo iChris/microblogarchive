@@ -7,6 +7,126 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2024/06/26/i-dig-this.html",
+				
+				"content_html": "<p>I dig <a href=\"https://ghost.org/changelog/internal-linking/\">this internal linking feature</a> Ghost implemented where you can &ldquo;@&rdquo; mention any page, post, tag, or author on your blog without having to open up a new tab to find it.</p>\n",
+				"content_text": "I dig [this internal linking feature](https://ghost.org/changelog/internal-linking/) Ghost implemented where you can \"@\" mention any page, post, tag, or author on your blog without having to open up a new tab to find it.\n",
+				"date_published": "2024-06-26T08:47:18-06:00",
+				"url": "https://microblog.chrisenns.com/2024/06/26/i-dig-this.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/06/26/my-yo-shouldnt.html",
+				
+				"content_html": "<p>My 14yo shouldn’t have to do moderator work for Meta because other kids keep using the N word and other offensive language in Meta Quest games. He does it, and rallies other players to report accounts.</p>\n<p>What a delightful world we’ve created.</p>\n",
+				"content_text": "My 14yo shouldn’t have to do moderator work for Meta because other kids keep using the N word and other offensive language in Meta Quest games. He does it, and rallies other players to report accounts. \n\nWhat a delightful world we’ve created. \n",
+				"date_published": "2024-06-26T07:07:23-06:00",
+				"url": "https://microblog.chrisenns.com/2024/06/26/my-yo-shouldnt.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/06/25/this-sounds-awful.html",
+				
+				"content_html": "<p>This sounds awful. Why would I pay someone to get me <em>more</em> meetings??</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "This sounds awful. Why would I pay someone to get me *more* meetings?? \n\n<img src=\"uploads/2024/13ce231c02.png\" width=\"600\" height=\"374\" alt=\"HI Chris,&10;&10;To get right to it- In respect of your time. &10;&10;Could Lemon Productions benefit from a platform that would generate 5-15 booked appointments with qualified decision-makers interested in your services every month by getting your offer in front of hundreds of your ideal clients every day with a guaranteed minimum of 5 sales calls per month or you don't pay? &10;&10;If you're open to it, would you be open if I sent over the process how?&10;&10;&10;Scarlet Rue&10;Partnerships\">\n",
+				"date_published": "2024-06-25T10:57:27-06:00",
+				"url": "https://microblog.chrisenns.com/2024/06/25/this-sounds-awful.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/06/25/new-on-my.html",
+				
+				"content_html": "<p>New on my blog: <a href=\"https://chrisenns.com/2024/06/john-green-on-taking-a-break-from-the-internet/\">John Green on Taking a Break from the Internet</a></p>\n",
+				"content_text": "New on my blog: [John Green on Taking a Break from the Internet](https://chrisenns.com/2024/06/john-green-on-taking-a-break-from-the-internet/)\n",
+				"date_published": "2024-06-25T10:10:41-06:00",
+				"url": "https://microblog.chrisenns.com/2024/06/25/new-on-my.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/06/24/its-going-to.html",
+				
+				"content_html": "<p>It’s going to be a crepe-y day.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "It’s going to be a crepe-y day. \n\n<img src=\"uploads/2024/d12672be0d.jpg\" width=\"501\" height=\"600\" alt=\"Crepes on a stove in two frying pans. \">\n",
+				"date_published": "2024-06-24T07:29:16-06:00",
+				"url": "https://microblog.chrisenns.com/2024/06/24/its-going-to.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/06/23/inside-out.html",
+				"title": "Inside Out 2, 2024 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/9/2/1/5/7/8/921578-inside-out-2-0-600-0-900-crop.jpg?v=efa25e5cca\"/></p> <p>Watched on Sunday June 23, 2024.</p>\n",
+				"date_published": "2024-06-23T20:27:47-06:00",
+				"url": "https://microblog.chrisenns.com/2024/06/23/inside-out.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/06/23/currently-reading-slash.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780061752353\">Slash</a> by Slash 📚Would you be shocked to find out it’s full of misogyny and objectifying language? I know I am.</p>\n",
+				"content_text": "Currently reading: [Slash](https://micro.blog/books/9780061752353) by Slash 📚Would you be shocked to find out it’s full of misogyny and objectifying language? I know I am. \n",
+				"date_published": "2024-06-23T14:50:03-06:00",
+				"url": "https://microblog.chrisenns.com/2024/06/23/currently-reading-slash.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/06/23/tornado-watch-issued.html",
+				
+				"content_html": "<p>Tornado watch issued for Saskatoon and area <a href=\"https://weather.gc.ca/?center=35.58733774,-104.24819548\">weather.gc.ca</a></p>\n",
+				"content_text": "Tornado watch issued for Saskatoon and area [weather.gc.ca](https://weather.gc.ca/?center=35.58733774,-104.24819548)\n",
+				"date_published": "2024-06-23T13:19:35-06:00",
+				"url": "https://microblog.chrisenns.com/2024/06/23/tornado-watch-issued.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/06/22/air.html",
+				"title": "Air, 2023 - ★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/8/6/8/4/9/1/868491-air-0-600-0-900-crop.jpg?v=0dddab89c6\"/></p> <p>Watched on Saturday June 22, 2024.</p>\n",
+				"date_published": "2024-06-22T23:08:27-06:00",
+				"url": "https://microblog.chrisenns.com/2024/06/22/air.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/06/22/my-brain-can.html",
+				
+				"content_html": "<p>My brain can spin on whether something is YOLO or wasteful forever. Which feels wasteful since YOLO.</p>\n",
+				"content_text": "My brain can spin on whether something is YOLO or wasteful forever. Which feels wasteful since YOLO.\n",
+				"date_published": "2024-06-22T13:53:33-06:00",
+				"url": "https://microblog.chrisenns.com/2024/06/22/my-brain-can.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/06/22/new-on-my.html",
+				
+				"content_html": "<p>New on my blog: <a href=\"https://chrisenns.com/2024/06/david-simon-on-ai/\">David Simon on AI</a></p>\n",
+				"content_text": "New on my blog: [David Simon on AI](https://chrisenns.com/2024/06/david-simon-on-ai/)\n",
+				"date_published": "2024-06-22T11:11:16-06:00",
+				"url": "https://microblog.chrisenns.com/2024/06/22/new-on-my.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/06/21/alright-im-invested.html",
+				
+				"content_html": "<p>Alright I’m invested. I was ready to tune out hockey after my Jets bowed out in the first round. Now the Oilers better win game 7 after coming back from 3 games to none.</p>\n",
+				"content_text": "Alright I’m invested. I was ready to tune out hockey after my Jets bowed out in the first round. Now the Oilers better win game 7 after coming back from 3 games to none.\n",
+				"date_published": "2024-06-21T22:57:15-06:00",
+				"url": "https://microblog.chrisenns.com/2024/06/21/alright-im-invested.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/06/21/new-on-my.html",
+				
+				"content_html": "<p>New on my blog: <a href=\"https://chrisenns.com/2024/06/u2-inspired-all-of-the-2000s-christian-worship-music-you-know/\">U2 Inspired Evangelical Church Worship Music</a></p>\n",
+				"content_text": "New on my blog: [U2 Inspired Evangelical Church Worship Music](https://chrisenns.com/2024/06/u2-inspired-all-of-the-2000s-christian-worship-music-you-know/)\n",
+				"date_published": "2024-06-21T11:38:33-06:00",
+				"url": "https://microblog.chrisenns.com/2024/06/21/new-on-my.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/06/21/its-really-weird.html",
+				
+				"content_html": "<p>It&rsquo;s really weird to me that <a href=\"https://www.macrumors.com/2024/06/20/final-cut-pro-major-update/\">Final Cut Pro for iPad with a new iPad</a> is needed to do multicam with iPhones or iPads, when I&rsquo;ve got a Mac Studio on my desk that has to be able to keep up as well, wouldn&rsquo;t it?</p>\n",
+				"content_text": "It's really weird to me that [Final Cut Pro for iPad with a new iPad](https://www.macrumors.com/2024/06/20/final-cut-pro-major-update/) is needed to do multicam with iPhones or iPads, when I've got a Mac Studio on my desk that has to be able to keep up as well, wouldn't it? \n",
+				"date_published": "2024-06-21T10:07:43-06:00",
+				"url": "https://microblog.chrisenns.com/2024/06/21/its-really-weird.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/06/21/send-help-i.html",
+				
+				"content_html": "<p>Send help. I sat on the deck for breakfast &amp; coffee and now I can’t get up.</p>\n",
+				"content_text": "Send help. I sat on the deck for breakfast & coffee and now I can’t get up.\n",
+				"date_published": "2024-06-21T09:40:05-06:00",
+				"url": "https://microblog.chrisenns.com/2024/06/21/send-help-i.html"
+			},
+			{
 				"id": "http://ichris.micro.blog/2024/06/21/normalize-breaking-streaks.html",
 				
 				"content_html": "<p>Normalize breaking “streaks” that social media apps try to use to keep you coming back to their app. Snapchat, TikTok now, etc. It’s not the same as breaking a reading / exercising / therapy related streak. 😆</p>\n",
