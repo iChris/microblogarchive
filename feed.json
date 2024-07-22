@@ -7,10 +7,66 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2024/07/22/one-of-my.html",
+				
+				"content_html": "<p>One of my favourite benefits of working from home is being able to make a fried egg on toast for lunch if I feel like it.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "One of my favourite benefits of working from home is being able to make a fried egg on toast for lunch if I feel like it. \n\n<img src=\"uploads/2024/874915fbe7.jpg\" width=\"450\" height=\"600\" alt=\"Fried egg on toast on a plate on a table. With a glass of water on the side. \">\n",
+				"date_published": "2024-07-22T12:53:18-06:00",
+				"url": "https://microblog.chrisenns.com/2024/07/22/one-of-my.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/07/21/crowdstrike-ceo-ill.html",
+				
+				"content_html": "<p>Crowdstrike CEO: &ldquo;I&rsquo;ll pay a billion dollars for something crazy to happen in US Politics this weekend. I don&rsquo;t care what it is, just make it big.&rdquo;</p>\n",
+				"content_text": "Crowdstrike CEO: \"I'll pay a billion dollars for something crazy to happen in US Politics this weekend. I don't care what it is, just make it big.\"\n",
+				"date_published": "2024-07-21T18:09:36-06:00",
+				"url": "https://microblog.chrisenns.com/2024/07/21/crowdstrike-ceo-ill.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/07/21/im-at-costco.html",
+				
+				"content_html": "<p>I’m at Costco. Let me know if you want me to pickup some jumbo muffins we can stress eat while the world gives us daily BREAKING NEWS updates.</p>\n",
+				"content_text": "I’m at Costco. Let me know if you want me to pickup some jumbo muffins we can stress eat while the world gives us daily BREAKING NEWS updates.\n",
+				"date_published": "2024-07-21T17:40:33-06:00",
+				"url": "https://microblog.chrisenns.com/2024/07/21/im-at-costco.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/07/21/aw-dang-i.html",
+				
+				"content_html": "<p>Aw dang I lost my 322 day reading streak on Readwise and now I don’t want to read anymore. 😢</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Aw dang I lost my 322 day reading streak on Readwise and now I don’t want to read anymore. 😢 \n\n<img src=\"uploads/2024/6705049bf3.jpg\" width=\"507\" height=\"600\" alt=\"Readwise app screenshot showing a 2 day streak instead of the 322 day streak I had. \">\n",
+				"date_published": "2024-07-21T08:48:43-06:00",
+				"url": "https://microblog.chrisenns.com/2024/07/21/aw-dang-i.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/07/19/whenever-i-say.html",
+				
+				"content_html": "<p>Whenever I say I bought Rogue Amoeba&rsquo;s Loopback software, people ask what I use it for. It&rsquo;s a bit of an odd tool in the macOS toolkit, so I thought I&rsquo;d do a quick demo of why I still think it&rsquo;s a great one to have on the Mac. <a href=\"https://youtu.be/10XWlbCjy8Q\">Here&rsquo;s the video.</a></p>\n",
+				"content_text": "Whenever I say I bought Rogue Amoeba's Loopback software, people ask what I use it for. It's a bit of an odd tool in the macOS toolkit, so I thought I'd do a quick demo of why I still think it's a great one to have on the Mac. [Here's the video.](https://youtu.be/10XWlbCjy8Q)\n",
+				"date_published": "2024-07-19T11:52:56-06:00",
+				"url": "https://microblog.chrisenns.com/2024/07/19/whenever-i-say.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/07/18/i-tried-a.html",
+				
+				"content_html": "<p>I tried a mini-rant on YouTube that I normally would&rsquo;ve just thrown on TikTok without any editing. I&rsquo;m not sure if I can commit to it regularly, but it was fun to try. <a href=\"https://www.youtube.com/watch?v=Ctuy9IPmtT8\">Watch over here</a>.</p>\n",
+				"content_text": "I tried a mini-rant on YouTube that I normally would've just thrown on TikTok without any editing. I'm not sure if I can commit to it regularly, but it was fun to try. [Watch over here](https://www.youtube.com/watch?v=Ctuy9IPmtT8). \n",
+				"date_published": "2024-07-18T22:19:22-06:00",
+				"url": "https://microblog.chrisenns.com/2024/07/18/i-tried-a.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/07/17/pretty-great-deal.html",
+				
+				"content_html": "<p>Pretty great deal on the <a href=\"https://amzn.to/3LvNs0B\">Elgato Stream Deck + audio mixer</a> at Amazon Canada if you&rsquo;ve been looking to try a Stream Deck.</p>\n",
+				"content_text": "Pretty great deal on the [Elgato Stream Deck + audio mixer](https://amzn.to/3LvNs0B) at Amazon Canada if you've been looking to try a Stream Deck.\n",
+				"date_published": "2024-07-17T11:11:57-06:00",
+				"url": "https://microblog.chrisenns.com/2024/07/17/pretty-great-deal.html"
+			},
+			{
 				"id": "http://ichris.micro.blog/2024/07/17/well-thats-not.html",
 				
 				"content_html": "<p>Well… that’s not how I <em>usually</em> grind coffee beans. 🤦</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Well… that’s not how I *usually* grind coffee beans. 🤦\n\n<img src=\"uploads/2024/5a9f94bbb8.jpg\" width=\"450\" height=\"600\" alt=\"Coffee beans spilled in the sink\">\n",
+				"content_text": "Well… that’s not how I *usually* grind coffee beans. 🤦\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2024/5a9f94bbb8.jpg\" width=\"450\" height=\"600\" alt=\"Coffee beans spilled in the sink\">\n",
 				"date_published": "2024-07-17T07:45:17-06:00",
 				"url": "https://microblog.chrisenns.com/2024/07/17/well-thats-not.html"
 			},
@@ -42,7 +98,7 @@
 				"id": "http://ichris.micro.blog/2024/07/16/even-if-youre.html",
 				
 				"content_html": "<p>Even if you’re not a U2 fan, I really recommend Bono’s autobiography. He narrates the audiobook himself and it’s heartbreakingly beautiful and entertaining. If nothing else, listen / read to chapter 3.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Even if you’re not a U2 fan, I really recommend Bono’s autobiography. He narrates the audiobook himself and it’s heartbreakingly beautiful and entertaining. If nothing else, listen / read to chapter 3.\n\n<img src=\"uploads/2024/3b41b04942.jpg\" width=\"380\" height=\"600\" alt=\"Surrender book cover by Bono on Audible. \">\n",
+				"content_text": "Even if you’re not a U2 fan, I really recommend Bono’s autobiography. He narrates the audiobook himself and it’s heartbreakingly beautiful and entertaining. If nothing else, listen / read to chapter 3.\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2024/3b41b04942.jpg\" width=\"380\" height=\"600\" alt=\"Surrender book cover by Bono on Audible. \">\n",
 				"date_published": "2024-07-16T08:22:13-06:00",
 				"url": "https://microblog.chrisenns.com/2024/07/16/even-if-youre.html"
 			},
@@ -817,16 +873,16 @@
 			{
 				"id": "http://ichris.micro.blog/2024/05/31/one-of-the.html",
 				"title": "One Of The Reasons I Can’t Quit Twitter",
-				"content_html": "<p>I’ve tried many times and it’s possible that I’ll be addicted for life. But for now, here’s a positive reason why I can’t quit Twitter.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->Transcript<!-- raw HTML omitted --></p>\n",
-				"content_text": "I’ve tried many times and it’s possible that I’ll be addicted for life. But for now, here’s a positive reason why I can’t quit Twitter. \n\n<audio controls=\"controls\" src=\"https://microblog.chrisenns.com/uploads/2024/b1646ef215.mp3\" preload=\"metadata\"><p><a href=\"https://microblog.chrisenns.com/transcripts/2024/05/31/1180.html\" class=\"transcript_link\">Transcript</a>\n",
+				"content_html": "<p>I’ve tried many times and it’s possible that I’ll be addicted for life. But for now, here’s a positive reason why I can’t quit Twitter.</p>\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted -->Transcript<!-- raw HTML omitted --></p>\n",
+				"content_text": "I’ve tried many times and it’s possible that I’ll be addicted for life. But for now, here’s a positive reason why I can’t quit Twitter. \n\n<audio controls=\"controls\" src=\"https://microblog.chrisenns.com/uploads/2024/b1646ef215.mp3\" preload=\"metadata\">\n\n<a href=\"https://microblog.chrisenns.com/transcripts/2024/05/31/1180.html\" class=\"transcript_link\">Transcript</a>\n",
 				"date_published": "2024-05-31T10:01:57-06:00",
 				"url": "https://microblog.chrisenns.com/2024/05/31/one-of-the.html"
 			},
 			{
 				"id": "http://ichris.micro.blog/2024/05/30/welcome-to-my.html",
 				"title": "Welcome To My Micro Podcast!",
-				"content_html": "<p>Podcasting is now included in Micro.blogs $5/month or $50 a year plan so I thought I’d try it out. Hello world!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->Transcript<!-- raw HTML omitted --></p>\n",
-				"content_text": "Podcasting is now included in Micro.blogs $5/month or $50 a year plan so I thought I’d try it out. Hello world!\n\n<audio controls=\"controls\" src=\"https://microblog.chrisenns.com/uploads/2024/audio.mp3\" preload=\"metadata\"><p><a href=\"https://microblog.chrisenns.com/transcripts/2024/05/30/1173.html\" class=\"transcript_link\">Transcript</a>\n",
+				"content_html": "<p>Podcasting is now included in Micro.blogs $5/month or $50 a year plan so I thought I’d try it out. Hello world!</p>\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted -->Transcript<!-- raw HTML omitted --></p>\n",
+				"content_text": "Podcasting is now included in Micro.blogs $5/month or $50 a year plan so I thought I’d try it out. Hello world!\n\n<audio controls=\"controls\" src=\"https://microblog.chrisenns.com/uploads/2024/audio.mp3\" preload=\"metadata\">\n\n<a href=\"https://microblog.chrisenns.com/transcripts/2024/05/30/1173.html\" class=\"transcript_link\">Transcript</a>\n",
 				"date_published": "2024-05-30T10:40:06-06:00",
 				"url": "https://microblog.chrisenns.com/2024/05/30/welcome-to-my.html"
 			},
