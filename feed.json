@@ -7,10 +7,58 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2024/07/24/new-post-on.html",
+				
+				"content_html": "<p>New post on my blog: <a href=\"https://chrisenns.com/2024/07/random-political-thoughts-collected/\">Come for the random political mumblings, stay for the ladder match</a>.</p>\n",
+				"content_text": "New post on my blog: [Come for the random political mumblings, stay for the ladder match](https://chrisenns.com/2024/07/random-political-thoughts-collected/).\n",
+				"date_published": "2024-07-24T13:55:38-06:00",
+				"url": "https://microblog.chrisenns.com/2024/07/24/new-post-on.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/07/24/just-a-reminder.html",
+				
+				"content_html": "<p>Just a reminder that if you&rsquo;re going to &ldquo;friend request&rdquo; me on Discord, Xbox, iOS Game Centre, Friendster, Foursquare, Dribbble, Untappd, Letterboxd, Geocities, or Hotmail you need to tell me that it&rsquo;s you.</p>\n<p>I can&rsquo;t recognize MASTERCHIEF213 as &ldquo;Dave&rdquo; I know from Twitter.</p>\n",
+				"content_text": "Just a reminder that if you're going to \"friend request\" me on Discord, Xbox, iOS Game Centre, Friendster, Foursquare, Dribbble, Untappd, Letterboxd, Geocities, or Hotmail you need to tell me that it's you.\n\nI can't recognize MASTERCHIEF213 as \"Dave\" I know from Twitter.\n",
+				"date_published": "2024-07-24T10:15:48-06:00",
+				"url": "https://microblog.chrisenns.com/2024/07/24/just-a-reminder.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/07/23/i-saw-a.html",
+				
+				"content_html": "<p>I saw a tiktok where the person referenced an Epstein related person as a “PDF file”, presumably to get around the algorithm punishing them if they said pedophile and now I just want to think of it as that: he’s a PDF file. 😂</p>\n",
+				"content_text": "I saw a tiktok where the person referenced an Epstein related person as a “PDF file”, presumably to get around the algorithm punishing them if they said pedophile and now I just want to think of it as that: he’s a PDF file. 😂 \n",
+				"date_published": "2024-07-23T23:51:08-06:00",
+				"url": "https://microblog.chrisenns.com/2024/07/23/i-saw-a.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/07/23/fortnite-requiring-basically.html",
+				
+				"content_html": "<p>Fortnite requiring basically a full download of the game for an update is unnecessarily cruel when I have work to get done and can’t afford to wait for an hour and a half for it to update. 😜</p>\n",
+				"content_text": "Fortnite requiring basically a full download of the game for an update is unnecessarily cruel when I have work to get done and can’t afford to wait for an hour and a half for it to update. 😜 \n",
+				"date_published": "2024-07-23T18:06:33-06:00",
+				"url": "https://microblog.chrisenns.com/2024/07/23/fortnite-requiring-basically.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/07/23/in-order-to.html",
+				
+				"content_html": "<p>In order to understand why evangelical Christians were so concerned about U2 in the 90s, you really need to look no further than this moment in their &lsquo;97 Popmart concert video.</p>\n<p>Basically everything in Revelations come true. 😆</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "In order to understand why evangelical Christians were so concerned about U2 in the 90s, you really need to look no further than this moment in their '97 Popmart concert video.\n\nBasically everything in Revelations come true. 😆\n\n<img src=\"uploads/2024/e06702a869.png\" width=\"600\" height=\"427\" alt=\"Screencapture from U2’s 1997 Popmart concert showing Bono kicking while wearing bubble pants.\">\n",
+				"date_published": "2024-07-23T12:44:30-06:00",
+				"url": "https://microblog.chrisenns.com/2024/07/23/in-order-to.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/07/23/my-biz-sites.html",
+				
+				"content_html": "<p>My biz site&rsquo;s contact form is constantly spammed into non-usability and I keep missing people reaching out. It&rsquo;s WordPress, with Akismet anti-spam turned on&hellip; what are the cool kids using these days?</p>\n",
+				"content_text": "My biz site's contact form is constantly spammed into non-usability and I keep missing people reaching out. It's WordPress, with Akismet anti-spam turned on... what are the cool kids using these days?\n",
+				"date_published": "2024-07-23T09:46:36-06:00",
+				"url": "https://microblog.chrisenns.com/2024/07/23/my-biz-sites.html"
+			},
+			{
 				"id": "http://ichris.micro.blog/2024/07/22/one-of-my.html",
 				
 				"content_html": "<p>One of my favourite benefits of working from home is being able to make a fried egg on toast for lunch if I feel like it.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "One of my favourite benefits of working from home is being able to make a fried egg on toast for lunch if I feel like it. \n\n<img src=\"uploads/2024/874915fbe7.jpg\" width=\"450\" height=\"600\" alt=\"Fried egg on toast on a plate on a table. With a glass of water on the side. \">\n",
+				"content_text": "One of my favourite benefits of working from home is being able to make a fried egg on toast for lunch if I feel like it. \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2024/874915fbe7.jpg\" width=\"450\" height=\"600\" alt=\"Fried egg on toast on a plate on a table. With a glass of water on the side. \">\n",
 				"date_published": "2024-07-22T12:53:18-06:00",
 				"url": "https://microblog.chrisenns.com/2024/07/22/one-of-my.html"
 			},
@@ -34,7 +82,7 @@
 				"id": "http://ichris.micro.blog/2024/07/21/aw-dang-i.html",
 				
 				"content_html": "<p>Aw dang I lost my 322 day reading streak on Readwise and now I don’t want to read anymore. 😢</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Aw dang I lost my 322 day reading streak on Readwise and now I don’t want to read anymore. 😢 \n\n<img src=\"uploads/2024/6705049bf3.jpg\" width=\"507\" height=\"600\" alt=\"Readwise app screenshot showing a 2 day streak instead of the 322 day streak I had. \">\n",
+				"content_text": "Aw dang I lost my 322 day reading streak on Readwise and now I don’t want to read anymore. 😢 \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2024/6705049bf3.jpg\" width=\"507\" height=\"600\" alt=\"Readwise app screenshot showing a 2 day streak instead of the 322 day streak I had. \">\n",
 				"date_published": "2024-07-21T08:48:43-06:00",
 				"url": "https://microblog.chrisenns.com/2024/07/21/aw-dang-i.html"
 			},
