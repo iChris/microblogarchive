@@ -7,6 +7,55 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2024/08/06/hanging-on-to.html",
+				
+				"content_html": "<p>Hanging on to the Saskatchewan long weekend a little longer….</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Hanging on to the Saskatchewan long weekend a little longer…. \n\n<img src=\"uploads/2024/27d86ca819.jpg\" width=\"450\" height=\"600\" alt=\"A can of Rebellion Brewing beer on the dock overlooking a lake. \">\n",
+				"date_published": "2024-08-06T14:00:23-06:00",
+				"url": "https://microblog.chrisenns.com/2024/08/06/hanging-on-to.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/07/31/todays-wordle-was.html",
+				
+				"content_html": "<p>Today’s Wordle was stupid. 😂 😤</p>\n<p>Wordle 1,138 5/6</p>\n<p>⬛⬛⬛⬛🟧\n⬛⬛⬛⬛🟧\n⬛🟦⬛⬛🟧\n⬛⬛🟧⬛🟧\n🟧🟧🟧🟧🟧</p>\n",
+				"content_text": "Today’s Wordle was stupid. 😂 😤 \n\nWordle 1,138 5/6\n\n⬛⬛⬛⬛🟧\n⬛⬛⬛⬛🟧\n⬛🟦⬛⬛🟧\n⬛⬛🟧⬛🟧\n🟧🟧🟧🟧🟧\n",
+				"date_published": "2024-07-31T23:54:27-06:00",
+				"url": "https://microblog.chrisenns.com/2024/07/31/todays-wordle-was.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/07/31/tim-sweeney-fortnite.html",
+				
+				"content_html": "<p>Tim Sweeney (Fortnite / Epic CEO guy) with the <a href=\"https://www.macrumors.com/2024/07/30/tim-sweeney-find-my-creepy-surveillance-tech/\">weirdest take on Apple&rsquo;s Find My</a>. It&rsquo;s remarkably easy to turn it off on a device you own or have bought off someone. Defending the privacy of thieves is such a weird angle to take.</p>\n",
+				"content_text": "Tim Sweeney (Fortnite / Epic CEO guy) with the [weirdest take on Apple's Find My](https://www.macrumors.com/2024/07/30/tim-sweeney-find-my-creepy-surveillance-tech/). It's remarkably easy to turn it off on a device you own or have bought off someone. Defending the privacy of thieves is such a weird angle to take.\n",
+				"date_published": "2024-07-31T12:22:29-06:00",
+				"url": "https://microblog.chrisenns.com/2024/07/31/tim-sweeney-fortnite.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/07/30/what-does-luck.html",
+				
+				"content_html": "<p><a href=\"https://www.youtube.com/watch?v=YKeVeG6h4AA\">What does luck have to do with your career?</a> (this is focused on tech, but I think it applies more universally)</p>\n",
+				"content_text": "[What does luck have to do with your career?](https://www.youtube.com/watch?v=YKeVeG6h4AA) (this is focused on tech, but I think it applies more universally) \n",
+				"date_published": "2024-07-30T15:02:45-06:00",
+				"url": "https://microblog.chrisenns.com/2024/07/30/what-does-luck.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/07/30/i-finally-sorted.html",
+				
+				"content_html": "<p>I finally sorted out the artwork bug and got my micro.blog podcast (micro-cast?) set up at the popular places. <a href=\"https://microblog.chrisenns.com/podcast/\">Details on how to subscribe are here</a> if you&rsquo;d like to hear mostly unedited thoughts I speak out into my phone and publish. Kind of like the rest of my social media experimentation.  😉</p>\n",
+				"content_text": "I finally sorted out the artwork bug and got my micro.blog podcast (micro-cast?) set up at the popular places. [Details on how to subscribe are here](https://microblog.chrisenns.com/podcast/) if you'd like to hear mostly unedited thoughts I speak out into my phone and publish. Kind of like the rest of my social media experimentation.  😉\n",
+				"date_published": "2024-07-30T11:17:43-06:00",
+				"url": "https://microblog.chrisenns.com/2024/07/30/i-finally-sorted.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/07/29/deadpool-amp-wolverine.html",
+				"title": "Deadpool \u0026 Wolverine, 2024 - ★★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/6/2/8/7/0/462870-deadpool-wolverine-0-600-0-900-crop.jpg?v=1aa778d2c6\"/></p> <p>Watched on Monday July 29, 2024.</p>\n",
+				"date_published": "2024-07-29T20:40:16-06:00",
+				"url": "https://microblog.chrisenns.com/2024/07/29/deadpool-amp-wolverine.html",
+				"tags": ["Movies or TV"]
+			},
+			{
 				"id": "http://ichris.micro.blog/2024/07/29/deadpool.html",
 				"title": "Deadpool 2, 2018 - ★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
@@ -34,7 +83,7 @@
 				"id": "http://ichris.micro.blog/2024/07/28/happy-sunday-funday.html",
 				
 				"content_html": "<p>Happy Sunday funday 🍻</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Happy Sunday funday 🍻 \n\n<img src=\"uploads/2024/5ad95c2614.jpg\" width=\"492\" height=\"600\" alt=\"Rebellion Beach Life beer can on a table at a cabin \">\n",
+				"content_text": "Happy Sunday funday 🍻 \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2024/5ad95c2614.jpg\" width=\"492\" height=\"600\" alt=\"Rebellion Beach Life beer can on a table at a cabin \">\n",
 				"date_published": "2024-07-28T16:49:20-06:00",
 				"url": "https://microblog.chrisenns.com/2024/07/28/happy-sunday-funday.html"
 			},
@@ -42,7 +91,7 @@
 				"id": "http://ichris.micro.blog/2024/07/27/my-dad-brought.html",
 				
 				"content_html": "<p>My dad brought this android spyware IPTV box into the cabin and now I have to burn down the network. 😆</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": " My dad brought this android spyware IPTV box into the cabin and now I have to burn down the network. 😆 \n\n<img src=\"uploads/2024/12b8c6a52d.jpg\" width=\"450\" height=\"600\" alt=\"A IPTV box and a remote siting on a table. \">\n",
+				"content_text": " My dad brought this android spyware IPTV box into the cabin and now I have to burn down the network. 😆 \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2024/12b8c6a52d.jpg\" width=\"450\" height=\"600\" alt=\"A IPTV box and a remote siting on a table. \">\n",
 				"date_published": "2024-07-27T08:53:00-06:00",
 				"url": "https://microblog.chrisenns.com/2024/07/27/my-dad-brought.html"
 			},
@@ -50,7 +99,7 @@
 				"id": "http://ichris.micro.blog/2024/07/26/turns-out-the.html",
 				
 				"content_html": "<p>Turns out the issue with my Micro.blog mini podcast feed was, of course, the artwork. 🤦‍♂️ I should&rsquo;ve known. (Wrong size / ratio for Apple.) So I went out into my cabin and took a quick selfie with my fav toque to use instead.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Turns out the issue with my Micro.blog mini podcast feed was, of course, the artwork. 🤦‍♂️ I should've known. (Wrong size / ratio for Apple.) So I went out into my cabin and took a quick selfie with my fav toque to use instead.\n\n<img src=\"uploads/2024/d62a4cd50c.jpg\" width=\"600\" height=\"600\" alt=\"AI generated image of a “Canadian recording a podcast” with the caption “Faraway, So Micro”\">\n",
+				"content_text": "Turns out the issue with my Micro.blog mini podcast feed was, of course, the artwork. 🤦‍♂️ I should've known. (Wrong size / ratio for Apple.) So I went out into my cabin and took a quick selfie with my fav toque to use instead.\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2024/d62a4cd50c.jpg\" width=\"600\" height=\"600\" alt=\"AI generated image of a “Canadian recording a podcast” with the caption “Faraway, So Micro”\">\n",
 				"date_published": "2024-07-26T10:41:31-06:00",
 				"url": "https://microblog.chrisenns.com/2024/07/26/turns-out-the.html"
 			},
