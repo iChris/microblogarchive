@@ -7,10 +7,82 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2024/08/10/the-most-important.html",
+				"title": "The Most Important Thing To Know About Your Podcast",
+				"content_html": "<p>From Tom Webster’s new book, “The Audience is Listening.”</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p><!-- raw HTML omitted -->Transcript<!-- raw HTML omitted --></p>\n",
+				"content_text": "From Tom Webster’s new book, “The Audience is Listening.”\n\n<audio controls=\"controls\" src=\"https://microblog.chrisenns.com/uploads/2024/1335589d37.mp3\" preload=\"metadata\"></audio>\n\n<a href=\"https://microblog.chrisenns.com/transcripts/2024/08/10/1381.html\" class=\"transcript_link\">Transcript</a>\n",
+				"date_published": "2024-08-10T10:03:09-06:00",
+				"url": "https://microblog.chrisenns.com/2024/08/10/the-most-important.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/08/09/i-bet-the.html",
+				
+				"content_html": "<p>I bet the first person to try opening a watermelon was super pumped to realize they weren&rsquo;t just good for holding things down in the wind.</p>\n",
+				"content_text": "I bet the first person to try opening a watermelon was super pumped to realize they weren't just good for holding things down in the wind.\n",
+				"date_published": "2024-08-09T16:01:12-06:00",
+				"url": "https://microblog.chrisenns.com/2024/08/09/i-bet-the.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/08/09/yesterday-i-saw.html",
+				
+				"content_html": "<p>Yesterday I <a href=\"https://www.instagram.com/reel/C-b1UQeR-jp/\">saw a hot air balloon up close</a> as it floated by on the river in our city. It felt really close and low, but nobody on the balloon seemed worried so I guess it was all cool.</p>\n",
+				"content_text": "Yesterday I [saw a hot air balloon up close](https://www.instagram.com/reel/C-b1UQeR-jp/) as it floated by on the river in our city. It felt really close and low, but nobody on the balloon seemed worried so I guess it was all cool.\n",
+				"date_published": "2024-08-09T13:25:38-06:00",
+				"url": "https://microblog.chrisenns.com/2024/08/09/yesterday-i-saw.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/08/09/did-you-unsubscribe.html",
+				
+				"content_html": "<p>&ldquo;Did you unsubscribe by accident? Click here to resubscribe!&rdquo;</p>\n<p>In the history of the world, how many people have ever unsubscribed from an email newsletter by accident? It&rsquo;s gotta be less than 10 right?</p>\n",
+				"content_text": "\"Did you unsubscribe by accident? Click here to resubscribe!\" \n\nIn the history of the world, how many people have ever unsubscribed from an email newsletter by accident? It's gotta be less than 10 right?\n",
+				"date_published": "2024-08-09T12:19:51-06:00",
+				"url": "https://microblog.chrisenns.com/2024/08/09/did-you-unsubscribe.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/08/09/me-thinking-ill.html",
+				
+				"content_html": "<p>Me thinking I&rsquo;ll have a nice chill Friday catching up from a couple days off.</p>\n<p>CRA leaving a voicemail asking about my 2022 income tax return says the heck you will. 🤦‍♂️</p>\n",
+				"content_text": "Me thinking I'll have a nice chill Friday catching up from a couple days off.\n\nCRA leaving a voicemail asking about my 2022 income tax return says the heck you will. 🤦‍♂️\n",
+				"date_published": "2024-08-09T11:50:28-06:00",
+				"url": "https://microblog.chrisenns.com/2024/08/09/me-thinking-ill.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/08/08/this-will-fix.html",
+				
+				"content_html": "<p>&ldquo;This will fix me&rdquo; - and it&rsquo;s just me adding a <em>fourth</em> cheese to my pasta to make it extra fancy.</p>\n",
+				"content_text": "\"This will fix me\" - and it's just me adding a *fourth* cheese to my pasta to make it extra fancy.\n",
+				"date_published": "2024-08-08T13:33:49-06:00",
+				"url": "https://microblog.chrisenns.com/2024/08/08/this-will-fix.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/08/08/this-permissions-update.html",
+				
+				"content_html": "<p><a href=\"https://9to5mac.com/2024/08/06/macos-sequoia-screen-recording-privacy-prompt/\">This permissions update to macOS Sequoia</a> is borderline insane for anyone who uses screen recording / screenshot apps with any regularity.</p>\n<p>Tell me the lawyers have infiltrated your software engineer team without telling me&hellip;</p>\n",
+				"content_text": "[This permissions update to macOS Sequoia](https://9to5mac.com/2024/08/06/macos-sequoia-screen-recording-privacy-prompt/) is borderline insane for anyone who uses screen recording / screenshot apps with any regularity.\n\nTell me the lawyers have infiltrated your software engineer team without telling me... \n",
+				"date_published": "2024-08-08T12:28:41-06:00",
+				"url": "https://microblog.chrisenns.com/2024/08/08/this-permissions-update.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/08/07/wordle-was-weird.html",
+				
+				"content_html": "<p>Wordle was weird today.</p>\n<p>Wordle 1,145 6/6</p>\n<p>🟦⬛⬛⬛⬛\n⬛🟧⬛⬛⬛\n🟧🟧⬛⬛⬛\n🟧🟧⬛⬛⬛\n🟧🟧⬛⬛🟦\n🟧🟧🟧🟧🟧</p>\n",
+				"content_text": "Wordle was weird today. \n\nWordle 1,145 6/6\n\n🟦⬛⬛⬛⬛\n⬛🟧⬛⬛⬛\n🟧🟧⬛⬛⬛\n🟧🟧⬛⬛⬛\n🟧🟧⬛⬛🟦\n🟧🟧🟧🟧🟧\n",
+				"date_published": "2024-08-07T23:29:48-06:00",
+				"url": "https://microblog.chrisenns.com/2024/08/07/wordle-was-weird.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/08/06/descendants-the-rise.html",
+				"title": "Descendants: The Rise of Red, 2024 - ★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/8/7/6/9/4/1/876941-descendants-the-rise-of-red-0-600-0-900-crop.jpg?v=4bcf7a1a82\"/></p> <p>Watched on Tuesday August 6, 2024.</p>\n",
+				"date_published": "2024-08-06T21:36:30-06:00",
+				"url": "https://microblog.chrisenns.com/2024/08/06/descendants-the-rise.html"
+			},
+			{
 				"id": "http://ichris.micro.blog/2024/08/06/hanging-on-to.html",
 				
 				"content_html": "<p>Hanging on to the Saskatchewan long weekend a little longer….</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Hanging on to the Saskatchewan long weekend a little longer…. \n\n<img src=\"uploads/2024/27d86ca819.jpg\" width=\"450\" height=\"600\" alt=\"A can of Rebellion Brewing beer on the dock overlooking a lake. \">\n",
+				"content_text": "Hanging on to the Saskatchewan long weekend a little longer…. \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2024/27d86ca819.jpg\" width=\"450\" height=\"600\" alt=\"A can of Rebellion Brewing beer on the dock overlooking a lake. \">\n",
 				"date_published": "2024-08-06T14:00:23-06:00",
 				"url": "https://microblog.chrisenns.com/2024/08/06/hanging-on-to.html"
 			},
