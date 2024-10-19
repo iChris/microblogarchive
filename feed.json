@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2024/10/19/finished-reading-anxious.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781501160851\">Anxious People</a> by Fredrik Backman 📚</p>\n",
+				"content_text": "Finished reading: [Anxious People](https://micro.blog/books/9781501160851) by Fredrik Backman 📚\n",
+				"date_published": "2024-10-19T07:27:32-06:00",
+				"url": "https://microblog.chrisenns.com/2024/10/19/finished-reading-anxious.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/10/11/this-is-your.html",
+				
+				"content_html": "<p>This is your periodic reminder that if you&rsquo;re on a Mac and you want to live stream, but OBS has frustrated you, check out <a href=\"https://www.ecamm.com/mac/ecammlive/?fp_ref=ichris\">Ecamm Live</a>. Best app on the Mac to live stream with, unless you enjoy fiddling with OBS preferences. 😆 (which some people do!)</p>\n",
+				"content_text": "This is your periodic reminder that if you're on a Mac and you want to live stream, but OBS has frustrated you, check out [Ecamm Live](https://www.ecamm.com/mac/ecammlive/?fp_ref=ichris). Best app on the Mac to live stream with, unless you enjoy fiddling with OBS preferences. 😆 (which some people do!)\n",
+				"date_published": "2024-10-11T12:17:19-06:00",
+				"url": "https://microblog.chrisenns.com/2024/10/11/this-is-your.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/10/11/its-going-to.html",
+				
+				"content_html": "<p>&ldquo;&ldquo;It&rsquo;s going to be a glorious future,&rdquo; Musk said, albeit not one that applies to families or groups of three or more.&rdquo;&quot; <a href=\"https://arstechnica.com/cars/2024/10/elon-musk-makes-bold-claims-about-tesla-robotaxi-in-hollywood-backlot/\">🎯</a></p>\n",
+				"content_text": "\"\"It's going to be a glorious future,\" Musk said, albeit not one that applies to families or groups of three or more.\"\" [🎯](https://arstechnica.com/cars/2024/10/elon-musk-makes-bold-claims-about-tesla-robotaxi-in-hollywood-backlot/)\n",
+				"date_published": "2024-10-11T10:40:12-06:00",
+				"url": "https://microblog.chrisenns.com/2024/10/11/its-going-to.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2024/10/11/its-the-time.html",
+				
+				"content_html": "<p>It&rsquo;s the time of year when the sound of the birds flying overhead on their journey south can be loud enough that I hear them with my headphones on while editing a podcast. #WinterIsComing</p>\n",
+				"content_text": "It's the time of year when the sound of the birds flying overhead on their journey south can be loud enough that I hear them with my headphones on while editing a podcast. #WinterIsComing\n",
+				"date_published": "2024-10-11T10:33:42-06:00",
+				"url": "https://microblog.chrisenns.com/2024/10/11/its-the-time.html"
+			},
+			{
 				"id": "http://ichris.micro.blog/2024/10/11/if-anyone-needs.html",
 				
 				"content_html": "<p>If anyone needs an Apple SuperDrive, I&rsquo;ve got one in my drawer in my office. I assume they&rsquo;ll be collectable items <a href=\"https://www.macrumors.com/2024/10/11/apple-quietly-discontinues-16-year-old-accessory/\">now that they&rsquo;re discontinued and out of stock</a>? 😆</p>\n",
