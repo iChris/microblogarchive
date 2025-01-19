@@ -7,6 +7,118 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2025/01/19/somehow-it-was-even-colder.html",
+				
+				"content_html": "<p>Somehow it was even colder in the rink today.</p>\n<p>I won’t miss the cold, but I will miss being able to pat my kid on the head as they skate by.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Somehow it was even colder in the rink today. \n\nI won’t miss the cold, but I will miss being able to pat my kid on the head as they skate by. \n\n<img src=\"uploads/2025/41f240c00c.jpg\" width=\"600\" height=\"461\" alt=\"Hockey players on an indoor ice rink are engaged in a game while a spectator watches from behind a glass barrier.\">\n",
+				"date_published": "2025-01-19T13:05:02-06:00",
+				"url": "https://microblog.chrisenns.com/2025/01/19/somehow-it-was-even-colder.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2025/01/18/its-a-freezing-c-outsidewhat.html",
+				
+				"content_html": "<p>It’s a freezing -31C outside—what better day to be in a natural ice hockey rink all day? 🥶</p>\n",
+				"content_text": "It’s a freezing -31C outside—what better day to be in a natural ice hockey rink all day? 🥶 \n",
+				"date_published": "2025-01-18T13:01:05-06:00",
+				"url": "https://microblog.chrisenns.com/2025/01/18/its-a-freezing-c-outsidewhat.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2025/01/18/my-kid-is-playing-with.html",
+				
+				"content_html": "<p>My kid is playing with Apple’s Image Playground app on the Mac Mini and came up with this pretty good version of me if I’d pursued my dream to be a farmer. 😂</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "My kid is playing with Apple’s Image Playground app on the Mac Mini and came up with this pretty good version of me if I’d pursued my dream to be a farmer. 😂 \n\n<img src=\"uploads/2025/ea68a7d1b6.jpg\" width=\"600\" height=\"600\" alt=\"A smiling animated character with a beard and cap stands in front of a scenic outdoor background.\">\n",
+				"date_published": "2025-01-18T10:09:16-06:00",
+				"url": "https://microblog.chrisenns.com/2025/01/18/my-kid-is-playing-with.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2025/01/18/relaxing-morning-with-a-piece.html",
+				
+				"content_html": "<p>Relaxing morning with a piece of toast, coffee, and a super needy, teething dog.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Relaxing morning with a piece of toast, coffee, and a super needy, teething dog. \n\n<img src=\"uploads/2025/f29717fbdd.jpg\" width=\"450\" height=\"600\" alt=\"A fluffy dog is playfully biting onto a chew toy with its mouth open.\">\n",
+				"date_published": "2025-01-18T09:04:28-06:00",
+				"url": "https://microblog.chrisenns.com/2025/01/18/relaxing-morning-with-a-piece.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2025/01/17/hold-me-in-your-thoughts.html",
+				
+				"content_html": "<p>Hold me in your thoughts tonight: I have to go to Martensville.</p>\n",
+				"content_text": "Hold me in your thoughts tonight: I have to go to Martensville. \n",
+				"date_published": "2025-01-17T18:23:11-06:00",
+				"url": "https://microblog.chrisenns.com/2025/01/17/hold-me-in-your-thoughts.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2025/01/17/overthinking-myself-into-a-corner.html",
+				
+				"content_html": "<p>Overthinking myself into a corner is still my vibe for 2025. At least I think it is? Wait—what if it isn&rsquo;t? Oh shoot. Have I already wasted the first 2 weeks of the year?</p>\n",
+				"content_text": "Overthinking myself into a corner is still my vibe for 2025. At least I think it is? Wait—what if it isn't? Oh shoot. Have I already wasted the first 2 weeks of the year?\n",
+				"date_published": "2025-01-17T16:06:27-06:00",
+				"url": "https://microblog.chrisenns.com/2025/01/17/overthinking-myself-into-a-corner.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2025/01/17/i-think-itll-take-years.html",
+				
+				"content_html": "<p>I think it&rsquo;ll take 5+ years of near top tier games on the Mac before I will genuinely believe that this is the year of gaming on the Mac - <a href=\"https://appleinsider.com/articles/25/01/16/game-porting-toolkit-2-exits-beta-to-help-developers-move-to-macos\">but this kind of tool from Apple certainly helps move that along</a>.</p>\n",
+				"content_text": "I think it'll take 5+ years of near top tier games on the Mac before I will genuinely believe that this is the year of gaming on the Mac - [but this kind of tool from Apple certainly helps move that along](https://appleinsider.com/articles/25/01/16/game-porting-toolkit-2-exits-beta-to-help-developers-move-to-macos).\n",
+				"date_published": "2025-01-17T14:05:17-06:00",
+				"url": "https://microblog.chrisenns.com/2025/01/17/i-think-itll-take-years.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2025/01/17/i-really-dont-need-yet.html",
+				
+				"content_html": "<p>I really don&rsquo;t need yet another blog or CMS, but the folks behind Good Enough have built a lovely little blogging engine in <a href=\"https://lemonpodcasting.pika.page/posts/hello-more-world\">Pika</a> that you should check out if you&rsquo;re needing a blog home without a benevolent dictator at the helm.</p>\n",
+				"content_text": "I really don't need yet another blog or CMS, but the folks behind Good Enough have built a lovely little blogging engine in [Pika](https://lemonpodcasting.pika.page/posts/hello-more-world) that you should check out if you're needing a blog home without a benevolent dictator at the helm.\n",
+				"date_published": "2025-01-17T09:32:48-06:00",
+				"url": "https://microblog.chrisenns.com/2025/01/17/i-really-dont-need-yet.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2025/01/17/video-games-my-kids-are.html",
+				
+				"content_html": "<p>Video games my kids are playing these days: Brawl Stars, Fortnite, Marvel Rivels, Balatro, Valorant, Pavlov.</p>\n<p>Roblox used to be in the mix, but they lost access for reasons. 😊</p>\n",
+				"content_text": "Video games my kids are playing these days: Brawl Stars, Fortnite, Marvel Rivels, Balatro, Valorant, Pavlov. \n\nRoblox used to be in the mix, but they lost access for reasons. 😊\n",
+				"date_published": "2025-01-17T08:21:50-06:00",
+				"url": "https://microblog.chrisenns.com/2025/01/17/video-games-my-kids-are.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2025/01/16/ive-found-the-key-to.html",
+				
+				"content_html": "<p>I&rsquo;ve found the key to running a successful business—particularly as a solo entrepreneur—anytime business is slow, make a schedule with your family of how you&rsquo;re going to help out more with your free time.</p>\n<p>It brings new and former clients out of the woodwork like magic!</p>\n",
+				"content_text": "I've found the key to running a successful business—particularly as a solo entrepreneur—anytime business is slow, make a schedule with your family of how you're going to help out more with your free time.\n\nIt brings new and former clients out of the woodwork like magic!\n",
+				"date_published": "2025-01-16T16:45:24-06:00",
+				"url": "https://microblog.chrisenns.com/2025/01/16/ive-found-the-key-to.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2025/01/16/hang-out-with-tim-and.html",
+				
+				"content_html": "<p>Hang out with Tim and I around 1:45pm CST / 2:45pm EST as he joins me to ask questions about setting up a new podcast. Join us on <a href=\"https://youtube.com/live/nhZgp-vUWlw\">YouTube</a> or <a href=\"https://www.twitch.tv/lemonpodcasting\">Twitch</a> today.</p>\n",
+				"content_text": "Hang out with Tim and I around 1:45pm CST / 2:45pm EST as he joins me to ask questions about setting up a new podcast. Join us on [YouTube](https://youtube.com/live/nhZgp-vUWlw) or [Twitch](https://www.twitch.tv/lemonpodcasting) today.\n",
+				"date_published": "2025-01-16T10:30:31-06:00",
+				"url": "https://microblog.chrisenns.com/2025/01/16/hang-out-with-tim-and.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2025/01/16/based-off-this-teaser-trailer.html",
+				
+				"content_html": "<p>Based off this <a href=\"https://youtu.be/itpcsQQvgAQ?si=Oy1cpDK_lrKTNgBC\">teaser trailer</a>, I’m glad it seems like Nintendo decided to do more of the same, just upgraded everything for the Switch 2.</p>\n",
+				"content_text": "Based off this [teaser trailer](https://youtu.be/itpcsQQvgAQ?si=Oy1cpDK_lrKTNgBC), I’m glad it seems like Nintendo decided to do more of the same, just upgraded everything for the Switch 2. \n",
+				"date_published": "2025-01-16T08:20:58-06:00",
+				"url": "https://microblog.chrisenns.com/2025/01/16/based-off-this-teaser-trailer.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2025/01/15/oh-look-theres-more-to.html",
+				
+				"content_html": "<p>Oh look&hellip; <a href=\"https://heatherburns.tech/2025/01/12/another-day-of-stochastic-harassment-for-old-times-sake/\">there&rsquo;s more to yet another Matt Mullenweg behaving like a giant man-baby story</a>. I am so surprised.</p>\n",
+				"content_text": "Oh look... [there's more to yet another Matt Mullenweg behaving like a giant man-baby story](https://heatherburns.tech/2025/01/12/another-day-of-stochastic-harassment-for-old-times-sake/). I am so surprised.\n",
+				"date_published": "2025-01-15T12:53:41-06:00",
+				"url": "https://microblog.chrisenns.com/2025/01/15/oh-look-theres-more-to.html"
+			},
+			{
+				"id": "http://ichris.micro.blog/2025/01/15/i-dont-think-copilot-is.html",
+				
+				"content_html": "<p>I don&rsquo;t think CoPilot is ok. (This was the suggestion in a fairly empty text document.)</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I don't think CoPilot is ok. (This was the suggestion in a fairly empty text document.)\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2025/03bf802657.png\" width=\"600\" height=\"197\" alt=\"A screenshot of VS Code with CoPilot’s suggestion being a full screen of “ I’m not sure what I’m feeling. I’m not sure what I’m thinking. I’m not sure what I’m saying. I’m not sure what I’m doing.” over and over and over.\">\n",
+				"date_published": "2025-01-15T09:42:28-06:00",
+				"url": "https://microblog.chrisenns.com/2025/01/15/i-dont-think-copilot-is.html"
+			},
+			{
 				"id": "http://ichris.micro.blog/2025/01/14/i-kind-of-wish-tiktok.html",
 				
 				"content_html": "<p>I kind of wish TikTok would publish USA user numbers vs the rest of the world and say&hellip; &ldquo;meh - we&rsquo;re actually going to be fine without you&rdquo; 😆</p>\n",
@@ -34,7 +146,7 @@
 				"id": "http://ichris.micro.blog/2025/01/13/bluesky-has-finally-arrived-switch.html",
 				
 				"content_html": "<p>Bluesky has finally arrived: &ldquo;Switch 2&rdquo; is trending. 😆</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Bluesky has finally arrived: \"Switch 2\" is trending. 😆\n\n\n\n<img src=\"uploads/2025/4c0eb6cc9a.png\" width=\"600\" height=\"442\" alt=\"Screenshot of Bluesky’s tiny trending tab showing Switch 2 as one of the topics.\">\n",
+				"content_text": "Bluesky has finally arrived: \"Switch 2\" is trending. 😆\n\n\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2025/4c0eb6cc9a.png\" width=\"600\" height=\"442\" alt=\"Screenshot of Bluesky’s tiny trending tab showing Switch 2 as one of the topics.\">\n",
 				"date_published": "2025-01-13T10:35:56-06:00",
 				"url": "https://microblog.chrisenns.com/2025/01/13/bluesky-has-finally-arrived-switch.html"
 			},
