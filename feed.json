@@ -7,6 +7,132 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2025/06/05/if-youre-seeing-this-im.html",
+				
+				"content_html": "<p>If you&rsquo;re seeing this, I&rsquo;m live with Tim chatting about what we&rsquo;ve been up to lately over on Twitch. <a href=\"https://www.twitch.tv/lemoncasting\">www.twitch.tv/lemoncast&hellip;</a></p>\n",
+				"content_text": "If you're seeing this, I'm live with Tim chatting about what we've been up to lately over on Twitch. [www.twitch.tv/lemoncast...](https://www.twitch.tv/lemoncasting)\n",
+				"date_published": "2025-06-05T13:53:46-06:00",
+				"url": "https://microblog.chrisenns.com/2025/06/05/if-youre-seeing-this-im.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2025/06/05/new-blog-post-dictating-into.html",
+				
+				"content_html": "<p>New blog post: <a href=\"https://chrisenns.com/2025/06/dictating-into-apple-notes-to-ghost-to-a-blog-post/\">Dictating into Apple Notes to Ghost to a Blog Post</a></p>\n",
+				"content_text": "New blog post: [Dictating into Apple Notes to Ghost to a Blog Post](https://chrisenns.com/2025/06/dictating-into-apple-notes-to-ghost-to-a-blog-post/)\n",
+				"date_published": "2025-06-05T09:49:09-06:00",
+				"url": "https://microblog.chrisenns.com/2025/06/05/new-blog-post-dictating-into.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2025/06/05/explaining-to-neville-what-drivein.html",
+				
+				"content_html": "<p>Explaining to Neville what drive-in movies are. He got sad that he never got to experience one.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Explaining to Neville what drive-in movies are. He got sad that he never got to experience one. \n\n<img src=\"uploads/2025/dd0ee6c159.jpg\" width=\"450\" height=\"600\" alt=\"A fluffy dog with a blue leash sits on a grassy hill, overlooking a landscape with fields and distant cars.\">\n",
+				"date_published": "2025-06-05T09:04:32-06:00",
+				"url": "https://microblog.chrisenns.com/2025/06/05/explaining-to-neville-what-drivein.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2025/06/04/at-the-rink-and-resisted.html",
+				
+				"content_html": "<p>At the rink and resisted getting fries. Please mock me accordingly for my restraint.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "At the rink and resisted getting fries. Please mock me accordingly for my restraint. \n\n<img src=\"uploads/2025/811ad329d0.jpg\" width=\"554\" height=\"600\" alt=\"People are playing hockey in an indoor ice rink, wearing predominantly pink jerseys.\">\n",
+				"date_published": "2025-06-04T17:47:10-06:00",
+				"url": "https://microblog.chrisenns.com/2025/06/04/at-the-rink-and-resisted.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2025/06/04/new-blog-post-appletv-gaming.html",
+				
+				"content_html": "<p>New blog post: <a href=\"https://chrisenns.com/2025/06/appletv-gaming-hardware/\">AppleTV Gaming Hardware</a></p>\n",
+				"content_text": "New blog post: [AppleTV Gaming Hardware](https://chrisenns.com/2025/06/appletv-gaming-hardware/)\n",
+				"date_published": "2025-06-04T11:03:32-06:00",
+				"url": "https://microblog.chrisenns.com/2025/06/04/new-blog-post-appletv-gaming.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2025/06/04/new-blog-post-community-building.html",
+				
+				"content_html": "<p>New blog post: <a href=\"https://chrisenns.com/2025/06/community-building-with-twitch-and-discord/\">Community Building with Twitch and Discord</a></p>\n",
+				"content_text": "New blog post: [Community Building with Twitch and Discord](https://chrisenns.com/2025/06/community-building-with-twitch-and-discord/)\n",
+				"date_published": "2025-06-04T09:55:11-06:00",
+				"url": "https://microblog.chrisenns.com/2025/06/04/new-blog-post-community-building.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2025/06/04/apple-notes-rumored-to-get.html",
+				
+				"content_html": "<p><a href=\"https://www.macrumors.com/2025/06/04/apple-notes-rumored-markdown-support-ios-26/\">Apple Notes rumored to get Markdown support</a> - I was just reevaluating using Notes for writing and this was a major stopping point for me. Would be interesting to see Apple add a power user feature like Markdown to Notes.</p>\n",
+				"content_text": "[Apple Notes rumored to get Markdown support](https://www.macrumors.com/2025/06/04/apple-notes-rumored-markdown-support-ios-26/) - I was just reevaluating using Notes for writing and this was a major stopping point for me. Would be interesting to see Apple add a power user feature like Markdown to Notes. \n",
+				"date_published": "2025-06-04T07:53:36-06:00",
+				"url": "https://microblog.chrisenns.com/2025/06/04/apple-notes-rumored-to-get.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2025/06/03/weve-got-a-gamepass-trial.html",
+				
+				"content_html": "<p>We&rsquo;ve got a Gamepass trial right now on our Xbox, and I can&rsquo;t recommend <a href=\"https://www.xbox.com/games/hi-fi-rush\">Hi-Fi Rush</a> enough for a fun, musical beat-lite game that doesn&rsquo;t have a ton of puzzles to keep track of so it&rsquo;s easy to drop in and drop out of.</p>\n",
+				"content_text": "We've got a Gamepass trial right now on our Xbox, and I can't recommend [Hi-Fi Rush](https://www.xbox.com/games/hi-fi-rush) enough for a fun, musical beat-lite game that doesn't have a ton of puzzles to keep track of so it's easy to drop in and drop out of. \n",
+				"date_published": "2025-06-03T13:15:17-06:00",
+				"url": "https://microblog.chrisenns.com/2025/06/03/weve-got-a-gamepass-trial.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2025/06/02/figuring-out-that-i-can.html",
+				
+				"content_html": "<p>Figuring out that I can view a Reminders list in columns completely changes how useful the app is for me. I&rsquo;m going to try it out for a week and see how it goes.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Figuring out that I can view a Reminders list in columns completely changes how useful the app is for me. I'm going to try it out for a week and see how it goes. \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2025/3a15922995.png\" width=\"600\" height=\"281\" alt=\"Screenshot of a Reminders list called “Lemon Editing” with columns labelled Monday, Tuesday, Wednesday, etc. Client names are blurred out.\">\n",
+				"date_published": "2025-06-02T16:52:00-06:00",
+				"url": "https://microblog.chrisenns.com/2025/06/02/figuring-out-that-i-can.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2025/06/02/neville-dreams-of-taking-off.html",
+				
+				"content_html": "<p>Neville dreams of taking off on the open highway… chasing motorbikes and birds all day long.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Neville dreams of taking off on the open highway… chasing motorbikes and birds all day long. \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2025/e594af3c01.jpg\" width=\"450\" height=\"600\" alt=\"A dog on a leash gazes into the distance across a grassy field with power lines and a clear blue sky.\">\n",
+				"date_published": "2025-06-02T11:57:48-06:00",
+				"url": "https://microblog.chrisenns.com/2025/06/02/neville-dreams-of-taking-off.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2025/06/02/i-need-to-do-my.html",
+				
+				"content_html": "<p>I need to do my monthly invoicing so naturally I&rsquo;m trying out different methods of tracking to do&rsquo;s in Notion.</p>\n",
+				"content_text": "I need to do my monthly invoicing so naturally I'm trying out different methods of tracking to do's in Notion.\n",
+				"date_published": "2025-06-02T11:07:11-06:00",
+				"url": "https://microblog.chrisenns.com/2025/06/02/i-need-to-do-my.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2025/06/01/watching-the-andor-finale-finally.html",
+				
+				"content_html": "<p>Watching the Andor finale. Finally. I’ve told my family to expect a Rogue One rewatch and then an episode 4-6 rewatch as well. 😝</p>\n",
+				"content_text": "Watching the Andor finale. Finally. I’ve told my family to expect a Rogue One rewatch and then an episode 4-6 rewatch as well. 😝 \n",
+				"date_published": "2025-06-01T16:01:49-06:00",
+				"url": "https://microblog.chrisenns.com/2025/06/01/watching-the-andor-finale-finally.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2025/05/31/bono-stories-of-surrender.html",
+				"title": "Bono: Stories of Surrender, 2025 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/1068/2025/1318239-bono-stories-of-surrender-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday May 31, 2025.</p>\n",
+				"date_published": "2025-05-31T23:10:44-06:00",
+				"url": "https://microblog.chrisenns.com/2025/05/31/bono-stories-of-surrender.html",
+				"tags": ["Longform"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2025/05/31/mission-impossible-the-final-reckoning.html",
+				"title": "Mission: Impossible – The Final Reckoning, 2025 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/1068/2025/503403-mission-impossible-the-final-reckoning-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday May 31, 2025.</p>\n",
+				"date_published": "2025-05-31T20:56:51-06:00",
+				"url": "https://microblog.chrisenns.com/2025/05/31/mission-impossible-the-final-reckoning.html",
+				"tags": ["Longform"]
+			},
+			{
 				"id": "http://ichris.micro.blog/2025/05/31/ive-never-listened-to-a.html",
 				
 				"content_html": "<p>I’ve never listened to a full episode of Joe Rogan’s podcast. But he somehow got 3 hours of <a href=\"https://pca.st/episode/7902d5f4-ffae-4dc5-a108-0920e3a9d67b\">Bono’s time so now I might have to?</a>. 😂</p>\n",
@@ -28,7 +154,7 @@
 				"id": "http://ichris.micro.blog/2025/05/30/mission-impossible-dead-reckoning.html",
 				"title": "Mission: Impossible – Dead Reckoning, 2023 - ★★★½",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"uploads/2025/503402-mission-impossible-dead-reckoning-part-one-0-600-0-900-crop.jpg\"/></p> <p>Watched on Friday May 30, 2025.</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/1068/2025/503402-mission-impossible-dead-reckoning-part-one-0-600-0-900-crop.jpg\"/></p> <p>Watched on Friday May 30, 2025.</p>\n",
 				"date_published": "2025-05-30T22:59:10-06:00",
 				"url": "https://microblog.chrisenns.com/2025/05/30/mission-impossible-dead-reckoning.html",
 				"tags": ["Longform"]
