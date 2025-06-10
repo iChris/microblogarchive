@@ -7,6 +7,150 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2025/06/10/the-fact-that-us-websites.html",
+				
+				"content_html": "<p>The fact that <a href=\"https://www.u2.com/404\">U2&rsquo;s website&rsquo;s 404 page</a> is not just an embed of &ldquo;I Still Haven&rsquo;t Found What I&rsquo;m Looking For&rdquo; is a shame. 😆</p>\n",
+				"content_text": "The fact that [U2's website's 404 page](https://www.u2.com/404) is not just an embed of \"I Still Haven't Found What I'm Looking For\" is a shame. 😆\n",
+				"date_published": "2025-06-10T14:00:17-06:00",
+				"url": "https://microblog.chrisenns.com/2025/06/10/the-fact-that-us-websites.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2025/06/10/welp-its-definitely-time-to.html",
+				
+				"content_html": "<p>Welp it&rsquo;s definitely <a href=\"https://www.macrumors.com/2025/06/09/intel-macs-no-more-updates/\">time to sell my 16&quot; MacBook Pro</a>.</p>\n",
+				"content_text": "Welp it's definitely [time to sell my 16\" MacBook Pro](https://www.macrumors.com/2025/06/09/intel-macs-no-more-updates/). \n",
+				"date_published": "2025-06-10T12:10:06-06:00",
+				"url": "https://microblog.chrisenns.com/2025/06/10/welp-its-definitely-time-to.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2025/06/10/i-wonder-if-anyone-has.html",
+				
+				"content_html": "<p><!-- raw HTML omitted --> I wonder if anyone has any thoughts on Apple&rsquo;s announcements yesterday?</p>\n",
+				"content_text": "<Pours a smoothie and opens the internet> I wonder if anyone has any thoughts on Apple's announcements yesterday?\n",
+				"date_published": "2025-06-10T12:08:05-06:00",
+				"url": "https://microblog.chrisenns.com/2025/06/10/i-wonder-if-anyone-has.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2025/06/10/id-like-to-water-the.html",
+				
+				"content_html": "<p>I&rsquo;d like to water the lawn so that the grass isn&rsquo;t a desert but if I water the lawn the dog tries to drink from the sprinkler with his whole face and then roll around in the mud and then I have to spray him down so then he&rsquo;s a wet stinky dog and I wonder why we have anything at all?</p>\n",
+				"content_text": "I'd like to water the lawn so that the grass isn't a desert but if I water the lawn the dog tries to drink from the sprinkler with his whole face and then roll around in the mud and then I have to spray him down so then he's a wet stinky dog and I wonder why we have anything at all?\n",
+				"date_published": "2025-06-10T11:32:53-06:00",
+				"url": "https://microblog.chrisenns.com/2025/06/10/id-like-to-water-the.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2025/06/09/ah-its-like-gruber-speculated.html",
+				
+				"content_html": "<p>Ah it&rsquo;s like Gruber speculated: <a href=\"https://www.macrumors.com/2025/06/09/four-features-coming-to-apple-reminders-and-notes/\">Notes is gaining the ability to export to Markdown</a>, instead of just PDF. Nice!</p>\n",
+				"content_text": "Ah it's like Gruber speculated: [Notes is gaining the ability to export to Markdown](https://www.macrumors.com/2025/06/09/four-features-coming-to-apple-reminders-and-notes/), instead of just PDF. Nice!\n",
+				"date_published": "2025-06-09T14:59:05-06:00",
+				"url": "https://microblog.chrisenns.com/2025/06/09/ah-its-like-gruber-speculated.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2025/06/09/whew-my-apple-watch-is.html",
+				
+				"content_html": "<p>Whew. My Apple Watch 6 is <a href=\"https://www.macrumors.com/2025/06/09/watchos-26-compatible-apple-watch-models/\">at the bottom of the list of what watchOS 26 will support</a>. So 6 years of support for a Watch I guess?</p>\n",
+				"content_text": "Whew. My Apple Watch 6 is [at the bottom of the list of what watchOS 26 will support](https://www.macrumors.com/2025/06/09/watchos-26-compatible-apple-watch-models/). So 6 years of support for a Watch I guess?\n",
+				"date_published": "2025-06-09T13:12:36-06:00",
+				"url": "https://microblog.chrisenns.com/2025/06/09/whew-my-apple-watch-is.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2025/06/09/new-blog-post-my-random.html",
+				
+				"content_html": "<p>New blog post: <a href=\"https://chrisenns.com/2025/06/my-random-notes-on-wwdc-2025-keynote/\">My Random Notes on WWDC 2025 Keynote</a> #WWDC25 </p>\n",
+				"content_text": "New blog post: [My Random Notes on WWDC 2025 Keynote](https://chrisenns.com/2025/06/my-random-notes-on-wwdc-2025-keynote/) #WWDC25 \n",
+				"date_published": "2025-06-09T12:51:40-06:00",
+				"url": "https://microblog.chrisenns.com/2025/06/09/new-blog-post-my-random.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2025/06/09/apple-taking-a-direct-shot.html",
+				
+				"content_html": "<p>Apple taking a direct shot at Raycast with Spotlight updates? I&rsquo;m here for it, but I wish they&rsquo;d just buy Raycast and integrate it directly into macOS. #WWDC25</p>\n",
+				"content_text": "Apple taking a direct shot at Raycast with Spotlight updates? I'm here for it, but I wish they'd just buy Raycast and integrate it directly into macOS. #WWDC25\n",
+				"date_published": "2025-06-09T12:04:35-06:00",
+				"url": "https://microblog.chrisenns.com/2025/06/09/apple-taking-a-direct-shot.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2025/06/09/take-a-shot-every-time.html",
+				
+				"content_html": "<p>Take a shot every time you hear &ldquo;liquid glass&rdquo; and you won&rsquo;t make it past the first 20 minutes. #WWDC25</p>\n",
+				"content_text": "Take a shot every time you hear \"liquid glass\" and you won't make it past the first 20 minutes. #WWDC25\n",
+				"date_published": "2025-06-09T11:15:24-06:00",
+				"url": "https://microblog.chrisenns.com/2025/06/09/take-a-shot-every-time.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2025/06/09/when-people-ask-why-i.html",
+				
+				"content_html": "<p>When people ask why I play #Fortnite, <a href=\"https://www.twitch.tv/videos/2481485833\">this is the reason why</a>: So I can do Big Hero 6 fa-la-la-la-la with The Mandalorian and then sing &ldquo;Get Schwifty&rdquo; together. 😆🕹️</p>\n",
+				"content_text": "When people ask why I play #Fortnite, [this is the reason why](https://www.twitch.tv/videos/2481485833): So I can do Big Hero 6 fa-la-la-la-la with The Mandalorian and then sing \"Get Schwifty\" together. 😆🕹️\n",
+				"date_published": "2025-06-09T10:44:02-06:00",
+				"url": "https://microblog.chrisenns.com/2025/06/09/when-people-ask-why-i.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2025/06/09/am-i-allowed-to-watch.html",
+				
+				"content_html": "<p>Am I allowed to watch and stream #WWDC&rsquo;s keynote today or does Twitch block those kinds of things? Not that anyone really needs my face blabbering on in the corner while it&rsquo;s happening.</p>\n<p>I&rsquo;m sure back in the day Apple legal was all over that, but maybe not anymore?</p>\n",
+				"content_text": "Am I allowed to watch and stream #WWDC's keynote today or does Twitch block those kinds of things? Not that anyone really needs my face blabbering on in the corner while it's happening. \n\nI'm sure back in the day Apple legal was all over that, but maybe not anymore?\n",
+				"date_published": "2025-06-09T09:46:05-06:00",
+				"url": "https://microblog.chrisenns.com/2025/06/09/am-i-allowed-to-watch.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2025/06/09/you-can-use-basicappleguys-bingo.html",
+				
+				"content_html": "<p>You can use <a href=\"https://basicappleguy.com/basicappleblog/wwdc25-bingo\">BasicAppleGuy&rsquo;s Bingo board to play along with WWDC</a>, but this would be the biggest <em>finally</em> if it happened:</p>\n<blockquote>\n<p>If Apple announces an increase to its base 5GB iCloud storage (even if that change comes in the form of 5GB per device), then an instant BINGO is declared.</p>\n</blockquote>\n",
+				"content_text": "You can use [BasicAppleGuy's Bingo board to play along with WWDC](https://basicappleguy.com/basicappleblog/wwdc25-bingo), but this would be the biggest _finally_ if it happened:\n\n> If Apple announces an increase to its base 5GB iCloud storage (even if that change comes in the form of 5GB per device), then an instant BINGO is declared.\n",
+				"date_published": "2025-06-09T09:31:00-06:00",
+				"url": "https://microblog.chrisenns.com/2025/06/09/you-can-use-basicappleguys-bingo.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2025/06/09/i-like-reading-all-the.html",
+				
+				"content_html": "<p>I like reading all the various WWDC predictions or wish lists. I wonder if Apple tracks any of these down at all? <a href=\"https://blog.ultranurd.net/2025/06/08/wwdc-2025-wishlist/\">I agree with Nick that Photos needs some attention for it to work better for families.</a></p>\n",
+				"content_text": "I like reading all the various WWDC predictions or wish lists. I wonder if Apple tracks any of these down at all? [I agree with Nick that Photos needs some attention for it to work better for families.](https://blog.ultranurd.net/2025/06/08/wwdc-2025-wishlist/)\n",
+				"date_published": "2025-06-09T07:59:26-06:00",
+				"url": "https://microblog.chrisenns.com/2025/06/09/i-like-reading-all-the.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2025/06/08/ive-heard-nothing-about-pixars.html",
+				
+				"content_html": "<p>I’ve heard nothing about <a href=\"https://disneyplus.com/browse/entity-2b4c4455-0b40-4a21-83ec-8a647aa7b32b\">Pixar’s Win or Lose</a>, an 8 episode series on Disney+, other than seeing it referenced in a random TIkTok. It’s a bit like Inside Out, but focusing on a different character’s experience, emotions, and perspective of the same event each episode.</p>\n",
+				"content_text": "I’ve heard nothing about [Pixar’s Win or Lose](https://disneyplus.com/browse/entity-2b4c4455-0b40-4a21-83ec-8a647aa7b32b), an 8 episode series on Disney+, other than seeing it referenced in a random TIkTok. It’s a bit like Inside Out, but focusing on a different character’s experience, emotions, and perspective of the same event each episode. \n",
+				"date_published": "2025-06-08T08:52:42-06:00",
+				"url": "https://microblog.chrisenns.com/2025/06/08/ive-heard-nothing-about-pixars.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2025/06/08/fountain-of-youth.html",
+				"title": "Fountain of Youth, 2025 - ★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/1068/2025/989651-fountain-of-youth-2025-0-600-0-900-crop.jpg\"/></p> <p>Based on the cast and director, you’d think this would be a great movie. For me it was ruined by the dialogue… and I slept through 1/3 of it. 😝</p>\n",
+				"date_published": "2025-06-08T08:11:14-06:00",
+				"url": "https://microblog.chrisenns.com/2025/06/08/fountain-of-youth.html",
+				"tags": ["Longform"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2025/06/05/oh-from-my-kid-playing.html",
+				
+				"content_html": "<p>OH from my kid playing Minecraft online with friends: &ldquo;Google AI said it was so I&rsquo;ll take it&rsquo;s word for it.&rdquo; 😆</p>\n",
+				"content_text": "OH from my kid playing Minecraft online with friends: \"Google AI said it was so I'll take it's word for it.\" 😆\n",
+				"date_published": "2025-06-05T15:52:11-06:00",
+				"url": "https://microblog.chrisenns.com/2025/06/05/oh-from-my-kid-playing.html",
+				"tags": ["Microposts"]
+			},
+			{
 				"id": "http://ichris.micro.blog/2025/06/05/if-youre-seeing-this-im.html",
 				
 				"content_html": "<p>If you&rsquo;re seeing this, I&rsquo;m live with Tim chatting about what we&rsquo;ve been up to lately over on Twitch. <a href=\"https://www.twitch.tv/lemoncasting\">www.twitch.tv/lemoncast&hellip;</a></p>\n",
@@ -28,7 +172,7 @@
 				"id": "http://ichris.micro.blog/2025/06/05/explaining-to-neville-what-drivein.html",
 				
 				"content_html": "<p>Explaining to Neville what drive-in movies are. He got sad that he never got to experience one.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Explaining to Neville what drive-in movies are. He got sad that he never got to experience one. \n\n<img src=\"uploads/2025/dd0ee6c159.jpg\" width=\"450\" height=\"600\" alt=\"A fluffy dog with a blue leash sits on a grassy hill, overlooking a landscape with fields and distant cars.\">\n",
+				"content_text": "Explaining to Neville what drive-in movies are. He got sad that he never got to experience one. \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2025/dd0ee6c159.jpg\" width=\"450\" height=\"600\" alt=\"A fluffy dog with a blue leash sits on a grassy hill, overlooking a landscape with fields and distant cars.\">\n",
 				"date_published": "2025-06-05T09:04:32-06:00",
 				"url": "https://microblog.chrisenns.com/2025/06/05/explaining-to-neville-what-drivein.html",
 				"tags": ["Microposts"]
@@ -37,7 +181,7 @@
 				"id": "http://ichris.micro.blog/2025/06/04/at-the-rink-and-resisted.html",
 				
 				"content_html": "<p>At the rink and resisted getting fries. Please mock me accordingly for my restraint.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "At the rink and resisted getting fries. Please mock me accordingly for my restraint. \n\n<img src=\"uploads/2025/811ad329d0.jpg\" width=\"554\" height=\"600\" alt=\"People are playing hockey in an indoor ice rink, wearing predominantly pink jerseys.\">\n",
+				"content_text": "At the rink and resisted getting fries. Please mock me accordingly for my restraint. \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2025/811ad329d0.jpg\" width=\"554\" height=\"600\" alt=\"People are playing hockey in an indoor ice rink, wearing predominantly pink jerseys.\">\n",
 				"date_published": "2025-06-04T17:47:10-06:00",
 				"url": "https://microblog.chrisenns.com/2025/06/04/at-the-rink-and-resisted.html",
 				"tags": ["Microposts"]
