@@ -7,6 +7,60 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2025/06/28/ive-been-carrying-a-lot.html",
+				
+				"content_html": "<p>I’ve been carrying a lot of watermelons under the same armpit.</p>\n",
+				"content_text": "I’ve been carrying a lot of watermelons under the same armpit. \n",
+				"date_published": "2025-06-28T14:32:47-06:00",
+				"url": "https://microblog.chrisenns.com/2025/06/28/ive-been-carrying-a-lot.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2025/06/25/a-quick-riverside-feature-request.html",
+				
+				"content_html": "<p>A quick Riverside feature request: If Chris Coyier says the phrase &ldquo;CSS tricks&rdquo; in any form, automatically insert LeoWhistlingAndPointingAtTV.gif.</p>\n",
+				"content_text": "A quick Riverside feature request: If Chris Coyier says the phrase \"CSS tricks\" in any form, automatically insert LeoWhistlingAndPointingAtTV.gif. \n",
+				"date_published": "2025-06-25T14:52:12-06:00",
+				"url": "https://microblog.chrisenns.com/2025/06/25/a-quick-riverside-feature-request.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2025/06/24/new-blog-post-threads-share.html",
+				
+				"content_html": "<p>New blog post: <a href=\"https://chrisenns.com/2025/06/threads-share-as-image-feature/\">Threads &ldquo;Share as Image&rdquo; Feature</a></p>\n",
+				"content_text": "New blog post: [Threads \"Share as Image\" Feature](https://chrisenns.com/2025/06/threads-share-as-image-feature/)\n",
+				"date_published": "2025-06-24T17:33:35-06:00",
+				"url": "https://microblog.chrisenns.com/2025/06/24/new-blog-post-threads-share.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2025/06/24/the-two-apps-that-bring.html",
+				
+				"content_html": "<p>The two apps that bring my $3,000 Mac Studio to a spinning beachball halt are not Final Cut Studio (4K+ multi-track editor) or Logic Pro (multi-track studio recording software), but Apple&rsquo;s Passwords and Contacts app. 😆</p>\n",
+				"content_text": "The two apps that bring my $3,000 Mac Studio to a spinning beachball halt are not Final Cut Studio (4K+ multi-track editor) or Logic Pro (multi-track studio recording software), but Apple's Passwords and Contacts app. 😆 \n",
+				"date_published": "2025-06-24T17:12:09-06:00",
+				"url": "https://microblog.chrisenns.com/2025/06/24/the-two-apps-that-bring.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2025/06/24/just-a-reminder-to-anyone.html",
+				
+				"content_html": "<p>Just a reminder to anyone registering their kid in Saskatoon minor hockey, registration fees go up at the end of June so save yourself a couple $$ and do it soon.</p>\n",
+				"content_text": "Just a reminder to anyone registering their kid in Saskatoon minor hockey, registration fees go up at the end of June so save yourself a couple $$ and do it soon.\n",
+				"date_published": "2025-06-24T14:51:56-06:00",
+				"url": "https://microblog.chrisenns.com/2025/06/24/just-a-reminder-to-anyone.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2025/06/23/i-just-heard-the-phrase.html",
+				
+				"content_html": "<p>I just heard the phrase, describing a Trump economic advisor or something, as having &ldquo;a thumbless grasp of economic trade&rdquo; and that might just replace &ldquo;he&rsquo;s such a potato&rdquo; as my favorite insult for idiot men who rise way above their pay grade.</p>\n",
+				"content_text": "I just heard the phrase, describing a Trump economic advisor or something, as having \"a thumbless grasp of economic trade\" and that might just replace \"he's such a potato\" as my favorite insult for idiot men who rise way above their pay grade.\n",
+				"date_published": "2025-06-23T10:48:02-06:00",
+				"url": "https://microblog.chrisenns.com/2025/06/23/i-just-heard-the-phrase.html",
+				"tags": ["Microposts"]
+			},
+			{
 				"id": "http://ichris.micro.blog/2025/06/23/podcast-notion-idea-for-someone.html",
 				
 				"content_html": "<p>Podcast / Notion idea for someone to build: Monitor the podcast&rsquo;s RSS feed and when the episode comes out matching the title in Notion, adjust the status to &ldquo;published&rdquo;.</p>\n",
@@ -28,7 +82,7 @@
 				"id": "http://ichris.micro.blog/2025/06/22/hamilton.html",
 				"title": "Hamilton, 2020 - ★★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"uploads/2025/485309-hamilton-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday June 21, 2025.</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/1068/2025/485309-hamilton-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday June 21, 2025.</p>\n",
 				"date_published": "2025-06-22T00:01:34-06:00",
 				"url": "https://microblog.chrisenns.com/2025/06/22/hamilton.html",
 				"tags": ["Longform"]
@@ -46,7 +100,7 @@
 				"id": "http://ichris.micro.blog/2025/06/21/i-went-to-the-downtown.html",
 				
 				"content_html": "<p>I went to the downtown mall for the first time in what feels like a decade to get some clothes for my child’s graduation which doesn’t make sense how that’s happening already? I</p>\n<p>feel like I’m cosplaying as a business person. I usually wear a shirt and pj pants to all my client meetings. 😝</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "I went to the downtown mall for the first time in what feels like a decade to get some clothes for my child’s graduation which doesn’t make sense how that’s happening already? I \n\nfeel like I’m cosplaying as a business person. I usually wear a shirt and pj pants to all my client meetings. 😝\n\n<img src=\"uploads/2025/93739b2867.jpg\" width=\"450\" height=\"600\" alt=\"A person wearing glasses and a gray shirt with a tag attached is looking at the camera.\"><img src=\"uploads/2025/529fdf62f6.jpg\" width=\"450\" height=\"600\" alt=\"A person wearing a white shirt and glasses is holding up a patterned tie with a tag still attached.\">\n",
+				"content_text": "I went to the downtown mall for the first time in what feels like a decade to get some clothes for my child’s graduation which doesn’t make sense how that’s happening already? I \n\nfeel like I’m cosplaying as a business person. I usually wear a shirt and pj pants to all my client meetings. 😝\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2025/93739b2867.jpg\" width=\"450\" height=\"600\" alt=\"A person wearing glasses and a gray shirt with a tag attached is looking at the camera.\"><img src=\"https://cdn.uploads.micro.blog/1068/2025/529fdf62f6.jpg\" width=\"450\" height=\"600\" alt=\"A person wearing a white shirt and glasses is holding up a patterned tie with a tag still attached.\">\n",
 				"date_published": "2025-06-21T15:12:22-06:00",
 				"url": "https://microblog.chrisenns.com/2025/06/21/i-went-to-the-downtown.html",
 				"tags": ["Microposts"]
@@ -55,7 +109,7 @@
 				"id": "http://ichris.micro.blog/2025/06/20/happy-gilmore.html",
 				"title": "Happy Gilmore, 1996 - ★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"uploads/2025/46987-happy-gilmore-0-600-0-900-crop.jpg\"/></p> <p>Watched on Friday June 20, 2025.</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/1068/2025/46987-happy-gilmore-0-600-0-900-crop.jpg\"/></p> <p>Watched on Friday June 20, 2025.</p>\n",
 				"date_published": "2025-06-20T21:09:42-06:00",
 				"url": "https://microblog.chrisenns.com/2025/06/20/happy-gilmore.html",
 				"tags": ["Longform"]
