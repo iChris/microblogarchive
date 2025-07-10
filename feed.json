@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2025/07/10/imposter-syndrome-struggling-with-self.html",
+				
+				"content_html": "<p>Imposter syndrome + struggling with self esteem is hearing someone talk about a thing you think you&rsquo;d be great at, but then having a voice fill your head so fully with &ldquo;Nope! As if! You?!&rdquo;, that you delete the email you were drafting.</p>\n",
+				"content_text": "Imposter syndrome + struggling with self esteem is hearing someone talk about a thing you think you'd be great at, but then having a voice fill your head so fully with \"Nope! As if! You?!\", that you delete the email you were drafting.\n",
+				"date_published": "2025-07-10T10:35:23-06:00",
+				"url": "https://microblog.chrisenns.com/2025/07/10/imposter-syndrome-struggling-with-self.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2025/07/09/new-blog-post-building-a.html",
+				
+				"content_html": "<p>New blog post: <a href=\"https://chrisenns.com/2025/07/building-a-gaming-pc-in-2025-takes-a-community/\">Building a Gaming PC in 2025 Takes a Community</a></p>\n",
+				"content_text": "New blog post: [Building a Gaming PC in 2025 Takes a Community](https://chrisenns.com/2025/07/building-a-gaming-pc-in-2025-takes-a-community/)\n",
+				"date_published": "2025-07-09T11:22:07-06:00",
+				"url": "https://microblog.chrisenns.com/2025/07/09/new-blog-post-building-a.html",
+				"tags": ["Microposts"]
+			},
+			{
 				"id": "http://ichris.micro.blog/2025/07/08/anyone-out-there-using-craft.html",
 				
 				"content_html": "<p>Anyone out there using <a href=\"https://www.craft.do\">Craft</a> for Notion-like documents and tasks?</p>\n",
