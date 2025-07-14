@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2025/07/14/i-have-a-spam-comment.html",
+				
+				"content_html": "<p>I have a spam comment on my Ghost blog. I reported it (to myself) and got an email from Ghost saying &ldquo;This comment will remain visible until you choose to remove it, which can be done directly on the post.&rdquo; but I don&rsquo;t see any option to remove it. (I&rsquo;m logged in.) I&rsquo;m missing something.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I have a spam comment on my Ghost blog. I reported it (to myself) and got an email from Ghost saying \"This comment will remain visible until you choose to remove it, which can be done directly on the post.\" but I don't see any option to remove it. (I'm logged in.) I'm missing something.\n\n<img src=\"uploads/2025/4084315fb5.png\" width=\"600\" height=\"463\" alt=\"Screenshot showing a comment on my Ghost powered blog.\">\n",
+				"date_published": "2025-07-14T09:11:17-06:00",
+				"url": "https://microblog.chrisenns.com/2025/07/14/i-have-a-spam-comment.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2025/07/12/if-you-were-wanting-some.html",
+				
+				"content_html": "<p>If you were wanting some Elgato gear on Prime sales, but missed out due to no stock, <a href=\"https://www.elgato.com\">Elgato&rsquo;s website has the pricing with stock on some items for another day or two</a>. I&rsquo;m going to try out the Stream Deck + XLR dock to see if I like it.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "If you were wanting some Elgato gear on Prime sales, but missed out due to no stock, [Elgato's website has the pricing with stock on some items for another day or two](https://www.elgato.com). I'm going to try out the Stream Deck + XLR dock to see if I like it.\n\n<img src=\"uploads/2025/90cddaa192.png\" width=\"600\" height=\"232\" alt=\"Screenshot of the Elgato Stream Deck + XLR dock hardware promo from Elgato.com\">\n",
+				"date_published": "2025-07-12T11:43:38-06:00",
+				"url": "https://microblog.chrisenns.com/2025/07/12/if-you-were-wanting-some.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2025/07/12/james-acaster-hecklers-welcome.html",
+				"title": "James Acaster: Hecklers Welcome, 2024 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"uploads/2025/1271438-james-acaster-hecklers-welcome-0-600-0-900-crop.jpg\"/></p> <p>Watched on Friday July 11, 2025.</p>\n",
+				"date_published": "2025-07-12T00:00:37-06:00",
+				"url": "https://microblog.chrisenns.com/2025/07/12/james-acaster-hecklers-welcome.html",
+				"tags": ["Longform"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2025/07/11/the-apprentice.html",
+				"title": "The Apprentice, 2024 - ★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"uploads/2025/apprentice-xxlg-0-600-0-900-crop.jpg\"/></p> <p>Watched on Friday July 11, 2025.</p>\n",
+				"date_published": "2025-07-11T21:09:02-06:00",
+				"url": "https://microblog.chrisenns.com/2025/07/11/the-apprentice.html",
+				"tags": ["Longform"]
+			},
+			{
 				"id": "http://ichris.micro.blog/2025/07/11/now-that-dms-on-most.html",
 				
 				"content_html": "<p>Now that DMs on most platforms have AI quick responses, it&rsquo;s pretty easy to just get two bots talking to each other. And on the off chance it&rsquo;s a human scammer, even better!</p>\n<!-- raw HTML omitted -->\n",
