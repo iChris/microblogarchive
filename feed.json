@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2025/08/05/nice-touch-by-microblog-to.html",
+				
+				"content_html": "<p>Nice touch by Micro.blog to offer <a href=\"https://www.manton.org/2025/08/01/microblog-now-free-for-teachers.html\">free blog hosting for teachers and nurses</a> - and not just in the United States.</p>\n",
+				"content_text": "Nice touch by Micro.blog to offer [free blog hosting for teachers and nurses](https://www.manton.org/2025/08/01/microblog-now-free-for-teachers.html) - and not just in the United States. \n",
+				"date_published": "2025-08-05T11:23:12-06:00",
+				"url": "https://microblog.chrisenns.com/2025/08/05/nice-touch-by-microblog-to.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2025/08/04/i-really-dig-this-idea.html",
+				
+				"content_html": "<p>I really dig this idea: <a href=\"https://stephango.com/ramblings\">If you&rsquo;re remote, ramble</a>. Gives people a place to post to a team without feeling like they have to figure out which channel stuff goes in, and people can turn notifications on or off as needed. It wouldn&rsquo;t scale to large groups, but it could? (Via ShopTalk Show Discord)</p>\n",
+				"content_text": "I really dig this idea: [If you're remote, ramble](https://stephango.com/ramblings). Gives people a place to post to a team without feeling like they have to figure out which channel stuff goes in, and people can turn notifications on or off as needed. It wouldn't scale to large groups, but it could? (Via ShopTalk Show Discord)\n",
+				"date_published": "2025-08-04T10:47:35-06:00",
+				"url": "https://microblog.chrisenns.com/2025/08/04/i-really-dig-this-idea.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2025/08/04/updating-my-blog-to-ghost.html",
+				
+				"content_html": "<p>Updating my blog to Ghost v6 without backing anything up because I like to live ~dangerously~ (lazily).</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Updating my blog to Ghost v6 without backing anything up because I like to live ~dangerously~ (lazily).\n\n<img src=\"uploads/2025/f29e8856de.png\" width=\"600\" height=\"407\" alt=\"A website update for chrisenns.com is in progress, with a suggestion to take a coffee break while waiting.\">\n",
+				"date_published": "2025-08-04T10:25:44-06:00",
+				"url": "https://microblog.chrisenns.com/2025/08/04/updating-my-blog-to-ghost.html",
+				"tags": ["Microposts"]
+			},
+			{
 				"id": "http://ichris.micro.blog/2025/08/03/simple-how-to-leave-substack.html",
 				
 				"content_html": "<p>Simple: <a href=\"https://leavesubstack.com/\">How to Leave Substack.</a></p>\n",
