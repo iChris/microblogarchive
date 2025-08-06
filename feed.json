@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2025/08/06/new-blog-post-ghost-v.html",
+				
+				"content_html": "<p>New blog post: <a href=\"https://chrisenns.com/2025/08/ghost-v6/\">Ghost v6</a></p>\n",
+				"content_text": "New blog post: [Ghost v6](https://chrisenns.com/2025/08/ghost-v6/)\n",
+				"date_published": "2025-08-06T12:12:35-06:00",
+				"url": "https://microblog.chrisenns.com/2025/08/06/new-blog-post-ghost-v.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2025/08/05/i-dont-play-much-from.html",
+				
+				"content_html": "<p>I don’t play much from Apple Arcade these days, but I do enjoy <a href=\"https://apple.news/J7BtKrUbSR4-6LK4KjZqPzA\">The Emoji Game</a> on Apple News+ so the bundle is worth it?</p>\n",
+				"content_text": "I don’t play much from Apple Arcade these days, but I do enjoy [The Emoji Game](https://apple.news/J7BtKrUbSR4-6LK4KjZqPzA) on Apple News+ so the bundle is worth it?\n",
+				"date_published": "2025-08-05T19:25:27-06:00",
+				"url": "https://microblog.chrisenns.com/2025/08/05/i-dont-play-much-from.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2025/08/05/im-sure-its-a-coincidence.html",
+				
+				"content_html": "<p>I&rsquo;m sure it&rsquo;s a coincidence that Riverside tries to tack on podcast hosting to their services the same week that a client has a recording be the most out of sync (video to audio) that I&rsquo;ve seen in years&hellip; but it&rsquo;s sure not building a lot of confidence for me with their app.</p>\n",
+				"content_text": "I'm sure it's a coincidence that Riverside tries to tack on podcast hosting to their services the same week that a client has a recording be the most out of sync (video to audio) that I've seen in years... but it's sure not building a lot of confidence for me with their app.\n",
+				"date_published": "2025-08-05T15:16:01-06:00",
+				"url": "https://microblog.chrisenns.com/2025/08/05/im-sure-its-a-coincidence.html",
+				"tags": ["Podcasting","Microposts"]
+			},
+			{
 				"id": "http://ichris.micro.blog/2025/08/05/nice-touch-by-microblog-to.html",
 				
 				"content_html": "<p>Nice touch by Micro.blog to offer <a href=\"https://www.manton.org/2025/08/01/microblog-now-free-for-teachers.html\">free blog hosting for teachers and nurses</a> - and not just in the United States.</p>\n",
@@ -28,7 +55,7 @@
 				"id": "http://ichris.micro.blog/2025/08/04/updating-my-blog-to-ghost.html",
 				
 				"content_html": "<p>Updating my blog to Ghost v6 without backing anything up because I like to live ~dangerously~ (lazily).</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Updating my blog to Ghost v6 without backing anything up because I like to live ~dangerously~ (lazily).\n\n<img src=\"uploads/2025/f29e8856de.png\" width=\"600\" height=\"407\" alt=\"A website update for chrisenns.com is in progress, with a suggestion to take a coffee break while waiting.\">\n",
+				"content_text": "Updating my blog to Ghost v6 without backing anything up because I like to live ~dangerously~ (lazily).\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2025/f29e8856de.png\" width=\"600\" height=\"407\" alt=\"A website update for chrisenns.com is in progress, with a suggestion to take a coffee break while waiting.\">\n",
 				"date_published": "2025-08-04T10:25:44-06:00",
 				"url": "https://microblog.chrisenns.com/2025/08/04/updating-my-blog-to-ghost.html",
 				"tags": ["Microposts"]
@@ -46,7 +73,7 @@
 				"id": "http://ichris.micro.blog/2025/08/02/the-fantastic-four-first-steps.html",
 				"title": "The Fantastic Four: First Steps, 2025 - ★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"uploads/2025/543967-the-fantastic-four-first-steps-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday August 2, 2025.</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/1068/2025/543967-the-fantastic-four-first-steps-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday August 2, 2025.</p>\n",
 				"date_published": "2025-08-02T21:59:46-06:00",
 				"url": "https://microblog.chrisenns.com/2025/08/02/the-fantastic-four-first-steps.html",
 				"tags": ["Longform"]
