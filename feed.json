@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2025/08/07/ok-fine-my-boss-is.html",
+				
+				"content_html": "<p>Ok fine, my boss is forcing me to play some #Fortnite on the old streamer machine for a break. Live now!  <a href=\"https://www.twitch.tv/lemoncasting\">www.twitch.tv/lemoncast&hellip;</a></p>\n",
+				"content_text": "Ok fine, my boss is forcing me to play some #Fortnite on the old streamer machine for a break. Live now!  [www.twitch.tv/lemoncast...](https://www.twitch.tv/lemoncasting)\n",
+				"date_published": "2025-08-07T12:32:50-06:00",
+				"url": "https://microblog.chrisenns.com/2025/08/07/ok-fine-my-boss-is.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2025/08/07/sideeyeing-the-xbox-in-my.html",
+				
+				"content_html": "<p>Side-eyeing the Xbox in my office as it updates with the new #Fortnite season while focusing on the work I need to get done.</p>\n",
+				"content_text": "Side-eyeing the Xbox in my office as it updates with the new #Fortnite season while focusing on the work I need to get done. \n",
+				"date_published": "2025-08-07T10:21:40-06:00",
+				"url": "https://microblog.chrisenns.com/2025/08/07/sideeyeing-the-xbox-in-my.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2025/08/06/i-played-a-bit-of.html",
+				
+				"content_html": "<p>I played a bit of Fortnite&rsquo;s &ldquo;Festival Main Stage&rdquo; (think Rock Band or Guitar Hero style) game mode last night, and I don&rsquo;t understand why Epic hasn&rsquo;t started selling guitar and drum controllers again. It feels like a new generation is ready for them.</p>\n",
+				"content_text": "I played a bit of Fortnite's \"Festival Main Stage\" (think Rock Band or Guitar Hero style) game mode last night, and I don't understand why Epic hasn't started selling guitar and drum controllers again. It feels like a new generation is ready for them. \n",
+				"date_published": "2025-08-06T14:15:18-06:00",
+				"url": "https://microblog.chrisenns.com/2025/08/06/i-played-a-bit-of.html",
+				"tags": ["Microposts"]
+			},
+			{
 				"id": "http://ichris.micro.blog/2025/08/06/new-blog-post-ghost-v.html",
 				
 				"content_html": "<p>New blog post: <a href=\"https://chrisenns.com/2025/08/ghost-v6/\">Ghost v6</a></p>\n",
@@ -73,7 +100,7 @@
 				"id": "http://ichris.micro.blog/2025/08/02/the-fantastic-four-first-steps.html",
 				"title": "The Fantastic Four: First Steps, 2025 - ★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/1068/2025/543967-the-fantastic-four-first-steps-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday August 2, 2025.</p>\n",
+				"content_text": "<p><img src=\"uploads/2025/543967-the-fantastic-four-first-steps-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday August 2, 2025.</p>\n",
 				"date_published": "2025-08-02T21:59:46-06:00",
 				"url": "https://microblog.chrisenns.com/2025/08/02/the-fantastic-four-first-steps.html",
 				"tags": ["Longform"]
