@@ -7,6 +7,51 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2025/08/08/snow-white.html",
+				"title": "Snow White, 2025 - ★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/1068/2025/379590-disneys-snow-white-0-600-0-900-crop.jpg\"/></p> <p>Watched on Friday August 8, 2025.</p>\n",
+				"date_published": "2025-08-08T23:09:13-06:00",
+				"url": "https://microblog.chrisenns.com/2025/08/08/snow-white.html",
+				"tags": ["Longform"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2025/08/08/freakier-friday.html",
+				"title": "Freakier Friday, 2025 - ★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/1068/2025/1013867-freakier-friday-0-600-0-900-crop.jpg\"/></p> <p>Watched on Thursday August 7, 2025.</p>\n",
+				"date_published": "2025-08-08T23:08:55-06:00",
+				"url": "https://microblog.chrisenns.com/2025/08/08/freakier-friday.html",
+				"tags": ["Longform"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2025/08/08/has-anyone-else-had-messages.html",
+				
+				"content_html": "<p>Has anyone else had Messages on macOS suddenly forget every connection to names in your contacts? If I go in and edit someone&rsquo;s phone number—even without changing it, just clicking edit and then done—it suddenly updates Messages with their proper name. Weird bug.</p>\n",
+				"content_text": "Has anyone else had Messages on macOS suddenly forget every connection to names in your contacts? If I go in and edit someone's phone number—even without changing it, just clicking edit and then done—it suddenly updates Messages with their proper name. Weird bug.\n",
+				"date_published": "2025-08-08T08:53:19-06:00",
+				"url": "https://microblog.chrisenns.com/2025/08/08/has-anyone-else-had-messages.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2025/08/08/tim-cook-gifting-trump-a.html",
+				
+				"content_html": "<p><a href=\"https://spyglass.org/my-god-how-embarrassing/\">Tim Cook gifting Trump a custom made gift is wild.</a> I’m shocked at how one of the world’s richest companies has to kiss the ring and humiliate themselves like this.</p>\n",
+				"content_text": "[Tim Cook gifting Trump a custom made gift is wild.](https://spyglass.org/my-god-how-embarrassing/) I’m shocked at how one of the world’s richest companies has to kiss the ring and humiliate themselves like this. \n",
+				"date_published": "2025-08-08T07:03:30-06:00",
+				"url": "https://microblog.chrisenns.com/2025/08/08/tim-cook-gifting-trump-a.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2025/08/07/til-there-are-people-who.html",
+				
+				"content_html": "<p>TIL there are people who set up groups with strangers to share the price of an Apple One bundle. That&rsquo;s a level of IT admin / bill sharing I can&rsquo;t imagine doing.</p>\n",
+				"content_text": "TIL there are people who set up groups with strangers to share the price of an Apple One bundle. That's a level of IT admin / bill sharing I can't imagine doing.\n",
+				"date_published": "2025-08-07T21:56:53-06:00",
+				"url": "https://microblog.chrisenns.com/2025/08/07/til-there-are-people-who.html",
+				"tags": ["Microposts"]
+			},
+			{
 				"id": "http://ichris.micro.blog/2025/08/07/ok-fine-my-boss-is.html",
 				
 				"content_html": "<p>Ok fine, my boss is forcing me to play some #Fortnite on the old streamer machine for a break. Live now!  <a href=\"https://www.twitch.tv/lemoncasting\">www.twitch.tv/lemoncast&hellip;</a></p>\n",
@@ -100,7 +145,7 @@
 				"id": "http://ichris.micro.blog/2025/08/02/the-fantastic-four-first-steps.html",
 				"title": "The Fantastic Four: First Steps, 2025 - ★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"uploads/2025/543967-the-fantastic-four-first-steps-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday August 2, 2025.</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/1068/2025/543967-the-fantastic-four-first-steps-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday August 2, 2025.</p>\n",
 				"date_published": "2025-08-02T21:59:46-06:00",
 				"url": "https://microblog.chrisenns.com/2025/08/02/the-fantastic-four-first-steps.html",
 				"tags": ["Longform"]
