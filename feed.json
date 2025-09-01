@@ -7,10 +7,28 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2025/08/31/im-on-a-boat-or.html",
+				
+				"content_html": "<p>I’m on a boat. (Or I was.)</p>\n<p>.#Selfie a day for a year, day 14, Aug 31, 2025 edition.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I’m on a boat. (Or I was.)\n\n.#Selfie a day for a year, day 14, Aug 31, 2025 edition.\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2025/07787ac66d.jpg\" width=\"600\" height=\"450\" alt=\"A man wearing glasses and a cap is sitting on a boat with a vast body of water and a cloudy sky in the background.\">\n",
+				"date_published": "2025-08-31T19:33:19-06:00",
+				"url": "https://microblog.chrisenns.com/2025/08/31/im-on-a-boat-or.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2025/08/30/ice-cream-shop-is-bumping.html",
+				
+				"content_html": "<p>Ice cream shop is bumping, but so are the mosquitos so I’ll wait in the truck with the dog #selfie.</p>\n<p>Selfie a day for a year, day 13, Aug 30, 2025 edition.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Ice cream shop is bumping, but so are the mosquitos so I’ll wait in the truck with the dog #selfie. \n\nSelfie a day for a year, day 13, Aug 30, 2025 edition.\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2025/14495dbb87.jpg\" width=\"450\" height=\"600\" alt=\"A man wearing glasses and a cap takes a selfie in front of a building with a group of people gathered near it.\">\n",
+				"date_published": "2025-08-30T20:30:53-06:00",
+				"url": "https://microblog.chrisenns.com/2025/08/30/ice-cream-shop-is-bumping.html",
+				"tags": ["Microposts"]
+			},
+			{
 				"id": "http://ichris.micro.blog/2025/08/29/this-selfie-a-day-thing.html",
 				
 				"content_html": "<p>This #selfie a day thing isgetting as stressful as remembering to do the Wordle on time each day.</p>\n<p>Selfie a day for a year, day 12, Aug 29, 2025 edition.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This #selfie a day thing isgetting as stressful as remembering to do the Wordle on time each day. \n\nSelfie a day for a year, day 12, Aug 29, 2025 edition.\n\n<img src=\"uploads/2025/ac801de392.jpg\" width=\"449\" height=\"600\" alt=\"A man wearing glasses and a hat is in the front seat of a car, with a dog sitting in the back next to a child whose face is covered by an emoji.\">\n",
+				"content_text": "This #selfie a day thing isgetting as stressful as remembering to do the Wordle on time each day. \n\nSelfie a day for a year, day 12, Aug 29, 2025 edition.\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2025/ac801de392.jpg\" width=\"449\" height=\"600\" alt=\"A man wearing glasses and a hat is in the front seat of a car, with a dog sitting in the back next to a child whose face is covered by an emoji.\">\n",
 				"date_published": "2025-08-29T23:51:50-06:00",
 				"url": "https://microblog.chrisenns.com/2025/08/29/this-selfie-a-day-thing.html",
 				"tags": ["Microposts"]
@@ -19,7 +37,7 @@
 				"id": "http://ichris.micro.blog/2025/08/29/hmmm-tempting-off-membership-to.html",
 				
 				"content_html": "<p>Hmmm tempting&hellip; 60% off membership to myself? 🤔😆</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Hmmm tempting... 60% off membership to myself? 🤔😆\n\n<img src=\"uploads/2025/3ecdffdda7.png\" width=\"600\" height=\"378\" alt=\"Screenshot of an email from Patreon saying I can get 60% off membership to my patreon campaign by Sept5 \">\n",
+				"content_text": "Hmmm tempting... 60% off membership to myself? 🤔😆\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2025/3ecdffdda7.png\" width=\"600\" height=\"378\" alt=\"Screenshot of an email from Patreon saying I can get 60% off membership to my patreon campaign by Sept5 \">\n",
 				"date_published": "2025-08-29T14:17:13-06:00",
 				"url": "https://microblog.chrisenns.com/2025/08/29/hmmm-tempting-off-membership-to.html",
 				"tags": ["Microposts"]
@@ -37,7 +55,7 @@
 				"id": "http://ichris.micro.blog/2025/08/28/almost-forgot-to-get-one.html",
 				
 				"content_html": "<p>Almost forgot to get one in today. #Selfie while leaving The Shire.</p>\n<p>Selfie a day for a year, day 11, Aug 28, 2025 edition.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Almost forgot to get one in today. #Selfie while leaving The Shire. \n\nSelfie a day for a year, day 11, Aug 28, 2025 edition.\n\n<img src=\"uploads/2025/869a4bcf69.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
+				"content_text": "Almost forgot to get one in today. #Selfie while leaving The Shire. \n\nSelfie a day for a year, day 11, Aug 28, 2025 edition.\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2025/869a4bcf69.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
 				"date_published": "2025-08-28T22:10:13-06:00",
 				"url": "https://microblog.chrisenns.com/2025/08/28/almost-forgot-to-get-one.html",
 				"tags": ["Microposts"]
@@ -109,7 +127,7 @@
 				"id": "http://ichris.micro.blog/2025/08/26/someones-using-a-very-aid.html",
 				
 				"content_html": "<p>Someone&rsquo;s using a very AI&rsquo;d version of Prime Minster Mark Carney in their ad on YouTube.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Someone's using a very AI'd version of Prime Minster Mark Carney in their ad on YouTube. \n\n<img src=\"uploads/2025/396d45191d.png\" width=\"600\" height=\"338\" alt=\"A fairly obvious AI version of Prime Minister Mark Carney in an advert on YouTube for cafdaf.typeform.com\">\n",
+				"content_text": "Someone's using a very AI'd version of Prime Minster Mark Carney in their ad on YouTube. \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2025/396d45191d.png\" width=\"600\" height=\"338\" alt=\"A fairly obvious AI version of Prime Minister Mark Carney in an advert on YouTube for cafdaf.typeform.com\">\n",
 				"date_published": "2025-08-26T14:50:20-06:00",
 				"url": "https://microblog.chrisenns.com/2025/08/26/someones-using-a-very-aid.html",
 				"tags": ["Microposts"]
@@ -146,7 +164,7 @@
 				
 				"content_html": "<p>I love the way Buttondown thinks deeply about the web: <a href=\"https://buttondown.com/blog/blog-vs-newsletter\">A newsletter-shaped-blog, or a blog-shaped-newsletter</a></p>\n",
 				"content_text": "I love the way Buttondown thinks deeply about the web: [A newsletter-shaped-blog, or a blog-shaped-newsletter](https://buttondown.com/blog/blog-vs-newsletter) \n",
-				"date_published": "2025-08-25T20:21:31+06:00",
+				"date_published": "2025-08-25T08:21:31-06:00",
 				"url": "https://microblog.chrisenns.com/2025/08/25/i-love-the-way-buttondown.html",
 				"tags": ["Microposts"]
 			},
@@ -164,7 +182,7 @@
 				
 				"content_html": "<p>☕️ + 🐶 (being teased relentlessly by birds this morning) + 🌞</p>\n<p>For my #selfie a day for a year, day 7, Aug 24, 2025 edition.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "☕️ + 🐶 (being teased relentlessly by birds this morning) + 🌞 \n\nFor my #selfie a day for a year, day 7, Aug 24, 2025 edition.\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2025/63a581c5f0.jpg\" width=\"600\" height=\"450\" alt=\"A person relaxes on a porch with a mug, while a dog stands on the grassy lawn near a fence.\">\n",
-				"date_published": "2025-08-24T21:31:46+06:00",
+				"date_published": "2025-08-24T09:31:46-06:00",
 				"url": "https://microblog.chrisenns.com/2025/08/24/being-teased-relentlessly-by-birds.html",
 				"tags": ["Microposts"]
 			},
@@ -173,7 +191,7 @@
 				
 				"content_html": "<p>Fresh hairdid for today’s #selfie a day for a year, day 6, Aug 23, 2025 edition.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Fresh hairdid for today’s #selfie a day for a year, day 6, Aug 23, 2025 edition.\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2025/267e4bb5f7.jpg\" width=\"600\" height=\"450\" alt=\"A man with glasses and a beard is taking a selfie in front of a window, with a blurred sign in the background.\">\n",
-				"date_published": "2025-08-24T01:57:06+06:00",
+				"date_published": "2025-08-23T13:57:06-06:00",
 				"url": "https://microblog.chrisenns.com/2025/08/23/fresh-hairdid-for-todays-selfie.html",
 				"tags": ["Microposts"]
 			},
