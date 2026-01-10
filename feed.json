@@ -7,10 +7,73 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2026/01/10/hey-it-might-be-time.html",
+				
+				"content_html": "<p>Hey it might be time to change your furnace filter.</p>\n",
+				"content_text": "Hey it might be time to change your furnace filter. \n",
+				"date_published": "2026-01-10T08:41:50-06:00",
+				"url": "https://microblog.chrisenns.com/2026/01/10/hey-it-might-be-time.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/01/09/i-dont-want-to-jinx.html",
+				
+				"content_html": "<p>I don’t want to jinx anything, but could tonight be the night the Jets finally break their losing streak? 🙏🏻</p>\n",
+				"content_text": "I don’t want to jinx anything, but could tonight be the night the Jets finally break their losing streak? 🙏🏻 \n",
+				"date_published": "2026-01-09T20:24:55-06:00",
+				"url": "https://microblog.chrisenns.com/2026/01/09/i-dont-want-to-jinx.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/01/09/if-you-ever-need-to.html",
+				
+				"content_html": "<p>If you ever need to convert WordPress to Markdown (for Eleventy, Astro, etc.), <a href=\"https://github.com/lonekorean/wordpress-export-to-markdown\">this repo on GitHub is all you need</a>.</p>\n",
+				"content_text": "If you ever need to convert WordPress to Markdown (for Eleventy, Astro, etc.), [this repo on GitHub is all you need](https://github.com/lonekorean/wordpress-export-to-markdown). \n",
+				"date_published": "2026-01-09T16:56:02-06:00",
+				"url": "https://microblog.chrisenns.com/2026/01/09/if-you-ever-need-to.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/01/09/alright-now-lets-do-messages.html",
+				
+				"content_html": "<p>Alright now let’s do Messages in iCloud storage. How many messages and storage are you seeing on Settings app &gt; Your Account at the top &gt; iCloud &gt; Messages?</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Alright now let’s do Messages in iCloud storage. How many messages and storage are you seeing on Settings app > Your Account at the top > iCloud > Messages? \n\n<img src=\"uploads/2026/7116dd0e93.jpg\" width=\"279\" height=\"600\" alt=\"A screenshot displays the Messages in iCloud settings on an iPhone, showing storage details and synchronization status.\">\n",
+				"date_published": "2026-01-09T12:44:38-06:00",
+				"url": "https://microblog.chrisenns.com/2026/01/09/alright-now-lets-do-messages.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/01/09/one-of-the-best-parts.html",
+				
+				"content_html": "<p>One of the best parts about <a href=\"https://bradfrost.com/blog/post/we-are-here-performance-at-beyond-tellerrand/\">Brad Frost&rsquo;s write up of how he put together a crazy idea for a talk at Beyond Tellerand</a> is that at pretty much no point does he think &ldquo;I should just ask Claude or ChatGPT&rdquo;. Instead he reaches out to other creative humans for help in building out his vision.</p>\n",
+				"content_text": "One of the best parts about [Brad Frost's write up of how he put together a crazy idea for a talk at Beyond Tellerand](https://bradfrost.com/blog/post/we-are-here-performance-at-beyond-tellerrand/) is that at pretty much no point does he think \"I should just ask Claude or ChatGPT\". Instead he reaches out to other creative humans for help in building out his vision.\n",
+				"date_published": "2026-01-09T10:34:26-06:00",
+				"url": "https://microblog.chrisenns.com/2026/01/09/one-of-the-best-parts.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/01/09/if-you-host-a-podcast.html",
+				
+				"content_html": "<p>If you host a podcast and spend the time your guest(s) are speaking planning how to steer the conversation back to your own experiences instead of actively listening, you are failing your audience. Ask follow up questions. Be curious. You&rsquo;re the voice for the listeners, not yourself.</p>\n",
+				"content_text": "If you host a podcast and spend the time your guest(s) are speaking planning how to steer the conversation back to your own experiences instead of actively listening, you are failing your audience. Ask follow up questions. Be curious. You're the voice for the listeners, not yourself.\n",
+				"date_published": "2026-01-09T10:09:40-06:00",
+				"url": "https://microblog.chrisenns.com/2026/01/09/if-you-host-a-podcast.html",
+				"tags": ["Podcasting","Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/01/09/how-much-space-does-apple.html",
+				
+				"content_html": "<p>How much space does Apple Music use on your iPhone if you don’t have any songs downloaded? 33GB seems like a lot. (Settings.app &gt; iPhone Storage &gt; scroll down the list until you see Apple Music)</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "How much space does Apple Music use on your iPhone if you don’t have any songs downloaded? 33GB seems like a lot. (Settings.app > iPhone Storage > scroll down the list until you see Apple Music)\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/42cac87e18.jpg\" width=\"375\" height=\"600\" alt=\"The screenshot displays the storage usage details of the Apple Music app on an iPhone, showing an app size of 41.7 MB and documents and data of 33.15 GB, with options to offload or delete the app.\">\n",
+				"date_published": "2026-01-09T07:34:07-06:00",
+				"url": "https://microblog.chrisenns.com/2026/01/09/how-much-space-does-apple.html",
+				"tags": ["Microposts"]
+			},
+			{
 				"id": "http://ichris.micro.blog/2026/01/08/im-on-apple-one-with.html",
 				
 				"content_html": "<p>I’m on Apple One with the 2TB storage. I got this warning and when I tap it, it shows me that I could “upgrade” to 50GB more. Which is horribly wrong. That would downgrade me by 1,950GB and potentially cause me to lose a ton of photos and videos. What is going on #Apple?</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "I’m on Apple One with the 2TB storage. I got this warning and when I tap it, it shows me that I could “upgrade” to 50GB more. Which is horribly wrong. That would downgrade me by 1,950GB and potentially cause me to lose a ton of photos and videos. What is going on #Apple?\n\n<img src=\"uploads/2026/ba2985c8f9.png\" width=\"277\" height=\"600\" alt=\"An upgrade prompt for iCloud storage offers options for 50 GB, 200 GB, or 2 TB of storage to keep photos and videos backed up.\"><img src=\"uploads/2026/0a30b1d5eb.jpg\" width=\"600\" height=\"324\" alt=\"A notification alerts the user that their iCloud storage is almost full, affecting photo syncing.\">\n",
+				"content_text": "I’m on Apple One with the 2TB storage. I got this warning and when I tap it, it shows me that I could “upgrade” to 50GB more. Which is horribly wrong. That would downgrade me by 1,950GB and potentially cause me to lose a ton of photos and videos. What is going on #Apple?\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/ba2985c8f9.png\" width=\"277\" height=\"600\" alt=\"An upgrade prompt for iCloud storage offers options for 50 GB, 200 GB, or 2 TB of storage to keep photos and videos backed up.\"><img src=\"https://cdn.uploads.micro.blog/1068/2026/0a30b1d5eb.jpg\" width=\"600\" height=\"324\" alt=\"A notification alerts the user that their iCloud storage is almost full, affecting photo syncing.\">\n",
 				"date_published": "2026-01-08T17:14:58-06:00",
 				"url": "https://microblog.chrisenns.com/2026/01/08/im-on-apple-one-with.html",
 				"tags": ["Microposts"]
@@ -46,7 +109,7 @@
 				"id": "http://ichris.micro.blog/2026/01/07/frozen-in-a-rink-today.html",
 				
 				"content_html": "<p>Frozen in a rink today. At least there’s hot chocolate.</p>\n<p>Selfie a day for a year, day 142, Jan 7, 2026 edition.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Frozen in a rink today. At least there’s hot chocolate. \n\nSelfie a day for a year, day 142, Jan 7, 2026 edition.\n\n<img src=\"uploads/2026/35d3073977.jpg\" width=\"450\" height=\"600\" alt=\"A man with glasses and a cap is holding a coffee cup while wearing a dark jacket.\">\n",
+				"content_text": "Frozen in a rink today. At least there’s hot chocolate. \n\nSelfie a day for a year, day 142, Jan 7, 2026 edition.\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/35d3073977.jpg\" width=\"450\" height=\"600\" alt=\"A man with glasses and a cap is holding a coffee cup while wearing a dark jacket.\">\n",
 				"date_published": "2026-01-07T21:09:23-06:00",
 				"url": "https://microblog.chrisenns.com/2026/01/07/frozen-in-a-rink-today.html",
 				"tags": ["Microposts"]
@@ -271,7 +334,7 @@
 				"id": "http://ichris.micro.blog/2025/12/28/winter-is-when-i-remember.html",
 				
 				"content_html": "<p>Winter is when I remember how bad Apple Weather is. Foreca is the other app with actual Canadian weather data.</p>\n<p>Feels like -21C is very different than -36C.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Winter is when I remember how bad Apple Weather is. Foreca is the other app with actual Canadian weather data.\n\nFeels like -21C is very different than -36C. \n\n<img src=\"uploads/2025/d392e6e058.jpg\" width=\"480\" height=\"600\" alt=\"A weather app displays Saskatoon's temperature as -27°C, feeling like -36°C with clear skies.\"><img src=\"uploads/2025/33164ee922.jpg\" width=\"424\" height=\"600\" alt=\"Saskatoon is experiencing extremely cold weather with a temperature of -24°C and a feels-like temperature of -21°C, accompanied by an extreme cold warning.\">\n",
+				"content_text": "Winter is when I remember how bad Apple Weather is. Foreca is the other app with actual Canadian weather data.\n\nFeels like -21C is very different than -36C. \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2025/d392e6e058.jpg\" width=\"480\" height=\"600\" alt=\"A weather app displays Saskatoon's temperature as -27°C, feeling like -36°C with clear skies.\"><img src=\"https://cdn.uploads.micro.blog/1068/2025/33164ee922.jpg\" width=\"424\" height=\"600\" alt=\"Saskatoon is experiencing extremely cold weather with a temperature of -24°C and a feels-like temperature of -21°C, accompanied by an extreme cold warning.\">\n",
 				"date_published": "2025-12-28T11:03:10-06:00",
 				"url": "https://microblog.chrisenns.com/2025/12/28/winter-is-when-i-remember.html",
 				"tags": ["Microposts"]
@@ -289,7 +352,7 @@
 				"id": "http://ichris.micro.blog/2025/12/27/genie.html",
 				"title": "Genie, 2023 - ★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/1068/2025/1075190-genie-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday December 27, 2025.</p>\n",
+				"content_text": "<p><img src=\"uploads/2025/1075190-genie-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday December 27, 2025.</p>\n",
 				"date_published": "2025-12-27T11:37:27-06:00",
 				"url": "https://microblog.chrisenns.com/2025/12/27/genie.html",
 				"tags": ["Longform"]
@@ -298,7 +361,7 @@
 				"id": "http://ichris.micro.blog/2025/12/27/all-the-xmas-treat-favs.html",
 				
 				"content_html": "<p>All the Xmas treat favs 🥑</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "All the Xmas treat favs 🥑 \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2025/18ac22d5f1.jpg\" width=\"600\" height=\"481\" alt=\"A messy tabletop is covered with broken graham crackers, marshmallow remnants, a bowl with an avocado, and a small bowl containing assorted chocolates.\">\n",
+				"content_text": "All the Xmas treat favs 🥑 \n\n<img src=\"uploads/2025/18ac22d5f1.jpg\" width=\"600\" height=\"481\" alt=\"A messy tabletop is covered with broken graham crackers, marshmallow remnants, a bowl with an avocado, and a small bowl containing assorted chocolates.\">\n",
 				"date_published": "2025-12-27T10:14:51-06:00",
 				"url": "https://microblog.chrisenns.com/2025/12/27/all-the-xmas-treat-favs.html",
 				"tags": ["Microposts"]
@@ -307,7 +370,7 @@
 				"id": "http://ichris.micro.blog/2025/12/27/waiting-for-a-dog-to.html",
 				
 				"content_html": "<p>Waiting for a dog to decide to come inside rather than sit in the snow. 😆</p>\n<p>Late #Selfie of the day for a year, day 130, Dec 26, 2025 edition.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Waiting for a dog to decide to come inside rather than sit in the snow. 😆 \n\nLate #Selfie of the day for a year, day 130, Dec 26, 2025 edition.\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2025/b78cf84584.jpg\" width=\"450\" height=\"600\" alt=\"A person with glasses and facial hair is standing outside on a snowy evening next to animal footprints.\"><img src=\"https://cdn.uploads.micro.blog/1068/2025/e10a15468f.jpg\" width=\"600\" height=\"593\" alt=\"A snowy backyard scene features a dog sitting near a patio area with snow-covered furniture.\">\n",
+				"content_text": "Waiting for a dog to decide to come inside rather than sit in the snow. 😆 \n\nLate #Selfie of the day for a year, day 130, Dec 26, 2025 edition.\n\n<img src=\"uploads/2025/b78cf84584.jpg\" width=\"450\" height=\"600\" alt=\"A person with glasses and facial hair is standing outside on a snowy evening next to animal footprints.\"><img src=\"uploads/2025/e10a15468f.jpg\" width=\"600\" height=\"593\" alt=\"A snowy backyard scene features a dog sitting near a patio area with snow-covered furniture.\">\n",
 				"date_published": "2025-12-27T00:16:43-06:00",
 				"url": "https://microblog.chrisenns.com/2025/12/27/waiting-for-a-dog-to.html",
 				"tags": ["Microposts"]
@@ -370,7 +433,7 @@
 				"id": "http://ichris.micro.blog/2025/12/23/c-feels-like-c-edition.html",
 				
 				"content_html": "<p>-15C, feels like -20C edition.</p>\n<p>#Selfie a day for a year, day 127, Dec 23, 2025 edition.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "-15C, feels like -20C edition. \n\n#Selfie a day for a year, day 127, Dec 23, 2025 edition.\n\n<img src=\"uploads/2025/e4b56707a5.jpg\" width=\"450\" height=\"600\" alt=\"A person wearing a red beanie, glasses, and a scarf around their face is standing on a snow-covered path.\">\n",
+				"content_text": "-15C, feels like -20C edition. \n\n#Selfie a day for a year, day 127, Dec 23, 2025 edition.\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2025/e4b56707a5.jpg\" width=\"450\" height=\"600\" alt=\"A person wearing a red beanie, glasses, and a scarf around their face is standing on a snow-covered path.\">\n",
 				"date_published": "2025-12-23T15:37:54-06:00",
 				"url": "https://microblog.chrisenns.com/2025/12/23/c-feels-like-c-edition.html",
 				"tags": ["Microposts"]
@@ -379,7 +442,7 @@
 				"id": "http://ichris.micro.blog/2025/12/23/wake-up-dead-man.html",
 				"title": "Wake Up Dead Man, 2025 - ★★★★½",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"uploads/2025/e147dfbdaf.jpg\"/></p> <p>Watched on Sunday December 21, 2025.</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/1068/2025/e147dfbdaf.jpg\"/></p> <p>Watched on Sunday December 21, 2025.</p>\n",
 				"date_published": "2025-12-23T01:07:47-06:00",
 				"url": "https://microblog.chrisenns.com/2025/12/23/wake-up-dead-man.html",
 				"tags": ["Longform"]
@@ -397,7 +460,7 @@
 				"id": "http://ichris.micro.blog/2025/12/20/dad-stop-holding-the-camera.html",
 				
 				"content_html": "<p>“Dad stop holding the camera up so high—you look like you’re posting on Facebook.” 😆</p>\n<p>#Selfie a day for a year, day 124, Dec 20, 2025 edition.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "“Dad stop holding the camera up so high—you look like you’re posting on Facebook.” 😆 \n\n#Selfie a day for a year, day 124, Dec 20, 2025 edition.\n\n<img src=\"uploads/2025/22365968b7.jpg\" width=\"450\" height=\"600\" alt=\"A person with glasses holds a glass containing a light-colored beverage.\">\n",
+				"content_text": "“Dad stop holding the camera up so high—you look like you’re posting on Facebook.” 😆 \n\n#Selfie a day for a year, day 124, Dec 20, 2025 edition.\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2025/22365968b7.jpg\" width=\"450\" height=\"600\" alt=\"A person with glasses holds a glass containing a light-colored beverage.\">\n",
 				"date_published": "2025-12-20T20:57:04-06:00",
 				"url": "https://microblog.chrisenns.com/2025/12/20/dad-stop-holding-the-camera.html",
 				"tags": ["Microposts"]
@@ -433,7 +496,7 @@
 				"id": "http://ichris.micro.blog/2025/12/18/i-was-in-the-penalty.html",
 				
 				"content_html": "<p>I was in the penalty box all night. 🥶</p>\n<p>Selfie a day for a year, day 122, Dec 18, 2025 edition. #hockey</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I was in the penalty box all night. 🥶 \n\nSelfie a day for a year, day 122, Dec 18, 2025 edition. #hockey\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2025/8a9334728e.jpg\" width=\"450\" height=\"600\" alt=\"A person wearing glasses and a cap stands next to an ice hockey rink with benches and gear nearby.\">\n",
+				"content_text": "I was in the penalty box all night. 🥶 \n\nSelfie a day for a year, day 122, Dec 18, 2025 edition. #hockey\n\n<img src=\"uploads/2025/8a9334728e.jpg\" width=\"450\" height=\"600\" alt=\"A person wearing glasses and a cap stands next to an ice hockey rink with benches and gear nearby.\">\n",
 				"date_published": "2025-12-18T23:08:15-06:00",
 				"url": "https://microblog.chrisenns.com/2025/12/18/i-was-in-the-penalty.html",
 				"tags": ["Microposts"]
@@ -847,7 +910,7 @@
 				"id": "http://ichris.micro.blog/2025/12/03/letting-sleeping-dogs-lie-or.html",
 				
 				"content_html": "<p>Letting sleeping dogs lie or whatever that saying is.</p>\n<p>#Selfie a day for a year, day 107, Dec 3, 2025 edition.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Letting sleeping dogs lie or whatever that saying is. \n\n#Selfie a day for a year, day 107, Dec 3, 2025 edition.\n\n<img src=\"uploads/2025/cbfae3eaa4.jpg\" width=\"449\" height=\"600\" alt=\"A person with glasses is sitting on the floor next to a sleeping dog.\">\n",
+				"content_text": "Letting sleeping dogs lie or whatever that saying is. \n\n#Selfie a day for a year, day 107, Dec 3, 2025 edition.\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2025/cbfae3eaa4.jpg\" width=\"449\" height=\"600\" alt=\"A person with glasses is sitting on the floor next to a sleeping dog.\">\n",
 				"date_published": "2025-12-03T23:30:30-06:00",
 				"url": "https://microblog.chrisenns.com/2025/12/03/letting-sleeping-dogs-lie-or.html",
 				"tags": ["Microposts"]
@@ -982,7 +1045,7 @@
 				"id": "http://ichris.micro.blog/2025/11/28/wake-up-dead-man.html",
 				"title": "Wake Up Dead Man, 2025 - ★★★★½",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/1068/2025/729113-wake-up-dead-man-0-600-0-900-crop.jpg\"/></p> <p>Watched on Friday November 28, 2025.</p>\n",
+				"content_text": "<p><img src=\"uploads/2025/729113-wake-up-dead-man-0-600-0-900-crop.jpg\"/></p> <p>Watched on Friday November 28, 2025.</p>\n",
 				"date_published": "2025-11-28T21:34:40-06:00",
 				"url": "https://microblog.chrisenns.com/2025/11/28/wake-up-dead-man.html",
 				"tags": ["Longform"]
