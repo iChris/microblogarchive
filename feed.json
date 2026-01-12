@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2026/01/12/post-walksnow-shoveltoque-head-monday.html",
+				
+				"content_html": "<p>Post walk+snow shovel+toque head Monday vibes to bring back my #selfie project after taking the weekend off.</p>\n<p>Selfie a day for a year, day 147, Jan 12, 2026 edition</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Post walk+snow shovel+toque head Monday vibes to bring back my #selfie project after taking the weekend off. \n\nSelfie a day for a year, day 147, Jan 12, 2026 edition\n\n<img src=\"uploads/2026/23bc391032.jpg\" width=\"450\" height=\"600\" alt=\"A man with tousled hair and a beard is sitting in a room with a light-colored chair and a framed picture on the wall.\">\n",
+				"date_published": "2026-01-12T09:09:30-06:00",
+				"url": "https://microblog.chrisenns.com/2026/01/12/post-walksnow-shoveltoque-head-monday.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/01/10/stranger-things-the-finale.html",
+				"title": "Stranger Things 5: The Finale, 2025 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"uploads/2026/1440334-stranger-things-5-the-finale-0-600-0-900-crop.jpg\"/></p> <p>I don’t know what everyone expected the finale to be like, but having rewatched season 1 before watching this season, it felt like it wrapped up in a way fitting to how it started. I loved it.</p>\n",
+				"date_published": "2026-01-10T22:08:03-06:00",
+				"url": "https://microblog.chrisenns.com/2026/01/10/stranger-things-the-finale.html",
+				"tags": ["Longform"]
+			},
+			{
 				"id": "http://ichris.micro.blog/2026/01/10/hey-it-might-be-time.html",
 				
 				"content_html": "<p>Hey it might be time to change your furnace filter.</p>\n",
@@ -37,7 +55,7 @@
 				"id": "http://ichris.micro.blog/2026/01/09/alright-now-lets-do-messages.html",
 				
 				"content_html": "<p>Alright now let’s do Messages in iCloud storage. How many messages and storage are you seeing on Settings app &gt; Your Account at the top &gt; iCloud &gt; Messages?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Alright now let’s do Messages in iCloud storage. How many messages and storage are you seeing on Settings app > Your Account at the top > iCloud > Messages? \n\n<img src=\"uploads/2026/7116dd0e93.jpg\" width=\"279\" height=\"600\" alt=\"A screenshot displays the Messages in iCloud settings on an iPhone, showing storage details and synchronization status.\">\n",
+				"content_text": "Alright now let’s do Messages in iCloud storage. How many messages and storage are you seeing on Settings app > Your Account at the top > iCloud > Messages? \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/7116dd0e93.jpg\" width=\"279\" height=\"600\" alt=\"A screenshot displays the Messages in iCloud settings on an iPhone, showing storage details and synchronization status.\">\n",
 				"date_published": "2026-01-09T12:44:38-06:00",
 				"url": "https://microblog.chrisenns.com/2026/01/09/alright-now-lets-do-messages.html",
 				"tags": ["Microposts"]
