@@ -7,6 +7,60 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2026/01/17/one-thing-ive-come-to.html",
+				
+				"content_html": "<p>One thing I’ve come to appreciate while trying out #Obsidian (again) is the ability to put a document in read only mode. So I can tap or click around and not have tool tips or pop overs appearing all the time.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "One thing I’ve come to appreciate while trying out #Obsidian (again) is the ability to put a document in read only mode. So I can tap or click around and not have tool tips or pop overs appearing all the time. \n\n<img src=\"uploads/2026/9ffded8cf7.jpg\" width=\"600\" height=\"540\" alt=\"A digital note interface is displayed with metadata for a journal entry dated January 17, 2026, featuring options for adding properties and tags.\">\n",
+				"date_published": "2026-01-17T10:43:58-06:00",
+				"url": "https://microblog.chrisenns.com/2026/01/17/one-thing-ive-come-to.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/01/16/if-you-use-riverside-and.html",
+				
+				"content_html": "<p>If you use Riverside and also have a password manager that doesn&rsquo;t seem to be popping up as reliably to log in anymore, they&rsquo;ve updated their domain to a dot com from dot fm. Apple Passwords needed an update to what domain name to look for to keep working for me.</p>\n",
+				"content_text": "If you use Riverside and also have a password manager that doesn't seem to be popping up as reliably to log in anymore, they've updated their domain to a dot com from dot fm. Apple Passwords needed an update to what domain name to look for to keep working for me.\n",
+				"date_published": "2026-01-16T14:30:37-06:00",
+				"url": "https://microblog.chrisenns.com/2026/01/16/if-you-use-riverside-and.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/01/16/apple-had-courage-in-to.html",
+				
+				"content_html": "<p>Apple had <a href=\"https://www.theringer.com/2016/09/07/tech/why-did-apple-remove-the-headphone-jack-courage-592a412412b5\">courage in 2016</a> to remove the headphone jack, but in 2026 they have zero courage to stand up to Musk&rsquo;s p0rn generator app.</p>\n",
+				"content_text": "Apple had [courage in 2016](https://www.theringer.com/2016/09/07/tech/why-did-apple-remove-the-headphone-jack-courage-592a412412b5) to remove the headphone jack, but in 2026 they have zero courage to stand up to Musk's p0rn generator app.\n",
+				"date_published": "2026-01-16T13:44:33-06:00",
+				"url": "https://microblog.chrisenns.com/2026/01/16/apple-had-courage-in-to.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/01/16/if-you-thought-that-once.html",
+				
+				"content_html": "<p>If you thought that once the NYT posted a exhaustive review of every camera angle that anyone who hadn&rsquo;t already decided what happened was going to change their mind, you are not a serious person.</p>\n<p>We&rsquo;re dealing with a cult. It will take months (years?) of deprogramming, not facts or truth.</p>\n",
+				"content_text": "If you thought that once the NYT posted a exhaustive review of every camera angle that anyone who hadn't already decided what happened was going to change their mind, you are not a serious person.\n\nWe're dealing with a cult. It will take months (years?) of deprogramming, not facts or truth.\n",
+				"date_published": "2026-01-16T11:00:08-06:00",
+				"url": "https://microblog.chrisenns.com/2026/01/16/if-you-thought-that-once.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/01/16/happy-terrible-sleep-last-night.html",
+				
+				"content_html": "<p>Happy terrible sleep last night to everyone who was listening to the wind whipping everywhere and lay awake wondering if there&rsquo;s such a thing as winter tornados?</p>\n",
+				"content_text": "Happy terrible sleep last night to everyone who was listening to the wind whipping everywhere and lay awake wondering if there's such a thing as winter tornados?\n",
+				"date_published": "2026-01-16T10:27:17-06:00",
+				"url": "https://microblog.chrisenns.com/2026/01/16/happy-terrible-sleep-last-night.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/01/15/woo-wins-in-a-row.html",
+				
+				"content_html": "<p>Woo. 4 wins in a row. #gojetsgo</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Woo. 4 wins in a row. #gojetsgo\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/58bc0c285f.jpg\" width=\"600\" height=\"490\" alt=\"Jets won 6-2 against Wild, with detailed goals and game stats displayed.\">\n",
+				"date_published": "2026-01-15T22:49:45-06:00",
+				"url": "https://microblog.chrisenns.com/2026/01/15/woo-wins-in-a-row.html",
+				"tags": ["Microposts"]
+			},
+			{
 				"id": "http://ichris.micro.blog/2026/01/15/weve-got-a-bright-idea.html",
 				
 				"content_html": "<p>We’ve got a bright idea.</p>\n<p>#Selfie a day for a year, day 150, Jan 15, 2026 edition.</p>\n<!-- raw HTML omitted -->\n",
