@@ -7,6 +7,51 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2026/01/27/somehow-im-just-learning-about.html",
+				
+				"content_html": "<p>Somehow I&rsquo;m just learning about Crucial Tracks now. It&rsquo;s a social site where you get one post per day about a song you love or that&rsquo;s impacted you. That&rsquo;s the kind of social site I can get behind: <a href=\"https://app.crucialtracks.org/profile/ichris\">I&rsquo;m iChris over there</a>.</p>\n",
+				"content_text": "Somehow I'm just learning about Crucial Tracks now. It's a social site where you get one post per day about a song you love or that's impacted you. That's the kind of social site I can get behind: [I'm iChris over there](https://app.crucialtracks.org/profile/ichris).\n",
+				"date_published": "2026-01-27T11:11:45-06:00",
+				"url": "https://microblog.chrisenns.com/2026/01/27/somehow-im-just-learning-about.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/01/26/sending-out-my-newsletter-tomorrow.html",
+				
+				"content_html": "<p>Sending out my newsletter tomorrow like I do most Tuesdays. <a href=\"https://buttondown.com/lemoncasting\">Subscribe here if you&rsquo;d like a Canadian in your inbox</a>, or <a href=\"https://buttondown.com/lemoncasting/rss\">you can subscribe via RSS in your favorite feed reader</a>.</p>\n",
+				"content_text": "Sending out my newsletter tomorrow like I do most Tuesdays. [Subscribe here if you'd like a Canadian in your inbox](https://buttondown.com/lemoncasting), or [you can subscribe via RSS in your favorite feed reader](https://buttondown.com/lemoncasting/rss).\n",
+				"date_published": "2026-01-26T16:39:07-06:00",
+				"url": "https://microblog.chrisenns.com/2026/01/26/sending-out-my-newsletter-tomorrow.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/01/26/trying-out-the-latest-alternative.html",
+				
+				"content_html": "<p>Trying out the latest alternative to <em>waves hand at all the things</em> over on Upscrolled. I&rsquo;m too much of a nerd not to try out new apps, but we really don&rsquo;t need more social apps imho. Anyway, find me over there here: <a href=\"https://share.upscrolled.com/en/user/a71a7aa7-1383-4b2a-9a4e-5062c350aaac\">share.upscrolled.com/en/user/a&hellip;</a></p>\n",
+				"content_text": "Trying out the latest alternative to *waves hand at all the things* over on Upscrolled. I'm too much of a nerd not to try out new apps, but we really don't need more social apps imho. Anyway, find me over there here: [share.upscrolled.com/en/user/a...](https://share.upscrolled.com/en/user/a71a7aa7-1383-4b2a-9a4e-5062c350aaac)\n",
+				"date_published": "2026-01-26T13:13:03-06:00",
+				"url": "https://microblog.chrisenns.com/2026/01/26/trying-out-the-latest-alternative.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/01/26/spotify-is-so-committed-to.html",
+				
+				"content_html": "<p>Spotify is so committed to #podcast hosting that 6 years after buying Anchor for $340 million, they still use it for your official RSS feed if you host your podcast on Spotify.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Spotify is so committed to #podcast hosting that 6 years after buying Anchor for $340 million, they still use it for your official RSS feed if you host your podcast on Spotify.\n\n<img src=\"uploads/2026/cleanshot-2026-01-26-at-12.28.54.png\" width=\"403\" height=\"237\" alt=\"A web interface shows an RSS feed URL for distribution with a Copy button below.\">\n",
+				"date_published": "2026-01-26T12:30:27-06:00",
+				"url": "https://microblog.chrisenns.com/2026/01/26/spotify-is-so-committed-to.html",
+				"tags": ["Podcasting","Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/01/26/new-blog-post-a-brief.html",
+				
+				"content_html": "<p>New blog post: <a href=\"https://chrisenns.com/2026/01/a-brief-review-of-narco-mennonites/\">A Brief Review of Narco Mennonites</a></p>\n",
+				"content_text": "New blog post: [A Brief Review of Narco Mennonites](https://chrisenns.com/2026/01/a-brief-review-of-narco-mennonites/)\n",
+				"date_published": "2026-01-26T10:50:20-06:00",
+				"url": "https://microblog.chrisenns.com/2026/01/26/new-blog-post-a-brief.html",
+				"tags": ["Microposts"]
+			},
+			{
 				"id": "http://ichris.micro.blog/2026/01/26/despite-what-you-may-hear.html",
 				
 				"content_html": "<p>Despite what you may hear, there are plenty of software developers who aren’t <a href=\"https://dbushell.com/ai/\">embracing AI tools</a>  for their work at all.</p>\n",
@@ -28,7 +73,7 @@
 				"id": "http://ichris.micro.blog/2026/01/23/shopping-at-dollarstoretreerama-for-bday.html",
 				
 				"content_html": "<p>Shopping at DollarStore/Tree/Rama(?) for bday presents. Yes - Canadian teens wear a hoodie when it&rsquo;s -45C.</p>\n<p>#Selfie a day for a year, day 157, Jan 23, 2026 edition.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Shopping at DollarStore/Tree/Rama(?) for bday presents. Yes - Canadian teens wear a hoodie when it's -45C. \n\n#Selfie a day for a year, day 157, Jan 23, 2026 edition.\n\n<img src=\"uploads/2026/e6a83a6b30.jpg\" width=\"450\" height=\"600\" alt=\"Two people are shopping in a store aisle filled with socks and accessories, with one person's face replaced by an emoji.\">\n",
+				"content_text": "Shopping at DollarStore/Tree/Rama(?) for bday presents. Yes - Canadian teens wear a hoodie when it's -45C. \n\n#Selfie a day for a year, day 157, Jan 23, 2026 edition.\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/e6a83a6b30.jpg\" width=\"450\" height=\"600\" alt=\"Two people are shopping in a store aisle filled with socks and accessories, with one person's face replaced by an emoji.\">\n",
 				"date_published": "2026-01-23T17:01:18-06:00",
 				"url": "https://microblog.chrisenns.com/2026/01/23/shopping-at-dollarstoretreerama-for-bday.html",
 				"tags": ["Microposts"]
@@ -37,7 +82,7 @@
 				"id": "http://ichris.micro.blog/2026/01/23/thats-a-feels-like-of.html",
 				
 				"content_html": "<p>That’s a feels like of -52F for those of you living under a dicktator down south.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "That’s a feels like of -52F for those of you living under a dicktator down south. \n\n<img src=\"uploads/2026/6cc5c5bba9.jpg\" width=\"535\" height=\"600\" alt=\"Saskatoon, Canada is experiencing a mostly clear morning with a temperature of -37°C, feeling like -47°C, and light wind at 7 km/h.\">\n",
+				"content_text": "That’s a feels like of -52F for those of you living under a dicktator down south. \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/6cc5c5bba9.jpg\" width=\"535\" height=\"600\" alt=\"Saskatoon, Canada is experiencing a mostly clear morning with a temperature of -37°C, feeling like -47°C, and light wind at 7 km/h.\">\n",
 				"date_published": "2026-01-23T07:40:58-06:00",
 				"url": "https://microblog.chrisenns.com/2026/01/23/thats-a-feels-like-of.html",
 				"tags": ["Microposts"]
@@ -46,7 +91,7 @@
 				"id": "http://ichris.micro.blog/2026/01/22/if-youre-running-low-on.html",
 				
 				"content_html": "<p>If you&rsquo;re running low on storage, don&rsquo;t forget to check how many projects #Descript might have on your hard drive. You can clear local cache if you&rsquo;re not working on them anymore. The files are still backed up on Descript&rsquo;s servers unless you delete the projects.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "If you're running low on storage, don't forget to check how many projects #Descript might have on your hard drive. You can clear local cache if you're not working on them anymore. The files are still backed up on Descript's servers unless you delete the projects.\n\n<img src=\"uploads/2026/cleanshot-2026-01-22-at-12.57.14.png\" width=\"496\" height=\"331\" alt=\"A list shows the storage usage of various applications, with Descript using the most at 170.9 GB.\"><img src=\"uploads/2026/cleanshot-2026-01-22-at-12.58.06.png\" width=\"443\" height=\"493\" alt=\"A dropdown menu highlighted by a yellow arrow and numbered annotations offers options such as clearing local cache and deleting a project.\">\n",
+				"content_text": "If you're running low on storage, don't forget to check how many projects #Descript might have on your hard drive. You can clear local cache if you're not working on them anymore. The files are still backed up on Descript's servers unless you delete the projects.\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/cleanshot-2026-01-22-at-12.57.14.png\" width=\"496\" height=\"331\" alt=\"A list shows the storage usage of various applications, with Descript using the most at 170.9 GB.\"><img src=\"https://cdn.uploads.micro.blog/1068/2026/cleanshot-2026-01-22-at-12.58.06.png\" width=\"443\" height=\"493\" alt=\"A dropdown menu highlighted by a yellow arrow and numbered annotations offers options such as clearing local cache and deleting a project.\">\n",
 				"date_published": "2026-01-22T13:01:01-06:00",
 				"url": "https://microblog.chrisenns.com/2026/01/22/if-youre-running-low-on.html",
 				"tags": ["Microposts"]
@@ -64,7 +109,7 @@
 				"id": "http://ichris.micro.blog/2026/01/21/kid-getting-a-hair-did.html",
 				
 				"content_html": "<p>Kid getting a hair did. I should’ve got my hair did but there weren’t any openings despite the sign. 😆</p>\n<p>Selfie a day for a year, day 155, Jan 21, 2026 edition.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Kid getting a hair did. I should’ve got my hair did but there weren’t any openings despite the sign. 😆 \n\nSelfie a day for a year, day 155, Jan 21, 2026 edition.\n\n<img src=\"uploads/2026/9dc23860cf.jpg\" width=\"565\" height=\"600\" alt=\"A person wearing glasses and a beanie is sitting in front of a window with a sign for MVP Modern Barbers.\">\n",
+				"content_text": "Kid getting a hair did. I should’ve got my hair did but there weren’t any openings despite the sign. 😆 \n\nSelfie a day for a year, day 155, Jan 21, 2026 edition.\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/9dc23860cf.jpg\" width=\"565\" height=\"600\" alt=\"A person wearing glasses and a beanie is sitting in front of a window with a sign for MVP Modern Barbers.\">\n",
 				"date_published": "2026-01-21T13:48:54-06:00",
 				"url": "https://microblog.chrisenns.com/2026/01/21/kid-getting-a-hair-did.html",
 				"tags": ["Microposts"]
