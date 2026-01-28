@@ -7,6 +7,51 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2026/01/28/just-heard-about-another-cool.html",
+				
+				"content_html": "<p>Just heard about another cool #music web app (via the ShopTalk Show D-d-d-d-d-discord) called Melt that collects your 25 most listened to tracks each month and builds a playlist for you. <a href=\"https://melt.fm/profile/ichris\">https://melt.fm/profile/ichris</a></p>\n<p>More fun on the web like this please!</p>\n",
+				"content_text": "Just heard about another cool #music web app (via the ShopTalk Show D-d-d-d-d-discord) called Melt that collects your 25 most listened to tracks each month and builds a playlist for you. <https://melt.fm/profile/ichris>\n\nMore fun on the web like this please!\n",
+				"date_published": "2026-01-28T11:18:59-06:00",
+				"url": "https://microblog.chrisenns.com/2026/01/28/just-heard-about-another-cool.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/01/28/if-all-youve-ever-experienced.html",
+				
+				"content_html": "<p>If all you&rsquo;ve ever experienced is Spotify&rsquo;s interface for uploading #podcast episodes, I hope some day you get to experience a proper podcast hosting company&rsquo;s user interface and realize how much nicer it can be to prep your show each week.</p>\n",
+				"content_text": "If all you've ever experienced is Spotify's interface for uploading #podcast episodes, I hope some day you get to experience a proper podcast hosting company's user interface and realize how much nicer it can be to prep your show each week.\n",
+				"date_published": "2026-01-28T10:05:44-06:00",
+				"url": "https://microblog.chrisenns.com/2026/01/28/if-all-youve-ever-experienced.html",
+				"tags": ["Podcasting","Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/01/27/hairdid-needed-selfie-a-day.html",
+				
+				"content_html": "<p>Hairdid needed.</p>\n<p>Selfie a day for a year, day 162, Jan 27, 2026 edition.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Hairdid needed. \n\nSelfie a day for a year, day 162, Jan 27, 2026 edition.\n\n<img src=\"uploads/2026/6123ce14d7.jpg\" width=\"450\" height=\"600\" alt=\"A person with glasses and a gray beard is looking at the camera with a curious expression, set against a softly blurred background.\">\n",
+				"date_published": "2026-01-27T17:31:35-06:00",
+				"url": "https://microblog.chrisenns.com/2026/01/27/hairdid-needed-selfie-a-day.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/01/27/new-blog-post-shrinking-season.html",
+				
+				"content_html": "<p>New blog post: <a href=\"https://chrisenns.com/2026/01/shrinking-season-3-trailer/\">Shrinking Season 3 Trailer</a></p>\n",
+				"content_text": "New blog post: [Shrinking Season 3 Trailer](https://chrisenns.com/2026/01/shrinking-season-3-trailer/)\n",
+				"date_published": "2026-01-27T16:07:36-06:00",
+				"url": "https://microblog.chrisenns.com/2026/01/27/new-blog-post-shrinking-season.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/01/27/apple-needs-find-the-courage.html",
+				
+				"content_html": "<p>Apple needs <a href=\"https://daringfireball.net/linked/2026/01/27/what-its-like-to-get-undressed-by-grok\">find the courage to remove the p0rn app formerly known as Twitter</a>.</p>\n",
+				"content_text": "Apple needs [find the courage to remove the p0rn app formerly known as Twitter](https://daringfireball.net/linked/2026/01/27/what-its-like-to-get-undressed-by-grok).\n",
+				"date_published": "2026-01-27T11:36:11-06:00",
+				"url": "https://microblog.chrisenns.com/2026/01/27/apple-needs-find-the-courage.html",
+				"tags": ["Microposts"]
+			},
+			{
 				"id": "http://ichris.micro.blog/2026/01/27/somehow-im-just-learning-about.html",
 				
 				"content_html": "<p>Somehow I&rsquo;m just learning about Crucial Tracks now. It&rsquo;s a social site where you get one post per day about a song you love or that&rsquo;s impacted you. That&rsquo;s the kind of social site I can get behind: <a href=\"https://app.crucialtracks.org/profile/ichris\">I&rsquo;m iChris over there</a>.</p>\n",
@@ -37,7 +82,7 @@
 				"id": "http://ichris.micro.blog/2026/01/26/spotify-is-so-committed-to.html",
 				
 				"content_html": "<p>Spotify is so committed to #podcast hosting that 6 years after buying Anchor for $340 million, they still use it for your official RSS feed if you host your podcast on Spotify.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Spotify is so committed to #podcast hosting that 6 years after buying Anchor for $340 million, they still use it for your official RSS feed if you host your podcast on Spotify.\n\n<img src=\"uploads/2026/cleanshot-2026-01-26-at-12.28.54.png\" width=\"403\" height=\"237\" alt=\"A web interface shows an RSS feed URL for distribution with a Copy button below.\">\n",
+				"content_text": "Spotify is so committed to #podcast hosting that 6 years after buying Anchor for $340 million, they still use it for your official RSS feed if you host your podcast on Spotify.\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/cleanshot-2026-01-26-at-12.28.54.png\" width=\"403\" height=\"237\" alt=\"A web interface shows an RSS feed URL for distribution with a Copy button below.\">\n",
 				"date_published": "2026-01-26T12:30:27-06:00",
 				"url": "https://microblog.chrisenns.com/2026/01/26/spotify-is-so-committed-to.html",
 				"tags": ["Podcasting","Microposts"]
