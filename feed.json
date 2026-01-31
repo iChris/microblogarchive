@@ -7,10 +7,37 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2026/01/30/wonder-man.html",
+				"title": "Wonder Man, 2026 - ★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/1068/2026/1485023-wonder-man-2026-0-600-0-900-crop.jpg\"/></p> <p>Watched on Friday January 30, 2026.</p>\n",
+				"date_published": "2026-01-30T23:10:25-06:00",
+				"url": "https://microblog.chrisenns.com/2026/01/30/wonder-man.html",
+				"tags": ["Longform"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/01/30/i-published-a-new-youtube.html",
+				
+				"content_html": "<p>I published a new YouTube video on my channel for anyone who wants to convert Logic Pro markers to a Markdown linked list for a #podcast website. Pretty small niche I realize. 😆 <a href=\"https://youtu.be/SDgd_MJ0zXE\">youtu.be/SDgd_MJ0z&hellip;</a></p>\n",
+				"content_text": "I published a new YouTube video on my channel for anyone who wants to convert Logic Pro markers to a Markdown linked list for a #podcast website. Pretty small niche I realize. 😆 [youtu.be/SDgd_MJ0z...](https://youtu.be/SDgd_MJ0zXE)\n",
+				"date_published": "2026-01-30T10:14:08-06:00",
+				"url": "https://microblog.chrisenns.com/2026/01/30/i-published-a-new-youtube.html",
+				"tags": ["Podcasting","Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/01/29/meh-selfie-a-day-for.html",
+				
+				"content_html": "<p>Meh.</p>\n<p>Selfie a day for a year, day 164, Jan 29, 2026 edition.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Meh. \n\nSelfie a day for a year, day 164, Jan 29, 2026 edition.\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/96de4c61d9.jpg\" width=\"450\" height=\"600\" alt=\"A bearded man wearing glasses and a t-shirt with text is taking a selfie indoors.\">\n",
+				"date_published": "2026-01-29T17:45:10-06:00",
+				"url": "https://microblog.chrisenns.com/2026/01/29/meh-selfie-a-day-for.html",
+				"tags": ["Microposts"]
+			},
+			{
 				"id": "http://ichris.micro.blog/2026/01/29/why-do-these-launch-screens.html",
 				
 				"content_html": "<p>Why do these launch screens for Pages, Numbers, Keynote, etc. make me feel like I&rsquo;m on a Windows computer?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Why do these launch screens for Pages, Numbers, Keynote, etc. make me feel like I'm on a Windows computer? \n\n<img src=\"uploads/2026/cleanshot-2026-01-29-at-12.19.25.png\" width=\"600\" height=\"464\" alt=\"A grayscale image of a person using a laptop displaying colorful graphs and data analytics is overlaid on a forest background, with a message about data collection and an option to continue.\">\n",
+				"content_text": "Why do these launch screens for Pages, Numbers, Keynote, etc. make me feel like I'm on a Windows computer? \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/cleanshot-2026-01-29-at-12.19.25.png\" width=\"600\" height=\"464\" alt=\"A grayscale image of a person using a laptop displaying colorful graphs and data analytics is overlaid on a forest background, with a message about data collection and an option to continue.\">\n",
 				"date_published": "2026-01-29T12:21:34-06:00",
 				"url": "https://microblog.chrisenns.com/2026/01/29/why-do-these-launch-screens.html",
 				"tags": ["Microposts"]
@@ -19,7 +46,7 @@
 				"id": "http://ichris.micro.blog/2026/01/28/life-goes-by-too-quickly.html",
 				
 				"content_html": "<p>Life goes by too quickly. One day you wake up and now you’re the parents The Tragically Hip were singing about.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Life goes by too quickly. One day you wake up and now you’re the parents The Tragically Hip were singing about. \n\n<img src=\"uploads/2026/fd40ecbaa2.jpg\" width=\"425\" height=\"600\" alt=\"A music player interface displays the song Wheat Kings by The Tragically Hip with visible lyrics on the screen.\">\n",
+				"content_text": "Life goes by too quickly. One day you wake up and now you’re the parents The Tragically Hip were singing about. \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/fd40ecbaa2.jpg\" width=\"425\" height=\"600\" alt=\"A music player interface displays the song Wheat Kings by The Tragically Hip with visible lyrics on the screen.\">\n",
 				"date_published": "2026-01-28T11:54:23-06:00",
 				"url": "https://microblog.chrisenns.com/2026/01/28/life-goes-by-too-quickly.html",
 				"tags": ["Microposts"]
@@ -46,7 +73,7 @@
 				"id": "http://ichris.micro.blog/2026/01/27/hairdid-needed-selfie-a-day.html",
 				
 				"content_html": "<p>Hairdid needed.</p>\n<p>Selfie a day for a year, day 162, Jan 27, 2026 edition.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Hairdid needed. \n\nSelfie a day for a year, day 162, Jan 27, 2026 edition.\n\n<img src=\"uploads/2026/6123ce14d7.jpg\" width=\"450\" height=\"600\" alt=\"A person with glasses and a gray beard is looking at the camera with a curious expression, set against a softly blurred background.\">\n",
+				"content_text": "Hairdid needed. \n\nSelfie a day for a year, day 162, Jan 27, 2026 edition.\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/6123ce14d7.jpg\" width=\"450\" height=\"600\" alt=\"A person with glasses and a gray beard is looking at the camera with a curious expression, set against a softly blurred background.\">\n",
 				"date_published": "2026-01-27T17:31:35-06:00",
 				"url": "https://microblog.chrisenns.com/2026/01/27/hairdid-needed-selfie-a-day.html",
 				"tags": ["Microposts"]
