@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2026/02/13/chickfila-edition-of-my-selfie.html",
+				
+				"content_html": "<p>Chick-fil-a edition of my #Selfie a day for a year, day 179, Feb 13, 2026 project.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Chick-fil-a edition of my #Selfie a day for a year, day 179, Feb 13, 2026 project.\n\n<img src=\"uploads/2026/ef88f033e3.jpg\" width=\"450\" height=\"600\" alt=\"A man with glasses sits at a table with a fast-food sandwich and drink.\">\n",
+				"date_published": "2026-02-13T19:22:44-06:00",
+				"url": "https://microblog.chrisenns.com/2026/02/13/chickfila-edition-of-my-selfie.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/02/12/no-i-will-not-be.html",
+				
+				"content_html": "<p>No, I will not be checking out your &ldquo;Substack&rdquo;. I don&rsquo;t tell people to check out my Buttondown, my Ghost, or my Transistor.</p>\n<p>I ask them to read my newsletter, my blog, or listen to my podcast.</p>\n",
+				"content_text": "No, I will not be checking out your \"Substack\". I don't tell people to check out my Buttondown, my Ghost, or my Transistor. \n\nI ask them to read my newsletter, my blog, or listen to my podcast.\n",
+				"date_published": "2026-02-12T15:56:29-06:00",
+				"url": "https://microblog.chrisenns.com/2026/02/12/no-i-will-not-be.html",
+				"tags": ["Podcasting","Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/02/12/theres-something-poetic-about-team.html",
+				
+				"content_html": "<p>There&rsquo;s something poetic about Team USA hockey having their goals overturned twice by the officials given all the rules their orange pumpkin leader they have thinking he doesn&rsquo;t have to follow any rules.</p>\n",
+				"content_text": "There's something poetic about Team USA hockey having their goals overturned twice by the officials given all the rules their orange pumpkin leader they have thinking he doesn't have to follow any rules.  \n",
+				"date_published": "2026-02-12T14:43:55-06:00",
+				"url": "https://microblog.chrisenns.com/2026/02/12/theres-something-poetic-about-team.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/02/12/this-is-the-beautiful-view.html",
+				
+				"content_html": "<p>This is the beautiful view of Italy we get during commercials for the Olympics on CBC Gem. 😍 (they do still show some commercials.)</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "This is the beautiful view of Italy we get during commercials for the Olympics on CBC Gem. 😍 (they do still show some commercials.)\n\n<img src=\"uploads/2026/cleanshot-2026-02-12-at-10.22.042x.png\" width=\"600\" height=\"342\" alt=\"A canal in a European city with boats and historic buildings lines each side, accompanied by a text overlay about Olympic Winter Games coverage.\">\n",
+				"date_published": "2026-02-12T10:26:34-06:00",
+				"url": "https://microblog.chrisenns.com/2026/02/12/this-is-the-beautiful-view.html",
+				"tags": ["Microposts"]
+			},
+			{
 				"id": "http://ichris.micro.blog/2026/02/12/what-a-goal-by-macklin.html",
 				
 				"content_html": "<p>What a goal by Macklin Celebrini. 1-0 Canada after the first. #GoCanadaGo</p>\n<!-- raw HTML omitted -->\n",
@@ -37,7 +73,7 @@
 				"id": "http://ichris.micro.blog/2026/02/09/skipped-the-weekend-selfies-its.html",
 				
 				"content_html": "<p>Skipped the weekend #selfies. It’s Monday. Whatcha doin?</p>\n<p>Selfie a day for a year, day 175, Feb 9, 2026 edition.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Skipped the weekend #selfies. It’s Monday. Whatcha doin?\n\nSelfie a day for a year, day 175, Feb 9, 2026 edition.\n\n<img src=\"uploads/2026/34bb73755d.jpg\" width=\"450\" height=\"600\" alt=\"A bearded man with glasses looks into the camera, standing in a room with a half-open door and an illustration on the wall behind him.\">\n",
+				"content_text": "Skipped the weekend #selfies. It’s Monday. Whatcha doin?\n\nSelfie a day for a year, day 175, Feb 9, 2026 edition.\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/34bb73755d.jpg\" width=\"450\" height=\"600\" alt=\"A bearded man with glasses looks into the camera, standing in a room with a half-open door and an illustration on the wall behind him.\">\n",
 				"date_published": "2026-02-09T17:14:55-06:00",
 				"url": "https://microblog.chrisenns.com/2026/02/09/skipped-the-weekend-selfies-its.html",
 				"tags": ["Microposts"]
@@ -694,7 +730,7 @@
 				"id": "http://ichris.micro.blog/2026/01/13/one-reason-i-wont-upgrade.html",
 				
 				"content_html": "<p>One reason I won&rsquo;t upgrade to the Apple Creator Studio bundle is so I can hang on to Pixelmator Pro&rsquo;s app icon. The new one is garbage.  (old / new)</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "One reason I won't upgrade to the Apple Creator Studio bundle is so I can hang on to Pixelmator Pro's app icon. The new one is garbage.  (old / new)\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/cleanshot-2026-01-13-at-10.28.25.png\" width=\"107\" height=\"108\" alt=\"Pixelmator Pro’s app icon for macOS with a paintbrush and colour pallette look\"><img src=\"https://cdn.uploads.micro.blog/1068/2026/cleanshot-2026-01-13-at-10.30.51.png\" width=\"194\" height=\"183\" alt=\"Pixelmator Pro’s new app icon on macOS is a rounded square with a floating border square and some lines?\">\n",
+				"content_text": "One reason I won't upgrade to the Apple Creator Studio bundle is so I can hang on to Pixelmator Pro's app icon. The new one is garbage.  (old / new)\n\n<img src=\"uploads/2026/cleanshot-2026-01-13-at-10.28.25.png\" width=\"107\" height=\"108\" alt=\"Pixelmator Pro’s app icon for macOS with a paintbrush and colour pallette look\"><img src=\"uploads/2026/cleanshot-2026-01-13-at-10.30.51.png\" width=\"194\" height=\"183\" alt=\"Pixelmator Pro’s new app icon on macOS is a rounded square with a floating border square and some lines?\">\n",
 				"date_published": "2026-01-13T10:31:41-06:00",
 				"url": "https://microblog.chrisenns.com/2026/01/13/one-reason-i-wont-upgrade.html",
 				"tags": ["Microposts"]
@@ -730,7 +766,7 @@
 				"id": "http://ichris.micro.blog/2026/01/10/stranger-things-the-finale.html",
 				"title": "Stranger Things 5: The Finale, 2025 - ★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/1068/2026/1440334-stranger-things-5-the-finale-0-600-0-900-crop.jpg\"/></p> <p>I don’t know what everyone expected the finale to be like, but having rewatched season 1 before watching this season, it felt like it wrapped up in a way fitting to how it started. I loved it.</p>\n",
+				"content_text": "<p><img src=\"uploads/2026/1440334-stranger-things-5-the-finale-0-600-0-900-crop.jpg\"/></p> <p>I don’t know what everyone expected the finale to be like, but having rewatched season 1 before watching this season, it felt like it wrapped up in a way fitting to how it started. I loved it.</p>\n",
 				"date_published": "2026-01-10T22:08:03-06:00",
 				"url": "https://microblog.chrisenns.com/2026/01/10/stranger-things-the-finale.html",
 				"tags": ["Longform"]
@@ -838,7 +874,7 @@
 				"id": "http://ichris.micro.blog/2026/01/07/frozen-in-a-rink-today.html",
 				
 				"content_html": "<p>Frozen in a rink today. At least there’s hot chocolate.</p>\n<p>Selfie a day for a year, day 142, Jan 7, 2026 edition.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Frozen in a rink today. At least there’s hot chocolate. \n\nSelfie a day for a year, day 142, Jan 7, 2026 edition.\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/35d3073977.jpg\" width=\"450\" height=\"600\" alt=\"A man with glasses and a cap is holding a coffee cup while wearing a dark jacket.\">\n",
+				"content_text": "Frozen in a rink today. At least there’s hot chocolate. \n\nSelfie a day for a year, day 142, Jan 7, 2026 edition.\n\n<img src=\"uploads/2026/35d3073977.jpg\" width=\"450\" height=\"600\" alt=\"A man with glasses and a cap is holding a coffee cup while wearing a dark jacket.\">\n",
 				"date_published": "2026-01-07T21:09:23-06:00",
 				"url": "https://microblog.chrisenns.com/2026/01/07/frozen-in-a-rink-today.html",
 				"tags": ["Microposts"]
@@ -1063,7 +1099,7 @@
 				"id": "http://ichris.micro.blog/2025/12/28/winter-is-when-i-remember.html",
 				
 				"content_html": "<p>Winter is when I remember how bad Apple Weather is. Foreca is the other app with actual Canadian weather data.</p>\n<p>Feels like -21C is very different than -36C.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Winter is when I remember how bad Apple Weather is. Foreca is the other app with actual Canadian weather data.\n\nFeels like -21C is very different than -36C. \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2025/d392e6e058.jpg\" width=\"480\" height=\"600\" alt=\"A weather app displays Saskatoon's temperature as -27°C, feeling like -36°C with clear skies.\"><img src=\"https://cdn.uploads.micro.blog/1068/2025/33164ee922.jpg\" width=\"424\" height=\"600\" alt=\"Saskatoon is experiencing extremely cold weather with a temperature of -24°C and a feels-like temperature of -21°C, accompanied by an extreme cold warning.\">\n",
+				"content_text": "Winter is when I remember how bad Apple Weather is. Foreca is the other app with actual Canadian weather data.\n\nFeels like -21C is very different than -36C. \n\n<img src=\"uploads/2025/d392e6e058.jpg\" width=\"480\" height=\"600\" alt=\"A weather app displays Saskatoon's temperature as -27°C, feeling like -36°C with clear skies.\"><img src=\"uploads/2025/33164ee922.jpg\" width=\"424\" height=\"600\" alt=\"Saskatoon is experiencing extremely cold weather with a temperature of -24°C and a feels-like temperature of -21°C, accompanied by an extreme cold warning.\">\n",
 				"date_published": "2025-12-28T11:03:10-06:00",
 				"url": "https://microblog.chrisenns.com/2025/12/28/winter-is-when-i-remember.html",
 				"tags": ["Microposts"]
@@ -1081,7 +1117,7 @@
 				"id": "http://ichris.micro.blog/2025/12/27/genie.html",
 				"title": "Genie, 2023 - ★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"uploads/2025/1075190-genie-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday December 27, 2025.</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/1068/2025/1075190-genie-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday December 27, 2025.</p>\n",
 				"date_published": "2025-12-27T11:37:27-06:00",
 				"url": "https://microblog.chrisenns.com/2025/12/27/genie.html",
 				"tags": ["Longform"]
@@ -1090,7 +1126,7 @@
 				"id": "http://ichris.micro.blog/2025/12/27/all-the-xmas-treat-favs.html",
 				
 				"content_html": "<p>All the Xmas treat favs 🥑</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "All the Xmas treat favs 🥑 \n\n<img src=\"uploads/2025/18ac22d5f1.jpg\" width=\"600\" height=\"481\" alt=\"A messy tabletop is covered with broken graham crackers, marshmallow remnants, a bowl with an avocado, and a small bowl containing assorted chocolates.\">\n",
+				"content_text": "All the Xmas treat favs 🥑 \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2025/18ac22d5f1.jpg\" width=\"600\" height=\"481\" alt=\"A messy tabletop is covered with broken graham crackers, marshmallow remnants, a bowl with an avocado, and a small bowl containing assorted chocolates.\">\n",
 				"date_published": "2025-12-27T10:14:51-06:00",
 				"url": "https://microblog.chrisenns.com/2025/12/27/all-the-xmas-treat-favs.html",
 				"tags": ["Microposts"]
@@ -1099,7 +1135,7 @@
 				"id": "http://ichris.micro.blog/2025/12/27/waiting-for-a-dog-to.html",
 				
 				"content_html": "<p>Waiting for a dog to decide to come inside rather than sit in the snow. 😆</p>\n<p>Late #Selfie of the day for a year, day 130, Dec 26, 2025 edition.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Waiting for a dog to decide to come inside rather than sit in the snow. 😆 \n\nLate #Selfie of the day for a year, day 130, Dec 26, 2025 edition.\n\n<img src=\"uploads/2025/b78cf84584.jpg\" width=\"450\" height=\"600\" alt=\"A person with glasses and facial hair is standing outside on a snowy evening next to animal footprints.\"><img src=\"uploads/2025/e10a15468f.jpg\" width=\"600\" height=\"593\" alt=\"A snowy backyard scene features a dog sitting near a patio area with snow-covered furniture.\">\n",
+				"content_text": "Waiting for a dog to decide to come inside rather than sit in the snow. 😆 \n\nLate #Selfie of the day for a year, day 130, Dec 26, 2025 edition.\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2025/b78cf84584.jpg\" width=\"450\" height=\"600\" alt=\"A person with glasses and facial hair is standing outside on a snowy evening next to animal footprints.\"><img src=\"https://cdn.uploads.micro.blog/1068/2025/e10a15468f.jpg\" width=\"600\" height=\"593\" alt=\"A snowy backyard scene features a dog sitting near a patio area with snow-covered furniture.\">\n",
 				"date_published": "2025-12-27T00:16:43-06:00",
 				"url": "https://microblog.chrisenns.com/2025/12/27/waiting-for-a-dog-to.html",
 				"tags": ["Microposts"]
@@ -1162,7 +1198,7 @@
 				"id": "http://ichris.micro.blog/2025/12/23/c-feels-like-c-edition.html",
 				
 				"content_html": "<p>-15C, feels like -20C edition.</p>\n<p>#Selfie a day for a year, day 127, Dec 23, 2025 edition.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "-15C, feels like -20C edition. \n\n#Selfie a day for a year, day 127, Dec 23, 2025 edition.\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2025/e4b56707a5.jpg\" width=\"450\" height=\"600\" alt=\"A person wearing a red beanie, glasses, and a scarf around their face is standing on a snow-covered path.\">\n",
+				"content_text": "-15C, feels like -20C edition. \n\n#Selfie a day for a year, day 127, Dec 23, 2025 edition.\n\n<img src=\"uploads/2025/e4b56707a5.jpg\" width=\"450\" height=\"600\" alt=\"A person wearing a red beanie, glasses, and a scarf around their face is standing on a snow-covered path.\">\n",
 				"date_published": "2025-12-23T15:37:54-06:00",
 				"url": "https://microblog.chrisenns.com/2025/12/23/c-feels-like-c-edition.html",
 				"tags": ["Microposts"]
@@ -1171,7 +1207,7 @@
 				"id": "http://ichris.micro.blog/2025/12/23/wake-up-dead-man.html",
 				"title": "Wake Up Dead Man, 2025 - ★★★★½",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/1068/2025/e147dfbdaf.jpg\"/></p> <p>Watched on Sunday December 21, 2025.</p>\n",
+				"content_text": "<p><img src=\"uploads/2025/e147dfbdaf.jpg\"/></p> <p>Watched on Sunday December 21, 2025.</p>\n",
 				"date_published": "2025-12-23T01:07:47-06:00",
 				"url": "https://microblog.chrisenns.com/2025/12/23/wake-up-dead-man.html",
 				"tags": ["Longform"]
@@ -1189,7 +1225,7 @@
 				"id": "http://ichris.micro.blog/2025/12/20/dad-stop-holding-the-camera.html",
 				
 				"content_html": "<p>“Dad stop holding the camera up so high—you look like you’re posting on Facebook.” 😆</p>\n<p>#Selfie a day for a year, day 124, Dec 20, 2025 edition.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "“Dad stop holding the camera up so high—you look like you’re posting on Facebook.” 😆 \n\n#Selfie a day for a year, day 124, Dec 20, 2025 edition.\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2025/22365968b7.jpg\" width=\"450\" height=\"600\" alt=\"A person with glasses holds a glass containing a light-colored beverage.\">\n",
+				"content_text": "“Dad stop holding the camera up so high—you look like you’re posting on Facebook.” 😆 \n\n#Selfie a day for a year, day 124, Dec 20, 2025 edition.\n\n<img src=\"uploads/2025/22365968b7.jpg\" width=\"450\" height=\"600\" alt=\"A person with glasses holds a glass containing a light-colored beverage.\">\n",
 				"date_published": "2025-12-20T20:57:04-06:00",
 				"url": "https://microblog.chrisenns.com/2025/12/20/dad-stop-holding-the-camera.html",
 				"tags": ["Microposts"]
@@ -1225,7 +1261,7 @@
 				"id": "http://ichris.micro.blog/2025/12/18/i-was-in-the-penalty.html",
 				
 				"content_html": "<p>I was in the penalty box all night. 🥶</p>\n<p>Selfie a day for a year, day 122, Dec 18, 2025 edition. #hockey</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I was in the penalty box all night. 🥶 \n\nSelfie a day for a year, day 122, Dec 18, 2025 edition. #hockey\n\n<img src=\"uploads/2025/8a9334728e.jpg\" width=\"450\" height=\"600\" alt=\"A person wearing glasses and a cap stands next to an ice hockey rink with benches and gear nearby.\">\n",
+				"content_text": "I was in the penalty box all night. 🥶 \n\nSelfie a day for a year, day 122, Dec 18, 2025 edition. #hockey\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2025/8a9334728e.jpg\" width=\"450\" height=\"600\" alt=\"A person wearing glasses and a cap stands next to an ice hockey rink with benches and gear nearby.\">\n",
 				"date_published": "2025-12-18T23:08:15-06:00",
 				"url": "https://microblog.chrisenns.com/2025/12/18/i-was-in-the-penalty.html",
 				"tags": ["Microposts"]
@@ -1639,7 +1675,7 @@
 				"id": "http://ichris.micro.blog/2025/12/03/letting-sleeping-dogs-lie-or.html",
 				
 				"content_html": "<p>Letting sleeping dogs lie or whatever that saying is.</p>\n<p>#Selfie a day for a year, day 107, Dec 3, 2025 edition.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Letting sleeping dogs lie or whatever that saying is. \n\n#Selfie a day for a year, day 107, Dec 3, 2025 edition.\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2025/cbfae3eaa4.jpg\" width=\"449\" height=\"600\" alt=\"A person with glasses is sitting on the floor next to a sleeping dog.\">\n",
+				"content_text": "Letting sleeping dogs lie or whatever that saying is. \n\n#Selfie a day for a year, day 107, Dec 3, 2025 edition.\n\n<img src=\"uploads/2025/cbfae3eaa4.jpg\" width=\"449\" height=\"600\" alt=\"A person with glasses is sitting on the floor next to a sleeping dog.\">\n",
 				"date_published": "2025-12-03T23:30:30-06:00",
 				"url": "https://microblog.chrisenns.com/2025/12/03/letting-sleeping-dogs-lie-or.html",
 				"tags": ["Microposts"]
@@ -1774,7 +1810,7 @@
 				"id": "http://ichris.micro.blog/2025/11/28/wake-up-dead-man.html",
 				"title": "Wake Up Dead Man, 2025 - ★★★★½",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"uploads/2025/729113-wake-up-dead-man-0-600-0-900-crop.jpg\"/></p> <p>Watched on Friday November 28, 2025.</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/1068/2025/729113-wake-up-dead-man-0-600-0-900-crop.jpg\"/></p> <p>Watched on Friday November 28, 2025.</p>\n",
 				"date_published": "2025-11-28T21:34:40-06:00",
 				"url": "https://microblog.chrisenns.com/2025/11/28/wake-up-dead-man.html",
 				"tags": ["Longform"]
