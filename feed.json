@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2026/03/27/even-old-testament-god-is.html",
+				
+				"content_html": "<p>Even Old Testament God is against Ai.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Even Old Testament God is against Ai. \n\n<img src=\"uploads/2026/cleanshot-2026-03-27-at-10.32.36.png\" width=\"600\" height=\"233\" alt=\"A passage from Joshua 8 in the New International Version of the Bible describes God's instructions to Joshua for attacking the city of Ai.\">\n",
+				"date_published": "2026-03-27T10:33:24-06:00",
+				"url": "https://microblog.chrisenns.com/2026/03/27/even-old-testament-god-is.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/03/26/i-love-this-integration-between.html",
+				
+				"content_html": "<p>I love <a href=\"https://ghost.org/changelog/transistor/\">this integration between Ghost and Transistor</a> for private, members-only podcasting.</p>\n",
+				"content_text": "I love [this integration between Ghost and Transistor](https://ghost.org/changelog/transistor/) for private, members-only podcasting.\n",
+				"date_published": "2026-03-26T09:39:14-06:00",
+				"url": "https://microblog.chrisenns.com/2026/03/26/i-love-this-integration-between.html",
+				"tags": ["Podcasting","Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/03/26/i-just-saw-the-dog.html",
+				
+				"content_html": "<p>I just saw the dog stub his paw on one of his toys while walking across the rug, and it was kinda satisfying. (He’s fine.)</p>\n",
+				"content_text": "I just saw the dog stub his paw on one of his toys while walking across the rug, and it was kinda satisfying. (He’s fine.)\n",
+				"date_published": "2026-03-26T08:04:37-06:00",
+				"url": "https://microblog.chrisenns.com/2026/03/26/i-just-saw-the-dog.html",
+				"tags": ["Microposts"]
+			},
+			{
 				"id": "http://ichris.micro.blog/2026/03/25/i-dont-know-why-fortnite.html",
 				
 				"content_html": "<p>I don&rsquo;t know why #Fortnite / Epic Games are struggling to pay their bills when they&rsquo;ve got such inspired cross-promotions as this going on?</p>\n<!-- raw HTML omitted -->\n",
@@ -28,7 +55,7 @@
 				"id": "http://ichris.micro.blog/2026/03/24/sometimes-i-need-to-lay.html",
 				
 				"content_html": "<p>Sometimes I need to lay on the floor and stare at the ceiling. Neville refused to cooperate and join me.</p>\n<p>Selfie a day for a year, day 217, Mar 24, 2026 edition. #selfie</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Sometimes I need to lay on the floor and stare at the ceiling. Neville refused to cooperate and join me. \n\nSelfie a day for a year, day 217, Mar 24, 2026 edition. #selfie\n\n<img src=\"uploads/2026/a6e3c5b0ba.jpg\" width=\"450\" height=\"600\" alt=\"A person with glasses and a beard is lying down, wearing a dark shirt with a graphic design.\"><img src=\"uploads/2026/aeca3faa27.jpg\" width=\"585\" height=\"600\" alt=\"A fluffy dog sits on a carpeted floor in front of a fireplace with framed artwork above.\">\n",
+				"content_text": "Sometimes I need to lay on the floor and stare at the ceiling. Neville refused to cooperate and join me. \n\nSelfie a day for a year, day 217, Mar 24, 2026 edition. #selfie\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/a6e3c5b0ba.jpg\" width=\"450\" height=\"600\" alt=\"A person with glasses and a beard is lying down, wearing a dark shirt with a graphic design.\"><img src=\"https://cdn.uploads.micro.blog/1068/2026/aeca3faa27.jpg\" width=\"585\" height=\"600\" alt=\"A fluffy dog sits on a carpeted floor in front of a fireplace with framed artwork above.\">\n",
 				"date_published": "2026-03-24T22:03:34-06:00",
 				"url": "https://microblog.chrisenns.com/2026/03/24/sometimes-i-need-to-lay.html",
 				"tags": ["Microposts"]
