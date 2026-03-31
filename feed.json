@@ -7,11 +7,20 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2026/03/31/looks-like-ecamm-live-now.html",
+				
+				"content_html": "<p>Looks like <a href=\"https://www.ecamm.com/mac/ecammlive/?fp_ref=ichris\">Ecamm Live</a> (now just named Ecamm) just added dual format streaming support so you can do landscape and vertical streaming and recording from one shot. Sweet! Can&rsquo;t wait to test it out sometime.</p>\n",
+				"content_text": "Looks like [Ecamm Live](https://www.ecamm.com/mac/ecammlive/?fp_ref=ichris) (now just named Ecamm) just added dual format streaming support so you can do landscape and vertical streaming and recording from one shot. Sweet! Can't wait to test it out sometime.\n",
+				"date_published": "2026-03-31T12:14:52-07:00",
+				"url": "https://microblog.chrisenns.com/2026/03/31/looks-like-ecamm-live-now.html",
+				"tags": ["Microposts"]
+			},
+			{
 				"id": "http://ichris.micro.blog/2026/03/29/train-dreams.html",
 				"title": "Train Dreams, 2025 - ★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img src=\"uploads/2026/1125383-train-dreams-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday March 28, 2026.</p>\n",
-				"date_published": "2026-03-29T00:12:15-06:00",
+				"date_published": "2026-03-28T23:12:15-07:00",
 				"url": "https://microblog.chrisenns.com/2026/03/29/train-dreams.html",
 				"tags": ["Longform"]
 			},
@@ -20,7 +29,7 @@
 				
 				"content_html": "<p>Take out only edition of my #Selfie a day (ish) for a year, day 220, Mar 27, 2026 edition.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "Take out only edition of my #Selfie a day (ish) for a year, day 220, Mar 27, 2026 edition.\n\n<img src=\"uploads/2026/182f49ec23.jpg\" width=\"450\" height=\"600\" alt=\"A person wearing glasses and a cap is looking at the camera from a low angle, with a ceiling and brick wall in the background.\"><img src=\"uploads/2026/865e50d729.jpg\" width=\"484\" height=\"600\" alt=\"A monochromatic café interior features a wooden wall with contemporary art, metal chairs, and a Take Out Only sign.\">\n",
-				"date_published": "2026-03-27T19:04:58-06:00",
+				"date_published": "2026-03-27T18:04:58-07:00",
 				"url": "https://microblog.chrisenns.com/2026/03/27/take-out-only-edition-of.html",
 				"tags": ["Microposts"]
 			},
@@ -29,7 +38,7 @@
 				
 				"content_html": "<p>“Forever” live from Fenway Park. Send.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "“Forever” live from Fenway Park. Send. \n\n<img src=\"uploads/2026/66e7b97859.jpg\" width=\"376\" height=\"600\" alt=\"Noah Kahan performs on stage at Fenway Park in front of a large, cheering crowd, with colorful lights illuminating the scene.\">\n",
-				"date_published": "2026-03-27T18:59:34-06:00",
+				"date_published": "2026-03-27T17:59:34-07:00",
 				"url": "https://microblog.chrisenns.com/2026/03/27/forever-live-from-fenway-park.html",
 				"tags": ["Microposts"]
 			},
@@ -38,7 +47,7 @@
 				
 				"content_html": "<p>Even Old Testament God is against Ai.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Even Old Testament God is against Ai. \n\n<img src=\"uploads/2026/cleanshot-2026-03-27-at-10.32.36.png\" width=\"600\" height=\"233\" alt=\"A passage from Joshua 8 in the New International Version of the Bible describes God's instructions to Joshua for attacking the city of Ai.\">\n",
-				"date_published": "2026-03-27T10:33:24-06:00",
+				"date_published": "2026-03-27T09:33:24-07:00",
 				"url": "https://microblog.chrisenns.com/2026/03/27/even-old-testament-god-is.html",
 				"tags": ["Microposts"]
 			},
@@ -803,7 +812,7 @@
 				"title": "Ocean\u0026#039;s Eleven, 2001 - ★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img src=\"uploads/2026/51890-oceans-eleven-2001-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday February 21, 2026.</p>\n",
-				"date_published": "2026-02-21T23:01:11-06:00",
+				"date_published": "2026-02-21T22:01:11-07:00",
 				"url": "https://microblog.chrisenns.com/2026/02/21/oceans-eleven.html",
 				"tags": ["Longform"]
 			},
