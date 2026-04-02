@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2026/04/02/i-really-admire-mexicos-ability.html",
+				
+				"content_html": "<p>I really admire Mexico&rsquo;s ability to jump on a trend and get it to all the small markets so quickly.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I really admire Mexico's ability to jump on a trend and get it to all the small markets so quickly. \n\n<img src=\"uploads/2026/d8152068b3.jpg\" width=\"449\" height=\"600\" alt=\"Two T-shirts are displayed, one with the text FRIENDS ALWAYS featuring clasped hands with Canadian and Mexican flags, and the other with a donkey logo and Juan Deere text.\">\n",
+				"date_published": "2026-04-02T12:31:29-07:00",
+				"url": "https://microblog.chrisenns.com/2026/04/02/i-really-admire-mexicos-ability.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/03/31/coco.html",
+				"title": "Coco, 2017 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"uploads/2026/f3abe26b6f.jpg\"/></p> <p>Watched on Tuesday March 31, 2026.</p>\n",
+				"date_published": "2026-03-31T23:12:34-07:00",
+				"url": "https://microblog.chrisenns.com/2026/03/31/coco.html",
+				"tags": ["Longform"]
+			},
+			{
 				"id": "http://ichris.micro.blog/2026/03/31/looks-like-ecamm-live-now.html",
 				
 				"content_html": "<p>Looks like <a href=\"https://www.ecamm.com/mac/ecammlive/?fp_ref=ichris\">Ecamm Live</a> (now just named Ecamm) just added dual format streaming support so you can do landscape and vertical streaming and recording from one shot. Sweet! Can&rsquo;t wait to test it out sometime.</p>\n",
@@ -37,7 +55,7 @@
 				"id": "http://ichris.micro.blog/2026/03/27/forever-live-from-fenway-park.html",
 				
 				"content_html": "<p>“Forever” live from Fenway Park. Send.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "“Forever” live from Fenway Park. Send. \n\n<img src=\"uploads/2026/66e7b97859.jpg\" width=\"376\" height=\"600\" alt=\"Noah Kahan performs on stage at Fenway Park in front of a large, cheering crowd, with colorful lights illuminating the scene.\">\n",
+				"content_text": "“Forever” live from Fenway Park. Send. \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/66e7b97859.jpg\" width=\"376\" height=\"600\" alt=\"Noah Kahan performs on stage at Fenway Park in front of a large, cheering crowd, with colorful lights illuminating the scene.\">\n",
 				"date_published": "2026-03-27T17:59:34-07:00",
 				"url": "https://microblog.chrisenns.com/2026/03/27/forever-live-from-fenway-park.html",
 				"tags": ["Microposts"]
@@ -46,7 +64,7 @@
 				"id": "http://ichris.micro.blog/2026/03/27/even-old-testament-god-is.html",
 				
 				"content_html": "<p>Even Old Testament God is against Ai.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Even Old Testament God is against Ai. \n\n<img src=\"uploads/2026/cleanshot-2026-03-27-at-10.32.36.png\" width=\"600\" height=\"233\" alt=\"A passage from Joshua 8 in the New International Version of the Bible describes God's instructions to Joshua for attacking the city of Ai.\">\n",
+				"content_text": "Even Old Testament God is against Ai. \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/cleanshot-2026-03-27-at-10.32.36.png\" width=\"600\" height=\"233\" alt=\"A passage from Joshua 8 in the New International Version of the Bible describes God's instructions to Joshua for attacking the city of Ai.\">\n",
 				"date_published": "2026-03-27T09:33:24-07:00",
 				"url": "https://microblog.chrisenns.com/2026/03/27/even-old-testament-god-is.html",
 				"tags": ["Microposts"]
@@ -118,7 +136,7 @@
 				"id": "http://ichris.micro.blog/2026/03/23/i-finally-ordered-a-switch.html",
 				
 				"content_html": "<p>I finally ordered a switch (not the fun kind) and some network cables to wire in my Mac Studio, which improved upload / download speeds slightly.</p>\n<p>More importantly, it brought my Jitter down by 2ms and yet somehow I feel even more anxious this morning than I did before.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "I finally ordered a switch (not the fun kind) and some network cables to wire in my Mac Studio, which improved upload / download speeds slightly.\n\nMore importantly, it brought my Jitter down by 2ms and yet somehow I feel even more anxious this morning than I did before.\n\n<img src=\"uploads/2026/2026-03-20-speed-test-before-switch.png\" width=\"426\" height=\"600\" alt=\"A speed test result shows a download speed of 721 Mbps and an upload speed of 112 Mbps.\"><img src=\"uploads/2026/2026-03-20-speed-test-wired-wifi-on.png\" width=\"426\" height=\"600\" alt=\"A speed test result shows download and upload speeds of 888 Mbps and 118 Mbps, respectively, with a ping of 54 ms.\">\n",
+				"content_text": "I finally ordered a switch (not the fun kind) and some network cables to wire in my Mac Studio, which improved upload / download speeds slightly.\n\nMore importantly, it brought my Jitter down by 2ms and yet somehow I feel even more anxious this morning than I did before.\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/2026-03-20-speed-test-before-switch.png\" width=\"426\" height=\"600\" alt=\"A speed test result shows a download speed of 721 Mbps and an upload speed of 112 Mbps.\"><img src=\"https://cdn.uploads.micro.blog/1068/2026/2026-03-20-speed-test-wired-wifi-on.png\" width=\"426\" height=\"600\" alt=\"A speed test result shows download and upload speeds of 888 Mbps and 118 Mbps, respectively, with a ping of 54 ms.\">\n",
 				"date_published": "2026-03-23T10:46:34-06:00",
 				"url": "https://microblog.chrisenns.com/2026/03/23/i-finally-ordered-a-switch.html",
 				"tags": ["Microposts"]
@@ -127,7 +145,7 @@
 				"id": "http://ichris.micro.blog/2026/03/22/a-snoring-dog-coffee-and.html",
 				
 				"content_html": "<p>A snoring dog, coffee, and a book to pretend to read while my phone scrolls through the doom. Neville’s got the right idea on how to Sunday.</p>\n<p>Selfie a day for a year, day 215, Mar 22, 2026 edition.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "A snoring dog, coffee, and a book to pretend to read while my phone scrolls through the doom. Neville’s got the right idea on how to Sunday. \n\nSelfie a day for a year, day 215, Mar 22, 2026 edition.\n\n<img src=\"uploads/2026/ac28de8e65.jpg\" width=\"455\" height=\"600\" alt=\"A fluffy, curly-haired dog is sleeping comfortably on a brown leather couch.\"><img src=\"uploads/2026/e5aedb18bb.jpg\" width=\"450\" height=\"600\" alt=\"A Kobo e-reader displays the cover of The Way of Kings by Brandon Sanderson, positioned in front of a cozy fireplace.\"><img src=\"uploads/2026/0dd4c50b8b.jpg\" width=\"450\" height=\"600\" alt=\"A person with glasses is sitting on a couch, holding a mug with a geometric black and white pattern.\">\n",
+				"content_text": "A snoring dog, coffee, and a book to pretend to read while my phone scrolls through the doom. Neville’s got the right idea on how to Sunday. \n\nSelfie a day for a year, day 215, Mar 22, 2026 edition.\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/ac28de8e65.jpg\" width=\"455\" height=\"600\" alt=\"A fluffy, curly-haired dog is sleeping comfortably on a brown leather couch.\"><img src=\"https://cdn.uploads.micro.blog/1068/2026/e5aedb18bb.jpg\" width=\"450\" height=\"600\" alt=\"A Kobo e-reader displays the cover of The Way of Kings by Brandon Sanderson, positioned in front of a cozy fireplace.\"><img src=\"https://cdn.uploads.micro.blog/1068/2026/0dd4c50b8b.jpg\" width=\"450\" height=\"600\" alt=\"A person with glasses is sitting on a couch, holding a mug with a geometric black and white pattern.\">\n",
 				"date_published": "2026-03-22T09:11:39-06:00",
 				"url": "https://microblog.chrisenns.com/2026/03/22/a-snoring-dog-coffee-and.html",
 				"tags": ["Microposts"]
@@ -253,7 +271,7 @@
 				"id": "http://ichris.micro.blog/2026/03/15/im-currently-at-chapter-of.html",
 				
 				"content_html": "<p>I’m currently at chapter 3 of The Way of Kings. Apparently it’s a 45hr audio book so I think I still have a ways to go. I might need more coffee.</p>\n<p>#Selfie a day for a year, day 208, Mar 15, 2026 edition.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "I’m currently at chapter 3 of The Way of Kings. Apparently it’s a 45hr audio book so I think I still have a ways to go. I might need more coffee. \n\n#Selfie a day for a year, day 208, Mar 15, 2026 edition.\n\n<img src=\"uploads/2026/c887bf7f77.jpg\" width=\"450\" height=\"600\" alt=\"A person wearing glasses is sipping from a mug with a black and white geometric pattern.\"><img src=\"uploads/2026/df6efb323f.jpg\" width=\"450\" height=\"600\" alt=\"A hand is holding an e-reader displaying the cover of The Way of Kings by Brandon Sanderson.\">\n",
+				"content_text": "I’m currently at chapter 3 of The Way of Kings. Apparently it’s a 45hr audio book so I think I still have a ways to go. I might need more coffee. \n\n#Selfie a day for a year, day 208, Mar 15, 2026 edition.\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/c887bf7f77.jpg\" width=\"450\" height=\"600\" alt=\"A person wearing glasses is sipping from a mug with a black and white geometric pattern.\"><img src=\"https://cdn.uploads.micro.blog/1068/2026/df6efb323f.jpg\" width=\"450\" height=\"600\" alt=\"A hand is holding an e-reader displaying the cover of The Way of Kings by Brandon Sanderson.\">\n",
 				"date_published": "2026-03-15T09:35:37-06:00",
 				"url": "https://microblog.chrisenns.com/2026/03/15/im-currently-at-chapter-of.html",
 				"tags": ["Microposts"]
@@ -289,7 +307,7 @@
 				"id": "http://ichris.micro.blog/2026/03/12/please-clap-i-managed-to.html",
 				
 				"content_html": "<p>Please clap: I managed to run the scoreboard and not make any game stopping mistakes. 😮‍💨 (oh and they won the first game of their playoffs too which is also good.)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Please clap: I managed to run the scoreboard and not make any game stopping mistakes. 😮‍💨 (oh and they won the first game of their playoffs too which is also good.)\n\n<img src=\"uploads/2026/d8fafda942.jpg\" width=\"463\" height=\"600\" alt=\"A control panel with buttons and a telephone is positioned at an ice hockey rink, viewed from inside a booth.\">\n",
+				"content_text": "Please clap: I managed to run the scoreboard and not make any game stopping mistakes. 😮‍💨 (oh and they won the first game of their playoffs too which is also good.)\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/d8fafda942.jpg\" width=\"463\" height=\"600\" alt=\"A control panel with buttons and a telephone is positioned at an ice hockey rink, viewed from inside a booth.\">\n",
 				"date_published": "2026-03-12T22:56:26-06:00",
 				"url": "https://microblog.chrisenns.com/2026/03/12/please-clap-i-managed-to.html",
 				"tags": ["Microposts"]
@@ -361,7 +379,7 @@
 				"id": "http://ichris.micro.blog/2026/03/09/manifesting-real-spring-by-bbqing.html",
 				
 				"content_html": "<p>Manifesting real spring by bbq’ing for supper.</p>\n<p>#Selfie a day for a year, day 202, Mar 9, 2026 edition.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Manifesting real spring by bbq’ing for supper. \n\n\n#Selfie a day for a year, day 202, Mar 9, 2026 edition.\n\n<img src=\"uploads/2026/6fec4e9fb7.jpg\" width=\"494\" height=\"600\" alt=\"A person wearing glasses is grilling sausages on an outdoor barbecue.\">\n",
+				"content_text": "Manifesting real spring by bbq’ing for supper. \n\n\n#Selfie a day for a year, day 202, Mar 9, 2026 edition.\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/6fec4e9fb7.jpg\" width=\"494\" height=\"600\" alt=\"A person wearing glasses is grilling sausages on an outdoor barbecue.\">\n",
 				"date_published": "2026-03-09T18:37:43-06:00",
 				"url": "https://microblog.chrisenns.com/2026/03/09/manifesting-real-spring-by-bbqing.html",
 				"tags": ["Microposts"]
@@ -460,7 +478,7 @@
 				"id": "http://ichris.micro.blog/2026/03/05/someone-designed-these-in-the.html",
 				
 				"content_html": "<p>Someone designed these in the late 80’s to inflict maximum panic on parents trying to get  penalty details entered correctly before the ref drops the puck and everyone starts yelling at you to “Start the clock!”</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Someone designed these in the late 80’s to inflict maximum panic on parents trying to get  penalty details entered correctly before the ref drops the puck and everyone starts yelling at you to “Start the clock!”\n\n<img src=\"uploads/2026/62f3ea3c36.jpg\" width=\"509\" height=\"600\" alt=\"A digital scoreboard and control panel face an empty ice rink with advertisement banners in the background.\">\n",
+				"content_text": "Someone designed these in the late 80’s to inflict maximum panic on parents trying to get  penalty details entered correctly before the ref drops the puck and everyone starts yelling at you to “Start the clock!”\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/62f3ea3c36.jpg\" width=\"509\" height=\"600\" alt=\"A digital scoreboard and control panel face an empty ice rink with advertisement banners in the background.\">\n",
 				"date_published": "2026-03-05T23:55:35-06:00",
 				"url": "https://microblog.chrisenns.com/2026/03/05/someone-designed-these-in-the.html",
 				"tags": ["Microposts"]
@@ -757,7 +775,7 @@
 				"id": "http://ichris.micro.blog/2026/02/22/at-least-after-today-i.html",
 				
 				"content_html": "<p>At least after today I can go back to cheering on Hellebuyck again. Hopefully he brings a little of that Olympic magic back to the Jets with him.</p>\n<p>Selfie a day for a year, day 188, Feb 22, 2026 edition. #gojetsgo</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "At least after today I can go back to cheering on Hellebuyck again. Hopefully he brings a little of that Olympic magic back to the Jets with him. \n\nSelfie a day for a year, day 188, Feb 22, 2026 edition. #gojetsgo\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/846f7a97de.jpg\" width=\"450\" height=\"600\" alt=\"A man with glasses and a beard is sitting in a car, wearing a Columbia jacket and a hoodie with a Winnipeg Jets hockey team logo.\">\n",
+				"content_text": "At least after today I can go back to cheering on Hellebuyck again. Hopefully he brings a little of that Olympic magic back to the Jets with him. \n\nSelfie a day for a year, day 188, Feb 22, 2026 edition. #gojetsgo\n\n<img src=\"uploads/2026/846f7a97de.jpg\" width=\"450\" height=\"600\" alt=\"A man with glasses and a beard is sitting in a car, wearing a Columbia jacket and a hoodie with a Winnipeg Jets hockey team logo.\">\n",
 				"date_published": "2026-02-22T18:31:07-06:00",
 				"url": "https://microblog.chrisenns.com/2026/02/22/at-least-after-today-i.html",
 				"tags": ["Microposts"]
@@ -811,7 +829,7 @@
 				"id": "http://ichris.micro.blog/2026/02/21/oceans-eleven.html",
 				"title": "Ocean\u0026#039;s Eleven, 2001 - ★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"uploads/2026/51890-oceans-eleven-2001-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday February 21, 2026.</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/1068/2026/51890-oceans-eleven-2001-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday February 21, 2026.</p>\n",
 				"date_published": "2026-02-21T22:01:11-07:00",
 				"url": "https://microblog.chrisenns.com/2026/02/21/oceans-eleven.html",
 				"tags": ["Longform"]
@@ -1027,7 +1045,7 @@
 				"id": "http://ichris.micro.blog/2026/02/14/taco-shop-tacos-and-for.html",
 				
 				"content_html": "<p>Taco Shop tacos and 🍺 for my #selfie a day for a year, day 180, Feb 14, 2026 edition. (Not pictured: tacos or beer because I was too hungry.)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Taco Shop tacos and 🍺 for my #selfie a day for a year, day 180, Feb 14, 2026 edition. (Not pictured: tacos or beer because I was too hungry.)\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/dd86a057f6.jpg\" width=\"450\" height=\"600\" alt=\"A person wearing glasses and a cap is sitting in a restaurant with a neon Taqueria sign and people dining in the background.\">\n",
+				"content_text": "Taco Shop tacos and 🍺 for my #selfie a day for a year, day 180, Feb 14, 2026 edition. (Not pictured: tacos or beer because I was too hungry.)\n\n<img src=\"uploads/2026/dd86a057f6.jpg\" width=\"450\" height=\"600\" alt=\"A person wearing glasses and a cap is sitting in a restaurant with a neon Taqueria sign and people dining in the background.\">\n",
 				"date_published": "2026-02-14T21:38:54-06:00",
 				"url": "https://microblog.chrisenns.com/2026/02/14/taco-shop-tacos-and-for.html",
 				"tags": ["Microposts"]
@@ -1036,7 +1054,7 @@
 				"id": "http://ichris.micro.blog/2026/02/13/chickfila-edition-of-my-selfie.html",
 				
 				"content_html": "<p>Chick-fil-a edition of my #Selfie a day for a year, day 179, Feb 13, 2026 project.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Chick-fil-a edition of my #Selfie a day for a year, day 179, Feb 13, 2026 project.\n\n<img src=\"uploads/2026/ef88f033e3.jpg\" width=\"450\" height=\"600\" alt=\"A man with glasses sits at a table with a fast-food sandwich and drink.\">\n",
+				"content_text": "Chick-fil-a edition of my #Selfie a day for a year, day 179, Feb 13, 2026 project.\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/ef88f033e3.jpg\" width=\"450\" height=\"600\" alt=\"A man with glasses sits at a table with a fast-food sandwich and drink.\">\n",
 				"date_published": "2026-02-13T19:22:44-06:00",
 				"url": "https://microblog.chrisenns.com/2026/02/13/chickfila-edition-of-my-selfie.html",
 				"tags": ["Microposts"]
@@ -1072,7 +1090,7 @@
 				"id": "http://ichris.micro.blog/2026/02/12/what-a-goal-by-macklin.html",
 				
 				"content_html": "<p>What a goal by Macklin Celebrini. 1-0 Canada after the first. #GoCanadaGo</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "What a goal by Macklin Celebrini. 1-0 Canada after the first. #GoCanadaGo\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/cleanshot-2026-02-12-at-10.17.532x.png\" width=\"600\" height=\"407\" alt=\"A hockey player in a red and white jersey attempts to score as the goalie, wearing red and blue, defends the net during an Olympic game.\">\n",
+				"content_text": "What a goal by Macklin Celebrini. 1-0 Canada after the first. #GoCanadaGo\n\n<img src=\"uploads/2026/cleanshot-2026-02-12-at-10.17.532x.png\" width=\"600\" height=\"407\" alt=\"A hockey player in a red and white jersey attempts to score as the goalie, wearing red and blue, defends the net during an Olympic game.\">\n",
 				"date_published": "2026-02-12T10:20:07-06:00",
 				"url": "https://microblog.chrisenns.com/2026/02/12/what-a-goal-by-macklin.html",
 				"tags": ["Microposts"]
@@ -1756,7 +1774,7 @@
 				"id": "http://ichris.micro.blog/2026/01/13/one-reason-i-wont-upgrade.html",
 				
 				"content_html": "<p>One reason I won&rsquo;t upgrade to the Apple Creator Studio bundle is so I can hang on to Pixelmator Pro&rsquo;s app icon. The new one is garbage.  (old / new)</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "One reason I won't upgrade to the Apple Creator Studio bundle is so I can hang on to Pixelmator Pro's app icon. The new one is garbage.  (old / new)\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/cleanshot-2026-01-13-at-10.28.25.png\" width=\"107\" height=\"108\" alt=\"Pixelmator Pro’s app icon for macOS with a paintbrush and colour pallette look\"><img src=\"https://cdn.uploads.micro.blog/1068/2026/cleanshot-2026-01-13-at-10.30.51.png\" width=\"194\" height=\"183\" alt=\"Pixelmator Pro’s new app icon on macOS is a rounded square with a floating border square and some lines?\">\n",
+				"content_text": "One reason I won't upgrade to the Apple Creator Studio bundle is so I can hang on to Pixelmator Pro's app icon. The new one is garbage.  (old / new)\n\n<img src=\"uploads/2026/cleanshot-2026-01-13-at-10.28.25.png\" width=\"107\" height=\"108\" alt=\"Pixelmator Pro’s app icon for macOS with a paintbrush and colour pallette look\"><img src=\"uploads/2026/cleanshot-2026-01-13-at-10.30.51.png\" width=\"194\" height=\"183\" alt=\"Pixelmator Pro’s new app icon on macOS is a rounded square with a floating border square and some lines?\">\n",
 				"date_published": "2026-01-13T10:31:41-06:00",
 				"url": "https://microblog.chrisenns.com/2026/01/13/one-reason-i-wont-upgrade.html",
 				"tags": ["Microposts"]
@@ -1792,7 +1810,7 @@
 				"id": "http://ichris.micro.blog/2026/01/10/stranger-things-the-finale.html",
 				"title": "Stranger Things 5: The Finale, 2025 - ★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/1068/2026/1440334-stranger-things-5-the-finale-0-600-0-900-crop.jpg\"/></p> <p>I don’t know what everyone expected the finale to be like, but having rewatched season 1 before watching this season, it felt like it wrapped up in a way fitting to how it started. I loved it.</p>\n",
+				"content_text": "<p><img src=\"uploads/2026/1440334-stranger-things-5-the-finale-0-600-0-900-crop.jpg\"/></p> <p>I don’t know what everyone expected the finale to be like, but having rewatched season 1 before watching this season, it felt like it wrapped up in a way fitting to how it started. I loved it.</p>\n",
 				"date_published": "2026-01-10T22:08:03-06:00",
 				"url": "https://microblog.chrisenns.com/2026/01/10/stranger-things-the-finale.html",
 				"tags": ["Longform"]
@@ -1900,7 +1918,7 @@
 				"id": "http://ichris.micro.blog/2026/01/07/frozen-in-a-rink-today.html",
 				
 				"content_html": "<p>Frozen in a rink today. At least there’s hot chocolate.</p>\n<p>Selfie a day for a year, day 142, Jan 7, 2026 edition.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Frozen in a rink today. At least there’s hot chocolate. \n\nSelfie a day for a year, day 142, Jan 7, 2026 edition.\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/35d3073977.jpg\" width=\"450\" height=\"600\" alt=\"A man with glasses and a cap is holding a coffee cup while wearing a dark jacket.\">\n",
+				"content_text": "Frozen in a rink today. At least there’s hot chocolate. \n\nSelfie a day for a year, day 142, Jan 7, 2026 edition.\n\n<img src=\"uploads/2026/35d3073977.jpg\" width=\"450\" height=\"600\" alt=\"A man with glasses and a cap is holding a coffee cup while wearing a dark jacket.\">\n",
 				"date_published": "2026-01-07T21:09:23-06:00",
 				"url": "https://microblog.chrisenns.com/2026/01/07/frozen-in-a-rink-today.html",
 				"tags": ["Microposts"]
@@ -2125,7 +2143,7 @@
 				"id": "http://ichris.micro.blog/2025/12/28/winter-is-when-i-remember.html",
 				
 				"content_html": "<p>Winter is when I remember how bad Apple Weather is. Foreca is the other app with actual Canadian weather data.</p>\n<p>Feels like -21C is very different than -36C.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Winter is when I remember how bad Apple Weather is. Foreca is the other app with actual Canadian weather data.\n\nFeels like -21C is very different than -36C. \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2025/d392e6e058.jpg\" width=\"480\" height=\"600\" alt=\"A weather app displays Saskatoon's temperature as -27°C, feeling like -36°C with clear skies.\"><img src=\"https://cdn.uploads.micro.blog/1068/2025/33164ee922.jpg\" width=\"424\" height=\"600\" alt=\"Saskatoon is experiencing extremely cold weather with a temperature of -24°C and a feels-like temperature of -21°C, accompanied by an extreme cold warning.\">\n",
+				"content_text": "Winter is when I remember how bad Apple Weather is. Foreca is the other app with actual Canadian weather data.\n\nFeels like -21C is very different than -36C. \n\n<img src=\"uploads/2025/d392e6e058.jpg\" width=\"480\" height=\"600\" alt=\"A weather app displays Saskatoon's temperature as -27°C, feeling like -36°C with clear skies.\"><img src=\"uploads/2025/33164ee922.jpg\" width=\"424\" height=\"600\" alt=\"Saskatoon is experiencing extremely cold weather with a temperature of -24°C and a feels-like temperature of -21°C, accompanied by an extreme cold warning.\">\n",
 				"date_published": "2025-12-28T11:03:10-06:00",
 				"url": "https://microblog.chrisenns.com/2025/12/28/winter-is-when-i-remember.html",
 				"tags": ["Microposts"]
@@ -2143,7 +2161,7 @@
 				"id": "http://ichris.micro.blog/2025/12/27/genie.html",
 				"title": "Genie, 2023 - ★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"uploads/2025/1075190-genie-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday December 27, 2025.</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/1068/2025/1075190-genie-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday December 27, 2025.</p>\n",
 				"date_published": "2025-12-27T11:37:27-06:00",
 				"url": "https://microblog.chrisenns.com/2025/12/27/genie.html",
 				"tags": ["Longform"]
@@ -2152,7 +2170,7 @@
 				"id": "http://ichris.micro.blog/2025/12/27/all-the-xmas-treat-favs.html",
 				
 				"content_html": "<p>All the Xmas treat favs 🥑</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "All the Xmas treat favs 🥑 \n\n<img src=\"uploads/2025/18ac22d5f1.jpg\" width=\"600\" height=\"481\" alt=\"A messy tabletop is covered with broken graham crackers, marshmallow remnants, a bowl with an avocado, and a small bowl containing assorted chocolates.\">\n",
+				"content_text": "All the Xmas treat favs 🥑 \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2025/18ac22d5f1.jpg\" width=\"600\" height=\"481\" alt=\"A messy tabletop is covered with broken graham crackers, marshmallow remnants, a bowl with an avocado, and a small bowl containing assorted chocolates.\">\n",
 				"date_published": "2025-12-27T10:14:51-06:00",
 				"url": "https://microblog.chrisenns.com/2025/12/27/all-the-xmas-treat-favs.html",
 				"tags": ["Microposts"]
@@ -2161,7 +2179,7 @@
 				"id": "http://ichris.micro.blog/2025/12/27/waiting-for-a-dog-to.html",
 				
 				"content_html": "<p>Waiting for a dog to decide to come inside rather than sit in the snow. 😆</p>\n<p>Late #Selfie of the day for a year, day 130, Dec 26, 2025 edition.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Waiting for a dog to decide to come inside rather than sit in the snow. 😆 \n\nLate #Selfie of the day for a year, day 130, Dec 26, 2025 edition.\n\n<img src=\"uploads/2025/b78cf84584.jpg\" width=\"450\" height=\"600\" alt=\"A person with glasses and facial hair is standing outside on a snowy evening next to animal footprints.\"><img src=\"uploads/2025/e10a15468f.jpg\" width=\"600\" height=\"593\" alt=\"A snowy backyard scene features a dog sitting near a patio area with snow-covered furniture.\">\n",
+				"content_text": "Waiting for a dog to decide to come inside rather than sit in the snow. 😆 \n\nLate #Selfie of the day for a year, day 130, Dec 26, 2025 edition.\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2025/b78cf84584.jpg\" width=\"450\" height=\"600\" alt=\"A person with glasses and facial hair is standing outside on a snowy evening next to animal footprints.\"><img src=\"https://cdn.uploads.micro.blog/1068/2025/e10a15468f.jpg\" width=\"600\" height=\"593\" alt=\"A snowy backyard scene features a dog sitting near a patio area with snow-covered furniture.\">\n",
 				"date_published": "2025-12-27T00:16:43-06:00",
 				"url": "https://microblog.chrisenns.com/2025/12/27/waiting-for-a-dog-to.html",
 				"tags": ["Microposts"]
@@ -2224,7 +2242,7 @@
 				"id": "http://ichris.micro.blog/2025/12/23/c-feels-like-c-edition.html",
 				
 				"content_html": "<p>-15C, feels like -20C edition.</p>\n<p>#Selfie a day for a year, day 127, Dec 23, 2025 edition.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "-15C, feels like -20C edition. \n\n#Selfie a day for a year, day 127, Dec 23, 2025 edition.\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2025/e4b56707a5.jpg\" width=\"450\" height=\"600\" alt=\"A person wearing a red beanie, glasses, and a scarf around their face is standing on a snow-covered path.\">\n",
+				"content_text": "-15C, feels like -20C edition. \n\n#Selfie a day for a year, day 127, Dec 23, 2025 edition.\n\n<img src=\"uploads/2025/e4b56707a5.jpg\" width=\"450\" height=\"600\" alt=\"A person wearing a red beanie, glasses, and a scarf around their face is standing on a snow-covered path.\">\n",
 				"date_published": "2025-12-23T15:37:54-06:00",
 				"url": "https://microblog.chrisenns.com/2025/12/23/c-feels-like-c-edition.html",
 				"tags": ["Microposts"]
@@ -2233,7 +2251,7 @@
 				"id": "http://ichris.micro.blog/2025/12/23/wake-up-dead-man.html",
 				"title": "Wake Up Dead Man, 2025 - ★★★★½",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/1068/2025/e147dfbdaf.jpg\"/></p> <p>Watched on Sunday December 21, 2025.</p>\n",
+				"content_text": "<p><img src=\"uploads/2025/e147dfbdaf.jpg\"/></p> <p>Watched on Sunday December 21, 2025.</p>\n",
 				"date_published": "2025-12-23T01:07:47-06:00",
 				"url": "https://microblog.chrisenns.com/2025/12/23/wake-up-dead-man.html",
 				"tags": ["Longform"]
@@ -2251,7 +2269,7 @@
 				"id": "http://ichris.micro.blog/2025/12/20/dad-stop-holding-the-camera.html",
 				
 				"content_html": "<p>“Dad stop holding the camera up so high—you look like you’re posting on Facebook.” 😆</p>\n<p>#Selfie a day for a year, day 124, Dec 20, 2025 edition.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "“Dad stop holding the camera up so high—you look like you’re posting on Facebook.” 😆 \n\n#Selfie a day for a year, day 124, Dec 20, 2025 edition.\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2025/22365968b7.jpg\" width=\"450\" height=\"600\" alt=\"A person with glasses holds a glass containing a light-colored beverage.\">\n",
+				"content_text": "“Dad stop holding the camera up so high—you look like you’re posting on Facebook.” 😆 \n\n#Selfie a day for a year, day 124, Dec 20, 2025 edition.\n\n<img src=\"uploads/2025/22365968b7.jpg\" width=\"450\" height=\"600\" alt=\"A person with glasses holds a glass containing a light-colored beverage.\">\n",
 				"date_published": "2025-12-20T20:57:04-06:00",
 				"url": "https://microblog.chrisenns.com/2025/12/20/dad-stop-holding-the-camera.html",
 				"tags": ["Microposts"]
@@ -2287,7 +2305,7 @@
 				"id": "http://ichris.micro.blog/2025/12/18/i-was-in-the-penalty.html",
 				
 				"content_html": "<p>I was in the penalty box all night. 🥶</p>\n<p>Selfie a day for a year, day 122, Dec 18, 2025 edition. #hockey</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I was in the penalty box all night. 🥶 \n\nSelfie a day for a year, day 122, Dec 18, 2025 edition. #hockey\n\n<img src=\"uploads/2025/8a9334728e.jpg\" width=\"450\" height=\"600\" alt=\"A person wearing glasses and a cap stands next to an ice hockey rink with benches and gear nearby.\">\n",
+				"content_text": "I was in the penalty box all night. 🥶 \n\nSelfie a day for a year, day 122, Dec 18, 2025 edition. #hockey\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2025/8a9334728e.jpg\" width=\"450\" height=\"600\" alt=\"A person wearing glasses and a cap stands next to an ice hockey rink with benches and gear nearby.\">\n",
 				"date_published": "2025-12-18T23:08:15-06:00",
 				"url": "https://microblog.chrisenns.com/2025/12/18/i-was-in-the-penalty.html",
 				"tags": ["Microposts"]
@@ -2701,7 +2719,7 @@
 				"id": "http://ichris.micro.blog/2025/12/03/letting-sleeping-dogs-lie-or.html",
 				
 				"content_html": "<p>Letting sleeping dogs lie or whatever that saying is.</p>\n<p>#Selfie a day for a year, day 107, Dec 3, 2025 edition.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Letting sleeping dogs lie or whatever that saying is. \n\n#Selfie a day for a year, day 107, Dec 3, 2025 edition.\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2025/cbfae3eaa4.jpg\" width=\"449\" height=\"600\" alt=\"A person with glasses is sitting on the floor next to a sleeping dog.\">\n",
+				"content_text": "Letting sleeping dogs lie or whatever that saying is. \n\n#Selfie a day for a year, day 107, Dec 3, 2025 edition.\n\n<img src=\"uploads/2025/cbfae3eaa4.jpg\" width=\"449\" height=\"600\" alt=\"A person with glasses is sitting on the floor next to a sleeping dog.\">\n",
 				"date_published": "2025-12-03T23:30:30-06:00",
 				"url": "https://microblog.chrisenns.com/2025/12/03/letting-sleeping-dogs-lie-or.html",
 				"tags": ["Microposts"]
@@ -2836,7 +2854,7 @@
 				"id": "http://ichris.micro.blog/2025/11/28/wake-up-dead-man.html",
 				"title": "Wake Up Dead Man, 2025 - ★★★★½",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"uploads/2025/729113-wake-up-dead-man-0-600-0-900-crop.jpg\"/></p> <p>Watched on Friday November 28, 2025.</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/1068/2025/729113-wake-up-dead-man-0-600-0-900-crop.jpg\"/></p> <p>Watched on Friday November 28, 2025.</p>\n",
 				"date_published": "2025-11-28T21:34:40-06:00",
 				"url": "https://microblog.chrisenns.com/2025/11/28/wake-up-dead-man.html",
 				"tags": ["Longform"]
