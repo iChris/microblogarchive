@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2026/04/07/i-just-learned-that-theo.html",
+				
+				"content_html": "<p>I just learned that Theo Von is 46 years old. I would&rsquo;ve guessed mid-30&rsquo;s at best the way he speaks and is portrayed in media.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I just learned that Theo Von is 46 years old. I would've guessed mid-30's at best the way he speaks and is portrayed in media. \n\n<img src=\"uploads/2026/screenshot-2026-04-07-at-12.55.14pm.png\" width=\"600\" height=\"432\" alt=\"A Theo Von is speaking into a microphone on a podcast set with a sign that reads This Past Weekend in the background.\">\n",
+				"date_published": "2026-04-07T12:57:40-07:00",
+				"url": "https://microblog.chrisenns.com/2026/04/07/i-just-learned-that-theo.html",
+				"tags": ["Podcasting","Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/04/07/im-annoyed-at-how-well.html",
+				
+				"content_html": "<p>I’m annoyed at how well unplugging from all the things works as a mental health strategy.</p>\n",
+				"content_text": "I’m annoyed at how well unplugging from all the things works as a mental health strategy. \n",
+				"date_published": "2026-04-07T09:37:16-07:00",
+				"url": "https://microblog.chrisenns.com/2026/04/07/im-annoyed-at-how-well.html",
+				"tags": ["Microposts"]
+			},
+			{
 				"id": "http://ichris.micro.blog/2026/04/06/i-dont-understand-why-i.html",
 				
 				"content_html": "<p>“I don’t understand why I sleep all the day…” <a href=\"https://youtu.be/foSUStaJtug?si=6-CXdrgqWV4fAaen\">youtu.be/foSUStaJt&hellip;</a> 🎶 Blind Melon takes me back to a time and place, even as a cover by Goose.</p>\n",
@@ -46,7 +64,7 @@
 				"id": "http://ichris.micro.blog/2026/04/02/i-really-admire-mexicos-ability.html",
 				
 				"content_html": "<p>I really admire Mexico&rsquo;s ability to jump on a trend and get it to all the small markets so quickly.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I really admire Mexico's ability to jump on a trend and get it to all the small markets so quickly. \n\n<img src=\"uploads/2026/d8152068b3.jpg\" width=\"449\" height=\"600\" alt=\"Two T-shirts are displayed, one with the text FRIENDS ALWAYS featuring clasped hands with Canadian and Mexican flags, and the other with a donkey logo and Juan Deere text.\">\n",
+				"content_text": "I really admire Mexico's ability to jump on a trend and get it to all the small markets so quickly. \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/d8152068b3.jpg\" width=\"449\" height=\"600\" alt=\"Two T-shirts are displayed, one with the text FRIENDS ALWAYS featuring clasped hands with Canadian and Mexican flags, and the other with a donkey logo and Juan Deere text.\">\n",
 				"date_published": "2026-04-02T12:31:29-07:00",
 				"url": "https://microblog.chrisenns.com/2026/04/02/i-really-admire-mexicos-ability.html",
 				"tags": ["Microposts"]
