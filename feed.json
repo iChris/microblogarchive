@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2026/04/14/092020.html",
+				
+				"content_html": "<p>I forgot about the university bridge being closed twice today. It’s going to be a long spring.</p>\n",
+				"content_text": "I forgot about the university bridge being closed twice today. It’s going to be a long spring. \n",
+				"date_published": "2026-04-14T09:20:20-06:00",
+				"url": "https://microblog.chrisenns.com/2026/04/14/092020.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/04/14/i-forgot-about-the-university.html",
+				
+				"content_html": "<p>I forgot about the university bridge being closed twice today. It’s going to be a long spring.</p>\n",
+				"content_text": "I forgot about the university bridge being closed twice today. It’s going to be a long spring. \n",
+				"date_published": "2026-04-14T09:20:15-06:00",
+				"url": "https://microblog.chrisenns.com/2026/04/14/i-forgot-about-the-university.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/04/13/hey-saskatchewan-i-tried-to.html",
+				
+				"content_html": "<p>Hey Saskatchewan I tried to pack as much sunshine in my suitcase on our way back <a href=\"https://www.tiktok.com/@lemoncasting/video/7627271602689936661\">from Mexico</a>. But somehow there&rsquo;s still 42cm (16 inches!?) forecast for Thursday?</p>\n<p>Cue up the &ldquo;we have to go back&rdquo; gif from Lost.</p>\n",
+				"content_text": "Hey Saskatchewan I tried to pack as much sunshine in my suitcase on our way back [from Mexico](https://www.tiktok.com/@lemoncasting/video/7627271602689936661). But somehow there's still 42cm (16 inches!?) forecast for Thursday? \n\nCue up the \"we have to go back\" gif from Lost.\n",
+				"date_published": "2026-04-13T16:36:27-06:00",
+				"url": "https://microblog.chrisenns.com/2026/04/13/hey-saskatchewan-i-tried-to.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/04/13/super-cool-substack-bestseller-list.html",
+				
+				"content_html": "<p>Super cool Substack bestseller list you&rsquo;ve got there.</p>\n<p>This is actually more of an indictment of what popular culture is apparently reading / listening to than specifically &ldquo;Substack bad&rdquo;. But also: Substack is bad.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Super cool Substack bestseller list you've got there.\n\nThis is actually more of an indictment of what popular culture is apparently reading / listening to than specifically \"Substack bad\". But also: Substack is bad.\n\n<img src=\"uploads/2026/cleanshot-2026-04-13-at-13.05.11.png\" width=\"600\" height=\"415\" alt=\"A webpage screen displays a list of new bestselling podcasts alongside a navigation menu and options for signing in or creating an account. Andrew Tate, human trafficker, is at the top of the list.\">\n",
+				"date_published": "2026-04-13T13:07:07-06:00",
+				"url": "https://microblog.chrisenns.com/2026/04/13/super-cool-substack-bestseller-list.html",
+				"tags": ["Podcasting","Microposts"]
+			},
+			{
 				"id": "http://ichris.micro.blog/2026/04/13/there-are-no-good-movies.html",
 				
 				"content_html": "<p>&ldquo;There are no good movies to see right now&rdquo; - Please go see Project Hail Mary while it&rsquo;s in the theatres. It deserves to be watched on a big screen. Even (especially?) if you don&rsquo;t think you like science fiction or space movies. It&rsquo;s good for the soul given all the things here on earth.</p>\n",
@@ -28,7 +64,7 @@
 				"id": "http://ichris.micro.blog/2026/04/12/i-paused-my-selfie-a.html",
 				
 				"content_html": "<p>I paused my #selfie a day project while on holidays.  Back home today so kick starting it again with a beauty of a sunset to say goodbye to Mazatlán.</p>\n<p>Selfie a day for a year, day 237, Apr 12, 2026 edition.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "I paused my #selfie a day project while on holidays.  Back home today so kick starting it again with a beauty of a sunset to say goodbye to Mazatlán.\n\nSelfie a day for a year, day 237, Apr 12, 2026 edition.\n\n<img src=\"uploads/2026/ea4736a2d6.jpg\" width=\"450\" height=\"600\" alt=\"I’m posing for a selfie with a vibrant sunset and palm trees in the background.\"><img src=\"uploads/2026/23ea652f97.jpg\" width=\"450\" height=\"600\" alt=\"A vibrant sunset illuminates the sky behind silhouetted palm trees and lush greenery.\">\n",
+				"content_text": "I paused my #selfie a day project while on holidays.  Back home today so kick starting it again with a beauty of a sunset to say goodbye to Mazatlán.\n\nSelfie a day for a year, day 237, Apr 12, 2026 edition.\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/ea4736a2d6.jpg\" width=\"450\" height=\"600\" alt=\"I’m posing for a selfie with a vibrant sunset and palm trees in the background.\"><img src=\"https://cdn.uploads.micro.blog/1068/2026/23ea652f97.jpg\" width=\"450\" height=\"600\" alt=\"A vibrant sunset illuminates the sky behind silhouetted palm trees and lush greenery.\">\n",
 				"date_published": "2026-04-12T09:10:58-06:00",
 				"url": "https://microblog.chrisenns.com/2026/04/12/i-paused-my-selfie-a.html",
 				"tags": ["Microposts"]
