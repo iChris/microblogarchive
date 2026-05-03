@@ -7,6 +7,51 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2026/05/02/the-first-hot-dog-off.html",
+				
+				"content_html": "<p>The first hot dog off the bbq of the season is always the best hot dog of the season. 😋</p>\n",
+				"content_text": "The first hot dog off the bbq of the season is always the best hot dog of the season. 😋 \n",
+				"date_published": "2026-05-02T20:03:26-06:00",
+				"url": "https://microblog.chrisenns.com/2026/05/02/the-first-hot-dog-off.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/05/02/im-testing-out-using-patreon.html",
+				
+				"content_html": "<p>I&rsquo;m testing out using Patreon for my weekly(ish) Tuesday email newsletter. <a href=\"https://www.patreon.com/posts/issue-44-here-156873585\">How does it look to you</a> on whatever device you&rsquo;re on?</p>\n",
+				"content_text": "I'm testing out using Patreon for my weekly(ish) Tuesday email newsletter. [How does it look to you](https://www.patreon.com/posts/issue-44-here-156873585) on whatever device you're on? \n",
+				"date_published": "2026-05-02T10:30:32-06:00",
+				"url": "https://microblog.chrisenns.com/2026/05/02/im-testing-out-using-patreon.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/05/02/morning-coffee-on-the-deck.html",
+				
+				"content_html": "<p>Morning coffee on the deck season is finally here. ☕️</p>\n<p>Selfie a day for a year, day 257, May 2, 2026 edition.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Morning coffee on the deck season is finally here. ☕️ \n\nSelfie a day for a year, day 257, May 2, 2026 edition.\n\n<img src=\"uploads/2026/42e06392e9.jpg\" width=\"450\" height=\"600\" alt=\"A person with glasses is sitting on a wooden surface, holding a polka dot mug with a beverage inside.\"><img src=\"uploads/2026/80eb5e11d9.jpg\" width=\"450\" height=\"600\" alt=\"A curly-haired dog is sitting on a wooden deck, looking out at a grassy yard.\">\n",
+				"date_published": "2026-05-02T08:47:18-06:00",
+				"url": "https://microblog.chrisenns.com/2026/05/02/morning-coffee-on-the-deck.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/05/01/noah-kahan-out-of-body.html",
+				"title": "Noah Kahan: Out of Body, 2026 - ★★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"uploads/2026/1369054-noah-kahan-out-of-body-0-600-0-900-crop.jpg\"/></p> <p>Watched on Friday May 1, 2026.</p>\n",
+				"date_published": "2026-05-01T23:47:43-06:00",
+				"url": "https://microblog.chrisenns.com/2026/05/01/noah-kahan-out-of-body.html",
+				"tags": ["Longform"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/05/01/bugonia.html",
+				"title": "Bugonia, 2025 - ★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"uploads/2026/625400-bugonia-0-600-0-900-crop.jpg\"/></p> <p>Watched on Friday May 1, 2026.</p>\n",
+				"date_published": "2026-05-01T21:28:32-06:00",
+				"url": "https://microblog.chrisenns.com/2026/05/01/bugonia.html",
+				"tags": ["Longform"]
+			},
+			{
 				"id": "http://ichris.micro.blog/2026/05/01/im-bullish-on-video-podcasting.html",
 				
 				"content_html": "<p>I&rsquo;m bullish on video + #podcasting for those that want to do it, but for anyone just getting into it now, getting an episode out the door is so much heavier with video. Of course files are bigger.. but every step just takes longer. Exports. Notice a visual OR audio mistake. Re-export. Upload. etc.</p>\n",
@@ -28,7 +73,7 @@
 				"id": "http://ichris.micro.blog/2026/05/01/morning-nap-time-for-todays.html",
 				
 				"content_html": "<p>Morning 🐶 nap time for today&rsquo;s selfie a day for a year, day 156, May 1, 2026 edition.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Morning 🐶 nap time for today's selfie a day for a year, day 156, May 1, 2026 edition.\n\n<img src=\"uploads/2026/82180c0588.jpg\" width=\"450\" height=\"600\" alt=\"A person with glasses and a beard is sitting indoors while a fluffy dog rests on the carpet nearby.\">\n",
+				"content_text": "Morning 🐶 nap time for today's selfie a day for a year, day 156, May 1, 2026 edition.\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/82180c0588.jpg\" width=\"450\" height=\"600\" alt=\"A person with glasses and a beard is sitting indoors while a fluffy dog rests on the carpet nearby.\">\n",
 				"date_published": "2026-05-01T10:05:31-06:00",
 				"url": "https://microblog.chrisenns.com/2026/05/01/morning-nap-time-for-todays.html",
 				"tags": ["Microposts"]
@@ -37,7 +82,7 @@
 				"id": "http://ichris.micro.blog/2026/05/01/ok-saskatoon-and-area-this.html",
 				
 				"content_html": "<p>Ok Saskatoon (and area). This is the weekend we’ve been waiting all winter for.</p>\n<p>Decks and patios season is here. 🍻</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Ok Saskatoon (and area). This is the weekend we’ve been waiting all winter for. \n\nDecks and patios season is here. 🍻 \n\n<img src=\"uploads/2026/7c15d8763d.jpg\" width=\"600\" height=\"297\" alt=\"A weather forecast for three days shows varying temperatures and conditions, including partly cloudy and sunny weather with no expected precipitation. 22C high on Friday, 17C and 20C the rest of the weekend. \">\n",
+				"content_text": "Ok Saskatoon (and area). This is the weekend we’ve been waiting all winter for. \n\nDecks and patios season is here. 🍻 \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/7c15d8763d.jpg\" width=\"600\" height=\"297\" alt=\"A weather forecast for three days shows varying temperatures and conditions, including partly cloudy and sunny weather with no expected precipitation. 22C high on Friday, 17C and 20C the rest of the weekend. \">\n",
 				"date_published": "2026-05-01T07:03:30-06:00",
 				"url": "https://microblog.chrisenns.com/2026/05/01/ok-saskatoon-and-area-this.html",
 				"tags": ["Microposts"]
