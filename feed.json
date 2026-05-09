@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2026/05/09/first-fire-of-the-season.html",
+				
+				"content_html": "<p>First fire of the season last night. Now a quick coffee before errands and a friend’s wedding. Happy weekend ya’ll.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "First fire of the season last night. Now a quick coffee before errands and a friend’s wedding. Happy weekend ya’ll. \n\n<img src=\"uploads/2026/ec6b0c6e35.jpg\" width=\"450\" height=\"600\" alt=\"A vibrant fire burns in a metal fire pit on a wooden deck, surrounded by outdoor furniture, with a backdrop of trees and a fence.\"><img src=\"uploads/2026/6880a9c977.jpg\" width=\"450\" height=\"600\" alt=\"A large blue mug with a white crescent pattern is resting on someone's lap, who is wearing red plaid clothing.\">\n",
+				"date_published": "2026-05-09T09:54:14-06:00",
+				"url": "https://microblog.chrisenns.com/2026/05/09/first-fire-of-the-season.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/05/08/who-wants-dave-to-do.html",
+				
+				"content_html": "<p>Who wants Dave to do a spin-off show called <a href=\"https://youtube.com/shorts/N3LeRMHQQVU\">ShopTalk Show: Tech Support Calls Horror Edition</a>?</p>\n",
+				"content_text": "Who wants Dave to do a spin-off show called [ShopTalk Show: Tech Support Calls Horror Edition](https://youtube.com/shorts/N3LeRMHQQVU)?\n",
+				"date_published": "2026-05-08T11:29:09-06:00",
+				"url": "https://microblog.chrisenns.com/2026/05/08/who-wants-dave-to-do.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/05/08/someone-asked-me-if-ive.html",
+				
+				"content_html": "<p>Someone asked me if I&rsquo;ve ever done a podcast (short answer: yes quite a few, but nothing currently has stuck) and I was reminded of a podcast I did a <em>long</em> time ago back in 2012 interviewing folks like <a href=\"https://brettterpstra.com/2012/07/17/welcome-to-the-internet-episode-21/\">Brett Terpstra</a>, Shawn Blanc, and others. I can&rsquo;t find any of the audio anymore though. :(</p>\n",
+				"content_text": "Someone asked me if I've ever done a podcast (short answer: yes quite a few, but nothing currently has stuck) and I was reminded of a podcast I did a *long* time ago back in 2012 interviewing folks like [Brett Terpstra](https://brettterpstra.com/2012/07/17/welcome-to-the-internet-episode-21/), Shawn Blanc, and others. I can't find any of the audio anymore though. :(\n",
+				"date_published": "2026-05-08T09:59:11-06:00",
+				"url": "https://microblog.chrisenns.com/2026/05/08/someone-asked-me-if-ive.html",
+				"tags": ["Podcasting","Microposts"]
+			},
+			{
 				"id": "http://ichris.micro.blog/2026/05/08/noah-kahan-im-with-my.html",
 				
 				"content_html": "<p>Noah Kahan: &ldquo;I&rsquo;m with my best friend Dan, campin&rsquo; on the county line&rdquo;</p>\n<p>Wait! I&rsquo;m gonna stop you right there Noah Kahan. Best friend? In this economy?</p>\n",
@@ -28,7 +55,7 @@
 				"id": "http://ichris.micro.blog/2026/05/06/looks-like-ronalds-having-a.html",
 				
 				"content_html": "<p>Looks like Ronald’s having a little too much really fun for McHappy Day.  🤡</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Looks like Ronald’s having a little too much really fun for McHappy Day.  🤡 \n\n<img src=\"uploads/2026/516edf2985.jpg\" width=\"542\" height=\"600\" alt=\"\">\n",
+				"content_text": "Looks like Ronald’s having a little too much really fun for McHappy Day.  🤡 \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/516edf2985.jpg\" width=\"542\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-05-06T18:05:16-06:00",
 				"url": "https://microblog.chrisenns.com/2026/05/06/looks-like-ronalds-having-a.html",
 				"tags": ["Microposts"]
@@ -55,7 +82,7 @@
 				"id": "http://ichris.micro.blog/2026/05/05/getting-some-sun-and-stretches.html",
 				
 				"content_html": "<p>Getting some sun and stretches in. 🐶 ☀️</p>\n<p>Selfie a day for a year, day 260, May 5, 2026 edition.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Getting some sun and stretches in. 🐶 ☀️ \n\nSelfie a day for a year, day 260, May 5, 2026 edition.\n\n<img src=\"uploads/2026/8034515084.jpg\" width=\"450\" height=\"600\" alt=\"A man with glasses and a beard is wearing a T-shirt and looking at the camera.\"><img src=\"uploads/2026/ae2d954858.jpg\" width=\"450\" height=\"600\" alt=\"A fluffy dog is playfully lying on its back in the grass.\">\n",
+				"content_text": "Getting some sun and stretches in. 🐶 ☀️ \n\nSelfie a day for a year, day 260, May 5, 2026 edition.\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/8034515084.jpg\" width=\"450\" height=\"600\" alt=\"A man with glasses and a beard is wearing a T-shirt and looking at the camera.\"><img src=\"https://cdn.uploads.micro.blog/1068/2026/ae2d954858.jpg\" width=\"450\" height=\"600\" alt=\"A fluffy dog is playfully lying on its back in the grass.\">\n",
 				"date_published": "2026-05-05T17:12:58-06:00",
 				"url": "https://microblog.chrisenns.com/2026/05/05/getting-some-sun-and-stretches.html",
 				"tags": ["Microposts"]
