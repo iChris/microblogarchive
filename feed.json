@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2026/05/28/when-siri-goes-australian-for.html",
+				
+				"content_html": "<p>When Siri goes Australian for my Reminder about the BBQ</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "When Siri goes Australian for my Reminder about the BBQ\n\n<img src=\"uploads/2026/3357571d69.jpg\" width=\"600\" height=\"361\" alt=\"A calendar event labeled The Barbie is scheduled for 6:19 PM with Jarvis mentioned below it.\">\n",
+				"date_published": "2026-05-28T18:38:56-06:00",
+				"url": "https://microblog.chrisenns.com/2026/05/28/when-siri-goes-australian-for.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/05/28/petty-software-gripe-the-only.html",
+				
+				"content_html": "<p>Petty software gripe: The only thing that makes me want to switch back to WordPress from my Ghost blog is when I, as a logged in admin user, have to log in again to comment on my own blog.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Petty software gripe: The only thing that makes me want to switch back to WordPress from my Ghost blog is when I, as a logged in admin user, have to log in again to comment on my own blog. \n\n<img src=\"uploads/2026/cleanshot-2026-05-28-at-08.59.35.png\" width=\"600\" height=\"245\" alt=\"Screenshot of Ghost’s log in to comment menu on a blog post.\">\n",
+				"date_published": "2026-05-28T09:02:28-06:00",
+				"url": "https://microblog.chrisenns.com/2026/05/28/petty-software-gripe-the-only.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/05/27/got-a-hairdid-but-youd.html",
+				
+				"content_html": "<p>Got a hairdid but you’d never know it from today’s awkward selfie. 👀</p>\n<p>Selfie a day for a year, day 282, May 27, 2026 edition.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Got a hairdid but you’d never know it from today’s awkward selfie. 👀 \n\nSelfie a day for a year, day 282, May 27, 2026 edition.\n\n<img src=\"uploads/2026/817bb56919.jpg\" width=\"450\" height=\"600\" alt=\"A close-up shows a person's face with one eye wide open, lying on a textured surface with a few items in the background.\"><img src=\"uploads/2026/aed266d90e.jpg\" width=\"450\" height=\"600\" alt=\"A close-up of a person's face with an eye wide open, partially lying on a textured surface, with a shelf and objects in the background.\">\n",
+				"date_published": "2026-05-27T21:18:14-06:00",
+				"url": "https://microblog.chrisenns.com/2026/05/27/got-a-hairdid-but-youd.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/05/27/my-ability-to-pick-the.html",
+				
+				"content_html": "<p>My ability to pick the line at Costco gas with the person who’s filling up their gas for the first time ever remains undefeated. 🏆</p>\n",
+				"content_text": "My ability to pick the line at Costco gas with the person who’s filling up their gas for the first time ever remains undefeated. 🏆 \n",
+				"date_published": "2026-05-27T17:36:11-06:00",
+				"url": "https://microblog.chrisenns.com/2026/05/27/my-ability-to-pick-the.html",
+				"tags": ["Microposts"]
+			},
+			{
 				"id": "http://ichris.micro.blog/2026/05/27/iris-photos-by-tyler-hall.html",
 				
 				"content_html": "<p><a href=\"https://irisphotos.app\">Iris Photos</a> by Tyler Hall looks like a great macOS alternative to Apple&rsquo;s stock photo app. 14 day free trial and then it&rsquo;s only $14 to buy the full version.</p>\n",
@@ -19,7 +55,7 @@
 				"id": "http://ichris.micro.blog/2026/05/25/tired-but-i-got-to.html",
 				
 				"content_html": "<p>Tired but I got to see the lake at least.</p>\n<p>Selfie a day for a year, day 280, May 25, 2026 edition.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Tired but I got to see the lake at least. \n\nSelfie a day for a year, day 280, May 25, 2026 edition.\n\n<img src=\"uploads/2026/11c2dc7af0.jpg\" width=\"600\" height=\"447\" alt=\"A calm lake reflects the cloudy sky, bordered by a distant tree line and a sandy shore.\"><img src=\"uploads/2026/a2320a1d49.jpg\" width=\"450\" height=\"600\" alt=\"A man wearing glasses and a cap takes a selfie in a bathroom, with a reflection visible in the mirror behind him.\"><img src=\"uploads/2026/6d50a3d61f.jpg\" width=\"450\" height=\"600\" alt=\"A bearded man wearing glasses and a cap stands in front of a mirror, taking a selfie with a smartphone in a bathroom.\">\n",
+				"content_text": "Tired but I got to see the lake at least. \n\nSelfie a day for a year, day 280, May 25, 2026 edition.\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/11c2dc7af0.jpg\" width=\"600\" height=\"447\" alt=\"A calm lake reflects the cloudy sky, bordered by a distant tree line and a sandy shore.\"><img src=\"https://cdn.uploads.micro.blog/1068/2026/a2320a1d49.jpg\" width=\"450\" height=\"600\" alt=\"A man wearing glasses and a cap takes a selfie in a bathroom, with a reflection visible in the mirror behind him.\"><img src=\"https://cdn.uploads.micro.blog/1068/2026/6d50a3d61f.jpg\" width=\"450\" height=\"600\" alt=\"A bearded man wearing glasses and a cap stands in front of a mirror, taking a selfie with a smartphone in a bathroom.\">\n",
 				"date_published": "2026-05-25T20:25:40-06:00",
 				"url": "https://microblog.chrisenns.com/2026/05/25/tired-but-i-got-to.html",
 				"tags": ["Microposts"]
@@ -37,7 +73,7 @@
 				"id": "http://ichris.micro.blog/2026/05/24/all-done-all-the-things.html",
 				
 				"content_html": "<p>All done all the things including 🍕 and 🍺 now on to an episode of Widow’s Bay. I may fall asleep during it but it’s not the show’s fault.</p>\n<p>Selfie a day for a year, day 279, May 24, 2026 edition.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "All done all the things including 🍕 and 🍺 now on to an episode of Widow’s Bay. I may fall asleep during it but it’s not the show’s fault. \n\nSelfie a day for a year, day 279, May 24, 2026 edition.\n\n<img src=\"uploads/2026/0fcd629c2c.jpg\" width=\"450\" height=\"600\" alt=\"A person with glasses and a beard is wearing a gray shirt and looking at the camera.\">\n",
+				"content_text": "All done all the things including 🍕 and 🍺 now on to an episode of Widow’s Bay. I may fall asleep during it but it’s not the show’s fault. \n\nSelfie a day for a year, day 279, May 24, 2026 edition.\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/0fcd629c2c.jpg\" width=\"450\" height=\"600\" alt=\"A person with glasses and a beard is wearing a gray shirt and looking at the camera.\">\n",
 				"date_published": "2026-05-24T19:45:54-06:00",
 				"url": "https://microblog.chrisenns.com/2026/05/24/all-done-all-the-things.html",
 				"tags": ["Microposts"]
@@ -46,7 +82,7 @@
 				"id": "http://ichris.micro.blog/2026/05/24/if-you-got-an-email.html",
 				
 				"content_html": "<p>If you got an email like this from Patreon on my behalf, I’m sorry and I’ll figure out a way to turn it off. “Enjoying your free membership to Chris?” 😂</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "If you got an email like this from Patreon on my behalf, I’m sorry and I’ll figure out a way to turn it off. “Enjoying your free membership to Chris?” 😂 \n\n<img src=\"uploads/2026/998dcb8151.jpg\" width=\"445\" height=\"600\" alt=\"A promotional offer advertises a 50% discount on the first month of a paid membership, valid until May 31, with a call-to-action button to claim the offer.\">\n",
+				"content_text": "If you got an email like this from Patreon on my behalf, I’m sorry and I’ll figure out a way to turn it off. “Enjoying your free membership to Chris?” 😂 \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/998dcb8151.jpg\" width=\"445\" height=\"600\" alt=\"A promotional offer advertises a 50% discount on the first month of a paid membership, valid until May 31, with a call-to-action button to claim the offer.\">\n",
 				"date_published": "2026-05-24T09:19:55-06:00",
 				"url": "https://microblog.chrisenns.com/2026/05/24/if-you-got-an-email.html",
 				"tags": ["Microposts"]
@@ -73,7 +109,7 @@
 				"id": "http://ichris.micro.blog/2026/05/23/star-wars-the-mandalorian-and.html",
 				"title": "Star Wars: The Mandalorian and Grogu, 2026 - ★★★½",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/1068/2026/1111073-star-wars-the-mandalorian-and-grogu-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday May 23, 2026.</p>\n",
+				"content_text": "<p><img src=\"uploads/2026/1111073-star-wars-the-mandalorian-and-grogu-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday May 23, 2026.</p>\n",
 				"date_published": "2026-05-23T23:46:52-06:00",
 				"url": "https://microblog.chrisenns.com/2026/05/23/star-wars-the-mandalorian-and.html",
 				"tags": ["Longform"]
