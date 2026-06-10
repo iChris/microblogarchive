@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2026/06/10/technically-from-a-couple-weeks.html",
+				
+				"content_html": "<p>Technically from a couple weeks ago when I recorded this, but the random thumbnail I stopped on was too perfect not to use. 🤦‍♂️😆</p>\n<p>Selfie a day for a year, day 296, Jun 10, 2026 edition.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Technically from a couple weeks ago when I recorded this, but the random thumbnail I stopped on was too perfect not to use. 🤦‍♂️😆\n\nSelfie a day for a year, day 296, Jun 10, 2026 edition.\n\n<img src=\"uploads/2026/cleanshot-2026-06-10-at-17.13.11.png\" width=\"600\" height=\"401\" alt=\"A person with glasses and a beard is speaking into a microphone with the text BECAUSE I THINK A LOT at the bottom.\">\n",
+				"date_published": "2026-06-10T17:14:53-06:00",
+				"url": "https://microblog.chrisenns.com/2026/06/10/technically-from-a-couple-weeks.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/06/10/logging-on.html",
+				
+				"content_html": "<p>Logging on</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Logging on \n\n<img src=\"uploads/2026/paste-7bec78dd.png\" width=\"493\" height=\"405\" alt=\"Screengrab from Widow’s Bay showing Rosemary (played by Dale Dickey) sitting at a desk with a stack of papers and a mug, while a caption reads, Can't do anything right today.\">\n",
+				"date_published": "2026-06-10T10:18:01-06:00",
+				"url": "https://microblog.chrisenns.com/2026/06/10/logging-on.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/06/09/trying-to-get-a-shot.html",
+				
+				"content_html": "<p>Trying to get a shot with Neville sitting long enough between attempts to catch a bird.</p>\n<p>Selfie a day for a year, day 295, Jun 9, 2026 edition.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Trying to get a shot with Neville sitting long enough between attempts to catch a bird. \n\nSelfie a day for a year, day 295, Jun 9, 2026 edition.\n\n<img src=\"uploads/2026/2d6c831db7.jpg\" width=\"431\" height=\"600\" alt=\"A bearded man wearing glasses and a creative black t-shirt stands in a backyard while a white dog runs in the grass behind him.\"><img src=\"uploads/2026/41d026762b.jpg\" width=\"450\" height=\"600\" alt=\"A man with glasses and a T-shirt featuring colorful lines stands on grass, while a white dog walks near a fence in the background.\"><img src=\"uploads/2026/b7e15902f0.jpg\" width=\"450\" height=\"600\" alt=\"A man with glasses and a T-shirt featuring colorful lines stands on grass, while a white dog walks near a fence in the background.\">\n",
+				"date_published": "2026-06-09T18:49:08-06:00",
+				"url": "https://microblog.chrisenns.com/2026/06/09/trying-to-get-a-shot.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/06/09/new-blog-post-the-song.html",
+				
+				"content_html": "<p>New blog post: <a href=\"https://chrisenns.com/2026/06/the-song-that-saved-andy-rowens-life/\">The Song That Saved Andy Rowen&rsquo;s Life</a> #U2</p>\n",
+				"content_text": "New blog post: [The Song That Saved Andy Rowen's Life](https://chrisenns.com/2026/06/the-song-that-saved-andy-rowens-life/) #U2\n",
+				"date_published": "2026-06-09T16:31:31-06:00",
+				"url": "https://microblog.chrisenns.com/2026/06/09/new-blog-post-the-song.html",
+				"tags": ["Microposts"]
+			},
+			{
 				"id": "http://ichris.micro.blog/2026/06/09/its-tuesday-somewhere-here-in.html",
 				
 				"content_html": "<p>It&rsquo;s Tuesday somewhere (here in fact), so it&rsquo;s time for another issue of my newsletter which you can <a href=\"https://www.patreon.com/posts/issue-47-just-160554096\">read right here if you like</a>.</p>\n",
@@ -19,7 +55,7 @@
 				"id": "http://ichris.micro.blog/2026/06/08/monochrome-selfie-for-this-monday.html",
 				
 				"content_html": "<p>Monochrome ☕️ + 🐶 selfie for this Monday morning.</p>\n<p>Selfie a day for a year, day 294, Jun 8, 2026 edition.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Monochrome ☕️ + 🐶 selfie for this Monday morning. \n\nSelfie a day for a year, day 294, Jun 8, 2026 edition.\n\n<img src=\"uploads/2026/3ca527bacb.jpg\" width=\"450\" height=\"600\" alt=\"A person (me!) is holding a mug of coffee is sitting next to a sleeping dog on the floor.\">\n",
+				"content_text": "Monochrome ☕️ + 🐶 selfie for this Monday morning. \n\nSelfie a day for a year, day 294, Jun 8, 2026 edition.\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/3ca527bacb.jpg\" width=\"450\" height=\"600\" alt=\"A person (me!) is holding a mug of coffee is sitting next to a sleeping dog on the floor.\">\n",
 				"date_published": "2026-06-08T09:39:57-06:00",
 				"url": "https://microblog.chrisenns.com/2026/06/08/monochrome-selfie-for-this-monday.html",
 				"tags": ["Microposts"]
