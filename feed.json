@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2026/06/28/ive-got-a-bright-idea.html",
+				
+				"content_html": "<p>I’ve got a bright idea.</p>\n<p>Selfie a day for a year, day 314, Jun 28, 2026 edition.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I’ve got a bright idea. \n\nSelfie a day for a year, day 314, Jun 28, 2026 edition.\n\n<img src=\"uploads/2026/0b89372223.jpg\" width=\"450\" height=\"600\" alt=\"A man wearing glasses and a hoodie with a logo is holding a can of beverage near a lit bulb and an outdoor grill in a wooded area.\">\n",
+				"date_published": "2026-06-28T20:23:21-06:00",
+				"url": "https://microblog.chrisenns.com/2026/06/28/ive-got-a-bright-idea.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/06/28/alright-rain-thats-enough-outta.html",
+				
+				"content_html": "<p>Alright rain… that’s enough outta you. 😴</p>\n",
+				"content_text": "Alright rain… that’s enough outta you. 😴 \n",
+				"date_published": "2026-06-28T00:01:25-06:00",
+				"url": "https://microblog.chrisenns.com/2026/06/28/alright-rain-thats-enough-outta.html",
+				"tags": ["Microposts"]
+			},
+			{
 				"id": "http://ichris.micro.blog/2026/06/27/hot-dogs-for-supper-selfie.html",
 				
 				"content_html": "<p>Hot dogs for supper. 🔥</p>\n<p>Selfie a day for a year, day 313, Jun 27, 2026 edition.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
