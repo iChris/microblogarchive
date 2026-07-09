@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2026/07/09/staying-up-to-watch-the.html",
+				
+				"content_html": "<p>Staying up to watch the storm roll over and make sure water isn&rsquo;t coming into the house seemed like a good idea at 12:30am last night. 🥱💤</p>\n",
+				"content_text": "Staying up to watch the storm roll over and make sure water isn't coming into the house seemed like a good idea at 12:30am last night. 🥱💤\n",
+				"date_published": "2026-07-09T11:30:55-06:00",
+				"url": "https://microblog.chrisenns.com/2026/07/09/staying-up-to-watch-the.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/07/08/im-picking-everyone-up-a.html",
+				
+				"content_html": "<p>I’m picking everyone up a slurpee. What kind do you want?</p>\n<p>Selfie a day for a year, day 324, Jul 8, 2026 edition.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I’m picking everyone up a slurpee. What kind do you want?  \n\nSelfie a day for a year, day 324, Jul 8, 2026 edition.\n\n<img src=\"uploads/2026/a9258e4799.jpg\" width=\"450\" height=\"600\" alt=\"A man with glasses and a beard is sipping a colorful Slurpee through a striped straw.\">\n",
+				"date_published": "2026-07-08T16:24:55-06:00",
+				"url": "https://microblog.chrisenns.com/2026/07/08/im-picking-everyone-up-a.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/07/08/has-anybody-used-something-like.html",
+				
+				"content_html": "<p>Has anybody used something like this <a href=\"https://wiimhome.com/wiimmini/overview\">WiiM mini</a> to add AirPlay to an older receiver? I’ve got a really AirPort Express that’s on its last legs and looking for a replacement.</p>\n",
+				"content_text": "Has anybody used something like this [WiiM mini](https://wiimhome.com/wiimmini/overview) to add AirPlay to an older receiver? I’ve got a really AirPort Express that’s on its last legs and looking for a replacement. \n",
+				"date_published": "2026-07-08T08:24:25-06:00",
+				"url": "https://microblog.chrisenns.com/2026/07/08/has-anybody-used-something-like.html",
+				"tags": ["Microposts"]
+			},
+			{
 				"id": "http://ichris.micro.blog/2026/07/08/neville-wanted-me-to-tell.html",
 				
 				"content_html": "<p>Neville wanted me to tell you that it’s Wednesday, not Tuesday or Thursday. He doesn’t mind reminding you but really thinks you should check your calendar occasionally. 🐶</p>\n<!-- raw HTML omitted -->\n",
@@ -37,7 +64,7 @@
 				"id": "http://ichris.micro.blog/2026/07/06/almost-forgot-to-get-the.html",
 				
 				"content_html": "<p>Almost forgot to get the selfie in today. Zzzzzzzzzz goodnight!</p>\n<p>Selfie a day for a year, day 322, Jul 6, 2026 edition.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Almost forgot to get the selfie in today. Zzzzzzzzzz goodnight!\n\nSelfie a day for a year, day 322, Jul 6, 2026 edition.\n\n<img src=\"uploads/2026/41281550e8.jpg\" width=\"600\" height=\"417\" alt=\"A person with a mustache and beard is lying down with their eyes closed, resting their head on a pillow.\">\n",
+				"content_text": "Almost forgot to get the selfie in today. Zzzzzzzzzz goodnight!\n\nSelfie a day for a year, day 322, Jul 6, 2026 edition.\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/41281550e8.jpg\" width=\"600\" height=\"417\" alt=\"A person with a mustache and beard is lying down with their eyes closed, resting their head on a pillow.\">\n",
 				"date_published": "2026-07-06T23:53:56-06:00",
 				"url": "https://microblog.chrisenns.com/2026/07/06/almost-forgot-to-get-the.html",
 				"tags": ["Microposts"]
