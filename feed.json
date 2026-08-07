@@ -7,10 +7,55 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2026/08/07/i-just-want-normal-parents.html",
+				
+				"content_html": "<p>&ldquo;I just want normal parents who don&rsquo;t care about what their kids are doing! 😡&rdquo; Happy Friday everyone!</p>\n",
+				"content_text": "\"I just want normal parents who don't care about what their kids are doing! 😡\" Happy Friday everyone!\n",
+				"date_published": "2026-08-07T09:29:57-06:00",
+				"url": "https://microblog.chrisenns.com/2026/08/07/i-just-want-normal-parents.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/08/06/kid-needed-a-ride-home.html",
+				
+				"content_html": "<p>Kid needed a ride home at 11. 😪\nKid is going to get a ride home! 😅\nKid no longer has a ride home, once again needs a ride home. 😪 🥱</p>\n<p>On the plus side I get more time with the audiobook for Carl’s Doomsday Scenario.</p>\n",
+				"content_text": "Kid needed a ride home at 11. 😪 \nKid is going to get a ride home! 😅 \nKid no longer has a ride home, once again needs a ride home. 😪 🥱 \n\nOn the plus side I get more time with the audiobook for Carl’s Doomsday Scenario. \n",
+				"date_published": "2026-08-06T22:59:08-06:00",
+				"url": "https://microblog.chrisenns.com/2026/08/06/kid-needed-a-ride-home.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/08/06/i-just-had-a-full.html",
+				
+				"content_html": "<p>I just had a full sensory memory of dropping a new CD into a CD player tray, watching the tray slide in, and hear it start spinning for a moment before the music hit.</p>\n",
+				"content_text": "I just had a full sensory memory of dropping a new CD into a CD player tray, watching the tray slide in, and hear it start spinning for a moment before the music hit.\n",
+				"date_published": "2026-08-06T12:38:28-06:00",
+				"url": "https://microblog.chrisenns.com/2026/08/06/i-just-had-a-full.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/08/06/new-on-my-blog-following.html",
+				
+				"content_html": "<p>New on my blog: <a href=\"https://chrisenns.com/2026/08/following-a-link/\">Following a link</a>. Join me on a little walk through the &lsquo;ole world wide web.</p>\n",
+				"content_text": "New on my blog: [Following a link](https://chrisenns.com/2026/08/following-a-link/). Join me on a little walk through the 'ole world wide web.\n",
+				"date_published": "2026-08-06T10:02:02-06:00",
+				"url": "https://microblog.chrisenns.com/2026/08/06/new-on-my-blog-following.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/08/06/how-long-has-it-been.html",
+				
+				"content_html": "<p>How long has it been since you hopped around the web from blog to website to a different blog to someone’s about page to yet another website? I miss the old ways when it was a bit more work to travel the web, but more rewarding when you found some new corner you didn’t know existed.</p>\n",
+				"content_text": "How long has it been since you hopped around the web from blog to website to a different blog to someone’s about page to yet another website? I miss the old ways when it was a bit more work to travel the web, but more rewarding when you found some new corner you didn’t know existed. \n",
+				"date_published": "2026-08-06T08:26:39-06:00",
+				"url": "https://microblog.chrisenns.com/2026/08/06/how-long-has-it-been.html",
+				"tags": ["Microposts"]
+			},
+			{
 				"id": "http://ichris.micro.blog/2026/08/05/take-a-drink-of-water.html",
 				
-				"content_html": "<p>Take a drink of water and celebrate Ted Lasso, season 4 episode 1 release day.</p>\n<p>Selfie a day for a year, day 352,, Aug 5, 2026 edition.</p>\n<p><img src=\"uploads/2026/023552bf68.jpg\" width=\"450\" height=\"600\" alt=\"A man with glasses is drinking from a clear glass while sitting in a room with a framed cartoon portrait of Ted Lasso on the wall and a beige chair in the background.\"><img src=\"uploads/2026/d8ad95d794.jpg\" width=\"473\" height=\"600\" alt=\"A framed cartoon-style illustration of Ted Lasso with a mustache, wearing a dark sweater with a small logo, tan pants, and red shoes is displayed on a wall.\"></p>\n",
-				"content_text": "Take a drink of water and celebrate Ted Lasso, season 4 episode 1 release day.  \n\nSelfie a day for a year, day 352,, Aug 5, 2026 edition.\n\n<img src=\"uploads/2026/023552bf68.jpg\" width=\"450\" height=\"600\" alt=\"A man with glasses is drinking from a clear glass while sitting in a room with a framed cartoon portrait of Ted Lasso on the wall and a beige chair in the background.\"><img src=\"uploads/2026/d8ad95d794.jpg\" width=\"473\" height=\"600\" alt=\"A framed cartoon-style illustration of Ted Lasso with a mustache, wearing a dark sweater with a small logo, tan pants, and red shoes is displayed on a wall.\">\n",
+				"content_html": "<p>Take a drink of water and celebrate Ted Lasso, season 4 episode 1 release day.</p>\n<p>Selfie a day for a year, day 352,, Aug 5, 2026 edition.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/1068/2026/023552bf68.jpg\" width=\"450\" height=\"600\" alt=\"A man with glasses is drinking from a clear glass while sitting in a room with a framed cartoon portrait of Ted Lasso on the wall and a beige chair in the background.\"><img src=\"https://cdn.uploads.micro.blog/1068/2026/d8ad95d794.jpg\" width=\"473\" height=\"600\" alt=\"A framed cartoon-style illustration of Ted Lasso with a mustache, wearing a dark sweater with a small logo, tan pants, and red shoes is displayed on a wall.\"></p>\n",
+				"content_text": "Take a drink of water and celebrate Ted Lasso, season 4 episode 1 release day.  \n\nSelfie a day for a year, day 352,, Aug 5, 2026 edition.\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/023552bf68.jpg\" width=\"450\" height=\"600\" alt=\"A man with glasses is drinking from a clear glass while sitting in a room with a framed cartoon portrait of Ted Lasso on the wall and a beige chair in the background.\"><img src=\"https://cdn.uploads.micro.blog/1068/2026/d8ad95d794.jpg\" width=\"473\" height=\"600\" alt=\"A framed cartoon-style illustration of Ted Lasso with a mustache, wearing a dark sweater with a small logo, tan pants, and red shoes is displayed on a wall.\">\n",
 				"date_published": "2026-08-05T14:04:50-06:00",
 				"url": "https://microblog.chrisenns.com/2026/08/05/take-a-drink-of-water.html",
 				"tags": ["Microposts"]
