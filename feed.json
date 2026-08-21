@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2026/08/21/why-do-almost-none-of.html",
+				
+				"content_html": "<p>Why do almost none of the Apple account log in screens pull up Apple Passwords app? It&rsquo;s so annoying that they don&rsquo;t eat their own dog food or whatever that saying is.</p>\n<img src=\"uploads/2026/cleanshot-2026-08-21-at-12.09.12.png\" width=\"543\" height=\"282\" alt=\"A login prompt requests the user to sign in to their Apple Account by entering their email address and password.\">\n",
+				"content_text": "Why do almost none of the Apple account log in screens pull up Apple Passwords app? It's so annoying that they don't eat their own dog food or whatever that saying is.\n\n<img src=\"uploads/2026/cleanshot-2026-08-21-at-12.09.12.png\" width=\"543\" height=\"282\" alt=\"A login prompt requests the user to sign in to their Apple Account by entering their email address and password.\">\n",
+				"date_published": "2026-08-21T12:10:44-06:00",
+				"url": "https://microblog.chrisenns.com/2026/08/21/why-do-almost-none-of.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/08/21/i-share-a-handy-dealfinding.html",
+				
+				"content_html": "<p>I share a handy deal-finding site for anyone who buys or rents movies, TV, music, or apps through Apple.</p>\n<p>I’m publishing a podcast episode a day for a year, day 3, Aug 21, 2026 edition.</p>\n<p><a href=\"https://share.transistor.fm/s/a2bab231\">Listen here</a></p>\n",
+				"content_text": "I share a handy deal-finding site for anyone who buys or rents movies, TV, music, or apps through Apple. \n\nI’m publishing a podcast episode a day for a year, day 3, Aug 21, 2026 edition.\n\n[Listen here](https://share.transistor.fm/s/a2bab231)\n",
+				"date_published": "2026-08-21T08:17:20-06:00",
+				"url": "https://microblog.chrisenns.com/2026/08/21/i-share-a-handy-dealfinding.html",
+				"tags": ["Podcasting","Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/08/20/on-the-subject-of-quick.html",
+				
+				"content_html": "<p>On the subject of quick &rsquo;n easy recording, <a href=\"https://micro.blog/manton\">@manton</a> reminded me that <a href=\"https://help.micro.blog/t/micro-blog-studio/4081\">Micro.blog Studio</a> has a pretty sweet set up with an app for recording and hosting all built in. If I was <em>just</em> doing Daily(ish) I probably would&rsquo;ve used it.</p>\n",
+				"content_text": "On the subject of quick 'n easy recording, [@manton](https://micro.blog/manton) reminded me that [Micro.blog Studio](https://help.micro.blog/t/micro-blog-studio/4081) has a pretty sweet set up with an app for recording and hosting all built in. If I was *just* doing Daily(ish) I probably would've used it.\n",
+				"date_published": "2026-08-20T11:36:14-06:00",
+				"url": "https://microblog.chrisenns.com/2026/08/20/on-the-subject-of-quick.html",
+				"tags": ["Microposts"]
+			},
+			{
 				"id": "http://ichris.micro.blog/2026/08/20/today-i-talked-about-plans.html",
 				
 				"content_html": "<p>Today I talked about plans and ambitions to simplify. Which doing a podcast episode a day for a year is kind of the opposite of? <a href=\"https://share.transistor.fm/s/679c3a64\">share.transistor.fm/s/679c3a6&hellip;</a></p>\n<p>I’m publishing a podcast episode a day for a year, day 2, Aug 20th, 2026 edition.</p>\n",
@@ -27,8 +54,8 @@
 			{
 				"id": "http://ichris.micro.blog/2026/08/20/with-the-new-fortnite-season.html",
 				
-				"content_html": "<p>With the new #Fortnite season being 8 bit arcade game themed, it’s hard to tell if this is a bug or a deliberate Placeholder image.</p>\n<img src=\"uploads/2026/ae474c6c19.png\" width=\"600\" height=\"337\" alt=\"A notification indicates that the Crown Sprite has been acquired in a game, with details and options to claim or equip it shown on screen.\">\n",
-				"content_text": "With the new #Fortnite season being 8 bit arcade game themed, it’s hard to tell if this is a bug or a deliberate Placeholder image. \n\n<img src=\"uploads/2026/ae474c6c19.png\" width=\"600\" height=\"337\" alt=\"A notification indicates that the Crown Sprite has been acquired in a game, with details and options to claim or equip it shown on screen.\">\n",
+				"content_html": "<p>With the new #Fortnite season being 8 bit arcade game themed, it’s hard to tell if this is a bug or a deliberate Placeholder image.</p>\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/ae474c6c19.png\" width=\"600\" height=\"337\" alt=\"A notification indicates that the Crown Sprite has been acquired in a game, with details and options to claim or equip it shown on screen.\">\n",
+				"content_text": "With the new #Fortnite season being 8 bit arcade game themed, it’s hard to tell if this is a bug or a deliberate Placeholder image. \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/ae474c6c19.png\" width=\"600\" height=\"337\" alt=\"A notification indicates that the Crown Sprite has been acquired in a game, with details and options to claim or equip it shown on screen.\">\n",
 				"date_published": "2026-08-20T10:07:41-06:00",
 				"url": "https://microblog.chrisenns.com/2026/08/20/with-the-new-fortnite-season.html",
 				"tags": ["Microposts"]
