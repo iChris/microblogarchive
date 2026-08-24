@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2026/08/24/i-just-published-a-new.html",
+				
+				"content_html": "<p>I just published a new episode of Daily(ish) called &ldquo;Pedantry on What Year It Is&rdquo;.</p>\n<p>I’m publishing a podcast episode a day for a year, day 6, Aug 24, 2026 edition.</p>\n<p><a href=\"https://share.transistor.fm/s/7fa713b0\">Listen here or wherever you get your podcasts</a>.</p>\n",
+				"content_text": "I just published a new episode of Daily(ish) called \"Pedantry on What Year It Is\". \n\nI’m publishing a podcast episode a day for a year, day 6, Aug 24, 2026 edition.\n\n[Listen here or wherever you get your podcasts](https://share.transistor.fm/s/7fa713b0).\n",
+				"date_published": "2026-08-24T08:50:23-06:00",
+				"url": "https://microblog.chrisenns.com/2026/08/24/i-just-published-a-new.html",
+				"tags": ["Podcasting","Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/08/23/spiderman-brand-new-day.html",
+				"title": "Spider-Man: Brand New Day, 2026 - ★★★★½",
+				"content_html": "<p><img src=\"uploads/2026/bf35a019c0.jpg\"/></p> <p>Watched on Sunday August 23, 2026.</p>\n",
+				"content_text": "<p><img src=\"uploads/2026/bf35a019c0.jpg\"/></p> <p>Watched on Sunday August 23, 2026.</p>\n",
+				"date_published": "2026-08-23T21:56:01-06:00",
+				"url": "https://microblog.chrisenns.com/2026/08/23/spiderman-brand-new-day.html",
+				"tags": ["Longform"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/08/23/i-just-published-a-new.html",
+				
+				"content_html": "<p>I just published a new episode of Daily(ish) called &ldquo;Pre-Recorded Content&rdquo; where I&rsquo;m going to let you in on a little secret about this podcast.</p>\n<p><a href=\"https://share.transistor.fm/s/85d8e071\">share.transistor.fm/s/85d8e07&hellip;</a></p>\n",
+				"content_text": "I just published a new episode of Daily(ish) called \"Pre-Recorded Content\" where I'm going to let you in on a little secret about this podcast. \n\n[share.transistor.fm/s/85d8e07...](https://share.transistor.fm/s/85d8e071)\n",
+				"date_published": "2026-08-23T18:23:02-06:00",
+				"url": "https://microblog.chrisenns.com/2026/08/23/i-just-published-a-new.html",
+				"tags": ["Podcasting","Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/08/23/first-thing-wed-climb-a.html",
+				
+				"content_html": "<p>“First thing we&rsquo;d climb a tree\nAnd maybe then we&rsquo;d talk\nOr sit silently\nAnd listen to our thoughts\nWith illusions of someday\nCast in a golden light\nNo dress rehearsal\nThis is our life”</p>\n<p>♥️ 🇨🇦</p>\n",
+				"content_text": "“First thing we'd climb a tree\nAnd maybe then we'd talk\nOr sit silently\nAnd listen to our thoughts\nWith illusions of someday\nCast in a golden light\nNo dress rehearsal\nThis is our life”\n\n♥️ 🇨🇦 \n",
+				"date_published": "2026-08-23T00:02:58-06:00",
+				"url": "https://microblog.chrisenns.com/2026/08/23/first-thing-wed-climb-a.html",
+				"tags": ["Microposts"]
+			},
+			{
 				"id": "http://ichris.micro.blog/2026/08/23/it-was-in-bobcaygeon-i.html",
 				
 				"content_html": "<p>“It was in Bobcaygeon\nI saw the constellations\nReveal themselves\none star at a time”</p>\n<p>-Gord Downie, The Tragically Hip\n10 year anniversary of their final concert.</p>\n",
@@ -27,8 +63,8 @@
 			{
 				"id": "http://ichris.micro.blog/2026/08/22/free-sticks-for-dogs.html",
 				
-				"content_html": "<p>Free sticks for dogs 😊</p>\n<img src=\"uploads/2026/ce929a9985.jpg\" width=\"494\" height=\"600\" alt=\"A pile of tree sticks lies on a sidewalk next to childlike chalk writing that says free sticks for dogs.\">\n",
-				"content_text": "Free sticks for dogs 😊 \n\n<img src=\"uploads/2026/ce929a9985.jpg\" width=\"494\" height=\"600\" alt=\"A pile of tree sticks lies on a sidewalk next to childlike chalk writing that says free sticks for dogs.\">\n",
+				"content_html": "<p>Free sticks for dogs 😊</p>\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/ce929a9985.jpg\" width=\"494\" height=\"600\" alt=\"A pile of tree sticks lies on a sidewalk next to childlike chalk writing that says free sticks for dogs.\">\n",
+				"content_text": "Free sticks for dogs 😊 \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/ce929a9985.jpg\" width=\"494\" height=\"600\" alt=\"A pile of tree sticks lies on a sidewalk next to childlike chalk writing that says free sticks for dogs.\">\n",
 				"date_published": "2026-08-22T11:08:52-06:00",
 				"url": "https://microblog.chrisenns.com/2026/08/22/free-sticks-for-dogs.html",
 				"tags": ["Microposts"]
@@ -45,8 +81,8 @@
 			{
 				"id": "http://ichris.micro.blog/2026/08/21/why-do-almost-none-of.html",
 				
-				"content_html": "<p>Why do almost none of the Apple account log in screens pull up Apple Passwords app? It&rsquo;s so annoying that they don&rsquo;t eat their own dog food or whatever that saying is.</p>\n<img src=\"uploads/2026/cleanshot-2026-08-21-at-12.09.12.png\" width=\"543\" height=\"282\" alt=\"A login prompt requests the user to sign in to their Apple Account by entering their email address and password.\">\n",
-				"content_text": "Why do almost none of the Apple account log in screens pull up Apple Passwords app? It's so annoying that they don't eat their own dog food or whatever that saying is.\n\n<img src=\"uploads/2026/cleanshot-2026-08-21-at-12.09.12.png\" width=\"543\" height=\"282\" alt=\"A login prompt requests the user to sign in to their Apple Account by entering their email address and password.\">\n",
+				"content_html": "<p>Why do almost none of the Apple account log in screens pull up Apple Passwords app? It&rsquo;s so annoying that they don&rsquo;t eat their own dog food or whatever that saying is.</p>\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/cleanshot-2026-08-21-at-12.09.12.png\" width=\"543\" height=\"282\" alt=\"A login prompt requests the user to sign in to their Apple Account by entering their email address and password.\">\n",
+				"content_text": "Why do almost none of the Apple account log in screens pull up Apple Passwords app? It's so annoying that they don't eat their own dog food or whatever that saying is.\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/cleanshot-2026-08-21-at-12.09.12.png\" width=\"543\" height=\"282\" alt=\"A login prompt requests the user to sign in to their Apple Account by entering their email address and password.\">\n",
 				"date_published": "2026-08-21T12:10:44-06:00",
 				"url": "https://microblog.chrisenns.com/2026/08/21/why-do-almost-none-of.html",
 				"tags": ["Microposts"]
