@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2026/09/05/for-todays-episode-im-talking.html",
+				
+				"content_html": "<p>For today&rsquo;s episode I&rsquo;m talking Silo, second screening shows, and why AppleTV expects more from their viewers. And that&rsquo;s a good thing. <a href=\"https://daily.chrisenns.com/s2/278\">daily.chrisenns.com/s2/278</a></p>\n<p>I’m publishing a podcast episode a day for a year, day 17, Sep 5, 2026 edition.</p>\n",
+				"content_text": "For today's episode I'm talking Silo, second screening shows, and why AppleTV expects more from their viewers. And that's a good thing. [daily.chrisenns.com/s2/278](https://daily.chrisenns.com/s2/278)\n\nI’m publishing a podcast episode a day for a year, day 17, Sep 5, 2026 edition.\n",
+				"date_published": "2026-09-05T14:18:53-06:00",
+				"url": "https://microblog.chrisenns.com/2026/09/05/for-todays-episode-im-talking.html",
+				"tags": ["Podcasting","Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/09/05/aw-dang-i-forgot-to.html",
+				
+				"content_html": "<p>Aw dang - I forgot to record an episode yesterday. Made it 16 days before I missed one. Back on the bike / horse / treadmill (?) today.</p>\n",
+				"content_text": "Aw dang - I forgot to record an episode yesterday. Made it 16 days before I missed one. Back on the bike / horse / treadmill (?) today. \n",
+				"date_published": "2026-09-05T08:59:43-06:00",
+				"url": "https://microblog.chrisenns.com/2026/09/05/aw-dang-i-forgot-to.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/09/05/i-played-breath-of-the.html",
+				
+				"content_html": "<p>I played Breath of the Wild for an hour tonight and didn’t accomplish much besides getting lost in a desert storm while trying to find Rito Village and ended up back in Gerudo by accident. #ITried</p>\n",
+				"content_text": "I played Breath of the Wild for an hour tonight and didn’t accomplish much besides getting lost in a desert storm while trying to find Rito Village and ended up back in Gerudo by accident. #ITried\n",
+				"date_published": "2026-09-05T00:36:59-06:00",
+				"url": "https://microblog.chrisenns.com/2026/09/05/i-played-breath-of-the.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/09/04/days-until-the-next-episode.html",
+				
+				"content_html": "<p>308 days until the next episode of Silo.</p>\n<img src=\"uploads/2026/f9018c9b-a255-4327-8e3c-125b6330e20a.jpg\" width=\"555\" height=\"600\" alt=\"A countdown of 308 days is shown for the release of Season 4, Episode 1, scheduled for July 9, 2027, featuring a woman in front of a spiral staircase with a glowing light at the center.\">\n",
+				"content_text": "308 days until the next episode of Silo. \n\n<img src=\"uploads/2026/f9018c9b-a255-4327-8e3c-125b6330e20a.jpg\" width=\"555\" height=\"600\" alt=\"A countdown of 308 days is shown for the release of Season 4, Episode 1, scheduled for July 9, 2027, featuring a woman in front of a spiral staircase with a glowing light at the center.\">\n",
+				"date_published": "2026-09-04T21:55:32-06:00",
+				"url": "https://microblog.chrisenns.com/2026/09/04/days-until-the-next-episode.html",
+				"tags": ["Microposts"]
+			},
+			{
 				"id": "http://ichris.micro.blog/2026/09/04/dont-use-something-vibecoded-to.html",
 				
 				"content_html": "<p>Don&rsquo;t use something vibe-coded to share files locally when <a href=\"https://localsend.org/\">LocalSend</a> already exists. Windows, macOS, Linux, Android, and iOS. No accounts needed. Files sent over wifi, not the internet.</p>\n<p>For when AirPlay doesn&rsquo;t work even though it&rsquo;s supposed to Just Work™.</p>\n",
