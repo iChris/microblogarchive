@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2026/09/06/just-a-quick-episode-today.html",
+				
+				"content_html": "<p>Just a quick episode today: <a href=\"https://daily.chrisenns.com/s2/279\">daily.chrisenns.com/s2/279</a></p>\n<p>I’m publishing a podcast episode a day for a year, day 18, Sep 6, 2026 edition.</p>\n",
+				"content_text": "Just a quick episode today: [daily.chrisenns.com/s2/279](https://daily.chrisenns.com/s2/279)\n\nI’m publishing a podcast episode a day for a year, day 18, Sep 6, 2026 edition.\n",
+				"date_published": "2026-09-06T22:55:47-06:00",
+				"url": "https://microblog.chrisenns.com/2026/09/06/just-a-quick-episode-today.html",
+				"tags": ["Podcasting","Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/09/06/dune-part-two.html",
+				"title": "Dune: Part Two, 2024 - ★★★★",
+				"content_html": "<p><img src=\"uploads/2026/617443-dune-part-two-0-600-0-900-crop.jpg\"/></p> <p>Watched on Sunday September 6, 2026.</p>\n",
+				"content_text": "<p><img src=\"uploads/2026/617443-dune-part-two-0-600-0-900-crop.jpg\"/></p> <p>Watched on Sunday September 6, 2026.</p>\n",
+				"date_published": "2026-09-06T18:08:54-06:00",
+				"url": "https://microblog.chrisenns.com/2026/09/06/dune-part-two.html",
+				"tags": ["Longform"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/09/06/keeping-the-rebecca-ferguson-watch.html",
+				
+				"content_html": "<p>Keeping the Rebecca Ferguson watch going with Dune 2: more Dune’ing.</p>\n<img src=\"uploads/2026/4fe4a1b2-4459-415e-9faf-571bd4c97b4f.jpg\" width=\"546\" height=\"600\" alt=\"Rebecca Ferguson wearing a hooded garment is shown on a television screen with intense red and orange lighting. From the start of Dune 2\">\n",
+				"content_text": "Keeping the Rebecca Ferguson watch going with Dune 2: more Dune’ing. \n\n<img src=\"uploads/2026/4fe4a1b2-4459-415e-9faf-571bd4c97b4f.jpg\" width=\"546\" height=\"600\" alt=\"Rebecca Ferguson wearing a hooded garment is shown on a television screen with intense red and orange lighting. From the start of Dune 2\">\n",
+				"date_published": "2026-09-06T15:43:09-06:00",
+				"url": "https://microblog.chrisenns.com/2026/09/06/keeping-the-rebecca-ferguson-watch.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/09/05/one-way-to-find-out.html",
+				
+				"content_html": "<p>One way to find out which of your kids is a troll is to play Big Walk with them. 😆</p>\n",
+				"content_text": "One way to find out which of your kids is a troll is to play Big Walk with them. 😆 \n",
+				"date_published": "2026-09-05T22:32:13-06:00",
+				"url": "https://microblog.chrisenns.com/2026/09/05/one-way-to-find-out.html",
+				"tags": ["Microposts"]
+			},
+			{
 				"id": "http://ichris.micro.blog/2026/09/05/for-todays-episode-im-talking.html",
 				
 				"content_html": "<p>For today&rsquo;s episode I&rsquo;m talking Silo, second screening shows, and why AppleTV expects more from their viewers. And that&rsquo;s a good thing. <a href=\"https://daily.chrisenns.com/s2/278\">daily.chrisenns.com/s2/278</a></p>\n<p>I’m publishing a podcast episode a day for a year, day 17, Sep 5, 2026 edition.</p>\n",
@@ -36,8 +72,8 @@
 			{
 				"id": "http://ichris.micro.blog/2026/09/04/days-until-the-next-episode.html",
 				
-				"content_html": "<p>308 days until the next episode of Silo.</p>\n<img src=\"uploads/2026/f9018c9b-a255-4327-8e3c-125b6330e20a.jpg\" width=\"555\" height=\"600\" alt=\"A countdown of 308 days is shown for the release of Season 4, Episode 1, scheduled for July 9, 2027, featuring a woman in front of a spiral staircase with a glowing light at the center.\">\n",
-				"content_text": "308 days until the next episode of Silo. \n\n<img src=\"uploads/2026/f9018c9b-a255-4327-8e3c-125b6330e20a.jpg\" width=\"555\" height=\"600\" alt=\"A countdown of 308 days is shown for the release of Season 4, Episode 1, scheduled for July 9, 2027, featuring a woman in front of a spiral staircase with a glowing light at the center.\">\n",
+				"content_html": "<p>308 days until the next episode of Silo.</p>\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/f9018c9b-a255-4327-8e3c-125b6330e20a.jpg\" width=\"555\" height=\"600\" alt=\"A countdown of 308 days is shown for the release of Season 4, Episode 1, scheduled for July 9, 2027, featuring a woman in front of a spiral staircase with a glowing light at the center.\">\n",
+				"content_text": "308 days until the next episode of Silo. \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/f9018c9b-a255-4327-8e3c-125b6330e20a.jpg\" width=\"555\" height=\"600\" alt=\"A countdown of 308 days is shown for the release of Season 4, Episode 1, scheduled for July 9, 2027, featuring a woman in front of a spiral staircase with a glowing light at the center.\">\n",
 				"date_published": "2026-09-04T21:55:32-06:00",
 				"url": "https://microblog.chrisenns.com/2026/09/04/days-until-the-next-episode.html",
 				"tags": ["Microposts"]
@@ -234,8 +270,8 @@
 			{
 				"id": "http://ichris.micro.blog/2026/08/29/backrooms.html",
 				"title": "Backrooms, 2026 - ★★★½",
-				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/1068/2026/976419-backrooms-2026-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday August 29, 2026.</p>\n",
-				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/1068/2026/976419-backrooms-2026-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday August 29, 2026.</p>\n",
+				"content_html": "<p><img src=\"uploads/2026/976419-backrooms-2026-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday August 29, 2026.</p>\n",
+				"content_text": "<p><img src=\"uploads/2026/976419-backrooms-2026-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday August 29, 2026.</p>\n",
 				"date_published": "2026-08-29T23:09:17-06:00",
 				"url": "https://microblog.chrisenns.com/2026/08/29/backrooms.html",
 				"tags": ["Longform"]
