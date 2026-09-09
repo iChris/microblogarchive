@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2026/09/09/i-know-people-will-still.html",
+				
+				"content_html": "<p>I know people will still buy it. I know Apple will sell a bunch. But can we stop to acknowledge that over $5k with tax for a loaded up iPhone Duo in Canada is kind of nuts?</p>\n<img src=\"uploads/2026/cleanshot-2026-09-09-at-13.03.47.png\" width=\"600\" height=\"225\" alt=\"An advertisement displays the iPhone Duo with 2TB in Night Sky color, priced at $4,799.00, along with payment options and notices about delivery and pickup availability.\">\n",
+				"content_text": "I know people will still buy it. I know Apple will sell a bunch. But can we stop to acknowledge that over $5k with tax for a loaded up iPhone Duo in Canada is kind of nuts?\n\n<img src=\"uploads/2026/cleanshot-2026-09-09-at-13.03.47.png\" width=\"600\" height=\"225\" alt=\"An advertisement displays the iPhone Duo with 2TB in Night Sky color, priced at $4,799.00, along with payment options and notices about delivery and pickup availability.\">\n",
+				"date_published": "2026-09-09T13:05:20-06:00",
+				"url": "https://microblog.chrisenns.com/2026/09/09/i-know-people-will-still.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/09/09/rogue-amoeba-updated-farrago-their.html",
+				
+				"content_html": "<p>Rogue Amoeba updated Farrago, their macOS soundboard app, with some <a href=\"https://weblog.rogueamoeba.com/2026/09/09/get-farrago-2-2-now/\">nice improvements + features, particularly around Shortcuts support</a>.</p>\n<p>It&rsquo;s one of those apps that&rsquo;s so good it makes me want to start a live Twitch show just to have an excuse to use the app.</p>\n",
+				"content_text": "Rogue Amoeba updated Farrago, their macOS soundboard app, with some [nice improvements + features, particularly around Shortcuts support](https://weblog.rogueamoeba.com/2026/09/09/get-farrago-2-2-now/). \n\nIt's one of those apps that's so good it makes me want to start a live Twitch show just to have an excuse to use the app.\n",
+				"date_published": "2026-09-09T09:23:26-06:00",
+				"url": "https://microblog.chrisenns.com/2026/09/09/rogue-amoeba-updated-farrago-their.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/09/08/like-the-rest-of-the.html",
+				
+				"content_html": "<p>Like the rest of the internet, I&rsquo;m kind of horrified at how much TVs are actually listening (and recording) us. Maybe I should get an LG TV to record the podcast with? Listen here: <a href=\"https://daily.chrisenns.com/s2/281\">daily.chrisenns.com/s2/281</a></p>\n<p>I’m publishing a podcast episode a day for a year, day 20, Sep 8, 2026 edition.</p>\n",
+				"content_text": "Like the rest of the internet, I'm kind of horrified at how much TVs are actually listening (and recording) us. Maybe I should get an LG TV to record the podcast with? Listen here: [daily.chrisenns.com/s2/281](https://daily.chrisenns.com/s2/281)\n\nI’m publishing a podcast episode a day for a year, day 20, Sep 8, 2026 edition.\n",
+				"date_published": "2026-09-08T17:03:12-06:00",
+				"url": "https://microblog.chrisenns.com/2026/09/08/like-the-rest-of-the.html",
+				"tags": ["Podcasting","Microposts"]
+			},
+			{
 				"id": "http://ichris.micro.blog/2026/09/08/i-hope-sam-altman-gets.html",
 				
 				"content_html": "<p>I hope Sam Altman gets a &ldquo;your name was mentioned in the media&rdquo; note from his AI wife and sees it&rsquo;s in Betty Gilpin&rsquo;s Emmy acceptance speech and goes to watch it assuming she&rsquo;s thanking him for AI&rsquo;s help in her becoming a better actress.</p>\n",
