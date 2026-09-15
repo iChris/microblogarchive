@@ -7,6 +7,51 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2026/09/14/todays-episode-was-meant-to.html",
+				
+				"content_html": "<p>Today&rsquo;s episode was meant to be done earlier today. Le sigh. <a href=\"https://daily.chrisenns.com/s2/287\">daily.chrisenns.com/s2/287</a></p>\n<p>I’m publishing a podcast episode a day for a year, day 26, Sep 14, 2026 edition.</p>\n",
+				"content_text": "Today's episode was meant to be done earlier today. Le sigh. [daily.chrisenns.com/s2/287](https://daily.chrisenns.com/s2/287)\n\nI’m publishing a podcast episode a day for a year, day 26, Sep 14, 2026 edition.\n",
+				"date_published": "2026-09-14T22:47:25-06:00",
+				"url": "https://microblog.chrisenns.com/2026/09/14/todays-episode-was-meant-to.html",
+				"tags": ["Podcasting","Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/09/14/new-blog-post-microsoft-account.html",
+				
+				"content_html": "<p>New blog post <a href=\"https://chrisenns.com/2026/09/microsoft-account-hacked/\">Microsoft Account Hacked</a>.</p>\n",
+				"content_text": "New blog post [Microsoft Account Hacked](https://chrisenns.com/2026/09/microsoft-account-hacked/).\n",
+				"date_published": "2026-09-14T18:36:18-06:00",
+				"url": "https://microblog.chrisenns.com/2026/09/14/new-blog-post-microsoft-account.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/09/14/if-you-want-me-in.html",
+				
+				"content_html": "<p>If you want me in your inbox (most) Tuesdays, my newsletter is back tomorrow. Sign up <a href=\"https://buttondown.com/lemoncasting\">here</a> and I&rsquo;ll send you a fresh batch of letters formed into words that will hopefully make coherent sentences.</p>\n",
+				"content_text": "If you want me in your inbox (most) Tuesdays, my newsletter is back tomorrow. Sign up [here](https://buttondown.com/lemoncasting) and I'll send you a fresh batch of letters formed into words that will hopefully make coherent sentences.\n",
+				"date_published": "2026-09-14T16:02:36-06:00",
+				"url": "https://microblog.chrisenns.com/2026/09/14/if-you-want-me-in.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/09/14/thanks-for-the-badge-transistor.html",
+				
+				"content_html": "<p>Thanks for the badge Transistor! 😜 I&rsquo;m curious to see what other achievements I&rsquo;ll get with the daily podcast episodes.</p>\n<img src=\"uploads/2026/cleanshot-2026-09-14-at-9.01.43-am.png\" width=\"233\" height=\"237\" alt=\"A badge displaying a lightning bolt with the text PUBLISHING STREAK and a caption indicating a 5-week streak, followed by a link to view achievements.\">\n",
+				"content_text": "Thanks for the badge Transistor! 😜 I'm curious to see what other achievements I'll get with the daily podcast episodes.\n\n<img src=\"uploads/2026/cleanshot-2026-09-14-at-9.01.43-am.png\" width=\"233\" height=\"237\" alt=\"A badge displaying a lightning bolt with the text PUBLISHING STREAK and a caption indicating a 5-week streak, followed by a link to view achievements.\">\n",
+				"date_published": "2026-09-14T09:03:31-06:00",
+				"url": "https://microblog.chrisenns.com/2026/09/14/thanks-for-the-badge-transistor.html",
+				"tags": ["Podcasting","Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/09/14/the-only-time-i-turn.html",
+				
+				"content_html": "<p>The only time I turn into an angry, entitled dude in tech is when Ghost, my blog&rsquo;s CMS, forces me to log in to my own website to reply to a comment. On my website. 😆</p>\n<p><img src=\"uploads/2026/cleanshot-2026-09-14-at-8.34.51-am.png\" width=\"600\" height=\"353\" alt=\"A pop-up message invites users to join the discussion by becoming a member of Faraway, So Close to start commenting, with options to sign up or sign in.\"><img src=\"uploads/2026/cleanshot-2026-09-14-at-8.37.24-am-2.png\" width=\"600\" height=\"395\" alt=\"Will Ferrell as Ron Burgandy in Anchorman with a mustache wearing an orange robe is holding a drink and asking, Do you know who I am?\"></p>\n",
+				"content_text": "The only time I turn into an angry, entitled dude in tech is when Ghost, my blog's CMS, forces me to log in to my own website to reply to a comment. On my website. 😆\n\n<img src=\"uploads/2026/cleanshot-2026-09-14-at-8.34.51-am.png\" width=\"600\" height=\"353\" alt=\"A pop-up message invites users to join the discussion by becoming a member of Faraway, So Close to start commenting, with options to sign up or sign in.\"><img src=\"uploads/2026/cleanshot-2026-09-14-at-8.37.24-am-2.png\" width=\"600\" height=\"395\" alt=\"Will Ferrell as Ron Burgandy in Anchorman with a mustache wearing an orange robe is holding a drink and asking, Do you know who I am?\">\n",
+				"date_published": "2026-09-14T08:41:14-06:00",
+				"url": "https://microblog.chrisenns.com/2026/09/14/the-only-time-i-turn.html",
+				"tags": ["Microposts"]
+			},
+			{
 				"id": "http://ichris.micro.blog/2026/09/13/apologies-all-around-on-this.html",
 				
 				"content_html": "<p>Apologies all around on this episode: <a href=\"https://daily.chrisenns.com/s2/286\">daily.chrisenns.com/s2/286</a></p>\n<p>I’m publishing a podcast episode a day for a year, day 25, Sep 13, 2026 edition.</p>\n",
@@ -27,8 +72,8 @@
 			{
 				"id": "http://ichris.micro.blog/2026/09/13/who-wants-to-go-see.html",
 				
-				"content_html": "<p>Who wants to go see Transformers: The Movie Thursday night?</p>\n<img src=\"uploads/2026/4faa942e-a565-43bc-b40c-424f9fa5bdac.jpg\" width=\"600\" height=\"284\" alt=\"Showtimes for Transformers: The Movie 40th Anniversary, The in 2D digital format with options for Premiere Seats at 3:45 pm, 6:50 pm, and 9:20 pm.\">\n",
-				"content_text": "Who wants to go see Transformers: The Movie Thursday night? \n\n<img src=\"uploads/2026/4faa942e-a565-43bc-b40c-424f9fa5bdac.jpg\" width=\"600\" height=\"284\" alt=\"Showtimes for Transformers: The Movie 40th Anniversary, The in 2D digital format with options for Premiere Seats at 3:45 pm, 6:50 pm, and 9:20 pm.\">\n",
+				"content_html": "<p>Who wants to go see Transformers: The Movie Thursday night?</p>\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/4faa942e-a565-43bc-b40c-424f9fa5bdac.jpg\" width=\"600\" height=\"284\" alt=\"Showtimes for Transformers: The Movie 40th Anniversary, The in 2D digital format with options for Premiere Seats at 3:45 pm, 6:50 pm, and 9:20 pm.\">\n",
+				"content_text": "Who wants to go see Transformers: The Movie Thursday night? \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/4faa942e-a565-43bc-b40c-424f9fa5bdac.jpg\" width=\"600\" height=\"284\" alt=\"Showtimes for Transformers: The Movie 40th Anniversary, The in 2D digital format with options for Premiere Seats at 3:45 pm, 6:50 pm, and 9:20 pm.\">\n",
 				"date_published": "2026-09-13T14:27:57-06:00",
 				"url": "https://microblog.chrisenns.com/2026/09/13/who-wants-to-go-see.html",
 				"tags": ["Microposts"]
@@ -45,8 +90,8 @@
 			{
 				"id": "http://ichris.micro.blog/2026/09/12/the-dink.html",
 				"title": "The Dink, 2026 - ★★★",
-				"content_html": "<p><img src=\"uploads/2026/1249475-the-dink-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday September 12, 2026.</p>\n",
-				"content_text": "<p><img src=\"uploads/2026/1249475-the-dink-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday September 12, 2026.</p>\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/1068/2026/1249475-the-dink-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday September 12, 2026.</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/1068/2026/1249475-the-dink-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday September 12, 2026.</p>\n",
 				"date_published": "2026-09-12T20:27:18-06:00",
 				"url": "https://microblog.chrisenns.com/2026/09/12/the-dink.html",
 				"tags": ["Longform"]
