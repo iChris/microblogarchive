@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2026/09/22/i-decided-to-just-see.html",
+				
+				"content_html": "<p>I decided to just see what happens and flipped the switch on the public &ldquo;podcast&rdquo; YouTube playlist for my daily podcast episodes. You can <a href=\"https://www.youtube.com/playlist?list=PLZdu0K_8LneY\">subscribe here</a> if that&rsquo;s where you get your podcasts. I&rsquo;ll chat more about it on tomorrow&rsquo;s episode.</p>\n",
+				"content_text": "I decided to just see what happens and flipped the switch on the public \"podcast\" YouTube playlist for my daily podcast episodes. You can [subscribe here](https://www.youtube.com/playlist?list=PLZdu0K_8LneY) if that's where you get your podcasts. I'll chat more about it on tomorrow's episode.\n",
+				"date_published": "2026-09-22T16:11:34-06:00",
+				"url": "https://microblog.chrisenns.com/2026/09/22/i-decided-to-just-see.html",
+				"tags": ["Podcasting","Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/09/22/todays-episode-is-quick-thoughts.html",
+				
+				"content_html": "<p>Today&rsquo;s episode is 3 quick thoughts on podcasting. I&rsquo;m having deja vu as I post this. Just me? <a href=\"https://daily.chrisenns.com/s2/295\">daily.chrisenns.com/s2/295</a></p>\n<p>I’m publishing a podcast episode a day for a year, day 35, Sep 22, 2026 edition.</p>\n",
+				"content_text": "Today's episode is 3 quick thoughts on podcasting. I'm having deja vu as I post this. Just me? [daily.chrisenns.com/s2/295](https://daily.chrisenns.com/s2/295)\n\nI’m publishing a podcast episode a day for a year, day 35, Sep 22, 2026 edition.\n",
+				"date_published": "2026-09-22T11:05:07-06:00",
+				"url": "https://microblog.chrisenns.com/2026/09/22/todays-episode-is-quick-thoughts.html",
+				"tags": ["Podcasting","Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/09/21/i-know-this-might-come.html",
+				
+				"content_html": "<p>I know this might come as a shock to people who&rsquo;ve known me for a while, but I think I might really like this whole podcasting thing. 🤔 😉</p>\n",
+				"content_text": "I know this might come as a shock to people who've known me for a while, but I think I might really like this whole podcasting thing. 🤔 😉\n",
+				"date_published": "2026-09-21T16:12:08-06:00",
+				"url": "https://microblog.chrisenns.com/2026/09/21/i-know-this-might-come.html",
+				"tags": ["Podcasting","Microposts"]
+			},
+			{
 				"id": "http://ichris.micro.blog/2026/09/21/i-turned-around-and-it.html",
 				
 				"content_html": "<p>I turned around and it looked like Neville was staring at Ted Lasso.  He can’t wait for the new episode to come out too. 😆</p>\n<p><img src=\"uploads/2026/e4b22047-3824-48af-88df-8b9797f4f246.jpg\" width=\"391\" height=\"600\" alt=\"A curly-haired dog with a pink collar is lying on a beige couch, looking up at a framed cartoon portrait of Ted Lasso on the wall next to a window with white blinds.\"><img src=\"uploads/2026/ca69880e-b87d-49cf-81c4-d9f0249b678e.jpg\" width=\"376\" height=\"600\" alt=\"A curly-haired dog is lounging on a cushioned chair, looking up at a framed Ted Lasso cartoon portrait on the wall beside a window with closed blinds.\"></p>\n",
@@ -36,8 +63,8 @@
 			{
 				"id": "http://ichris.micro.blog/2026/09/20/something-about-the-wording-of.html",
 				
-				"content_html": "<p>Something about the wording of Inkwell Games notification makes me happy to get it. Like they hand delivered my puzzles to me for the day. Whereas the NYTimes is “Play Now!” Too aggressive.</p>\n<img src=\"uploads/2026/9bbc74d4-b23e-4bae-aaeb-502fa697d331.jpg\" width=\"600\" height=\"262\" alt=\"A notification screen shows updates from Inkwell Games about daily puzzles and a morning summary listing apps like Pocket Casts, Grain, and Journaling.\">\n",
-				"content_text": "Something about the wording of Inkwell Games notification makes me happy to get it. Like they hand delivered my puzzles to me for the day. Whereas the NYTimes is “Play Now!” Too aggressive. \n\n<img src=\"uploads/2026/9bbc74d4-b23e-4bae-aaeb-502fa697d331.jpg\" width=\"600\" height=\"262\" alt=\"A notification screen shows updates from Inkwell Games about daily puzzles and a morning summary listing apps like Pocket Casts, Grain, and Journaling.\">\n",
+				"content_html": "<p>Something about the wording of Inkwell Games notification makes me happy to get it. Like they hand delivered my puzzles to me for the day. Whereas the NYTimes is “Play Now!” Too aggressive.</p>\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/9bbc74d4-b23e-4bae-aaeb-502fa697d331.jpg\" width=\"600\" height=\"262\" alt=\"A notification screen shows updates from Inkwell Games about daily puzzles and a morning summary listing apps like Pocket Casts, Grain, and Journaling.\">\n",
+				"content_text": "Something about the wording of Inkwell Games notification makes me happy to get it. Like they hand delivered my puzzles to me for the day. Whereas the NYTimes is “Play Now!” Too aggressive. \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/9bbc74d4-b23e-4bae-aaeb-502fa697d331.jpg\" width=\"600\" height=\"262\" alt=\"A notification screen shows updates from Inkwell Games about daily puzzles and a morning summary listing apps like Pocket Casts, Grain, and Journaling.\">\n",
 				"date_published": "2026-09-20T11:06:32-06:00",
 				"url": "https://microblog.chrisenns.com/2026/09/20/something-about-the-wording-of.html",
 				"tags": ["Microposts"]
