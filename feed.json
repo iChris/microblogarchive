@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2026/10/19/neville-sleeps-like-this-a.html",
+				
+				"content_html": "<p>Neville sleeps like this a lot&hellip; neck in a weird position looking back or head resting on something in what seems like an awkward way. Happened to catch him doing it while recording today&rsquo;s Daily(ish). 😆</p>\n<img src=\"uploads/2026/cleanshot-2026-10-19-at-4.42.08-pm.png\" width=\"600\" height=\"422\" alt=\"A man wearing glasses and a black cap is speaking into a microphone while a white dog with a red collar rests on a chair behind him.\">\n",
+				"content_text": "Neville sleeps like this a lot... neck in a weird position looking back or head resting on something in what seems like an awkward way. Happened to catch him doing it while recording today's Daily(ish). 😆\n\n<img src=\"uploads/2026/cleanshot-2026-10-19-at-4.42.08-pm.png\" width=\"600\" height=\"422\" alt=\"A man wearing glasses and a black cap is speaking into a microphone while a white dog with a red collar rests on a chair behind him.\">\n",
+				"date_published": "2026-10-19T16:43:05-06:00",
+				"url": "https://microblog.chrisenns.com/2026/10/19/neville-sleeps-like-this-a.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/10/19/keeping-the-same-podcast-feed.html",
+				
+				"content_html": "<p>Keeping the same podcast feed for Daily(ish) around for so long means I get some sweet achievement badges from Transistor. 😜</p>\n<img src=\"uploads/2026/05c3127229.jpg\" width=\"600\" height=\"400\" alt=\"Daily(ish) is celebrating podcast milestones including 10 weeks in a row publishing, 300 episodes, listeners in 100 countries, 10 years of podcasting, 25,000 total downloads, the first episode, and an episode with 500 downloads.\">\n",
+				"content_text": "Keeping the same podcast feed for Daily(ish) around for so long means I get some sweet achievement badges from Transistor. 😜\n\n<img src=\"uploads/2026/05c3127229.jpg\" width=\"600\" height=\"400\" alt=\"Daily(ish) is celebrating podcast milestones including 10 weeks in a row publishing, 300 episodes, listeners in 100 countries, 10 years of podcasting, 25,000 total downloads, the first episode, and an episode with 500 downloads.\">\n",
+				"date_published": "2026-10-19T09:33:42-06:00",
+				"url": "https://microblog.chrisenns.com/2026/10/19/keeping-the-same-podcast-feed.html",
+				"tags": ["Podcasting","Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/10/19/hey-men-youre-not-actually.html",
+				
+				"content_html": "<p>Hey men - you’re not actually required to write a 500 page essay justifying your return to Twitter / X.</p>\n<p>Let’s go to <a href=\"https://dansinker.com/posts/2026-10-12-open-letter/\">Dan for more on this topic.</a></p>\n",
+				"content_text": "Hey men - you’re not actually required to write a 500 page essay justifying your return to Twitter / X.\n\nLet’s go to [Dan for more on this topic.](https://dansinker.com/posts/2026-10-12-open-letter/)\n",
+				"date_published": "2026-10-19T08:08:14-06:00",
+				"url": "https://microblog.chrisenns.com/2026/10/19/hey-men-youre-not-actually.html",
+				"tags": ["Microposts"]
+			},
+			{
 				"id": "http://ichris.micro.blog/2026/10/18/why-did-my-family-not.html",
 				
 				"content_html": "<p>Why did my family not realize this was a Snapchat filter right away? 😂</p>\n<img src=\"uploads/2026/644962b7-e70f-4a08-8cc5-31598248c033.jpg\" width=\"305\" height=\"600\" alt=\"A close-up of a man with glasses, a thick gray beard, and curly hair is shown indoors.\">\n",
@@ -36,8 +63,8 @@
 			{
 				"id": "http://ichris.micro.blog/2026/10/17/you-can-see-everything.html",
 				"title": "You Can See Everything, 2026 - ★★★★",
-				"content_html": "<p><img src=\"uploads/2026/1629443-you-can-see-everything-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday October 17, 2026.</p>\n",
-				"content_text": "<p><img src=\"uploads/2026/1629443-you-can-see-everything-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday October 17, 2026.</p>\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/1068/2026/1629443-you-can-see-everything-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday October 17, 2026.</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/1068/2026/1629443-you-can-see-everything-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday October 17, 2026.</p>\n",
 				"date_published": "2026-10-17T21:43:46-06:00",
 				"url": "https://microblog.chrisenns.com/2026/10/17/you-can-see-everything.html",
 				"tags": ["Longform"]
