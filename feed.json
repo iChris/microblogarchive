@@ -7,10 +7,55 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2026/10/20/if-ive-recorded-something-i.html",
+				
+				"content_html": "<p>If I&rsquo;ve recorded something, I really want to hit publish ASAP. <a href=\"https://daily.chrisenns.com/s2/322\">daily.chrisenns.com/s2/322</a></p>\n<p>I’m publishing a podcast episode a day for a year, day 63, Oct 20, 2026 edition.</p>\n",
+				"content_text": "If I've recorded something, I really want to hit publish ASAP. [daily.chrisenns.com/s2/322](https://daily.chrisenns.com/s2/322)\n\nI’m publishing a podcast episode a day for a year, day 63, Oct 20, 2026 edition.\n",
+				"date_published": "2026-10-20T17:10:19-06:00",
+				"url": "https://microblog.chrisenns.com/2026/10/20/if-ive-recorded-something-i.html",
+				"tags": ["Podcasting","Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/10/20/if-you-have-a-stream.html",
+				
+				"content_html": "<p>If you have a Stream Deck on macOS, you&rsquo;ve had a frozen Stream Deck at least once a month. <a href=\"https://youtube.com/shorts/SguKzFOGTpw\">youtube.com/shorts/Sg&hellip;</a></p>\n",
+				"content_text": "If you have a Stream Deck on macOS, you've had a frozen Stream Deck at least once a month. [youtube.com/shorts/Sg...](https://youtube.com/shorts/SguKzFOGTpw)\n",
+				"date_published": "2026-10-20T16:10:13-06:00",
+				"url": "https://microblog.chrisenns.com/2026/10/20/if-you-have-a-stream.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/10/20/please-clap-for-me-because.html",
+				
+				"content_html": "<p>Please clap for me because I have a podcast episode recorded that&rsquo;s not scheduled to go out for over a week.</p>\n<p>Will I still leave it to edit until the day before it&rsquo;s supposed to go out? Yes. Old habits die hard. That&rsquo;s not the point of this post.</p>\n",
+				"content_text": "Please clap for me because I have a podcast episode recorded that's not scheduled to go out for over a week.\n\nWill I still leave it to edit until the day before it's supposed to go out? Yes. Old habits die hard. That's not the point of this post.\n",
+				"date_published": "2026-10-20T15:33:35-06:00",
+				"url": "https://microblog.chrisenns.com/2026/10/20/please-clap-for-me-because.html",
+				"tags": ["Podcasting","Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/10/20/the-ability-to-hold-to.html",
+				
+				"content_html": "<p>The ability to hold to your convictions should be admired as equally as the humility to have them questioned or challenged.</p>\n<p>Don&rsquo;t hold your breath waiting for John Gruber <a href=\"https://lexontech.org/i-cant-believe-were-still-arguing-over-whether-x-is-for-jerks\">to eat even a bit of humble pie on his X promotional tour.</a></p>\n",
+				"content_text": "The ability to hold to your convictions should be admired as equally as the humility to have them questioned or challenged. \n\nDon't hold your breath waiting for John Gruber [to eat even a bit of humble pie on his X promotional tour.](https://lexontech.org/i-cant-believe-were-still-arguing-over-whether-x-is-for-jerks)\n",
+				"date_published": "2026-10-20T11:34:46-06:00",
+				"url": "https://microblog.chrisenns.com/2026/10/20/the-ability-to-hold-to.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/10/19/a-spoiler-free-minireview-of.html",
+				
+				"content_html": "<p>A spoiler free mini-review of the movie everyone saw (or didn&rsquo;t see) this weekend: <a href=\"https://daily.chrisenns.com/s2/321\">daily.chrisenns.com/s2/321</a></p>\n<p>I’m publishing a podcast episode a day for a year, day 62, Oct 19, 2026 edition.</p>\n",
+				"content_text": "A spoiler free mini-review of the movie everyone saw (or didn't see) this weekend: [daily.chrisenns.com/s2/321](https://daily.chrisenns.com/s2/321)\n\nI’m publishing a podcast episode a day for a year, day 62, Oct 19, 2026 edition.\n",
+				"date_published": "2026-10-19T16:46:56-06:00",
+				"url": "https://microblog.chrisenns.com/2026/10/19/a-spoiler-free-minireview-of.html",
+				"tags": ["Podcasting","Microposts"]
+			},
+			{
 				"id": "http://ichris.micro.blog/2026/10/19/neville-sleeps-like-this-a.html",
 				
-				"content_html": "<p>Neville sleeps like this a lot&hellip; neck in a weird position looking back or head resting on something in what seems like an awkward way. Happened to catch him doing it while recording today&rsquo;s Daily(ish). 😆</p>\n<img src=\"uploads/2026/cleanshot-2026-10-19-at-4.42.08-pm.png\" width=\"600\" height=\"422\" alt=\"A man wearing glasses and a black cap is speaking into a microphone while a white dog with a red collar rests on a chair behind him.\">\n",
-				"content_text": "Neville sleeps like this a lot... neck in a weird position looking back or head resting on something in what seems like an awkward way. Happened to catch him doing it while recording today's Daily(ish). 😆\n\n<img src=\"uploads/2026/cleanshot-2026-10-19-at-4.42.08-pm.png\" width=\"600\" height=\"422\" alt=\"A man wearing glasses and a black cap is speaking into a microphone while a white dog with a red collar rests on a chair behind him.\">\n",
+				"content_html": "<p>Neville sleeps like this a lot&hellip; neck in a weird position looking back or head resting on something in what seems like an awkward way. Happened to catch him doing it while recording today&rsquo;s Daily(ish). 😆</p>\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/cleanshot-2026-10-19-at-4.42.08-pm.png\" width=\"600\" height=\"422\" alt=\"A man wearing glasses and a black cap is speaking into a microphone while a white dog with a red collar rests on a chair behind him.\">\n",
+				"content_text": "Neville sleeps like this a lot... neck in a weird position looking back or head resting on something in what seems like an awkward way. Happened to catch him doing it while recording today's Daily(ish). 😆\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/cleanshot-2026-10-19-at-4.42.08-pm.png\" width=\"600\" height=\"422\" alt=\"A man wearing glasses and a black cap is speaking into a microphone while a white dog with a red collar rests on a chair behind him.\">\n",
 				"date_published": "2026-10-19T16:43:05-06:00",
 				"url": "https://microblog.chrisenns.com/2026/10/19/neville-sleeps-like-this-a.html",
 				"tags": ["Microposts"]
@@ -18,8 +63,8 @@
 			{
 				"id": "http://ichris.micro.blog/2026/10/19/keeping-the-same-podcast-feed.html",
 				
-				"content_html": "<p>Keeping the same podcast feed for Daily(ish) around for so long means I get some sweet achievement badges from Transistor. 😜</p>\n<img src=\"uploads/2026/05c3127229.jpg\" width=\"600\" height=\"400\" alt=\"Daily(ish) is celebrating podcast milestones including 10 weeks in a row publishing, 300 episodes, listeners in 100 countries, 10 years of podcasting, 25,000 total downloads, the first episode, and an episode with 500 downloads.\">\n",
-				"content_text": "Keeping the same podcast feed for Daily(ish) around for so long means I get some sweet achievement badges from Transistor. 😜\n\n<img src=\"uploads/2026/05c3127229.jpg\" width=\"600\" height=\"400\" alt=\"Daily(ish) is celebrating podcast milestones including 10 weeks in a row publishing, 300 episodes, listeners in 100 countries, 10 years of podcasting, 25,000 total downloads, the first episode, and an episode with 500 downloads.\">\n",
+				"content_html": "<p>Keeping the same podcast feed for Daily(ish) around for so long means I get some sweet achievement badges from Transistor. 😜</p>\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/05c3127229.jpg\" width=\"600\" height=\"400\" alt=\"Daily(ish) is celebrating podcast milestones including 10 weeks in a row publishing, 300 episodes, listeners in 100 countries, 10 years of podcasting, 25,000 total downloads, the first episode, and an episode with 500 downloads.\">\n",
+				"content_text": "Keeping the same podcast feed for Daily(ish) around for so long means I get some sweet achievement badges from Transistor. 😜\n\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/05c3127229.jpg\" width=\"600\" height=\"400\" alt=\"Daily(ish) is celebrating podcast milestones including 10 weeks in a row publishing, 300 episodes, listeners in 100 countries, 10 years of podcasting, 25,000 total downloads, the first episode, and an episode with 500 downloads.\">\n",
 				"date_published": "2026-10-19T09:33:42-06:00",
 				"url": "https://microblog.chrisenns.com/2026/10/19/keeping-the-same-podcast-feed.html",
 				"tags": ["Podcasting","Microposts"]
@@ -36,8 +81,8 @@
 			{
 				"id": "http://ichris.micro.blog/2026/10/18/why-did-my-family-not.html",
 				
-				"content_html": "<p>Why did my family not realize this was a Snapchat filter right away? 😂</p>\n<img src=\"uploads/2026/644962b7-e70f-4a08-8cc5-31598248c033.jpg\" width=\"305\" height=\"600\" alt=\"A close-up of a man with glasses, a thick gray beard, and curly hair is shown indoors.\">\n",
-				"content_text": "Why did my family not realize this was a Snapchat filter right away? 😂 \n\n<img src=\"uploads/2026/644962b7-e70f-4a08-8cc5-31598248c033.jpg\" width=\"305\" height=\"600\" alt=\"A close-up of a man with glasses, a thick gray beard, and curly hair is shown indoors.\">\n",
+				"content_html": "<p>Why did my family not realize this was a Snapchat filter right away? 😂</p>\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/644962b7-e70f-4a08-8cc5-31598248c033.jpg\" width=\"305\" height=\"600\" alt=\"A close-up of a man with glasses, a thick gray beard, and curly hair is shown indoors.\">\n",
+				"content_text": "Why did my family not realize this was a Snapchat filter right away? 😂 \n\n<img src=\"https://cdn.uploads.micro.blog/1068/2026/644962b7-e70f-4a08-8cc5-31598248c033.jpg\" width=\"305\" height=\"600\" alt=\"A close-up of a man with glasses, a thick gray beard, and curly hair is shown indoors.\">\n",
 				"date_published": "2026-10-18T13:28:53-06:00",
 				"url": "https://microblog.chrisenns.com/2026/10/18/why-did-my-family-not.html",
 				"tags": ["Microposts"]
