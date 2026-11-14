@@ -7,11 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2026/11/14/first-night-of-sleep-this.html",
+				
+				"content_html": "<p>First night of sleep this week uninterrupted by fever dreams. I’ll take that as a sign that this flu is finally moving on to a new host. 😪 Hopefully.</p>\n",
+				"content_text": "First night of sleep this week uninterrupted by fever dreams. I’ll take that as a sign that this flu is finally moving on to a new host. 😪 Hopefully. \n",
+				"date_published": "2026-11-14T11:58:53-05:00",
+				"url": "https://microblog.chrisenns.com/2026/11/14/first-night-of-sleep-this.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/11/13/im-loving-the-production-of.html",
+				
+				"content_html": "<p>I&rsquo;m loving the production of &ldquo;Torn (featuring Dolly Parton)&rdquo; off U2&rsquo;s new album. Dolly&rsquo;s voice is so strong and yet so vulnerable at the same time.</p>\n<p><a href=\"https://youtu.be/Y8ASCUN00_c\">youtu.be/Y8ASCUN00&hellip;</a></p>\n",
+				"content_text": "I'm loving the production of \"Torn (featuring Dolly Parton)\" off U2's new album. Dolly's voice is so strong and yet so vulnerable at the same time. \n\n[youtu.be/Y8ASCUN00...](https://youtu.be/Y8ASCUN00_c)\n\n",
+				"date_published": "2026-11-13T17:19:34-05:00",
+				"url": "https://microblog.chrisenns.com/2026/11/13/im-loving-the-production-of.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/11/13/am-craving-for-a-can.html",
+				
+				"content_html": "<p>4am craving for a can of A&amp;W root beer is a normal side effect of cough medicine, right? 🤔</p>\n",
+				"content_text": "4am craving for a can of A&W root beer is a normal side effect of cough medicine, right? 🤔 \n",
+				"date_published": "2026-11-13T04:08:51-05:00",
+				"url": "https://microblog.chrisenns.com/2026/11/13/am-craving-for-a-can.html",
+				"tags": ["Microposts"]
+			},
+			{
 				"id": "http://ichris.micro.blog/2026/11/12/id-advise-getting-your-flu.html",
 				
 				"content_html": "<p>I’d advise getting your flu shot before getting the flu. Unfortunately my flu shot is booked for Monday and I’ve been enjoying the flu this week. 😪 On the mend now I think.</p>\n",
 				"content_text": "I’d advise getting your flu shot before getting the flu. Unfortunately my flu shot is booked for Monday and I’ve been enjoying the flu this week. 😪 On the mend now I think. \n",
-				"date_published": "2026-11-12T19:30:39-06:00",
+				"date_published": "2026-11-12T20:30:39-05:00",
 				"url": "https://microblog.chrisenns.com/2026/11/12/id-advise-getting-your-flu.html",
 				"tags": ["Microposts"]
 			},
@@ -20,7 +47,7 @@
 				
 				"content_html": "<p>No Noah Kahan for me. 😢 Sad Banjo Man me even sadder.</p>\n",
 				"content_text": "No Noah Kahan for me. 😢 Sad Banjo Man me even sadder. \n",
-				"date_published": "2026-11-12T12:00:49-06:00",
+				"date_published": "2026-11-12T13:00:49-05:00",
 				"url": "https://microblog.chrisenns.com/2026/11/12/no-noah-kahan-for-me.html",
 				"tags": ["Microposts"]
 			},
@@ -29,7 +56,7 @@
 				
 				"content_html": "<p>I turned a client&rsquo;s questions into a podcast episode, &ldquo;How to record a podcast in 2026 - basic edition&rdquo; Listen / watch here: <a href=\"https://daily.chrisenns.com/s2/341\">daily.chrisenns.com/s2/341</a></p>\n<p>I’m publishing a podcast episode a day for a year, day 84, Nov 11, 2026 edition.</p>\n",
 				"content_text": "I turned a client's questions into a podcast episode, \"How to record a podcast in 2026 - basic edition\" Listen / watch here: [daily.chrisenns.com/s2/341](https://daily.chrisenns.com/s2/341)\n\nI’m publishing a podcast episode a day for a year, day 84, Nov 11, 2026 edition.\n",
-				"date_published": "2026-11-11T12:51:23-06:00",
+				"date_published": "2026-11-11T13:51:23-05:00",
 				"url": "https://microblog.chrisenns.com/2026/11/11/i-turned-a-clients-questions.html",
 				"tags": ["Podcasting","Microposts"]
 			},
