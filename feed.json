@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://ichris.micro.blog/2026/11/27/anyone-out-there-moved-from.html",
+				
+				"content_html": "<p>Anyone out there moved from Google Workspaces to something like Fastmail that also had their Google account tied to a YouTube channel? I&rsquo;d love to ditch Google for my biz account, but my YouTube channel is my biz Google Workspace account so I&rsquo;m nervous to lose access.</p>\n",
+				"content_text": "Anyone out there moved from Google Workspaces to something like Fastmail that also had their Google account tied to a YouTube channel? I'd love to ditch Google for my biz account, but my YouTube channel is my biz Google Workspace account so I'm nervous to lose access. \n",
+				"date_published": "2026-11-27T11:09:43-06:00",
+				"url": "https://microblog.chrisenns.com/2026/11/27/anyone-out-there-moved-from.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/11/25/for-todays-episode-im-talking.html",
+				
+				"content_html": "<p>For today&rsquo;s episode I&rsquo;m talking about bringing back the consulting work I used to do: <a href=\"https://daily.chrisenns.com/s2/350\">daily.chrisenns.com/s2/350</a></p>\n<p>I’m publishing a podcast episode a day for a year, day 98, Nov 25, 2026 edition.</p>\n",
+				"content_text": "For today's episode I'm talking about bringing back the consulting work I used to do: [daily.chrisenns.com/s2/350](https://daily.chrisenns.com/s2/350)\n\nI’m publishing a podcast episode a day for a year, day 98, Nov 25, 2026 edition.\n",
+				"date_published": "2026-11-25T17:45:41-06:00",
+				"url": "https://microblog.chrisenns.com/2026/11/25/for-todays-episode-im-talking.html",
+				"tags": ["Podcasting","Microposts"]
+			},
+			{
+				"id": "http://ichris.micro.blog/2026/11/25/while-im-ranting-you-sound.html",
+				
+				"content_html": "<p>While I&rsquo;m ranting&hellip; you sound like an idiot when you call it &ldquo;your Substack&rdquo;. It&rsquo;s your newsletter. Your email newsletter if you&rsquo;ve got space. Substack is the product name. I don&rsquo;t ask people to listen to &ldquo;my Transistor&rdquo;, or read &ldquo;my Ghost&rdquo;. It&rsquo;s a podcast. It&rsquo;s a blog.</p>\n",
+				"content_text": "While I'm ranting... you sound like an idiot when you call it \"your Substack\". It's your newsletter. Your email newsletter if you've got space. Substack is the product name. I don't ask people to listen to \"my Transistor\", or read \"my Ghost\". It's a podcast. It's a blog. \n",
+				"date_published": "2026-11-25T12:38:59-06:00",
+				"url": "https://microblog.chrisenns.com/2026/11/25/while-im-ranting-you-sound.html",
+				"tags": ["Podcasting","Microposts"]
+			},
+			{
 				"id": "http://ichris.micro.blog/2026/11/25/new-blog-post-where-i.html",
 				
 				"content_html": "<p>New blog post where I let off a bit of steam and rant for a moment: <a href=\"https://chrisenns.com/2026/11/serious-podcasts-are-not-using-ai-to-edit-their-podcasts/\">Serious Podcasts Are Not Using AI to Edit Their Podcasts</a>.</p>\n",
